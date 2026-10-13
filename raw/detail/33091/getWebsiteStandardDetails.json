@@ -1,0 +1,81 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Consumer Affairs",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6IlhCSStrN09GWFVobnIwaVFESkI1UFE9PSIsInZhbHVlIjoiei9KWjR2Z2UraUJsVFJNV2JITmVJUT09IiwibWFjIjoiZjdkMmI3ZjM3ZDE2M2ViMTdkM2U3MThmMWEyYzVlNDM2YzA5YmNjNzc2OTZlNzEyZjUxZDQ3MDhiY2ZmZWU0MiIsInRhZyI6IiJ9",
+    "rowStandardId": 32902,
+    "pk_is_id": 33091,
+    "standardName": "SILVER AND SILVER ALLOYS, JEWELLERY/ARTEFACTS - FINENESS AND MARKING - SPECIFICATION (FOURTH REVISION)",
+    "standardNumber": "IS 2112:2025",
+    "publishedOn": "2025-03-19",
+    "committeeId": 33,
+    "departmentId": 70,
+    "groupName": "Metals, Alloys and Metal Products (including Steel Products)",
+    "subGroupName": "Precious metals, gems and jewellery",
+    "subSubGroupName": "Precious Metals",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "04",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "SILVER AND SILVER ALLOYS, JEWELLERY/ARTEFACTS — FINENESS AND MARKING — SPECIFICATION",
+    "certificationName": "",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "IS 2112 : 2014",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "2026-04-13",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S10/S10V01/2112.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2026-04-13",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Ajay Kumar Soni (SCIENTIST-C)",
+    "committeeName": "Precious Metals Sectional Committee",
+    "departmentName": "METALLURGICAL ENGINEERING DEPARTMENT",
+    "deptAliasName": "MTD",
+    "committeePreparedName": "MTD 10 - Precious Metals Sectional Committee",
+    "deptPreparedName": "Metallurgical Engineering Department(MTD)",
+    "reviewList": [
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 2112:2014"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 2112:2014"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 2112:2025"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 2112:2014"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 2112:2014"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 2112:2014"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 13829,
+      "So_No": "2072 (E)",
+      "migratedFiles": null,
+      "pki_id": 328,
+      "Amd_No": 3,
+      "standardNumber": " Amendment 3 to IS 694:2010",
+      "standardId": 13826
+    },
+    {
+      "IS_NO": 13829,
+      "So_No": "PUB/3/4/2019-20 ",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_243_13829_Pub_3_4_2019-20.pdf",
+      "pki_id": 3084,
+      "Amd_No": 4,
+      "standardNumber": " Amendment 4 to IS 694:2010",
+      "standardId": 13826
+    }
+  ]
+}

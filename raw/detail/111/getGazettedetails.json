@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 111,
+      "So_No": "PUB-014-1-2020-PUB-BIS (607)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/CED/gf_190_111_269_A1.pdf",
+      "pki_id": 8944,
+      "Amd_No": 1,
+      "standardNumber": " Amendment 1 to IS 269:2015",
+      "standardId": 111
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6IkZ1V2oxN3AwNUZLTVQzN2luSk5neVE9PSIsInZhbHVlIjoiS2wwNWRHd3pJTDNGZkxQN0JRK1JKZz09IiwibWFjIjoiODVhNTVmYmY2MmY1Yzk5ODNjNDU3Y2Y5MmNkMjc1MGQxNTNjNDI3MTBmNGU2ZTc3MTg5YzJlZjNhOTM4Y2VlMSIsInRhZyI6IiJ9",
+    "rowStandardId": 28950,
+    "pk_is_id": 29096,
+    "standardName": "Centrifugally cast  (spun) iron pressure pipes for water, gas and sewage - Specification",
+    "standardNumber": "IS 1536:2023",
+    "publishedOn": "2023-06-22",
+    "committeeId": 29,
+    "departmentId": 70,
+    "groupName": "Metals, Alloys and Metal Products (including Steel Products)",
+    "subGroupName": "Foundry and cast iron products",
+    "subSubGroupName": "Cast Iron Pipes & fittings",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "05",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "Centrifugally cast (spun) iron pressure pipes for water, gas and sewage — Specification",
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "IS 1536 : 2001",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S10/S10V01/1536.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2023-06-22",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Ajay Kumar Soni (SCIENTIST-C)",
+    "committeeName": "Pig iron and Cast iron Sectional Committee",
+    "departmentName": "METALLURGICAL ENGINEERING DEPARTMENT",
+    "deptAliasName": "MTD",
+    "committeePreparedName": "MTD 06 - Pig Iron And Cast Iron Sectional Committee",
+    "deptPreparedName": "Metallurgical Engineering Department(MTD)",
+    "reviewList": [
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1536:2001"
+      },
+      {
+        "isStatus": 1,
+        "standardNumber": "IS 1536:2001"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 1536:2023"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1536:2001"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1536:2001"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1536:2001"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1536:2001"
+      }
+    ]
+  }
+}

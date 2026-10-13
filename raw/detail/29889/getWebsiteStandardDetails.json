@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Power",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6Imt3NWVRdjdmOHpJR0FNWTR1QXhWL0E9PSIsInZhbHVlIjoiOHF6QmNNSUNNRngzd2psWkt0Ylk3dz09IiwibWFjIjoiYWFmMTMzYzVhYjc5MzI3NjNiOGRmZjE4MWJiZDUyNjNjMmM1MDRjZTIyN2E2ZTdmZTgxMTQ4ZThjZDQ2ZTMwOSIsInRhZyI6IiJ9",
+    "rowStandardId": 29703,
+    "pk_is_id": 29889,
+    "standardName": "Cable Trunking Systems and Cable Ducting Systems for Electrical Installations  Part 1: General Requirements  first revision",
+    "standardNumber": "IS 14927 (Part 1):2023",
+    "publishedOn": "2023-11-01",
+    "committeeId": 248,
+    "departmentId": 65,
+    "groupName": "Electrical Appliances and Accessories",
+    "subGroupName": "Plugs, Sockets, Switches and accessories",
+    "subSubGroupName": "Switch  plugs, sockets and accessories",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "01",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "Cable Trunking Systems and Cable Ducting Systems",
+    "certificationName": "",
+    "equivalenceTypeName": "Identical under single numbering",
+    "supersheed": "IS 14927 : Part 1 : 2001",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 2,
+    "is_documents": "BisProd/bisProd/oldStandards/S05/S05V01/14927_1.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": "61084-1",
+    "identical_is": "61084-1",
+    "reviewOn": "2023-11-03",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Nitish Kumar Jain (SCIENTIST-C)",
+    "committeeName": "Electrical Wiring Accessories",
+    "departmentName": "ELECTROTECHNICAL DEPARTMENT",
+    "deptAliasName": "ETD",
+    "committeePreparedName": "ETD 14 - Electrical Wiring Accessories",
+    "deptPreparedName": "Electrotechnical Department(ETD)",
+    "reviewList": [
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 14927 (Part 1):2001"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 14927 (Part 1):2023"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 14927 (Part 1):2001"
+      }
+    ]
+  }
+}

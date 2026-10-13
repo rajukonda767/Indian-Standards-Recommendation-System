@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6ImF2cWNHWkhGWHJyL0kvdjcwVGU1TEE9PSIsInZhbHVlIjoiTkRSRHhsOEFPdXMvaUl1Y1Zvc1AyZz09IiwibWFjIjoiZGVkMDViODA5YzQyN2I4MWMxOWE4ODNkM2UzNDIxZWZmYzAyY2U4ZGIyMjY3NjYxYmJlOWU5NzNkNWM1M2U4NSIsInRhZyI6IiJ9",
+    "rowStandardId": 30223,
+    "pk_is_id": 30412,
+    "standardName": "ELECTROPLATED COATINGS OF COPPER - SPECIFICATION",
+    "standardNumber": "IS 1772:2024",
+    "publishedOn": "2024-01-16",
+    "committeeId": 111,
+    "departmentId": 70,
+    "groupName": "Metals, Alloys and Metal Products (including Steel Products)",
+    "subGroupName": "Non ferrous metals and their alloys",
+    "subSubGroupName": "Copper",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "02",
+    "noOfAmendment": "01",
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "Specification for electroplated coatings of copper",
+    "certificationName": "Voluntary",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "IS 1772 : 1973",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S10/S10V01/1772.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2024-01-19",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Varsha Karnani (SCIENTIST-C)",
+    "committeeName": "Corrosion Protection and Finishes Sectional Committee",
+    "departmentName": "METALLURGICAL ENGINEERING DEPARTMENT",
+    "deptAliasName": "MTD",
+    "committeePreparedName": "MTD 24 - Corrosion Protection And Finishes Sectional Committee",
+    "deptPreparedName": "Metallurgical Engineering Department(MTD)",
+    "reviewList": [
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 1772:1973"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 1772:2024"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1772:2024"
+      }
+    ]
+  }
+}

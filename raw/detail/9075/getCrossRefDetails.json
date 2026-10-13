@@ -1,0 +1,115 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 8151,
+        "standardNumber": "IS 1745:2018",
+        "standardName": "Petroleum hydrocarbon solvents - Specification (Third Revision)",
+        "equivalent_is": " ",
+        "identical_is": " ",
+        "reviewOn": "2023-05-01",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Inp4RFdsMm1vckUzR0FBNjgyNUVYR0E9PSIsInZhbHVlIjoiV2NPV3cvVUJQUkN3TUY2dWM1VWNrUT09IiwibWFjIjoiMjBiNTJmYjhjNjgzMjQwNGZkMGM4MTc3OTY5OTMzNDI1OWFiNzNjNGYwYzViNTE1MzI3MTU0MTRiOTQwOTFiOCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 26708,
+        "standardNumber": "IS 2556 (Part 1):2021",
+        "standardName": "Vitreous China sanitary appliances - Specification: Part 1 General requirements (fourth revision)",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "04",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InphSWo5T3drMkN1YkE4bkRZVk52M1E9PSIsInZhbHVlIjoibnlING9teHA3WU5VWHBvYmtXS1NXdz09IiwibWFjIjoiNjk2NGM4MmU4NmVlYmIxMWIyYmFjOTNlMDZmYTc1N2RmYTliZDQwZjNhYzkyYTgzYWFjMDQyMmU4MzhiMDU3ZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 9456,
+        "standardNumber": "IS 2963:2013",
+        "standardName": "Copper Alloy Waste Fittings and Waste Plug for Wash Basin and Sinks - Specification (second revision) (amalgamating  IS 3311)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-09-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkZwL0hTUE9mWEsrM3Zla3Yya3FUc3c9PSIsInZhbHVlIjoiWGZuRmpkZEZURHl3QTlYZ1ZHenJOQT09IiwibWFjIjoiNzI5M2ZmZmEyNDk4NDU5ZGUxNGNlMTVmMDJkNDYyMTY3NTFjMWM3ZWQzNmU5OGM5OWExYzI2MjI1MzJiODdhZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 26718,
+        "standardNumber": "IS 8931:2021",
+        "standardName": "Copper alloy single taps, combination tap assemblies, stop valves and single lever mixers for water services — Specification (second revision)",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InBxMDFpZFBQd09ETnJ2RTJqemZVYlE9PSIsInZhbHVlIjoiaDVPcU5GV0Z4OTA3LzM3UkNDMC8zdz09IiwibWFjIjoiYzhiMzY3M2I3ZDgxNDJjODM4NGRmYWJmNjgxNWYyMGVlZGZhMzM5YmI3YzdlZTcxZGFiMjk4OTRmY2FlMjVlZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 16406,
+        "standardNumber": "IS 9140:1996",
+        "standardName": "Methods for sampling of vitreous and fire clay sanitary appliances (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2022-03-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkZ1aGZVZXBhSEZ5YzN6VWN4TThxYUE9PSIsInZhbHVlIjoidEZLa3IwMUFDV3ZMQ2FPeVVZcUJwQT09IiwibWFjIjoiNzY1YWY1ZWI5ZjFmMTc3ZTAzYmQ3NzI5YTYwZjdkNGRkNTgwMGJiODdhNzRjNGY4ZjFiMGM0YzFkNzVlNGNlOSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 20339,
+        "standardNumber": "IS 775:1970",
+        "standardName": "Cast Iron Brackets And Supports For Wash Basins And Sinks",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-02-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlgzNU8vOWZjSkxTZjNhQmRIdjZOVVE9PSIsInZhbHVlIjoiT0FSdGc0a25XYkREUXV3SVNNTW84QT09IiwibWFjIjoiZDI0OTZiNDZiNWE5MDZlODQzNjM2MDMzYjE4N2FkNWU3OTIzNzUwNGZhMGI1Y2UxOTRkNGFmZDI1NzgxYTAwMyIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 8606,
+        "standardName": "Selection, installation and maintenance of sanitary appliances - Code of practice (Second Revision)",
+        "standardNumber": "IS 2064:1993",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2022-11-01",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjVnU09nN3lhY0JTS2hCZXdRZktVQlE9PSIsInZhbHVlIjoiNmlnaGdpMWV0ZGFXc1g0cUY1Y3BvQT09IiwibWFjIjoiNzViMmFiNzY1NTQ0ZWIxODhjOTgzZWNhMjNjM2NjN2I2MDJlYmU0Nzg3OTBmMGQyNzFhOWYyMWM0MmQ5ZTZlZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 66889,
+        "standardName": "National Building Construction Standards 2026",
+        "standardNumber": "SP 7:2026",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "04",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InR6dDM0RVFnL3BnVWNJdk9MWWRtemc9PSIsInZhbHVlIjoidVA1cy9FcFRUWU5qT2s2NjJNWU1IUT09IiwibWFjIjoiZjg3ZmE3ZTkwMjFmMjdmYTI0YzcyYjNjMTQ4ZjQ2NzhhYzVmNzJhNjI0MDY3NDI4ODc0MjMyNGU4Y2FiY2MyYiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "endpoint": "getWebsiteStandardDetails",
+  "url": "https://standardsadmin.bis.gov.in/review-service//getWebsiteStandardDetails",
+  "method": "POST",
+  "request_headers": {
+    "referer": "https://standards.bis.gov.in/",
+    "accept": "application/json, text/plain, */*",
+    "content-type": "application/json"
+  },
+  "request_body": {
+    "encId": "eyJpdiI6IkZOdVdIUTgzc1ViOGVUb2xUelJEU1E9PSIsInZhbHVlIjoid1JxNmVSamtUelZrTll4bEVROE82QT09IiwibWFjIjoiZmQ1YjRmNGQ0NWRmNjNiZjMwZDQwYmY0N2Q5MTViYzMyYjBhNmEwMDA0MjkxOGI2MmQwOTM3ZDg5OGVmYjgyZiIsInRhZyI6IiJ9",
+    "fromPage": "guestUserPage",
+    "token": null,
+    "refreshToken": null,
+    "clientId": null,
+    "clientSecret": null,
+    "sub": null
+  },
+  "response_status": 200,
+  "response_json": {
+    "status": "SUCCESS",
+    "statusCode": 200,
+    "msg": "Record fetched successfully.",
+    "data": {
+      "ministryName": "Ministry of Commerce and Industry - Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Power",
+      "riskNameName": "",
+      "standardId": "eyJpdiI6IkRhaGdHOTNqOFJvZXJFR082ZkpDNGc9PSIsInZhbHVlIjoiSW53eENpT0Q2Q2J3VHJiVjl4MWIxZz09IiwibWFjIjoiNDA5NTIxMGY0OGNiMDQyNjRlYjM2NmI3MTg1MWEwZmEzMGY3NjhhYWViY2U1MTZiMTE3OTVhN2Y3YzkxMWJlYiIsInRhZyI6IiJ9",
+      "rowStandardId": 13826,
+      "pk_is_id": 13829,
+      "standardName": "Polyvinyl chloride insulated unsheathed and sheathed cables/cords with rigid and flexible conductor for rated voltages up to and including 1 100 V (Fourth Revision)",
+      "standardNumber": "IS 694:2010",
+      "publishedOn": "2011-05-31",
+      "committeeId": 243,
+      "departmentId": 65,
+      "groupName": "Electrical  Switchgear and Other Electrical Products/Accessories",
+      "subGroupName": "Cables, Conductors, Wires and Accessories",
+      "subSubGroupName": "Power cables",
+      "sectorName": "",
+      "subSectorName": "",
+      "subSubSectorName": "",
+      "noOfRevision": "04",
+      "noOfAmendment": "04",
+      "typeOfStandardId": "Product Specification",
+      "degreeOfEquivalenceId": 0,
+      "languageId": "English",
+      "icsCode": null,
+      "shortTitle": "Polyvinyl Chloride Insulated Unsheathed--And Sheathed Cables/cords With Rigid And--Flexible Conducto",
+      "certificationName": "Mandatory",
+      "equivalenceTypeName": "Modified/Technically Equivalent",
+      "supersheed": "",
+      "orgTypeName": "",
+      "goalNames": "",
+      "reAffirmationYear": "2020-01-01",
+      "commentCount": 5,
+      "equivalenceId": 3,
+      "is_documents": "BisProd/bisProd/oldStandards/S05/S05V01/694.pdf",
+      "is_hindi_document": null,
+      "equivalentIs": null,
+      "identical_is": null,
+      "reviewOn": "2026-05-29",
+      "source": 2,
+      "withdrawStatus": 0,
+      "withdrawOn": null,
+      "isStatus": 2,
+      "superseded_byis": null,
+      "projectStageName": null,
+      "memberDisplayName": "Emmanuel Abhishek Murmu (SCIENTIST-D)",
+      "committeeName": "Power Cables",
+      "departmentName": "ELECTROTECHNICAL DEPARTMENT",
+      "deptAliasName": "ETD",
+      "committeePreparedName": "ETD 09 - Power Cables",
+      "deptPreparedName": "Electrotechnical Department(ETD)",
+      "reviewList": [
+        {
+          "isStatus": 3,
+          "standardNumber": "IS 694:2010"
+        },
+        {
+          "isStatus": 3,
+          "standardNumber": "IS 694:2010"
+        },
+        {
+          "isStatus": 3,
+          "standardNumber": "IS 694:2010"
+        },
+        {
+          "isStatus": 3,
+          "standardNumber": "IS 694:2010"
+        },
+        {
+          "isStatus": 2,
+          "standardNumber": "IS 694:2010"
+        }
+      ]
+    }
+  }
+}

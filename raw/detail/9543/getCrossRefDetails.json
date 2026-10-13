@@ -1,0 +1,75 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "No record found.",
+  "data": {
+    "crossRefData": [],
+    "crossFollowRefData": [
+      {
+        "standardId": 13542,
+        "standardName": "Railway carriagefans - Specification (First Revision)",
+        "standardNumber": "IS 6680:1992",
+        "equivalent_is": "NULL",
+        "identical_is": "NULL",
+        "reviewOn": "2024-10-03",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InAzWnNRNGZyQ3NvMTVEeVpLc1JXbVE9PSIsInZhbHVlIjoiRDdUUjNrak1YYXZNUDRXamU0b1pZZz09IiwibWFjIjoiNmIyODNmYzQ0YmJmM2NiMjNiYTQyMGM2NGQyMDY2ZTk0Njk1ZDQ3ZGE4ODk3MzJlNWU2ODViOTJiOWFlMTc5NiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 13350,
+        "standardName": "Methods of testing steel sheets for magnetic circuits of power electrical apparatus (Second Revision,)",
+        "standardNumber": "IS 649:1997",
+        "equivalent_is": "IEC 404-2:1978",
+        "identical_is": null,
+        "reviewOn": "2024-03-01",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkJaLzF2d2VLWTM2TEN0NHJLSTJMSXc9PSIsInZhbHVlIjoiQXN1UjhtaEFhREhKTCs1T1lzMFdTdz09IiwibWFjIjoiYjdiYTI4MjY1MjE4OWEyYTczZWEwZDhlMTRhMWI1NGE5NjdiYmUzMTAxYWUzOGU3ODI3OTkwNTMxMGJjNjlhZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 2985,
+        "standardName": "Outdoor Type Oil Immersed Distribution Transformers Upto and Including 2 500 kVA, 33kV - Specification Part 1 Mineral Oil Immersed (Fourth Revision)",
+        "standardNumber": "IS 1180 (Part 1):2014",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-05-01",
+        "noOfReview": "04",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Im1lV2QyODdsa2hpa3I5T2NMZ2hoM2c9PSIsInZhbHVlIjoiT1lvMVRlQkdHWWF2Ump6YWtnTU5vQT09IiwibWFjIjoiYjE4NDVmN2Q1NjVlN2M4NWJmYWIwZDczMDlmMDFhYmI5MjJlYTVlZjg5MDhmYzA1NWE1NzFkNWEyOGFmZTk0NyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 25521,
+        "standardName": "Outdoor/Indoor Type Liquid Immersed Distribution Transformers Up to and Including 2 500 kVA, 33 kV — Specification  Part 3 Natural/Synthetic Organic Ester Liquid Immersed",
+        "standardNumber": "IS 1180 (Part 3):2021",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlZzZU5BeDV5L3gyVUFrNW1PUlVHaGc9PSIsInZhbHVlIjoiMDVyblJpRG02c0Q3RUZlcjJFTk9zQT09IiwibWFjIjoiZmZmODI3YWFkZjkyZjA5MzVkM2JmMjBhOTdkMzQwZmY3YjE2MDc5NTIxYzM4Mjk0OGM0ZDUxMWUxZDJlMzg0YSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 33562,
+        "standardName": "Hot-Rolled and Cold-Rolled Steel Strips Intended for Processing of Fully Processed Grain Oriented Electrical Steel - Specification",
+        "standardNumber": "IS 19301:2025",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkthcDRyZTlkNVd0Nm5xWXdWaWVRaGc9PSIsInZhbHVlIjoiWGRwMUNIbjdKSkRuTHlQbHluenlIZz09IiwibWFjIjoiMTFkNzdkMTZmMDI2ZjE5OGRhZDhkNGNmZGEzMjkzNTkxYzY3NzUzM2FjNmI5NjIzN2U2NGViYTQ3YWNmZTEzZCIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

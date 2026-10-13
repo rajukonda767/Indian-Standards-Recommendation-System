@@ -1,0 +1,91 @@
+{
+  "pdf_label": "GeM Bid Job 45941",
+  "pages": 8,
+  "doc_type": "gem_bid",
+  "note": "Two-column GeM bid document. Page 1 has GeMARPTS search results and category notification. GTC on p7-8.",
+  "page_1_block_expectations": [
+    {
+      "section_heading": "Searched Result generated in GeMARPTS",
+      "tier": "CONTEXT_ONLY",
+      "expected_mentions": [
+        {
+          "raw": "IS 694",
+          "base_key": "IS694",
+          "tier": "CONTEXT_ONLY"
+        },
+        {
+          "raw": "IS 4989",
+          "base_key": "IS4989",
+          "tier": "CONTEXT_ONLY"
+        },
+        {
+          "raw": "IS 1554 (Part 1)",
+          "base_key": "IS1554(PART1)",
+          "tier": "CONTEXT_ONLY"
+        },
+        {
+          "raw": "IS 694",
+          "base_key": "IS694",
+          "tier": "CONTEXT_ONLY"
+        }
+      ]
+    },
+    {
+      "section_heading": "Relevant Categories selected for notification",
+      "tier": "CORROBORATING",
+      "expected_mentions": [
+        {
+          "raw": "IS 7098 (Part 1)",
+          "base_key": "IS7098(PART1)",
+          "tier": "CORROBORATING"
+        }
+      ]
+    }
+  ],
+  "per_page_tier_summary": {
+    "p1": [
+      "AUTHORITATIVE",
+      "CONTEXT_ONLY",
+      "CORROBORATING"
+    ],
+    "p2": [
+      "AUTHORITATIVE"
+    ],
+    "p3": [
+      "AUTHORITATIVE"
+    ],
+    "p4": [
+      "AUTHORITATIVE"
+    ],
+    "p5": [
+      "AUTHORITATIVE"
+    ],
+    "p6": [
+      "AUTHORITATIVE"
+    ],
+    "p7": [
+      "AUTHORITATIVE",
+      "CONTEXT_ONLY"
+    ],
+    "p8": [
+      "CONTEXT_ONLY"
+    ]
+  },
+  "gtc_scope": {
+    "start_page": 7,
+    "start_block": 13,
+    "start_marker": "This Bid is governed by the General Terms and Conditions",
+    "end_page": 8,
+    "end_marker": "---धन्यवाद/Thank You---",
+    "tier": "CONTEXT_ONLY"
+  },
+  "buyer_atc_scope": {
+    "start_page": 5,
+    "start_marker": "Buyer Added Bid Specific Terms and Conditions",
+    "end_page": 7,
+    "end_block": 12,
+    "tier": "AUTHORITATIVE",
+    "rule": "Buyer-added ATC clauses retain AUTHORITATIVE tier to audit buyer-specified technical standards."
+  },
+  "sha256": "a74a2530d25ee083568cb17fb59ac707bd95835ba41ea23dfe5b78e6f0909c5d"
+}

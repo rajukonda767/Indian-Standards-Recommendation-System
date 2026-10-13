@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 28992,
+      "So_No": "pub013/1/2020-pub-bis (1292)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_271_28992_IE60269_7.pdf",
+      "pki_id": 18115,
+      "Amd_No": 0,
+      "standardNumber": "IS/IEC 60269 (Part 7):2021",
+      "standardId": 33689
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 23976,
+      "So_No": "pub013/1/2020-pub-bis (1277)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/MTD/gf_39_23976_17111_1.pdf",
+      "pki_id": 17986,
+      "Amd_No": 0,
+      "standardNumber": "IS 17111:2025",
+      "standardId": 33599
+    }
+  ]
+}

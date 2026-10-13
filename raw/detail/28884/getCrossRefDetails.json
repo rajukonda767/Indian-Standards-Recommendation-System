@@ -1,0 +1,167 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 1078,
+        "standardNumber": "IS 10259:1982",
+        "standardName": "General condition of delivery and inspection of aluminium and aluminium alloy products",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-03-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IktkOTFzbmtOZEVpOG9Gd2JDWHhDT2c9PSIsInZhbHVlIjoiSzFDcnBKejM2YmRxN0tncythbzVNZz09IiwibWFjIjoiN2VlNzZmZjNmNzdjY2NkMzMxZDQzOTBmODQ3ZjkzOTdhMWQwMGY1M2NlNzJkNDJlZTBkNWMyNzM3ZjJjMDAyYSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 10221,
+        "standardNumber": "IS 3635:1966",
+        "standardName": "Methods of test for resistance of metallic electrical resistance material",
+        "equivalent_is": " BS. 3466 : 1962",
+        "identical_is": "NULL",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImlERDlwdlhZQkZ5WVdPaDF6b0FYM2c9PSIsInZhbHVlIjoiNFFCUkdBK0JFZTFsRkZEY0hvTWdVUT09IiwibWFjIjoiODc1Y2U0YjUxYTY3MGNkZDVhOWNkMjA4MWNjMjY4ZGNjMzQ2YWNjMzI4OTRjZWZhYzUxYzQ2ODY0OTI0MzliZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 28748,
+        "standardNumber": "IS 4026:2023",
+        "standardName": "ALUMINIUM INGOTS BILLETS AND WIRE BARS EC GRADE",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2023-05-30",
+        "noOfReview": "04",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ink1T29xeFN1Sk5YUGZ5TEZUd3ViaHc9PSIsInZhbHVlIjoiMUNsZm9GMTg2Z2RGNjRKMFJJdENzZz09IiwibWFjIjoiYzI1NDg4MWNhNjk1ZDE0YWY3Mzc4YTkxOWYyZjRhMzZjYWU0ZTc4OWY2OGM4YjIyZmM4YzBlNzU4Mzc3ODliZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 11792,
+        "standardNumber": "IS 504 (Part 13 to 16):2003",
+        "standardName": "Chemical analysis of aluminium and its alloys parts 13 to 16 (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-03-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkdFMHZncWhma0lpQjRQMVRENlltREE9PSIsInZhbHVlIjoick5qTDJJM0NaNWY3WmswVkRLNmlRZz09IiwibWFjIjoiYjBjNmQ2MzU0MjFmMTE2ZDg3NjMxZWUwNmUwMzdkMjRlNThiOWE1OGRhM2UxYTU0YzMwMjU2ZDZiNjc2NTlhMCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 11793,
+        "standardNumber": "IS 504 (Part 1 To 12):2002",
+        "standardName": "Chemical analysis of aluminium and its alloys parts 1 to 12 (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-03-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkF6Y1JmSFRDR2ZQM3VnMjhtZGkydFE9PSIsInZhbHVlIjoiVlNqUmZVZExNMi9QM2tjRDFzYU5HZz09IiwibWFjIjoiOTBjNjYzZTIxZmE5NzYxODE4YTc5MzVkZGM3ZGI4M2JjMjJkYTQ4NGQ3Yzk2NmM4MDlhMDZmMjYyNTU5MjMzMCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 11800,
+        "standardNumber": "IS 5047 (Part 1):1986",
+        "standardName": "Glossary of terms relating to aluminium and aluminium alloys: Part 1 unwrought and wrought metals (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2022-01-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlRJR1pmd1lBcnBOZm1oLytObDIzRmc9PSIsInZhbHVlIjoiQ0RiSXRHeDZJVE9tZVY3TEFuRVBQZz09IiwibWFjIjoiNjIzM2Q3NTgwZDc5Mzg2NGY5MTg3YzA4ZjE2M2RlMzA2MDJiZmU4ZTU1NTFmN2FlMzc1MzUwODE5ZmE4ZGFhOCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 32790,
+        "standardNumber": "IS 5052:2025",
+        "standardName": "Aluminium and its Alloys - Temper Designations (Second Revision)",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2026-03-17",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InQ2VVcvVVJtUVErdzhmRHBocjNjNEE9PSIsInZhbHVlIjoiUmNUYno0eVgzcG5mZGJIZGZJcHZzUT09IiwibWFjIjoiYjNhODhhYWI1ZjRjN2I5OTc5NTc5NDY0ZmYxZmNjZDY5MGI1ZWFjMzkzMDg3NTFmZTQ3YjU0ZmRkMzIyYTExMiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 28783,
+        "standardNumber": "IS 18215:2023",
+        "standardName": "Stainless Steel Neti Pot Specification",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImRZYWdkRkgrMzQvblgrQjcxdXJJRlE9PSIsInZhbHVlIjoiTVJibytYcGhxV2RzeTR1Q1N4VWFGdz09IiwibWFjIjoiZWVmNWJmMTRhZjU0YzM4Y2JjODNjOTkxMzM2MGUyYmVjNTFiYmVhZTNiOWQ0MWMyNTA4OGJmYWE1ZWFmZjE3ZiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 10586,
+        "standardName": "Aluminium conductors for overhead transmission purposes - Specification: Part 1 aluminium stranded conductors (Third Revision)",
+        "standardNumber": "IS 398 (Part 1):1996",
+        "equivalent_is": null,
+        "identical_is": "IEC 60889",
+        "reviewOn": "2023-12-01",
+        "noOfReview": "03",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjMzSFpRNVF4dnk5aGQ2bTVvd1oydUE9PSIsInZhbHVlIjoibnMyb1dKcndCd0hZckdiOGV6dnVvZz09IiwibWFjIjoiZWNhYzU5NmQyZTJhNDk0OWIyOWY1YzgxOTlhODkzYjk0ZWYwZjQzYjlmMDRjYmMxYWJkNDlkYTNkZDUxMTE1YSIsInRhZyI6IiJ9",
+        "identical": "IEC 60889"
+      },
+      {
+        "standardId": 21530,
+        "standardName": "Aluminium Conductors for Overhead Transmission Purposes – Specification Part 1 Aluminium Stranded Conductors",
+        "standardNumber": "IS B398 :Part 1 : 1996",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "03",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkY5SHNOaVpiUHJIRUtDQ0xsMkdlcWc9PSIsInZhbHVlIjoiTVRkMCs5c2RoZnJZV2Ficmw3U29vZz09IiwibWFjIjoiN2I0ZGY3MGM1OWIyMTgxMjAzY2QzNTdhYzY1ZTM5ZDZmOWMyNWQwZjJmM2M1MTVhOTE0MWY3MTA0NWExN2I0ZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 12876,
+        "standardName": "Code for designation of aluminium and its alloys",
+        "standardNumber": "IS 6051:1970",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-01-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlRQVzl5OG94U3Vwdk13YU1sdzJnOVE9PSIsInZhbHVlIjoiZ1M1RllKMW53TENZc3pmbGlLZnB1Zz09IiwibWFjIjoiOTdiZjA1OWM1MDg2Njc3MGY2NTRjOWQ4MWVhYThhNDFlMzgyZjI4OGE2OGViNjJjNjY0NzQwYzc3N2U5ZWU2OCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 28885,
+        "standardName": "REPAIR OF DISTRIBUTION TRANSFORMERS - CODE OF PRACTICE",
+        "standardNumber": "IS 18284:2023",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Im91VC84NlFneEVIa3pZQ0RqR1B0N0E9PSIsInZhbHVlIjoiU3p2c2F4RDBLcWc1TFpiY3MwVEtRZz09IiwibWFjIjoiZGFhYWJiNzI1YTg3OGZjMDNiN2ZlMTgzYmMyODM3ODFhMjJlYzFiNGVhOGZjODUwNjAwMWIzOGFhNjMxZjIwNSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

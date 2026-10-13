@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 4294,
+      "So_No": "pub-012-1-2020-783",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/MTD/gf_30_4294_1284_3.pdf",
+      "pki_id": 12374,
+      "Amd_No": 0,
+      "standardNumber": "IS 1284:2024",
+      "standardId": 30429
+    }
+  ]
+}

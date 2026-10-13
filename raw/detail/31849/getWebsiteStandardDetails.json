@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Commerce and Industry - Department for Promotion of Industry and Internal Trade (DPIIT)",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6InFjNkVsWTRwcVZybXdYL0htQTFHb1E9PSIsInZhbHVlIjoiQWhWSTlkZHNkMHd5UXZrVHRnMjlCdz09IiwibWFjIjoiYTkzYTYwMGU1NzU4MjM0MDZlZTAzODdkMDgzYjg2YTA1ZDk4NDQxMDg2ODFmOTk2ZThjNGJiOTE3YWRjOWU0YSIsInRhZyI6IiJ9",
+    "rowStandardId": 31660,
+    "pk_is_id": 31849,
+    "standardName": "Electrical Measuring Transducers for Converting A.C and D.C Electrical Quantities to Analogue or Digital Signals  (Third Revision)",
+    "standardNumber": "IS 14570:2024",
+    "publishedOn": "2024-08-23",
+    "committeeId": 246,
+    "departmentId": 65,
+    "groupName": "Electrical  Switchgear and Other Electrical Products/Accessories",
+    "subGroupName": "Switchgear, Metering and Accessories",
+    "subSubGroupName": "Electrical measuring  equipment",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "02",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": null,
+    "certificationName": "",
+    "equivalenceTypeName": "Identical under dual numbering",
+    "supersheed": "IS 14570 : 2021",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 1,
+    "is_documents": "BisProd/bisProd/oldStandards/S05/S05V01/14570.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": "IEC 60688:2021 ",
+    "identical_is": "IEC 60688:2021 ",
+    "reviewOn": "2024-08-28",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Suresh Kumar Gopalan (SCIENTIST-C)",
+    "committeeName": "Measuring Equipment For Basic Electrical Quantities",
+    "departmentName": "ELECTROTECHNICAL DEPARTMENT",
+    "deptAliasName": "ETD",
+    "committeePreparedName": "ETD 12 - Measuring Equipment For Basic Electrical Quantities",
+    "deptPreparedName": "Electrotechnical Department(ETD)",
+    "reviewList": [
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 14570:2012"
+      },
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 14570:2021"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 14570:2024"
+      }
+    ]
+  }
+}

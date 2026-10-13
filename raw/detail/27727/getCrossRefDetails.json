@@ -1,0 +1,20 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": "0",
+        "standardNumber": "0 0",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IkVjcGhubTBTYWFVMHJvSEVkOTJmZFE9PSIsInZhbHVlIjoiZTlxczZISnkrRjlDU1hhMDIxR3RBUT09IiwibWFjIjoiODBhMzlhYmRjZGU0ZGZlMTE4NmY0YjVkNTlkNTc1NjRlMzdlZWVkNTRlM2JjYjA5ZGUzNWM0MDc1ZDQ1YTlkMiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": []
+  }
+}

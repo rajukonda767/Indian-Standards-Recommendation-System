@@ -1,0 +1,102 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 2505,
+        "standardNumber": "IS 1141:1993",
+        "standardName": "Seasoning of Timber - Code of practice (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-04-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImRhUVpMTjByaEhDTXFsNlRNNC9WZ1E9PSIsInZhbHVlIjoiN1RBcmRwQnRUY1kwb2ZLbDZMQUthUT09IiwibWFjIjoiYWIyMDRkMTcxMTUyNjUxNzdiYjJlNjUwYzZkOTU4NmJjNTkwMzcyYjZjODRjYzMwMzRiZTBjZTFkYzFlN2I3NCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 10632,
+        "standardNumber": "IS 401:2001",
+        "standardName": "Preservation of Timber - Code of Practice (Fourth Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2021-10-01",
+        "noOfReview": "04",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjdmTWIrUEU2VDNoVzNhRzBNMUtZMlE9PSIsInZhbHVlIjoiZHRIVzBXVTIxdXNpM1hHbDRxNlhpQT09IiwibWFjIjoiOGM1NDFmZWFhYTM5NmRmYjM1Njk3MzNlODBkODRhZWE2M2Y1Y2M2NmRlZmFmNmNkNjBmNTA4YTE0ODAzYjA4MSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 13978,
+        "standardNumber": "IS 707:2011",
+        "standardName": "Timber Technology and Utilization of Wood, Bamboo and Cane - Glossary of Terms (Third Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2021-10-01",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImlkcDhURnJFOFVxWmtHZ2RRclpnb2c9PSIsInZhbHVlIjoicjVVNXFjNnE0Y1RER08zMGdhZ0laZz09IiwibWFjIjoiMTVjOTE4MmE2ZDg2MzQyNjE0NGM1ZDA0YWVmNjZmNjI1OTkxMmUzOTdlYzQ3ZGUxZmY3N2EyY2Y3OTg4NWU1YSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 16370,
+        "standardNumber": "IS 9104:1979",
+        "standardName": "Guide for storage and protection of logs and sawn timber",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-10-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjNBUUpPKzR0b2ZSYWJXZ2Y4S1g1Rnc9PSIsInZhbHVlIjoiaEVEMWp6cWNkTFNWLzZLZmJZR3pWdz09IiwibWFjIjoiODc0MWZjOWFmMjg2OTk4MDViYzQ1NjNhOGQ0MmM1NGFjNDA5NGMwZDk2ZWFjOGJlNzI5YWU4NTA2YzZhMWJhNyIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 14226,
+        "standardName": "Non-coniferous Logs -",
+        "standardNumber": "IS 7308:1999",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-10-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjFCMzIreG1xckQrODMwelVuOHArblE9PSIsInZhbHVlIjoibnkyWGdLb3plQWw1MmZaRW9CMkRWdz09IiwibWFjIjoiODQ1ZTEwMjExMWQ0N2QwZjA5MTdmZDUzMmY2NWNiNmMxMTI3M2RjMGI3ZWRhYmVkOWY4ZDUzOWY1NmIyNjFkOSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 16996,
+        "standardName": "Specification for safety matches in booklet",
+        "standardNumber": "IS 9600:1980",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-04-06",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlZPNHZlK1FqaVZ4MFJWSjFCbVdmeHc9PSIsInZhbHVlIjoiVUw0alNWMytoQ2wvcDk5SUgya0UyUT09IiwibWFjIjoiMzU3NzA1ZDI4MWVlMjUwYzBlYWI0ZDU4OWY2YzA0MzNjZGFiM2Q5MjFiMWY1ZGFiNjMyZjliMTg4Yjg2Nzg1MiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 9174,
+        "standardName": "Safety matches in boxes - Specification (Third Revision)",
+        "standardNumber": "IS 2653:2004",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-04-06",
+        "noOfReview": "03",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjVYUkI4d0ZhR0xVUTB5bmdkN1pJeUE9PSIsInZhbHVlIjoiZjVRTjdyb3B1ZlZNTmNaNjFYdUtDUT09IiwibWFjIjoiOGY1N2VmNDU0NWUyOWYwNzhhOTM3ZmRiZjI0ZmZjYjBhNTRkNTIzYzhhZjg4ZmJjNjlhOTBjNTcyNmI3ZjY4OSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

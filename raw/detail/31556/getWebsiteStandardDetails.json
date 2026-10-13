@@ -1,0 +1,77 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Power",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6Ilh1TzdKWk1rZHZhZFJ3TmlrbTZVNGc9PSIsInZhbHVlIjoiNnlJUFF0bUt4YVZnYkxTdjJzbjQwQT09IiwibWFjIjoiZTE4OTMwZTYwNDJlMjEzMjQwMGRhMjhkZGJjMDI3OGI4MTYzZTgwNDEwYzYwMDVlZjNhMTBmZGIxNzJlZWNkYSIsInRhZyI6IiJ9",
+    "rowStandardId": 31367,
+    "pk_is_id": 31556,
+    "standardName": "a.c. Motor Capacitors Part 2 Motor Start Capacitors ( Third Revision )",
+    "standardNumber": "IS 2993 (Part 2):2024",
+    "publishedOn": "2024-07-05",
+    "committeeId": 262,
+    "departmentId": 65,
+    "groupName": "Electrical  Switchgear and Other Electrical Products/Accessories",
+    "subGroupName": "Switchgear, Metering and Accessories",
+    "subSubGroupName": "Power capacitors",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "03",
+    "noOfAmendment": "01",
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "AC POWER CAPACITORS",
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Identical under dual numbering",
+    "supersheed": "IS 2993 : 1998",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 1,
+    "is_documents": "BisProd/bisProd/oldStandards/S05/S05V01/2993_2.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": "IEC 60252-2:2010",
+    "identical_is": "IEC 60252-2:2010",
+    "reviewOn": "2024-08-06",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Nitish Kumar Jain (SCIENTIST-C)",
+    "committeeName": "Power Capacitors",
+    "departmentName": "ELECTROTECHNICAL DEPARTMENT",
+    "deptAliasName": "ETD",
+    "committeePreparedName": "ETD 29 - Power Capacitors",
+    "deptPreparedName": "Electrotechnical Department(ETD)",
+    "reviewList": [
+      {
+        "isStatus": 1,
+        "standardNumber": "IS 2993:1998"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 2993 (Part 1):2024"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 2993 (Part 2):2024"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 2993 (Part 1):2024"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 2993 (Part 2):2024"
+      }
+    ]
+  }
+}

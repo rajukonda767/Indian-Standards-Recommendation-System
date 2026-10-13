@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 23573,
+      "So_No": "puib-013-1-2020-pub-bis (684)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_241_23573_IETS61439_7_1.pdf",
+      "pki_id": 10127,
+      "Amd_No": 0,
+      "standardNumber": "IS/IEC/TS 61439 (Part 7):2023",
+      "standardId": 29332
+    }
+  ]
+}

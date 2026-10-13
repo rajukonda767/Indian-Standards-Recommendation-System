@@ -1,0 +1,134 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 30872,
+        "standardNumber": "IS 1885 (Part 17):2024",
+        "standardName": "Electrotechnical Vocabulary      Part 17   Switchgear and Control Gear   (Second Revision)",
+        "equivalent_is": "",
+        "identical_is": "IEC 60050-441: 1984",
+        "reviewOn": "2024-06-10",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlcwZ1p6eWp2eTlBQWdFdVQ1MjcrclE9PSIsInZhbHVlIjoiZjFmZEVsZHdhUjlpOTRyV2k2T21mQT09IiwibWFjIjoiYmEyMDgxYWFhOGQwOTNmZThkMTE5YTM3ZGU3MTk0MTA5ZGQ1NjBmODJiY2NiZGI1NGMzODQ5YjIwM2NhM2Y1MyIsInRhZyI6IiJ9",
+        "identical": "IEC 60050-441: 1984"
+      },
+      {
+        "standardId": 8364,
+        "standardNumber": "IS 1885 (Part 74):2012",
+        "standardName": "Electrotechnical vocabulary: Part 74 electrical and magnetic devices (First Revision)",
+        "equivalent_is": "NULL",
+        "identical_is": "IEC 60050-151 : 2001",
+        "reviewOn": "2025-01-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkFOc0VHbHB1TXFIdy9uVG9ySlJsYkE9PSIsInZhbHVlIjoibFJCcnJHbFM2eXBqQzNEdnYzV2R1QT09IiwibWFjIjoiNWViMTU0OGRjN2MxYmZhMDJhM2Q4ZGE4ZTExYjIxODY3ZGI3ZDNlMTNmMTA2ZWQ1YzI2Mjc0NWRkMTkxODhjNSIsInRhZyI6IiJ9",
+        "identical": "IEC 60050-151 : 2001"
+      },
+      {
+        "standardId": 33487,
+        "standardNumber": "IS/IEC 61730 (Part 1):2023",
+        "standardName": "Photovoltaic (PV) Module Safety Qualification  Part 1 Requirements for Construction  (Second Revision)",
+        "equivalent_is": "",
+        "identical_is": "IEC 61730-1:2023",
+        "reviewOn": null,
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkNtVk5OZzRYcGsxajg1Z1I4VXdXdHc9PSIsInZhbHVlIjoiT1NwYWlnb3ZlV0NyVWh2RGtQdExKdz09IiwibWFjIjoiMTljMTZkYmMxYWJmMDFjNDgwNmZlNjA5MjBlZjg4Nzg4Y2UwMjRmOGRiZmNkNDc4YjE2OGUxZjczM2VhODNjZiIsInRhZyI6IiJ9",
+        "identical": "IEC 61730-1:2023"
+      },
+      {
+        "standardId": 65893,
+        "standardNumber": "IS 16102 (Part 1):2026",
+        "standardName": "Self-Ballasted LED Lamps for General Lighting Services Part 1 Safety Requirements (First Revision)",
+        "equivalent_is": null,
+        "identical_is": "IEC 62560:2015",
+        "reviewOn": null,
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkxWQStDYTBJemtkUWZPT0JRTldOOUE9PSIsInZhbHVlIjoiNkxDVXZjdmtEalc5eml1TnFZZGR3Zz09IiwibWFjIjoiNTJmZmU1NDU1ZDdkMzliMzZlMjZmMGIyZjU5ZTgwYTE3ZDRlZjlmOTNjMTZkYmNmZGY5MTYyMjgyZmY3ZDk3MCIsInRhZyI6IiJ9",
+        "identical": "IEC 62560:2015"
+      },
+      {
+        "standardId": 21462,
+        "standardNumber": "IS/IEC 60270:2000",
+        "standardName": "High - Voltage test techniques - Partial discharge measurements",
+        "equivalent_is": "NULL",
+        "identical_is": "NULL",
+        "reviewOn": "2026-02-24",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InB5YjM3Mnl3c1dOWEdVU0VpY21hRFE9PSIsInZhbHVlIjoieHlyZndMRG9FbEtxaTZzUURQTzZMZz09IiwibWFjIjoiODg1NDNmYjljMjAyZjJmMTU3NDY4MTk3MTNiZjkwMTFjYzA5YWQ0NmVkNmE4MmQ5ZDJjZjFkNDI0YzJiYTRlOSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 22394,
+        "standardNumber": "IS/IEC 60255 (Part 26):2013",
+        "standardName": "Measuring Relays and Protection Equipment Part 26 Electromagnetic Compatibility Requirements ( First Revision )",
+        "equivalent_is": "  ",
+        "identical_is": "IEC 60255-26 : 2013 ",
+        "reviewOn": "2025-01-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImppUHBMSHdyVkRuL2w0OU9Ga2ljRWc9PSIsInZhbHVlIjoicHpJQ1BDMUJxbVpDMk5EQ2JZNU5HQT09IiwibWFjIjoiZjU4ZGU5OWI3MDM2ODRmYmMyNzU0ZTNlZTQxZjE4YjRlZThjMzlmMDA3MWZiNzE3YzI2YjEwYmVjZTgyZjM2MiIsInRhZyI6IiJ9",
+        "identical": "IEC 60255-26 : 2013 "
+      },
+      {
+        "standardId": 28389,
+        "standardNumber": "IS 17053:2023",
+        "standardName": "Guidelines for the Checking and Treatment of Sulfur Hexafluoride (SF6) Taken from Electrical Equipment and Specification for its Re-Use ( First Revision )",
+        "equivalent_is": "",
+        "identical_is": "IEC 60480:2019",
+        "reviewOn": "2023-04-05",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlVSdVZrL1ptWXVHYTFkTGF6c1BkSlE9PSIsInZhbHVlIjoibm9yYUhkeUI3UGVPU0htVEt1Ujg0Zz09IiwibWFjIjoiMDM4NzY3OWNmMmI1YmNkOWFkOGYyNWFkNTM0ZWIzOTZmOWNmMmNiMjQ1YTNlMDhjZTM0NzQ5ZTk5OGE0OTk0MCIsInRhZyI6IiJ9",
+        "identical": "IEC 60480:2019"
+      },
+      {
+        "standardId": 27975,
+        "standardNumber": "IS/ISO/IEC 15693 (Part 2):2022",
+        "standardName": "Cards and security devices for personal identification  Contactless vicinity objects  Part 2: Air interface and initialization",
+        "equivalent_is": "",
+        "identical_is": "ISO/IEC 15693-2:2019",
+        "reviewOn": "2026-01-16",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkY5OHZsbGxEcitJTWpvSkxjVlBpMWc9PSIsInZhbHVlIjoiVURlbmJEL3NPd25JYVNjNnZxVDh0UT09IiwibWFjIjoiMTlhODYxMjdiY2NkYmY3N2JhMGNjMTVlNzMyMWJhMTFhYTA2NTEyMDI4NzMwMWUyNTYxMTU4YzIwYWUxMWE5ZiIsInRhZyI6IiJ9",
+        "identical": "ISO/IEC 15693-2:2019"
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 61000 (Part 4/Sec 18)",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IllpcEVzQktxWXVCVmZ0VTd6VmJGL2c9PSIsInZhbHVlIjoibWZSM3M2eEFuMWZmdFhTQ2dQS3p5dz09IiwibWFjIjoiZTM0MjkyNWI4ODJlNDIwYTNhMDRhYmYzODU3NTMzYTYzZDk0MjRiMmY1YzcyM2YyOWY3MzBmODYyNTc5Y2M0YyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 62271 (Part 4)",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlJtRGRtbEwxL2Z0VS90R29OSjR3a0E9PSIsInZhbHVlIjoidDhHaGRQMHU1SDZqK2pUUktMZlVBUT09IiwibWFjIjoiNzUxMDlmYjczOTA1ZjU3ZDA0NzA2MGI4MDM0NDlmMGU3NTYxYzM1MTUxNzdiOWQyNWJiZTFlY2RjZTExNWJjMCIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": []
+  }
+}

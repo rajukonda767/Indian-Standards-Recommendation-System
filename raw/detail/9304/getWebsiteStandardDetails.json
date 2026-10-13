@@ -1,0 +1,73 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Steel",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6IjdadVhhMVNUMTJoNGVkbnVSSjkrQnc9PSIsInZhbHVlIjoiNUx3Z3phZm9mZDBkSEFwbU43RUt0Zz09IiwibWFjIjoiNmZjZDVkMjUwMDg5ZTYyNjJmY2Y3Y2I5OTJkODNlOWQ2NTU2MzQyNzlmYTVhODViMGZmY2RjZTJjZTdkMDhlOSIsInRhZyI6IiJ9",
+    "rowStandardId": 9304,
+    "pk_is_id": 9304,
+    "standardName": "Galvanized steel strips and sheets (Plain And Corrugated) - Specification (Seventh Revision)",
+    "standardNumber": "IS 277:2018",
+    "publishedOn": "2018-02-28",
+    "committeeId": 27,
+    "departmentId": 70,
+    "groupName": "Metals, Alloys and Metal Products (including Steel Products)",
+    "subGroupName": "Steel and Steel Castings, Wires, Ropes, Pipes , Tubes and other products",
+    "subSubGroupName": "Wires & galvanized sheets",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "07",
+    "noOfAmendment": "02",
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "GALVANISED STEEL STRIPS AND SHEETS",
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": " ",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "2026-03-18",
+    "commentCount": 3,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S10/S10V01/277.pdf",
+    "is_hindi_document": "BisProd/bisProd/projects/proof/2025/12/tbl5_2024-05-22_111.pdf",
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2026-03-18",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Ram Sai Kumar Gedela (SCIENTIST-C)",
+    "committeeName": "Wrought Steel Products Sectional Committee",
+    "departmentName": "METALLURGICAL ENGINEERING DEPARTMENT",
+    "deptAliasName": "MTD",
+    "committeePreparedName": "MTD 04 - Wrought Steel Products Sectional Committee",
+    "deptPreparedName": "Metallurgical Engineering Department(MTD)",
+    "reviewList": [
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 277:2018"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 277:2018"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 277:2018"
+      },
+      {
+        "isStatus": 6,
+        "standardNumber": "IS 277:2018"
+      }
+    ]
+  }
+}

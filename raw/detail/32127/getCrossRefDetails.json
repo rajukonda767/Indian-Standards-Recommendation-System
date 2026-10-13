@@ -1,0 +1,167 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 9164,
+        "standardNumber": "IS 264:2005",
+        "standardName": "Nitric acid - Specification (Third Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-09-17",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImhRY2hRcU5BUE1sYzJ1UXZFZWF2U2c9PSIsInZhbHVlIjoiR3NCbVZseUZNYXNLUGtKZlFBNVcvZz09IiwibWFjIjoiNDMwYjZhNTA3NTUyZGUzODlmMjI2YTlkNTdkZTIxNmE4MTMxYTIyZGE0MWYxZjRiZDdkMTdhOGUwMmFlNDM5YyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 33552,
+        "standardNumber": "IS 19297:2025",
+        "standardName": "Ships and Marine Technology  Cyber Safety",
+        "equivalent_is": "",
+        "identical_is": "ISO 23806: 2022",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Imk2UjFoMm5kNkdnWEw4cWlwekoweUE9PSIsInZhbHVlIjoia1RFcEZQc1pFWGFxRGVBTmJISnJVZz09IiwibWFjIjoiMGQwODIyNWM3NTAxNGYzNDc1NWVhZjY0YWViMWIwMzMwMjhmMmFkMGRmODVmZTRlNWFmZGQ0ZTdmYjg3ZTM1ZCIsInRhZyI6IiJ9",
+        "identical": "ISO 23806: 2022"
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 9850,
+        "standardName": "Specification for carbon steel forgings for shipbuilding industry (First Revision)",
+        "standardNumber": "IS 3261:1980",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-03-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Im5pd2FqYlFaODBUcDBsM2VaZ2VGWEE9PSIsInZhbHVlIjoiUmpVRXk4MVNzRDNpdGZnMldRU0pqdz09IiwibWFjIjoiODI1MTc2YjAxYWUyNWZkMzYwNTljOGU4ZThlOTMzYTQwY2E3MDE1MGNkOWVlMmU1ZTZlNDRkZTNmMjQyOTcyYyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 12291,
+        "standardName": "Steels for die blocks for drop forging - Specification (Second Revision)",
+        "standardNumber": "IS 5518:1996",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-04-01",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Imk2OFRTOWxYNWJhM0JBdVZKRXhzbGc9PSIsInZhbHVlIjoiejdPUllJNjRnc0liQThjWTROajEyUT09IiwibWFjIjoiYzhkYjExNTY3NjAxMzAzOWRlZDZjNmRiNjk2ZGM5ZjlkYjgyYWY0YWYxZTcwMzQyZDIyZmNkNmEzMmM3OTg0ZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 11096,
+        "standardName": "Specification for case hardening steels (First Revision)",
+        "standardNumber": "IS 4432:1988",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-04-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImVVU002VUJ5V0liWmJubWFROEkxM2c9PSIsInZhbHVlIjoiZmp3VHd6bndobmhkdDBGTFBwRzRSZz09IiwibWFjIjoiODJmMmRmNGFjNGYyOGYyMjY2Zjg3YWRiMTI3OGRiYmNhOTcyMTFiNGRmNzQ5ZDgwY2YyODMwNTA2OTgwOWNlZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 12296,
+        "standardName": "Stainless steel sheets and strips for utensils - Specification (Third Revision)",
+        "standardNumber": "IS 5522:2014",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-04-01",
+        "noOfReview": "03",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Iko3ekk0VG9WRTBIZVI3ajhGWmhCeHc9PSIsInZhbHVlIjoidXRqSDlweDFHOS8yMStsWWFUTGpLUT09IiwibWFjIjoiMjUwNDk0NGQ4N2ZhMGIzOGI1MDRjYTU1MDMyYTEzMjA0MjUwZGI1OWViYzRkMmYxYTEzZTE1Njc5YzcwOTJmMCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 8054,
+        "standardName": "Specification for iron powder (Reduction Grade) (First Revision)",
+        "standardNumber": "IS 1612:1976",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-04-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlVkNlZZK1Z1My93VWQzZlVqZjl5M3c9PSIsInZhbHVlIjoiNndwMlV5cXE3ZHVDNFFRRmhFQ3VKQT09IiwibWFjIjoiYTczOGIzZjMwNTFkMTk0NzE0NWJmNjhhMTFjYjhmYzE4YzM3N2RhM2I0NWU0MWNlM2RhYTYzNTIzZGJkOWEyYiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 12835,
+        "standardName": "Indented Wire For Prestressed Concrete - Specification (Second Revision)",
+        "standardNumber": "IS 6003:2010",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-03-01",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik1SL3FqWTZWTjFzQjd3U2NiYTc1a1E9PSIsInZhbHVlIjoiQS9qSktrN01JNXl2U0lCamxXRVY0dz09IiwibWFjIjoiY2Y3NWJmNTZjZTdlZWRlMzY4NGE1MDcwMDMxZjRiMDk2ZGU0NGJkNzAzN2E1MmQwMmI5ZmJmY2RiMzk3M2I2OSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 17086,
+        "standardName": "Specification for carbon and low alloy steel forgings for fired and unfired pressure vessels",
+        "standardNumber": "IS 9683:1980",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-03-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjF1MG5PeFRrb0x4SE9mWDc0b3hiTWc9PSIsInZhbHVlIjoiVTFXcmVhWkZKRSs1TFROMVptelpyUT09IiwibWFjIjoiZDQ4MzIzY2E3OTY4MzZmZGE1NmU5MzA1MDVjNmMzOWVjZjg0ODJlMWQwMGMyYThlMDA0YjliYmE5NGI0Yzc5YSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 11095,
+        "standardName": "Specification for carbon and carbon manganese free cutting steels (First Revision)",
+        "standardNumber": "IS 4431:1978",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-04-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlFwM2txMEJiN0ZHaG5NUVlhb0duYWc9PSIsInZhbHVlIjoiUXFLSklvUVlRaXRoSUZBZWQwR0gxUT09IiwibWFjIjoiMmFhODYxNzlmZDI0MjRmODdlMmJiNDJhYzA5MzU3NGI3MjUxYzY4NjViZDZmNmI5MDIwOTdlYjRkM2EyM2FlZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 29587,
+        "standardName": "DOMESTIC  PRESSURE COOKER - SPECIFICATION (Seventh Revision)",
+        "standardNumber": "Is 2347:2023",
+        "equivalent_is": "",
+        "identical_is": null,
+        "reviewOn": "2025-11-20",
+        "noOfReview": "07",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkxOMFY2WW5NVDJEZ3paZEdlVDVySVE9PSIsInZhbHVlIjoidWpXckUxSFlKUERhUnB3czM4dnVodz09IiwibWFjIjoiNjcwYTYwZmFjMTVkNDU4MGVlYzA2YjIxMDY3MzIwODM2YjVhZmY1ZDk1MmJkNGFkNmNlMmM1MDZkNTU2OWU1OCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 30700,
+        "standardName": "Cold formed welded carbon steel square and rectangular hollow sections for mechanical, general engineering and decorative purposes - Specification",
+        "standardNumber": "IS 18573:2024",
+        "equivalent_is": "",
+        "identical_is": null,
+        "reviewOn": "2026-02-18",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkQvY0dEZThJSUdwYjZCUDdQVzdJN3c9PSIsInZhbHVlIjoibzI0ZkJpR2N3U09yQjZxa3gzTDNUUT09IiwibWFjIjoiYWE4ZGNiYmU4MjI3NmJiYWMwMGUyY2MyNzA1MTQ0MGEwYmYzM2RiYWE0NmYwNDU2ZmRlODAwZjcwZWI2Yjk1ZiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

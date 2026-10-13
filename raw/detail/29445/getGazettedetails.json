@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 20837,
+      "So_No": "pub-012-4-12020-pub-bis (668)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_241_20837_IE60947_3_2.pdf",
+      "pki_id": 9931,
+      "Amd_No": 0,
+      "standardNumber": "IS/IEC 60947 (Part 3):2020",
+      "standardId": 29260
+    }
+  ]
+}

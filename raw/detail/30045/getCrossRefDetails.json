@@ -1,0 +1,115 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 5659,
+        "standardNumber": "IS 1387:1993",
+        "standardName": "General requirements for the supply of metallurgical materials (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-03-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjJaMnF5Z0p3VElwT0tiNFlSbGNPQ3c9PSIsInZhbHVlIjoic0NEVVE3YzVRU1czOUoyRDdRTFpVZz09IiwibWFjIjoiMDUxYWU0OWVmNDI2NzgwN2E5YmRjMGUyYjRkZGIwYTA4YmVkMDQ4MGQ2MWFjYjE5OTA1ZDBhNDIyYzQ3ZDNmNCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 29398,
+        "standardNumber": "IS 1599:2023",
+        "standardName": "Metallic materials  Bend test",
+        "equivalent_is": "",
+        "identical_is": "ISO 7438 : 2020",
+        "reviewOn": "2023-09-06",
+        "noOfReview": "05",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InY5bDdnbW9Vbk5wY2pyMGFoVXY5OHc9PSIsInZhbHVlIjoiNTNFMDlKclN5T3FFV0FybktXa2Q0UT09IiwibWFjIjoiZTA1ZTZlNjRlYWQyODZhNGVhMmUwZTliMjAxZjFhY2MyM2M4ZTYyODFhYjZlZjBjYzM3OGVmMjM0NDdjM2FlMCIsInRhZyI6IiJ9",
+        "identical": "ISO 7438 : 2020"
+      },
+      {
+        "standardId": 8222,
+        "standardNumber": "IS 1817:1961",
+        "standardName": "Methods of sampling non - Ferrous metals for chemical analysis",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-03-30",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjR5TU4wcFVrSTlSU05HbDdUZlpVblE9PSIsInZhbHVlIjoiMkFxZFJqYVlHUTdKeU9kMUJKRVJLZz09IiwibWFjIjoiMGI1MjI3NjA4ZDgxM2RkNzE5OTVhYzAwYjZhZGJhODJmMzNkZTllMTE0NTU5NTY1ZDlhMjYxNGM3MGUzYTIyMCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 9126,
+        "standardNumber": "IS 2600 (Part 1):1988",
+        "standardName": "Methods of chemical analysis of zinc and zinc base alloys for die castings: Part 1 determination of copper, iron, nickel, tin and thallium by spectrophotometric method (First Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-12-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkN0NStZbmQzMm5CZ2JOci9XY1dWMVE9PSIsInZhbHVlIjoiOGRPOUJ4NWpKM2diNy9rTzNsTm1idz09IiwibWFjIjoiZWNiZjY0ZjBhMzQxMTIwM2RiZjBhNTJiMDNlZWNkZGNkNGYzMzY4NzMxOWRkN2Q3NGVhYzNjMGI2MjVlMjdiNSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 9127,
+        "standardNumber": "IS 2600 (Part 2):1988",
+        "standardName": "Methods of chemical analysis of zinc and zinc base alloys for die castings: Part 2 determination of copper, iron, lead and cadmium by atomic absorption spectrophotometric method (First Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-12-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Im9FTzRlSkMzK3hjTzRNWk5UcGR5R1E9PSIsInZhbHVlIjoiU0hFRjNSNk9YaDFpQmZLUm5YajZSdz09IiwibWFjIjoiY2I5NTk1YjE3ZTZjMzY2OWZkMTExMjNkNmUxNzBkZjNiOTgzZGVlNDlhOTM0YTRjODk0ZTVlNjVjNmZhNmY0ZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 10697,
+        "standardNumber": "IS 406:1964",
+        "standardName": "Methods of chemical analysis of slab zinc (Spelter) (Revised)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-03-20",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjJZV01VVSs1VTdUODFLYVc4WXQ0d3c9PSIsInZhbHVlIjoiUFI5MXlKODRyMW5YTllUSXIrL1NLdz09IiwibWFjIjoiYWI5MjNiMzk2NTUyYjIwMjQwMzA5NTEyYjk5NTVkNTAxYzRiODMyMzg3NDQwZTdiOTY3NDY3NjEyZjA2MmQxNCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 29764,
+        "standardNumber": "IS 18456:2023",
+        "standardName": "Plastics  Reinforcement Fibres  Chopped Strands  Determination of Bulk  Density",
+        "equivalent_is": "",
+        "identical_is": "ISO 15100 : 2000",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImdCUklsdEVLcCtac2h0dHNjSjdHNHc9PSIsInZhbHVlIjoiK3RiZVF3TDZBc2dPOFlTWC9KN3I2dz09IiwibWFjIjoiNWVmMjg4ZDc2OTA1Mzk2M2VlYWY0MzBjNTc5ZjE1NWNkYWM0Njg5YzNiYzNhZTM0YjM2YjAzZGU2MjA2ODhmMiIsInRhZyI6IiJ9",
+        "identical": "ISO 15100 : 2000"
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 2161,
+        "standardName": "Adjusters for control cables for moped - Specification (First Revision)",
+        "standardNumber": "IS 11139:2019",
+        "equivalent_is": " ",
+        "identical_is": " ",
+        "reviewOn": "2025-06-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InBPYm5McmU0ZU1yeEorQkphdHRqUFE9PSIsInZhbHVlIjoiZzJBSXVXYW92Y3BERkErMHpteEhCUT09IiwibWFjIjoiZDNkMGQzMTJiZjRjOTMzODEyMWM5ODY0ZWUxZTRkNzgwNjcyYmZkYjM0ZWI0ODBkNzRhZGE5NWM0ZjA0NzgwMyIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

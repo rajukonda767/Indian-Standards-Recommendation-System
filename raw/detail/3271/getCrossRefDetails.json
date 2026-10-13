@@ -1,0 +1,88 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 1421,
+        "standardNumber": "IS 10580:1983",
+        "standardName": "Service conditions for electrical equipment",
+        "equivalent_is": "NULL",
+        "identical_is": "NULL",
+        "reviewOn": "2025-01-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImZXb3M1T1l5RGVZSVh0anpLdHBqcUE9PSIsInZhbHVlIjoiNHJOaUNYNXJCMk1WMkZwcitJYUx4Zz09IiwibWFjIjoiOWJjNTVmMTIwZWJiMmE1MzUxNmYwZmVlM2Y0YTc1OWMxMDBiZDkzN2MxMDhlMmYxZTVlOGVjNjY1NTk2NmQ4YSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 1650,
+        "standardNumber": "IS 1076 (Part 1):1985",
+        "standardName": "Preferred numbers: Part 1 series of preferred numbers (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": "ISO 3",
+        "reviewOn": "2026-07-29",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Imk5Wi9CMHcramlvSTR2MUFocGRhbmc9PSIsInZhbHVlIjoibXI2aStGcEx3VlVQcWZlR2NWU2JvUT09IiwibWFjIjoiMmFlYmRjNTkxYzgzODU5NTgxYjBlNDEwMjdkZTkyZjJlODc4MjdkZGQ1YmJhNDhhODkzYzM5YzBiOTJhZTJhOSIsInRhZyI6IiJ9",
+        "identical": "ISO 3"
+      },
+      {
+        "standardId": 8316,
+        "standardNumber": "IS 1885 (Part 38):1993",
+        "standardName": "Electrotechnical vocabulary: Part 38 power transformers and reactors (Second Revision)",
+        "equivalent_is": "NULL",
+        "identical_is": "IEC Pub 50 ( 421 ) :  1990 ",
+        "reviewOn": "2025-01-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InZ1Nlc1ZzFYZUx1WTZ4enErQUpSTEE9PSIsInZhbHVlIjoiMStNYytrUHFGNy9JRlgvZnZiWTF6dz09IiwibWFjIjoiZjM5Mjk3YmNiODk4Mzc2YmM5OGQxNTlmMDBiNjllN2NjZWMzODg5YzdjNTJiZWM4ZWQxZDg1MWFjYzYzZjQ1YyIsInRhZyI6IiJ9",
+        "identical": "IEC Pub 50 ( 421 ) :  1990 "
+      },
+      {
+        "standardId": 9716,
+        "standardNumber": "IS 3156 (Part 1):1992",
+        "standardName": "Voltage transformers: Part 1 General requirements",
+        "equivalent_is": "IEC60186-1",
+        "identical_is": "NULL",
+        "reviewOn": "2021-02-04",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjRNSG85cjRmdkxlYjdZY0hnamRIaXc9PSIsInZhbHVlIjoiOFFtM2RaMUp1cWxSRlB3bysyV3h6dz09IiwibWFjIjoiYTRiYTkzYjJlZTgwOWU5ZmM4YjhiZTIxMmZhNzY2ZDBkYzFkNWYwNzljMmI1YWZhNDVmYTQ1NGE4MGI1YjRkOCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 17081,
+        "standardNumber": "IS 9678:1980",
+        "standardName": "Methods of measuring temperature-rise of electrical equipment",
+        "equivalent_is": "NULL",
+        "identical_is": "NULL",
+        "reviewOn": "2025-01-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjBPSGRyQS9LVjBwbGJ1bkxGRjIzb0E9PSIsInZhbHVlIjoiakU0OEVHV2xkK3ArYlEvclFaTGpaQT09IiwibWFjIjoiNTk0ZjhlOTE2ZmYxNjdlNDgxZDQzNTQxZWQ2MzA0NWYyYWM0NjYxYzA2ZWQ4NWY0YTFlOTkzNDA0YmViODY5ZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 28616,
+        "standardNumber": "IS/IEC 60947 (Part 1):2020",
+        "standardName": "LOW-VOLTAGE SWITCHGEAR AND CONTROLGEAR PART 1 GENERAL RULES",
+        "equivalent_is": "",
+        "identical_is": "IEC 60947-1:2020",
+        "reviewOn": "2023-05-15",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Im9NY3I2eFBrc3p2b3hXMHNicDJoeWc9PSIsInZhbHVlIjoiNXZnREE4ZXBRMGlEd2dKNEMwYW4yQT09IiwibWFjIjoiZjIwMTBkZjI0NzBkM2M5MDdiNDhmMTNiZjNlM2M3OWQyMmNjZTk5NGMzM2RmNmM2ZDRmMWFmN2RkYmM4MDhiZiIsInRhZyI6IiJ9",
+        "identical": "IEC 60947-1:2020"
+      }
+    ],
+    "crossFollowRefData": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "No record found.",
+  "data": {
+    "crossRefData": [],
+    "crossFollowRefData": [
+      {
+        "standardId": 25577,
+        "standardName": "Aluminium Conductors for Overhead Transmission Purposes Part 6 High Conductivity Aluminium Alloy Stranded Conductors — Specification",
+        "standardNumber": "IS 398 (Part 6):2021",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2026-03-23",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik1FRk03Tk9sMDA4TCsvdzI3T3JobWc9PSIsInZhbHVlIjoiMm5ZVm5GeUpGaUliWVNQVmIxa1NsZz09IiwibWFjIjoiMGViNjZjMjFmMWNjNjk3NjYwN2EzZTdiNTBlOWJlMGQ3NmE3YmEyNzNkZGY1OWQ5NmQ2NjBlNTdhNDk1ODhlZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 938,
+        "standardName": "Specification for spacers and spacer dampers for twin horizontal bundle conductors",
+        "standardNumber": "IS 10162:1982",
+        "equivalent_is": "NULL",
+        "identical_is": "NULL",
+        "reviewOn": "2018-01-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ikh0T2QzaXB5WmZ3dWxWSjQvb01iNWc9PSIsInZhbHVlIjoiaFlMVkRxaFA0blVYTkJCUGNvdlg0QT09IiwibWFjIjoiM2IyNDc2Y2EyYzU1YzRmMDBiZjU2Yzc4MjhjY2Y1YTQzN2RkZWJjOWYwM2IwOTlhMzA4OTc2NTg5NWFhZDlhZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 3312,
+        "standardName": "Specification for helically formed fittings for overhead lines up to 33 kV",
+        "standardNumber": "IS 12048:1987",
+        "equivalent_is": "NULL",
+        "identical_is": "NULL",
+        "reviewOn": "2023-03-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImtyUW5NWDc0Y1kyWW40WWJWZDRVQVE9PSIsInZhbHVlIjoibllXUkpvQ1pEenlLayszYXhqTVZrdz09IiwibWFjIjoiMGI0ZWIwZmVhNzFhZTFkOTdlNTM2MGU4MjI4OTgwN2VlZjk4OTFlMWY2ZDUzYzdjZjNlYzY3NGYzMzkwMDA0YyIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

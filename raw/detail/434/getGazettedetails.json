@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 434,
+      "So_No": "6222(E) ",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_266_434_6221(E)+6222(E).pdf",
+      "pki_id": 1594,
+      "Amd_No": 0,
+      "standardNumber": "IS 13730 (Part 4):2018",
+      "standardId": 434
+    }
+  ]
+}

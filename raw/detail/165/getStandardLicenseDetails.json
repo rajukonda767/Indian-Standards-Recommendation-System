@@ -1,0 +1,44 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "License details fetched successfully.",
+  "data": [
+    {
+      "id": 1,
+      "data_id": 6814176,
+      "licenseNo": "0007469794",
+      "firmName": "Ambuja Cements Limited",
+      "firmAddress": "PLOT NO. 348, NEAR NTPS, EKLAHARE,",
+      "district": "NASHIK",
+      "state": "MAHARASHTRA",
+      "validityDate": "2026-12-17",
+      "status": "Operative",
+      "variety": "--",
+      "brandName": "POZZOCRETE  - 60(Brand)POZZOCRETE - 63(Brand)POZZOCRETE - 83",
+      "scale": "Large",
+      "region": "Mumbai Branch Office-I",
+      "branch": "MUBO",
+      "technicalDepartment": "--",
+      "standardNumber": "IS 3812 : PART 1 : 2013",
+      "manorvol": "Voluntary",
+      "productName": "Pulverized Fuel Ash - Part 1 : For Use as Pozzolana in Cement, Cement Mortar and Concrete",
+      "licenseContactNo": "--",
+      "licenseEmail": "--",
+      "licenseGrantDate": "2003-12-08",
+      "statusDate": "--",
+      "branchOffice": "MUBO",
+      "certificationType": "--",
+      "availableSti": "--",
+      "contactPersonDetails": "--"
+    }
+  ],
+  "pagination": {
+    "totalRecord": 1,
+    "totalPages": 1,
+    "currentPage": 1,
+    "pageSize": 10,
+    "firstPage": true,
+    "lastPage": true,
+    "numberOfElements": 1
+  }
+}

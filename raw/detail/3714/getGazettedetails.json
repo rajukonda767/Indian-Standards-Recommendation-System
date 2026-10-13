@@ -1,0 +1,25 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 3714,
+      "So_No": "BLANK ",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/MTD/gf_40_3714_BLANK.pdf",
+      "pki_id": 3138,
+      "Amd_No": 2,
+      "standardNumber": " Amendment 2 to IS 1239 (Part 2):2011",
+      "standardId": 3714
+    },
+    {
+      "IS_NO": 3714,
+      "So_No": "BLANK ",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/MTD/gf_40_3714_BLANK.pdf",
+      "pki_id": 3139,
+      "Amd_No": 3,
+      "standardNumber": " Amendment 3 to IS 1239 (Part 2):2011",
+      "standardId": 3714
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Commerce and Industry - Department for Promotion of Industry and Internal Trade (DPIIT)",
+    "riskNameName": "Low",
+    "standardId": "eyJpdiI6IjJKSXBkNUFwclVjcWxRK1NLSldiSFE9PSIsInZhbHVlIjoiK1hNTFZuVksxUjBrakxQL0dDVS85QT09IiwibWFjIjoiMDk3MjRlY2Y5M2QwZTk3NGVhMzM0NTkzMWFjZjdlNjBhMjkyMTg2NTRmMzNhMmYyZDkwOTVkMDFhZTJlMDhmMiIsInRhZyI6IiJ9",
+    "rowStandardId": 65705,
+    "pk_is_id": 65705,
+    "standardName": "Wrought copper tubes for refrigeration and air-conditioning purposes — Specification (Second Revision)",
+    "standardNumber": "IS 10773:2025",
+    "publishedOn": "2025-11-28",
+    "committeeId": 31,
+    "departmentId": 70,
+    "groupName": "Metals, Alloys and Metal Products (including Steel Products)",
+    "subGroupName": "Non ferrous metals and their alloys",
+    "subSubGroupName": "Copper",
+    "sectorName": "Non Ferrous Sector",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "02",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 5,
+    "languageId": "English",
+    "icsCode": "77.150.30",
+    "shortTitle": null,
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "IS 10773:1995",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/projects/proof/2025/12/238_1765448018.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": null,
+    "source": 1,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Vishal Kumar Rana (SCIENTIST-C)",
+    "committeeName": "Ores and Feed Stock for Copper Industry, its Metals/ Alloys and Products Sectional Committee",
+    "departmentName": "METALLURGICAL ENGINEERING DEPARTMENT",
+    "deptAliasName": "MTD",
+    "committeePreparedName": "MTD 08 - Ores And Feed Stock For Copper Industry, Its Metals/ Alloys And Products Sectional Committee",
+    "deptPreparedName": "Metallurgical Engineering Department(MTD)",
+    "reviewList": [
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 10773:1995"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 10773:1995"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 10773:1995"
+      }
+    ]
+  }
+}

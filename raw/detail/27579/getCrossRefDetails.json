@@ -1,0 +1,73 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 571,
+        "standardNumber": "IS 8504 (Part 5/Sec 1):2012",
+        "standardName": "Electrical Insulating Materials -Thermal Endurance Properties -Part 5 Ageing Ovens : Section 1 Single-chamber Ovens",
+        "equivalent_is": null,
+        "identical_is": "IEC 60216_4_1:2006",
+        "reviewOn": "2024-09-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlVKVllnZTBmWmlQUnhzUEpXVkloaFE9PSIsInZhbHVlIjoibFBtYjZVSFlyOU43cFV5b3c1enptZz09IiwibWFjIjoiODJhYmVjNjljNGEyZWU2NDY2Y2FmM2E1MzdlMGE0OTk3YjYwNTFlN2JkYzU0MzIxNzIyZDYzYjhhNDZmN2VlOSIsInRhZyI6IiJ9",
+        "identical": "IEC 60216_4_1:2006"
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 4892 (Part 2):2013",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Im1OSjlwdWdkQ0NGWTN6OWRobGdQUFE9PSIsInZhbHVlIjoicUk2WWU0RVJ2WUIzKzE0VXNVd1QrUT09IiwibWFjIjoiODI0ZTRmMGE0YTgwNmY0N2I4MWY4ZDEyNWRlYmQ3ODJjOTU2OGE1N2UyZTI1MjkwYmQ5ZDM2NTc0NjNlNmQ5MyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 9227:2017",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6InVaS0hQUmpvRFNQWlB3MkN4ZHRzSXc9PSIsInZhbHVlIjoiUG8xVVp3bEp4UGhhVHIwNktRcndwUT09IiwibWFjIjoiMWRlZWMxZmRhOTYzNjg3NzJlNDI1OTBlODE5YTE3NmI1ZDNhN2NlZDdhOGQ3YWIxZWQ2ZDRjZDViNTA5NDhjOSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60068 (Part 2/Sec 6):2007",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6InJ4S3RRKzI4U2NvZU5PRmJuQ1lEUkE9PSIsInZhbHVlIjoiSzZWSno3dWZVZnRiSkg5SkFsYXNXdz09IiwibWFjIjoiYjNmYjQ4MWE4NjE0MDljYjI4NDE4YWJkZGFjZThhNTU4MGM3NzAzNDkxODMzYTFmYTUyZWUxYWY0ZGRkYTk4MCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60695 (Part 11/Sec 5):2016",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlNzODF1ZWxQRGhpVDNYQ1BRRGczcGc9PSIsInZhbHVlIjoiVFBoaGgwMmNNT1pOL2Flb2gwbDRXdz09IiwibWFjIjoiMTBkZmU4OTRkYzliMTcxYzA0MDA4OGM0NzYxZmI0MDEyOWVlMmRiNTNkNzVmZGJlMTVjNzM4OTIxMTE1OWFjOCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60216 (Part 4/Sec 1):2006",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IkNOeWJmckNackFrVTFxdWIvVWF4ZXc9PSIsInZhbHVlIjoiYWJTbmNITVg5UkprTGdBbjVnN1BKZz09IiwibWFjIjoiYjEzYzU2YWE4ZmZiMGM5ZTcxYzI3NDQ0MDdjOTIyNzk5MDU4ZTljY2NlZDkwM2NmMTI3NWVlMDg4M2NjODQwYyIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": []
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 6813,
+        "isType": 1,
+        "standardNumber": "IS 14841 (Part 2/Sec 1):2000",
+        "standardName": "Packaging of winding wires: Part 2 cylindrical barrelled delivery spools: Sec 1 basic dimensions",
+        "noOfReview": "00",
+        "identical_is": "IEC 60264-2-1:1989",
+        "reviewOn": "2026-02-12",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlhDYlVOUzJTR2pWSTlVUHJRUEJVcFE9PSIsInZhbHVlIjoiVkdFenpQTGxFRGtQVjRYTVBQSHZ0QT09IiwibWFjIjoiYTlhNTVjZjU4ODMyODdkOGI2NjA3ZDFhOGQyNmFjNGI0ZDc4ZWZhMGZiMWQ3YzY1NDllYWUxNDQ2ZDgxNDM2YSIsInRhZyI6IiJ9",
+        "identical": "IEC 60264-2-1:1989"
+      },
+      {
+        "standardId": 6814,
+        "isType": 1,
+        "standardNumber": "IS 14841 (Part 2/Sec 2):2000",
+        "standardName": "Packaging of winding wires: Part 2 cylindrical barrelled delivery spools: Sec 2 specification for returnable spools made fromThermoplastic materials",
+        "noOfReview": "00",
+        "identical_is": "IEC 60264-2-2:1990",
+        "reviewOn": "2026-02-12",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlpodEV5Tm5aazBZWHZ3NS94ZGhPNnc9PSIsInZhbHVlIjoiaTA0N1RZSVZ1UDkvVnNPaFZ4NnpNQT09IiwibWFjIjoiZjcwYTE3ZDgzZGUzMjUzMzY5MjIzMGNhMDJkZjA3YjdlMDBmMjA4ZjkxNTg4YWI3MjlmODMxNTEzMGI1MDI1MSIsInRhZyI6IiJ9",
+        "identical": "IEC 60264-2-2:1990"
+      },
+      {
+        "standardId": 6815,
+        "isType": 1,
+        "standardNumber": "IS 14841 (Part 3/Sec 1):2000",
+        "standardName": "Packag - Ing of winding wires: Part 3 taper barrelled delivery spools: Sec 1 basic dimensions",
+        "noOfReview": "00",
+        "identical_is": "IEC 60264-3-1:1999",
+        "reviewOn": "2026-02-12",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkxzelNVQklaMElNdzdTK0dvRkcwRFE9PSIsInZhbHVlIjoiRnM1NDBvRnJpZUNFZkZBeUF5ejJxZz09IiwibWFjIjoiN2NlZDIzNGViNzY3MDI0NzVmZjYwZGZiZTIzYzliN2UyYTVkODY5NTBkZGJkMTc2MGZmZDBjMGU3NDkwOTY2MCIsInRhZyI6IiJ9",
+        "identical": "IEC 60264-3-1:1999"
+      },
+      {
+        "standardId": 6816,
+        "isType": 1,
+        "standardNumber": "IS 14841 (Part 3/Sec 2):2000",
+        "standardName": "Packaging of winding wires: Part 3 taper barrelled delivery spools: Sec 2 specification for returnable spools made fromThermoplastic materials",
+        "noOfReview": "00",
+        "identical_is": "IEC 60264-3-2:1999",
+        "reviewOn": "2026-02-12",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkRRakJ0RmgwRitmdzN2a216RXprNkE9PSIsInZhbHVlIjoiMGNZaW5ZRnlpb1hrVEhqbnFkSWlPZz09IiwibWFjIjoiMTg0NGZmMTE4ODc3NjA3NjIwZTk4ZGJiMTk4M2M3MDExMmYxNTdkZjViMjY3Y2RmZmIwMTYxZDJmOTI2MTAyMCIsInRhZyI6IiJ9",
+        "identical": "IEC 60264-3-2:1999"
+      },
+      {
+        "standardId": 6817,
+        "isType": 1,
+        "standardNumber": "IS 14841 (Part 3/Sec 3):2000",
+        "standardName": "Packaging of winding wires: Part 3 taper barrelled dellVery spools: Sec 3 specification for non - Returnable spools made from thermoplastic material",
+        "noOfReview": "00",
+        "identical_is": "IEC 60264-3-3:1990",
+        "reviewOn": "2026-02-12",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IldLKzRIYldrZTdKVnJpdGpFTkc1Smc9PSIsInZhbHVlIjoiZ2JzS0krSFgxdkNUNU1zaVBBTHkrQT09IiwibWFjIjoiZTY3Njk1ODc5MDM0YzkwZTFlYjlkYTM0MDY4MzMxNmQ1ZTRmNTE4M2I5ZmU0NjFmYTkwZmUxZTRiN2NjYzc0NyIsInRhZyI6IiJ9",
+        "identical": "IEC 60264-3-3:1990"
+      },
+      {
+        "standardId": 6819,
+        "isType": 1,
+        "standardNumber": "IS 14841 (Part 4/Sec 1):2013",
+        "standardName": "Packaging of winding wires: Part 4 methods of test: Sec 1 delivery spools made from thermoplastic materials (First Revision)",
+        "noOfReview": "01",
+        "identical_is": "IEC 60264-4-1:1997",
+        "reviewOn": "2024-09-01",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImU4Q0k1OVp1aENPNGlxVFhidXhjR0E9PSIsInZhbHVlIjoiWW5NMnF6Z1VyQkdoN2lVNDNscWVjdz09IiwibWFjIjoiZTkwNTc5NDlmMDJlYjQ4NzI4OTYyMTAzNjMzOTMyNDFiMjkyODc1NTgwZmJkODEwZTcxMjcyMzNkMzIxMzdlOCIsInRhZyI6IiJ9",
+        "identical": "IEC 60264-4-1:1997"
+      },
+      {
+        "standardId": 15965,
+        "isType": 1,
+        "standardNumber": "IS 8783 (Part 1):1995",
+        "standardName": "Winding wires for submersible motors - Specification: Part 1 conductor data (First Revision)",
+        "noOfReview": "01",
+        "identical_is": "NULL",
+        "reviewOn": "2026-02-20",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjNoN0R3YVkxT21ZWFhQNGlwWEs2WFE9PSIsInZhbHVlIjoicC9YWnAwcTJuWjJKYzBvT0w4S0pXQT09IiwibWFjIjoiNjJmMWQ1ZmJhY2U0ZmZjOTNkZDQxY2MzODY1MTRhY2IyNWQ1NTBiZjQ2MmM2OWE1NWIwYWFiZjkxZDViN2VlZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 15966,
+        "isType": 1,
+        "standardNumber": "IS 8783 (Part 2):1995",
+        "standardName": "Winding wires for submersible motors - Specification: Part 2 materials for dielectric and jacket (First Revision)",
+        "noOfReview": "01",
+        "identical_is": "NULL",
+        "reviewOn": "2021-01-01",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InRUclVLaFhUNFJlVVdaL2Y5bWdoM3c9PSIsInZhbHVlIjoicTRVd1hWSHRFdlUxcnN5TStqNXJxQT09IiwibWFjIjoiYWZlZWI4YzAxN2MyYjVhNjNhY2RiZGNlMzU3NjBmNTk1NGU0NzUwNjQxM2IyZTI1YzIwNTQ1ZTUyNWJiZmQxNiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 15967,
+        "isType": 1,
+        "standardNumber": "IS 8783 (Part 3):1995",
+        "standardName": "Winding wires for submersible motors - Specification: Part 3 methods of tests (First Revision)",
+        "noOfReview": "01",
+        "identical_is": "NULL",
+        "reviewOn": "2026-02-20",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjloYjBhb2ZJK0hSaXZ5ZlVJcnpFYlE9PSIsInZhbHVlIjoiN0ZuQnpJRDJQbHJVeG8vMFJoNkt4dz09IiwibWFjIjoiYTY2NzQ2NjcwZTRhMDA1YTJjNWEwNDA1NDRhNTdkNDA4Y2Q1NGI1MGMyOTU2YTk4Njc5MzljYTlhYjdiOGNkNSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 15969,
+        "isType": 1,
+        "standardNumber": "IS 8783 (Part 4/Sec 2):1995",
+        "standardName": "Winding wires for submersible motors - specification: Part 4 specification for individual wires: Sec 2 crosslinked polyethylene insulated and polyamide jacketed wires (First Revision)",
+        "noOfReview": "01",
+        "identical_is": "NULL",
+        "reviewOn": "2026-02-20",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkpBbHVzVE5JOVRDR215M01DODF0VEE9PSIsInZhbHVlIjoiR05CVmlEem1zeXdEcDRyT294eVowdz09IiwibWFjIjoiYzFkYWM0MjZiMTgzNjUwNWYyNjlkZTMwZDY4YWUyN2YzNjM2ODJhMzg3ZmI4Njc4ZGUwMWIwMzExZjZjODliNCIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": []
+  }
+}

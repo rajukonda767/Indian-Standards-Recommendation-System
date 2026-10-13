@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Power",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6ImMvZ1lUcTdod3pzWmhlVllncUhvT2c9PSIsInZhbHVlIjoiUzB1M0VEb0xzbkg4TXg2Zm5lcXR6dz09IiwibWFjIjoiMTExN2FmYWRiN2RkMmNmYWJhM2UxMjJiMTgwM2FkODkxYWYwZDg5NTg0ZjM2YmViMjk0NjhjMDA2NzBlNDdiYiIsInRhZyI6IiJ9",
+    "rowStandardId": 9947,
+    "pk_is_id": 9948,
+    "standardName": "New insulating oils - Specification (Fifth Revision)",
+    "standardNumber": "IS 335:2018",
+    "publishedOn": "2018-09-30",
+    "committeeId": 238,
+    "departmentId": 65,
+    "groupName": "Electrical  Switchgear and Other Electrical Products/Accessories",
+    "subGroupName": "Insulating material and systems",
+    "subSubGroupName": "Electrical insulators and insulating oils",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "05",
+    "noOfAmendment": "01",
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "New Insulating Oils",
+    "certificationName": "Voluntary",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": " ",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S05/S05V01/335.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": null,
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Singaraju Venkatesh (SCIENTIST-D)",
+    "committeeName": "Fluids For Electrotechnical Applications",
+    "departmentName": "ELECTROTECHNICAL DEPARTMENT",
+    "deptAliasName": "ETD",
+    "committeePreparedName": "ETD 03 - Fluids For Electrotechnical Applications",
+    "deptPreparedName": "Electrotechnical Department(ETD)",
+    "reviewList": [
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 335:2018"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 335:2018"
+      },
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 335:1993"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "totalAmendments": 2,
+  "data": [
+    {
+      "standardId": 13039,
+      "standardNumber": "IS 6198:1992",
+      "noOfAmendment": 1,
+      "amendmentYear": "2000",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/6198A1.pdf",
+      "amendmentLabel": "First Amendment"
+    },
+    {
+      "standardId": 13039,
+      "standardNumber": "IS 6198:1992",
+      "noOfAmendment": 1,
+      "amendmentYear": "2009",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/6198A2.pdf",
+      "amendmentLabel": "Second Amendment"
+    }
+  ]
+}

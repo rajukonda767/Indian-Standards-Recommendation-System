@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "totalAmendments": 1,
+  "data": [
+    {
+      "standardId": 6875,
+      "standardNumber": "IS 1489 (Part 1)  : 2015",
+      "noOfAmendment": 1,
+      "amendmentYear": "2018",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/1489_1A1.pdf",
+      "amendmentLabel": "First Amendment"
+    }
+  ]
+}

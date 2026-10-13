@@ -1,0 +1,15 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "No laboratory details found.",
+  "data": [],
+  "pagination": {
+    "totalRecord": 0,
+    "totalPages": 0,
+    "currentPage": 1,
+    "pageSize": 10,
+    "firstPage": true,
+    "lastPage": true,
+    "numberOfElements": 0
+  }
+}

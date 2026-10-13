@@ -1,0 +1,59 @@
+{
+  "endpoint": "getAmendmentDetails",
+  "url": "https://standardsadmin.bis.gov.in/review-service//getAmendmentDetails",
+  "method": "POST",
+  "request_headers": {
+    "referer": "https://standards.bis.gov.in/",
+    "accept": "application/json, text/plain, */*",
+    "content-type": "application/json"
+  },
+  "request_body": {
+    "standardId": "eyJpdiI6IkZOdVdIUTgzc1ViOGVUb2xUelJEU1E9PSIsInZhbHVlIjoid1JxNmVSamtUelZrTll4bEVROE82QT09IiwibWFjIjoiZmQ1YjRmNGQ0NWRmNjNiZjMwZDQwYmY0N2Q5MTViYzMyYjBhNmEwMDA0MjkxOGI2MmQwOTM3ZDg5OGVmYjgyZiIsInRhZyI6IiJ9",
+    "token": null,
+    "refreshToken": null,
+    "clientId": null,
+    "clientSecret": null,
+    "sub": null
+  },
+  "response_status": 200,
+  "response_json": {
+    "status": "SUCCESS",
+    "statusCode": 200,
+    "msg": "Record fetched successfully.",
+    "totalAmendments": 4,
+    "data": [
+      {
+        "standardId": 13826,
+        "standardNumber": "IS 694:2010",
+        "noOfAmendment": 1,
+        "amendmentYear": "2012",
+        "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/694A1.pdf",
+        "amendmentLabel": "First Amendment"
+      },
+      {
+        "standardId": 13826,
+        "standardNumber": "IS 694:2010",
+        "noOfAmendment": 1,
+        "amendmentYear": "2014",
+        "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/694A2.pdf",
+        "amendmentLabel": "Second Amendment"
+      },
+      {
+        "standardId": 13826,
+        "standardNumber": "IS 694:2010",
+        "noOfAmendment": 2,
+        "amendmentYear": "2015",
+        "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/694A3.pdf",
+        "amendmentLabel": "Third Amendment"
+      },
+      {
+        "standardId": 13826,
+        "standardNumber": "IS 694:2010",
+        "noOfAmendment": 3,
+        "amendmentYear": "2020",
+        "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/694A4.pdf",
+        "amendmentLabel": "Fourth Amendment"
+      }
+    ]
+  }
+}

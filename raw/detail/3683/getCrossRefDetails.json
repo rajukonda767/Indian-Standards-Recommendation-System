@@ -1,0 +1,128 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 25242,
+        "standardNumber": "IS 15622:2006",
+        "standardName": "Pressed ceramic tiles - (Superseding IS 13753:1993, IS 13754:1993, IS 13755:1993 and IS 13756:1993)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InpEZFVWcGdTMGFYUHRCb29Wb3dMMmc9PSIsInZhbHVlIjoiQnIwZGI4YVIwVCsxdEc4bXE0RDNOZz09IiwibWFjIjoiNzRhMDM0YzFjMGI3NjQ0NGYwY2RiMzhlOWZmNThlMTEzMzBhM2I2NjBkNmJiZGI4MDA5MzZjMWFkYTgyNDEyOCIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 162,
+        "standardName": "Chequered Cement Concrete Tiles - Specification (First Revision)",
+        "standardNumber": "IS 13801:2013",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-05-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InQ4dUtLM0NSVVpBc0lldm4rRUc5SWc9PSIsInZhbHVlIjoiMzZlS2ZnZU5aUWRjQ0ZtRXRnVWF6UT09IiwibWFjIjoiN2QwMmM2NGYyMGEwNzcyZGQzOWM5NjBhYThmNmFmNmQwZTQwODg3YzE3NzE3NTk2ZTA1Zjc5MDA5YmQxZTlkNiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 17760,
+        "standardName": "Code of Practice for Waterproofing of Roofs with Bitumen Felts (Third Revision)",
+        "standardNumber": "IS 1346:1991",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-03-20",
+        "noOfReview": "03",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ingwd00rMTF6OHpYVHBWMlNKRDlsQ2c9PSIsInZhbHVlIjoiWlhVM0pwT1lneWlGWGFUdmxWMEhaUT09IiwibWFjIjoiZGZkNzg5YTdhMGYzMDFmNmVkNmFjOWUxMDE5NTU2NGUzNmZlMjkxMTdiYTM4ZmIwMDc2ZDVhYWQ1MmExNzc2YSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 10735,
+        "standardName": "Code of Practice for External Cladding - Part 3 : Wall Tiling and Mosaics",
+        "standardNumber": "IS 4101 (Part 3):1985",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-09-10",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImRTbXNhaFB1WFpLZ0pBMVdEdHFCL2c9PSIsInZhbHVlIjoiaXV4NGdCRExiS1ZxQy9VTnphdmlvUT09IiwibWFjIjoiNzI5YzZjN2EwNmIzZjQ0YTNmZDA4NGRjY2ZmOTY1MzM5ODcxZThlOTIzYmY3YTk3MDA4M2VlMTFkZWIxMGQ1OSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 8661,
+        "standardName": "Code of practice for construction of brick - Cum - Concrete composite (Madras Terrace) floor and roof",
+        "standardNumber": "IS 2119:1980",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-01-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Im8wSC94eVI0emIyZzZVK2NYaHhrdlE9PSIsInZhbHVlIjoiZ3F0Ujl4U2xxenVIVkpidDFIRlNlZz09IiwibWFjIjoiMzJjZTE4ZTQ4ZmFjMTlmNmZkNGI3MDhlNWExMjQzOTU2NzA0NTUwOGIzMmRhNjk0ZTZlYmFmNWEwYTAzN2Q2NCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 15003,
+        "standardName": "Recommendations for selection of dairy floor finishes",
+        "standardNumber": "IS 7956:1975",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2022-01-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InMzSzFiTHlRVkVYM3pYT3VFUDJQNlE9PSIsInZhbHVlIjoiRmphd05qaGtNeWVmOC9zMEI4UE5sZz09IiwibWFjIjoiODUyNzFmOGRkNThkNTU4NTE1NzkyYTM3MWYxY2U0OGM2YTFkMzJjYmZhODAwOWJkYjgwMTllNjQ1NDRjNzVjYiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 16429,
+        "standardName": "Methods of tests for epoxy resins, hardeners and epoxy resin compositions for floor topping",
+        "standardNumber": "IS 9162:1979",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2022-01-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ii92SjhSN2hBd0F2eFlZVXpGb09naXc9PSIsInZhbHVlIjoiZ0puZkY0V2xtS2RwRDZHMHRjSCt5dz09IiwibWFjIjoiOTI0N2NkMDE1YjY0ZGQ0YjEzMTBiNWJhYjU4Y2ZhOWE2NDllM2U5MjAyNzhhODBmYzA1MDU3YjYzYTJjMjhjMyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 6190,
+        "standardName": "Laying and Finishing of Cement Concrete Tiles - Code of Practice (Second Revision)",
+        "standardNumber": "IS 1443:2018",
+        "equivalent_is": " ",
+        "identical_is": " ",
+        "reviewOn": "2023-07-01",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik5WeHQyT0lOeVFaN0dNNVAwU1kyMEE9PSIsInZhbHVlIjoiNjdEQktOKzdEenhkRjFCelgyWk9zZz09IiwibWFjIjoiNDAwNDAyZDkyNTFlYWFjNTNmY2JhMGRiM2I1NzAzM2MzNzllMTM0ZTFiYzNmMDM0ZjE4OWM1NzVjOGNmNDE3ZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 32905,
+        "standardName": "Housing of Sheep and Goats — Code of Practice ( Second Revision)",
+        "standardNumber": "IS 2733:2025",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2025-03-25",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InYwV1pyYU05ZkxJL0Z1dUNIcHB3clE9PSIsInZhbHVlIjoiYi9GRU8wYjJWK0FwTVYwU2hYOGF6dz09IiwibWFjIjoiMWI0ZGU3YzMwYjMxY2I5NDRjM2M2M2IwODVmMTBjYjIxNzRhNmVhNDMzOTcwMjdkOTEzY2Q0MmMwNGE5ZjQ2OSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

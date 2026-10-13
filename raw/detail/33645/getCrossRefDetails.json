@@ -1,0 +1,193 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 8222,
+        "standardNumber": "IS 1817:1961",
+        "standardName": "Methods of sampling non - Ferrous metals for chemical analysis",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-03-30",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InVRdTU3NWRnK1N0Y0dRSTJRbTV4UWc9PSIsInZhbHVlIjoiWjRJTGxPcTYvVlR0UEN5cy9oaFEyQT09IiwibWFjIjoiNTQzMDNlZGQ4NjVhYjZkZjUxZDI4YjQ1MTdiNjYyMTZmOTQzNjE3MWMzODI5NWE3Nzc2MzVhZmI5NTMzMzI1MiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 33552,
+        "standardNumber": "IS 19297:2025",
+        "standardName": "Ships and Marine Technology  Cyber Safety",
+        "equivalent_is": "",
+        "identical_is": "ISO 23806: 2022",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Im8vNjhMenNFMTh2Sm1ZTUMzRjFKMlE9PSIsInZhbHVlIjoiY1l3RjFYU0dzNjlLUGEvTE9TWFFMUT09IiwibWFjIjoiOGY4NjdhMDcyMzU1ZWU1NjM4OTMwZTM0NDFlYTZiMTg5NzFkNWI2ZDQ0OWVjNjc2Y2NiMTllMzEyNzE4NGJjZSIsInRhZyI6IiJ9",
+        "identical": "ISO 23806: 2022"
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 12297,
+        "standardName": "Methods of testing anodic coatings on aluminium and its alloys (First Revision)",
+        "standardNumber": "IS 5523:1983",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-03-27",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjZ6MTY5eitCQ1Nvb3JHZnF4WDhCL2c9PSIsInZhbHVlIjoiZFYxQ3V0eE9KUTRYWlNuZEtESmNHdz09IiwibWFjIjoiZGE5MTlhNzczNDliODU1MWNhOTNhYWM4N2E4ZTQ5NjEyNDY1MjI4MGM0OGZjZDllNDgzM2NkN2Y4MzA0ZDlmMSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 9772,
+        "standardName": "Engineers Drawing Instruments - Spring Bow Compasses - Specification ( First Revision )",
+        "standardNumber": "IS 3209:1989",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-10-28",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Im9saG1tNTlOeE5qWHA2UlZJNis1Smc9PSIsInZhbHVlIjoiQjBFQmpsdnQ2dHlMU2h2UXVBcEthZz09IiwibWFjIjoiNTM0OGM2ZDM5ZDYwNmViYjViY2QxMjVhZDI4MTk1OWJiMTljMmRkZjZiY2YwMzgyMzQ3ZDZlMzdkM2VmMmY5OSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 1408,
+        "standardName": "Aluminium bronze rods, bars and sections - Specification (First Revision)",
+        "standardNumber": "IS 10569:2005",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-03-23",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Imt3M1h2NUZvZmE2Q2RWdDF4YjZ1cEE9PSIsInZhbHVlIjoiWmUxWW1HN2ttaGVQeVU5Ujh6M3dOdz09IiwibWFjIjoiYzIxZDM2ZWRiODE0ZDk2ZmYzOGM4YWMxNGM4MmMxZDlmZTAxMWYwZDZmMGNhMThhZGIzN2Q1ZmFjMjI1NWM4ZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 14843,
+        "standardName": "Phosphor bronze sheet, strip and foil - Specification (Second Revision)",
+        "standardNumber": "IS 7814:2005",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-03-23",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Imk4dVRxa2RjSEgwRGRReWNNek1VSnc9PSIsInZhbHVlIjoiZjhVRDdoWEpTUUF6WWRrc1hXejdLUT09IiwibWFjIjoiMjJjM2U0YzhkZDUwOWYzYTMwYzE2YTZjOWRmMzVhZDMyNGNiY2NlYjI4MWUzZGRkYzhlNzVhY2E1ODhjZWUxMiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 9664,
+        "standardName": "Aluminium bronze ingots and castings for overhead fittings in electric traction - Specification (First Revision)",
+        "standardNumber": "IS 3091:1999",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-03-23",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImoxWFBkODdtM3ViS3Fra0VQQ2FBT0E9PSIsInZhbHVlIjoiVjM4ZkNUUUZuZjVCbUs5TXNidHg4QT09IiwibWFjIjoiMmVhODVjNGQ0ZjZkMTMyODY0OWM3N2EwZDI0NWZjYzQ5NTNlYjBiYmRiYjI4ZTI1OTc5ZDQ2Y2EzZmQ0OTkyZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 29365,
+        "standardName": "BRONZE POWDER FOR METALLIC FILTERS - SPECIFICATION",
+        "standardNumber": "IS 10035:2023",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2023-09-05",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlR4NytPMXlnRWtoM0xWYlpmNVN2Nnc9PSIsInZhbHVlIjoiQmVoRWxlc2RRK051akNwaGp6ZzRxdz09IiwibWFjIjoiMWI3OTAwOWEwMjA1ZGIyNzA2ODU1YjNiZDNhNWI2OGEwNjgxYjBlZGRlMDIwZDMxMTIxZWE3NmFjN2UxM2E3MSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 29408,
+        "standardName": "Copper - Lead powder - Specification",
+        "standardNumber": "IS 11110:2023",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2023-09-06",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlNiTjdBVUpCOTBKREwvRVpJU3RmQVE9PSIsInZhbHVlIjoidEoxeURqa05BYTNyUkJaSjBsVlVJZz09IiwibWFjIjoiZDhjYzAwYTlmNTg1OGE5YjAzMzc3Mzk3NzYwY2Y3MzVjMjUyYWVlZWVlYzZlM2FlMmNiZDg1MWM0OGU2NmE1MiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 29686,
+        "standardName": "Leaded bronze powders  - Specification",
+        "standardNumber": "IS 11111:2023",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2023-10-31",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik1pZTJxS1I5emk0VFZHV1F3SENwNnc9PSIsInZhbHVlIjoiS1lxWnk5SnUrcXBlSFhnbTJacGRMZz09IiwibWFjIjoiYTFhOGIyNTY1NDcyMzYwNmVhODNjNGJjYTJjYzIwNGNjOWY0Mzg5NTY2NjBjMTk4OGJhMjZlMTg2MjcwZGNhMyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 30198,
+        "standardName": "Copper Base Alloys for Marine Propellers -  Specification (First Revision)",
+        "standardNumber": "IS 8631:2024",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2024-01-18",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IllISHZyd0tHSklwYmhYNlJubW5DL2c9PSIsInZhbHVlIjoielRnQkk4TTZBeVFoUkpNYStXaXliZz09IiwibWFjIjoiN2U3NDA2NzA3MDczMGY4YjUyY2UwYzk3MjM2ZjAwMTcxMzMxNDRlYzEwZmFhZWU2ZmI5NDBhMTlkNmNmNzZmNSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 33544,
+        "standardName": "Methods for Chemical Analysis of Bronzes Part 6 Determination of Zinc by Complexometric EDTA Method (Second Revision)",
+        "standardNumber": "IS 4027 (Part 6):2025",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2025-07-03",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik9reDhnanRuMkRBR050RnppMXlvUlE9PSIsInZhbHVlIjoiNndZWUx4b2dCZDNMZWVsUHRFV2Zrdz09IiwibWFjIjoiM2ZkNWI4NDhlNmJiOTAxZTZiODRiNGIxMzlhOWVkYzk5NjEyODE5NDYyMGQ4MzE5ODllYjViNDBjOTg0ZmUzZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 33548,
+        "standardName": "Copper and Copper Alloys Forging Stock and Forging - Specification ( Third Revision )",
+        "standardNumber": "IS 6912:2025",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2025-07-03",
+        "noOfReview": "03",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IktUL2pFb0xrVFQwdks2RUhhZTRsOFE9PSIsInZhbHVlIjoiOHFVa2lhQURxdHhxVUtBczFkV2o5dz09IiwibWFjIjoiZGE5ODAyN2E0YjVlMTk3ZGNlYTg2NThmYmNlNmY3YTFjM2ZlNmMyMmZkNTM4NjdlZmU2YTU3MWJkYWU4NWM3OSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 33549,
+        "standardName": "Copper and Copper Alloy Rolled Plates for Condensers and Heat Exchangers - Specification  ( First Revision )",
+        "standardNumber": "IS 8362:2025",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2025-07-03",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ims2UjlCNFlaZUJOeGk5U0RLZGhvQmc9PSIsInZhbHVlIjoidkI2eW9TOVE3a0dlL0lBR3N6TFZidz09IiwibWFjIjoiYWVjNGI1MzFiNzdjZmRhOTc5MDhjMmYzYmE3MzM4NDE3MDRkODA3ODAxYzgwZWE1MDQ2OWQyOTgwYzBjYzA2NiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

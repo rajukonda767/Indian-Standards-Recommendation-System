@@ -1,0 +1,25 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 11295,
+      "So_No": "HQ-PUB-012-4-2020",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/CED/gf_219_11295_458_5.pdf",
+      "pki_id": 4354,
+      "Amd_No": 0,
+      "standardNumber": "IS 458:2021",
+      "standardId": 25661
+    },
+    {
+      "IS_NO": 11295,
+      "So_No": "HQ-PUB014/2/2020-PUB-BIS (813)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/CED/gf_219_11295_458_A1.pdf",
+      "pki_id": 12423,
+      "Amd_No": 1,
+      "standardNumber": " Amendment 1 to IS 458:2021",
+      "standardId": 25661
+    }
+  ]
+}

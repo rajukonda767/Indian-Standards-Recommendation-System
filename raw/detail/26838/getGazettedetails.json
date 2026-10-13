@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 9079,
+      "So_No": "PUB_013_1_2020",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/CED/gf_191_9079_2556_8_6.pdf",
+      "pki_id": 5722,
+      "Amd_No": 0,
+      "standardNumber": "IS 2556 (Part 8):2021",
+      "standardId": 26704
+    }
+  ]
+}

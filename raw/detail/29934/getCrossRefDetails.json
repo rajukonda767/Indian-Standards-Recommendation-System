@@ -1,0 +1,145 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 8195,
+        "standardNumber": "IS 1786:2008",
+        "standardName": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification (Fourth Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-01-01",
+        "noOfReview": "04",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImtQRVg1MEdTQXNUbHloQmpUYTdKWFE9PSIsInZhbHVlIjoiYytmbGxaWW5wSldMQ2pJVmx2eUxFUT09IiwibWFjIjoiNmRiM2IwZjQyNmRmMTAzMTkzMGYzOTc0MDI3MDRlYzMzMGQxMmU5NDc3MGU1NmNlMWNkNjg5OTI4MjkzNTkzNiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 11626,
+        "standardNumber": "IS 4905:2015",
+        "standardName": "Random sampling and randomization procedures (First Revision)",
+        "equivalent_is": null,
+        "identical_is": "ISO 24153 : 2009  ",
+        "reviewOn": "2025-03-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImhvWjU4dWt3eVh3U2pkdTZ4UU0wNnc9PSIsInZhbHVlIjoiZHhCR1ZmNjN5L1JFMi9xSkZqbFYvdz09IiwibWFjIjoiODkzYzAxNzhhNDI0MzI2OGE3NTFiZjY2ZWFiY2UyMmFmYzgwY2EyZGQ3MDMzYjRmYmE3NzBjNzlhMDI5YzllMCIsInRhZyI6IiJ9",
+        "identical": "ISO 24153 : 2009  "
+      },
+      {
+        "standardId": 25877,
+        "standardNumber": "IS 17570 (Part 3):2021",
+        "standardName": "Air Filters for general ventilation   Part 3 Determination of the gravimetric efficiency and the air flow resistance  versus the mass of test dust captured",
+        "equivalent_is": "",
+        "identical_is": "ISO 16890-3:2016",
+        "reviewOn": "2025-12-22",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkR0Mm9taWJDV2RSY1FjZHJTdi9ZQmc9PSIsInZhbHVlIjoicGdhQU12aS8zSFl4ZnVLTlBMQ05UZz09IiwibWFjIjoiYjQyNmY3Yzk3ZjNlZTFkNGVjZDc3ZDM3ZjAyYzlhZWU1NWYzYjUyN2VlOTM4ZmIwZjBlZTdlN2UyZDk2ZjM0NSIsInRhZyI6IiJ9",
+        "identical": "ISO 16890-3:2016"
+      },
+      {
+        "standardId": 28783,
+        "standardNumber": "IS 18215:2023",
+        "standardName": "Stainless Steel Neti Pot Specification",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkMvWGZsTVZzNFlrQ1psa3RPaGxPeGc9PSIsInZhbHVlIjoiV0V4L1U4eWVkalpORHh5bzBOUGVWZz09IiwibWFjIjoiODZjYmNjMGI5NDJlZDVmMGFhMjY1OTUyMTRhYjAxODNiMzlhNTYzOWRiYzZlZGVlNWM4YzMyMzJhNzhiM2NjYiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 28785,
+        "standardNumber": "IS 18226:2023",
+        "standardName": "Soy Dahi (Non-Dairy Product) - Specification",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Im9Pa3NqcVBQSm1OZ28rNktiZ0hWZWc9PSIsInZhbHVlIjoiN0pWbE4yZW1QUVN0RFV2Y0luSDlzZz09IiwibWFjIjoiMmM1OTE3MDEzMWVhNzE2YWFhYjcwNjJkYWNlYTk0MTUyZjA4ZTJmNTk1NmFkMDE4ODk2OGI4NTI1MGI4MjUwNCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 15835 (Part 1):2018",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IkdVSWlmVE4zUCswck02ODZHVmh2ZHc9PSIsInZhbHVlIjoiQWJMb2dMYnJWQVB6TU4rcko5NmVNdz09IiwibWFjIjoiNzg4M2JlMGYxMDYxODQ2Y2ZjZjFjOTc3NWFmNzFhODIwNGQ3OWM0NTlkY2ZiMjg1OTU0OTM4ZmRlZWY5OGQ3ZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 15835 (Part 2):2018",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6InR5am1YS0pVY21VSVg1YjRPYnZoYkE9PSIsInZhbHVlIjoiZTMrSFI1MGliWjA3N1dXd0R1SFAyQT09IiwibWFjIjoiYTFmYjgwNmU2ODIzZjMzNGE1ZTIzM2UzMzJlYzE5YWM3M2UwZWNjOWU3OWVlY2I3ZGRhZTc4YWU4ZDk3ODE2MCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 15835 (Part 3):2018",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6ImJkRG4zQmMvTmR1TVRrUGhXalFxalE9PSIsInZhbHVlIjoidExrTW83ZDIrdVVTN3Y0bkl0UHU2UT09IiwibWFjIjoiNjcxY2JmZDExMTIwMjU1ODkyOTZiZmViMWJlNTg4NDhmNzQ2MGRlMjk4Zjk2MGYwMTcyYmUzMjU5ZjQ2NzI2YyIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 6638,
+        "standardName": "Electromagnetic compatibility (EMC): Part 4 testing and measurement techniques: Sec 1 overview of the IEC 61000 - 4 series (Second Revision)",
+        "standardNumber": "IS 14700 (Part 4/Sec 1):2019",
+        "equivalent_is": " ",
+        "identical_is": "IEC 61000-4-1 : 2016 ",
+        "reviewOn": "2026-02-23",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkNpYUtEaURxb0ZFLzNjUTZLRWRsTWc9PSIsInZhbHVlIjoiYStQMVRhK0FBai9kSHNFSkxPT3l6dz09IiwibWFjIjoiYTliMGJmNTkyYTgxMDU4YzRkN2ZiNTFjYzVjYWViNzVlY2E0MDk5Yjg5MWRiMTVlNjMyOWVlMDdmNGUzM2MwZSIsInRhZyI6IiJ9",
+        "identical": "IEC 61000-4-1 : 2016 "
+      },
+      {
+        "standardId": 29566,
+        "standardName": "Criteria for Structural Safety of Tall Concrete Buildings",
+        "standardNumber": "IS 16700:2023",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2023-10-10",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImZpa01MdzdYNEU0Vk5rQ0hTSjU4TWc9PSIsInZhbHVlIjoiZ1JuaUQ0VDRYSnlCKzNmRjZnRWlMQT09IiwibWFjIjoiZDI5ZmU3MmZiOGYxYjE3ZTI5ZTZiN2M0ZjQ4ZTU5MWVlNzliZGU2OGZmZThlOTY2OGI4ZTNjNTM4MjkyMDU3OSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 5724,
+        "standardName": "Ductile Design and Detailing of Reinforced Concrete Structures Subjected to Seismic Forces - Code of Practice (First Revision)",
+        "standardNumber": "IS 13920:2016",
+        "equivalent_is": " ",
+        "identical_is": " ",
+        "reviewOn": "2021-07-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik9WVXl2K09IdGZzdVVGei8yWFlwRmc9PSIsInZhbHVlIjoiRWcyRVRNRmdydkl1cG1Ja3dwREE2QT09IiwibWFjIjoiMzMwZDQwZjc0ODY0ZDI4YWIxNTgxMTdlOWI5MDdkMTkwMmFhOWI5YzIxNmYwMTliZWNiNTI1OWE3YjZiODE3OSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

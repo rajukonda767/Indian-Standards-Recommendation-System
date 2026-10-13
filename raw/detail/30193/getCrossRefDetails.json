@@ -1,0 +1,76 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 339,
+        "standardNumber": "IS 1500 (Part 1):2019",
+        "standardName": "Metallic materials - Brinell hardness test: Part 1 test method (Fifth Revision)",
+        "equivalent_is": " ",
+        "identical_is": "ISO 6506-3 : 2014 ",
+        "reviewOn": "2024-01-01",
+        "noOfReview": "05",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlZIbkZZU3ZkVUJ6bDVXSUgrTk1SSHc9PSIsInZhbHVlIjoiaEZmSjM5UVovMWRlOEh2dUNsM2F2QT09IiwibWFjIjoiMGU4Y2M5ZGYwNWUxMTQxNDMyN2Q1MTZlOTM4MzhkYTliNGZhNmU3MjI1ZjZiZDNkZTgyN2UxZDg3Yzk4YzIwNSIsInRhZyI6IiJ9",
+        "identical": "ISO 6506-3 : 2014 "
+      },
+      {
+        "standardId": 33264,
+        "standardNumber": "IS 1501 (Part 1):2025",
+        "standardName": "Metallic materials  Vickers hardness test Part 1: Test method (Sixth Revision)",
+        "equivalent_is": "",
+        "identical_is": "ISO 6507-1 : 2023",
+        "reviewOn": "2025-05-13",
+        "noOfReview": "06",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkhqVXBvZnJFcSswSEZ4VkNWb1V1OFE9PSIsInZhbHVlIjoiSGdTNDVUOWc4aHcrdkNoRkxOOExIdz09IiwibWFjIjoiMjlmNzZmMWY2M2Q4NWI0MWEwN2ZlMWVmNjgxOTUxMGM5NmRkYjIwMWQ4YmI1N2EzZjZkNzBjOWUxZDE4MjBkNSIsInRhZyI6IiJ9",
+        "identical": "ISO 6507-1 : 2023"
+      },
+      {
+        "standardId": 33543,
+        "standardNumber": "IS 1586 (Part 1):2025",
+        "standardName": "Metallic materials  Rockwell hardness testPart 1: Test method (Sixth Revision)",
+        "equivalent_is": "",
+        "identical_is": "ISO 6508-1 : 2023",
+        "reviewOn": "2025-07-03",
+        "noOfReview": "06",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjVhbVlJL0swODl2RklrZGlEcGFXZ3c9PSIsInZhbHVlIjoidjkvV015QnRWMzZEZmM2dXVVOWxjZz09IiwibWFjIjoiZmQ0YTc5MzExYmExYmQ5YjI5YTM4MmIzY2U2OTUxMTgxYmQ5ZTZmZGFkYmM4YWZkZGRhYWJmNWEyYjhmMzk3YyIsInRhZyI6IiJ9",
+        "identical": "ISO 6508-1 : 2023"
+      },
+      {
+        "standardId": 26349,
+        "standardNumber": "IS/ISO/TR 44000:2019",
+        "standardName": "PRINCIPLES FOR SUCCESSFUL COLLABORATIVE BUSINESS RELATIONSHIP MANAGEMENT",
+        "equivalent_is": "",
+        "identical_is": " ISO/TR 44000:2019",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Im55VVFiTUovNWYwUVBsQjZaOTZ6ZHc9PSIsInZhbHVlIjoiQ0NVUDY4a1dxdTE0UUhBbzc4RHlWdz09IiwibWFjIjoiNDBjNWQ1OThhYjhlZDJkYjcwODc0YTdjY2VlNGNmMGM3NGM0ZTNlYzdjNzZlMGNjMmZiOWE2YTg4YmU2ZWM4YyIsInRhZyI6IiJ9",
+        "identical": " ISO/TR 44000:2019"
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 29633,
+        "standardName": "Insulators for overhead lines with a nominal voltage above 1 000 V - Ceramic or glass insulator units for dc systems - Definitions test methods and acceptance criteria",
+        "standardNumber": "IS/IEC 61325:1995",
+        "equivalent_is": "",
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Im1DVDk3SVg3NHp2SmhXQzBWOWpGb3c9PSIsInZhbHVlIjoiK25xbFFDT2Z3anVFK2xmYlFaZU9JQT09IiwibWFjIjoiZmFkYzAwMjcwYzllYWZjZjUyYjc4MDNmYTJmZDA3MzFlMzBiYzE2MDA0MWVhYmNjNzg2NTZhNGJiNzFkZDA0YyIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

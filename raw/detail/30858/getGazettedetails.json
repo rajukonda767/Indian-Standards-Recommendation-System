@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 3789,
+      "So_No": "PUB012/1/2020-PUB-BIS (847)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/MTD/gf_32_3789_12447_1.pdf",
+      "pki_id": 12931,
+      "Amd_No": 0,
+      "standardNumber": "IS 12447:2024",
+      "standardId": 30669
+    }
+  ]
+}

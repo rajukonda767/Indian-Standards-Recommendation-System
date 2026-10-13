@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6InNXcFRKU29rS3FQV2NUVC83MjNhMlE9PSIsInZhbHVlIjoiWU4wTCtaWWtHUzE3UXFIbEZPbndKZz09IiwibWFjIjoiNTg1OTUxZmQ3NzI0MWM5ZGI5NmEyODViMTBkYjhlOGE5ZDk2NGM3N2RmZWRlODdlMTllMmY5ZGNhYzZkMTA5YiIsInRhZyI6IiJ9",
+    "rowStandardId": 33812,
+    "pk_is_id": 34001,
+    "standardName": "Prelaminated Medium Density Particle Boards from Wood and other Lignocellulosic Material Specification  (Second Revision)",
+    "standardNumber": "IS 12823:2025",
+    "publishedOn": "2025-08-19",
+    "committeeId": 201,
+    "departmentId": 63,
+    "groupName": "Building Materials including Paints",
+    "subGroupName": "Timber, Wood and Wood Products",
+    "subSubGroupName": "Boards & wood composite products",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "02",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": null,
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "",
+    "supersheed": "IS 12823 : 2015",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 3,
+    "equivalenceId": 0,
+    "is_documents": "BisProd/bisProd/projects/standardDocuments/2026/07/358_1785226872.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2025-08-22",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Nishikant  Singh (SCIENTIST-D)",
+    "committeeName": "Wood And Other Lignocellulosic Products",
+    "departmentName": "CIVIL ENGINEERING DEPARTMENT",
+    "deptAliasName": "CED",
+    "committeePreparedName": "CED 20 - Wood And Other Lignocellulosic Products",
+    "deptPreparedName": "Civil Engineering Department(CED)",
+    "reviewList": [
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 12823:2015"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 12823:2015"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 12823:2025"
+      }
+    ]
+  }
+}

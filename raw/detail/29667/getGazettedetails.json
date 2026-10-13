@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 22246,
+      "So_No": "pub-013-1-2020-pub-bis (695)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_242_22246_IE62271_111_1.pdf",
+      "pki_id": 10975,
+      "Amd_No": 0,
+      "standardNumber": "IS/IEC 62271 (Part 111):2019",
+      "standardId": 29481
+    }
+  ]
+}

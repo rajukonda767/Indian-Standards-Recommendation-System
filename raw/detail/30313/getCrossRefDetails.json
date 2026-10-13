@@ -1,0 +1,50 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 13978,
+        "standardNumber": "IS 707:2011",
+        "standardName": "Timber Technology and Utilization of Wood, Bamboo and Cane - Glossary of Terms (Third Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2021-10-01",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlZ0a2p3YjZUMEJGNzVIdXRWeWI4RXc9PSIsInZhbHVlIjoiVXVWWC80cS9yaXQzYjBtK3dlNlVEZz09IiwibWFjIjoiZjZiODg2NTNlYzliNDhhM2E1Nzc1ZWMzYjU5YmQxOGY2Zjc4NDU3MDM3OGMzYzdhYmQ1NTVmNWFlYjczMDJmZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 27775,
+        "standardNumber": "IS 17885 (Part 2):2022",
+        "standardName": "Automation systems and integration  Digital twin framework for manufacturing    Part 2: Reference architecture",
+        "equivalent_is": "",
+        "identical_is": "ISO 23247-2 : 2021",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IktTQ1BqQk5pbkhoZUZKckUrVytaT1E9PSIsInZhbHVlIjoid0tqc2syTkJBd2VqR0FIOWlxWm9kQT09IiwibWFjIjoiOGFhNzI0NDA5MWEyNjMwZmJhZWUwMmE2OGI5NjI2N2E3MmUwNzczNmZmYzY4ZWQwZGY2M2IwZDhmZDE2MWIxNiIsInRhZyI6IiJ9",
+        "identical": "ISO 23247-2 : 2021"
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 26387,
+        "standardName": "Black Lead Pencils — Specification",
+        "standardNumber": "IS 1375:2021",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2025-11-04",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ijk4Mnk2dEQ1Um51WnJBWEtUZWIrWkE9PSIsInZhbHVlIjoiSmR4VXFaZVEyZUd4OElUcXR0ajlyQT09IiwibWFjIjoiNjYwMTZiNTg0NmYwMjMyNmY2NmViZmNhZjM2NzYxOThjYzM5NmFhMmQ5ZDJmNWY5ZTQ2OWE2YTdlOTUyNDQ1MiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

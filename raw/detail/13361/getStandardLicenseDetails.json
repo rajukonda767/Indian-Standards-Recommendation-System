@@ -1,0 +1,44 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "License details fetched successfully.",
+  "data": [
+    {
+      "id": 1,
+      "data_id": 6785249,
+      "licenseNo": "0001893676",
+      "firmName": "TAMIL NADU MINERALS LTD",
+      "firmAddress": "16 KATHIVAKKAM MAIN ROAD, ENNORE,CHENNAI",
+      "district": "TIRUVALLUR",
+      "state": "TAMIL NADU",
+      "validityDate": "2026-10-31",
+      "status": "Operative",
+      "variety": "--",
+      "brandName": "Indian Standrad Sand(Brand)Silica Sand",
+      "scale": "Large",
+      "region": "Chennai Branch Office",
+      "branch": "CNBO",
+      "technicalDepartment": "--",
+      "standardNumber": "IS 650 : 1991",
+      "manorvol": "Voluntary",
+      "productName": "Specification for Standard Sand for Testing of Cement",
+      "licenseContactNo": "--",
+      "licenseEmail": "--",
+      "licenseGrantDate": "1988-10-11",
+      "statusDate": "--",
+      "branchOffice": "CNBO",
+      "certificationType": "--",
+      "availableSti": "--",
+      "contactPersonDetails": "--"
+    }
+  ],
+  "pagination": {
+    "totalRecord": 1,
+    "totalPages": 1,
+    "currentPage": 1,
+    "pageSize": 10,
+    "firstPage": true,
+    "lastPage": true,
+    "numberOfElements": 1
+  }
+}

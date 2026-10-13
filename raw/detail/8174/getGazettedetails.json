@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 8174,
+      "So_No": "PUB/3/3/2019-20 ",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_246_8174_PUB_3_3_2020_21.pdf",
+      "pki_id": 3555,
+      "Amd_No": 0,
+      "standardNumber": "IS 1765:2020",
+      "standardId": 8174
+    }
+  ]
+}

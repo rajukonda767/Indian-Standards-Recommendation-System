@@ -1,0 +1,81 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Consumer Affairs, Food and Public Distribution - Department of Consumer Affairs",
+    "riskNameName": "Low",
+    "standardId": "eyJpdiI6IjF3c2o5OFBua09hSTRnL2I3N3NTWUE9PSIsInZhbHVlIjoibk44RUMya2hSeEhITTJkWTZ4cVIwUT09IiwibWFjIjoiZWI4ZjEwYjVhMGIzZDQ4N2QwNmE4NjA3NDg1OTY3MTc4MjJkYWYzZTJlMGE4Y2IxOWRkMmMyOWNlMTcxZTAwNiIsInRhZyI6IiJ9",
+    "rowStandardId": 66580,
+    "pk_is_id": 66580,
+    "standardName": "Rapid Hardening Portland Cement  Specification Third Revision of IS 8041",
+    "standardNumber": "IS 8041:2026",
+    "publishedOn": "2026-03-23",
+    "committeeId": 190,
+    "departmentId": 63,
+    "groupName": "Civil Engineering Design and Construction",
+    "subGroupName": "Concrete structures",
+    "subSubGroupName": "Special Structures",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "03",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 5,
+    "languageId": "English",
+    "icsCode": "01.040.91",
+    "shortTitle": null,
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "IS 8041:1990",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/projects/proof/2026/04/856_1775041425.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": null,
+    "source": 1,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Jitendra Kumar Chaudhary (SCIENTIST-C)",
+    "committeeName": "Cement And Concrete",
+    "departmentName": "CIVIL ENGINEERING DEPARTMENT",
+    "deptAliasName": "CED",
+    "committeePreparedName": "CED 02 - Cement And Concrete",
+    "deptPreparedName": "Civil Engineering Department(CED)",
+    "reviewList": [
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 8041:1990"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 8041:1990"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 8041:1990"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 8041:1990"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 8041:1990"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 8041:1990"
+      }
+    ]
+  }
+}

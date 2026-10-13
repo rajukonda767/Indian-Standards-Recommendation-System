@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 24077,
+      "So_No": "HQ-PUB013/217/2026-PUB-BIS",
+      "migratedFiles": "BisProd/bisProd/projects/gazettes/2026/03/240_1774602533.pdf",
+      "pki_id": 20194,
+      "Amd_No": 0,
+      "standardNumber": "IS/IEC 61439 (Part 5):2023",
+      "standardId": 66504
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Coal",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6InRYTVlCc1RsQWRBeFVDT0xjS2tvckE9PSIsInZhbHVlIjoieElZMy8zM2p6M3h4WXA1V2JBOTVldz09IiwibWFjIjoiMGIzZGMzYTk3NzYyN2NiYmE3YjE0ODI5ODcwMDIyMzEyNjc4MWY4YjdiMjc3NjI0OTBhZGUwNDQyNjI1ZTVmYSIsInRhZyI6IiJ9",
+    "rowStandardId": 31992,
+    "pk_is_id": 32181,
+    "standardName": "Explosive Atmospheres  Part 11 Equipment Protection by Intrinsic Safety “i”  (Second Revision)",
+    "standardNumber": "IS/IEC 60079 (Part 11):2023",
+    "publishedOn": "2024-10-16",
+    "committeeId": 256,
+    "departmentId": 65,
+    "groupName": "Equipments for use in Mines and Explosive Atmosphere",
+    "subGroupName": "Electrical Equipment",
+    "subSubGroupName": "Explosive atmosphere d, p, o, e, n, m types",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "02",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": null,
+    "certificationName": "Voluntary",
+    "equivalenceTypeName": "Identical under single numbering",
+    "supersheed": "IS/IEC 60079 : PART 11 : 2011",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 2,
+    "is_documents": "BisProd/bisProd/oldStandards/S05/S05V01/IE60079_11.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": "IEC 60079-11:2023",
+    "identical_is": "IEC 60079-11:2023",
+    "reviewOn": null,
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Nitish Kumar Jain (SCIENTIST-C)",
+    "committeeName": "Electrical Apparatus For Explosive Atmosphere",
+    "departmentName": "ELECTROTECHNICAL DEPARTMENT",
+    "deptAliasName": "ETD",
+    "committeePreparedName": "ETD 22 - Electrical Apparatus For Explosive Atmosphere",
+    "deptPreparedName": "Electrotechnical Department(ETD)",
+    "reviewList": [
+      {
+        "isStatus": 5,
+        "standardNumber": "IS/IEC 60079 (Part 11):2011"
+      },
+      {
+        "isStatus": 5,
+        "standardNumber": "IS/IEC 60079 (Part 11):2006"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS/IEC 60079 (Part 11):2023"
+      }
+    ]
+  }
+}

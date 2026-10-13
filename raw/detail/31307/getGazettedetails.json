@@ -1,0 +1,25 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 8623,
+      "So_No": "PUB012/4/2020-PUB-BIS (943)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_244_8623_2083_3.pdf",
+      "pki_id": 13699,
+      "Amd_No": 0,
+      "standardNumber": "IS 2083:2024",
+      "standardId": 31118
+    },
+    {
+      "IS_NO": 8623,
+      "So_No": "pub015/1/12020-pub-bis (1261)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_244_8623_2083_A1.pdf",
+      "pki_id": 17856,
+      "Amd_No": 1,
+      "standardNumber": " Amendment 1 to IS 2083:2024",
+      "standardId": 31118
+    }
+  ]
+}

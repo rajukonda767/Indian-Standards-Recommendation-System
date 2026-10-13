@@ -1,0 +1,64 @@
+{
+  "measured_at": "2026-09-28T05:07:18Z",
+  "model": "qwen/qwen3.8-27b",
+  "region": "bom",
+  "limits": {
+    "requests_per_day": 1000,
+    "tokens_per_minute": 8000,
+    "output_tokens_per_minute": 1000,
+    "input_tokens_per_minute_observed": 8000,
+    "note_rate_limits": "x-ratelimit-limit-tokens=8000 appears to be INPUT tokens per minute (or combined). The 429 error from Phase 1 run confirms a SEPARATE OUTPUT token limit = 1000 OTPM. Error message: Limit 1000, Used 913, Requested 93 on output tokens per minute."
+  },
+  "derivation": {
+    "requests": "12 requests used × 86.4 s/req = 1036 s = 17m16.8s reset → 1000 req/day (86400 s / 86.4 s per req = 1000)",
+    "tokens": "24 tokens used × 7.5 ms/tok = 180 ms reset → 8000 TPM (8000 tok/min × 1 min / 60000 ms = 0.133 tok/ms; 24 / 0.133 = 180 ms)"
+  },
+  "raw_headers": {
+    "x-ratelimit-limit-requests": "1000",
+    "x-ratelimit-limit-tokens": "8000",
+    "x-ratelimit-remaining-requests": "988",
+    "x-ratelimit-remaining-tokens": "7976",
+    "x-ratelimit-reset-requests": "17m16.8s",
+    "x-ratelimit-reset-tokens": "180ms"
+  },
+  "reasoning_tokens": {
+    "emits_think_tags": false,
+    "completion_tokens_for_3_mentions": 23,
+    "reasoning_tokens_in_usage": null,
+    "note": "qwen/qwen3.8-27b on Groq does NOT emit <think> tags in output. completion_tokens_details=None. Reasoning is handled server-side and NOT charged to output tokens. max_tokens=300 is sufficient for role-code output (observed 23 tokens for 3 mentions). Set max_tokens=300 for LLM-1 to allow model freedom; actual output will be ~50 tokens."
+  },
+  "guards": {
+    "token_guard": "For OUTPUT tokens: before each LLM call, if remaining-output-tokens < max_tokens, sleep x-ratelimit-reset-tokens seconds (from header). Hard guard only on remaining-requests < 20 -> raise BudgetExhaustedError.",
+    "hard_request_guard": "If remaining_requests < 20: raise BudgetExhaustedError. Results in CANNOT_VERIFY findings for remaining items.",
+    "daily_request_budget": {
+      "total_per_day": 1000,
+      "reserved_production": 200,
+      "available_dev_eval": 800,
+      "cost_per_audit_run_worst_case": 12,
+      "cost_per_eval_run_30_fixtures": 30,
+      "note": "Do not run eval harness unguarded in production hours. Add --budget-check flag that aborts if remaining_requests < 50."
+    }
+  },
+  "llm1_design": {
+    "max_tokens": 300,
+    "rationale": "No reasoning tokens observed in output. 300 tokens gives headroom for 10-mention batches (observed: 23 tokens for 3 mentions → ~77 tokens for 10). Role codes are short strings.",
+    "short_role_codes": {
+      "req": "required_spec",
+      "tst": "test_basis",
+      "crt": "certification_mark",
+      "cat": "category_label",
+      "vag": "vague_reference",
+      "nse": "noise",
+      "nrv": "needs_review",
+      "alt": "alternative"
+    },
+    "note": "Short codes save ~3 tokens/mention. With 10 mentions: ~30 tokens output vs ~50 for full names. Use full names for clarity; short codes optional optimization if TPM becomes bottleneck.",
+    "max_tokens_per_mention": 10,
+    "rationale_otpm": "OTPM=1000 tok/min. Audit LLM-1: 10 output tokens per mention label only. 10 mentions = ~100 tokens = 6 seconds OTPM window. Pace: sleep reset-tokens header value before each call if remaining < max_tokens."
+  },
+  "phase1_slowness_root_cause": {
+    "items_3_4_latency_with_groq": "25-29 seconds each",
+    "cause": "5 top-candidates each trigger build_grounded_why() (max_tokens=120). Item 3 also triggered generate_dynamic_disambiguation() (max_tokens=512). 5 x 120 + 512 = 1112 output tokens -> hits 1000 OTPM limit, triggers sleeps.",
+    "fix": "audit_mode=True monkey-patches all Groq calls to no-ops. Measured latencies: Item1=3.1s, Item2=0.93s, Item3=1.04s, Item4=0.80s. All well under 60s/40-item target. 40 * 1.5s = 60s (sequential). With thread pool MAX_AUDIT_WORKERS=6: ~15s for 40 items (6 parallel)."
+  }
+}

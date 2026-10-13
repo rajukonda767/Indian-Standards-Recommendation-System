@@ -1,0 +1,138 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 21527,
+        "standardNumber": "IS B2557:1994",
+        "standardName": "Annatto colour for food products – Specification",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-12-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjZmaDROdi9uU0R5SjJNa2hpUzVuUGc9PSIsInZhbHVlIjoiN2VaazRvckFIWG5iMUVvWW5lM1JIQT09IiwibWFjIjoiNjg5ZDUxMDIzYTBkZjhkMDA4OGNlODY1OGY5NGQ3ZDBhOTBkMWM0YjI4YWQyMTY3N2FkYjAxNTRmNjdhMTg1MCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 22482,
+        "standardNumber": "IS 16504 (Part 1):2019",
+        "standardName": "Safety of Machinery — Electrical Equipment of Machines Part 1 General Requirements ( First Revision )",
+        "equivalent_is": "  ",
+        "identical_is": "IEC 60204-1 : 2016 ",
+        "reviewOn": "2024-05-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InFYQ0hNS3NoR1NBbTFpWnZmNlFzMkE9PSIsInZhbHVlIjoiaHJnMHovMWIzMVNIVlo3WXNrendHQT09IiwibWFjIjoiYjY4YmJhNmM2YzVmNzBkYTQ1ZDNjZDQyYzA0Nzk2OGU2MDdjNWY5ODE2MjE3OWJlYjgzNDBmOGQ3OTJhNDBhMiIsInRhZyI6IiJ9",
+        "identical": "IEC 60204-1 : 2016 "
+      },
+      {
+        "standardId": 28890,
+        "standardNumber": "IS 17050:2023",
+        "standardName": "Degrees of protection provided by enclosures for electrical equipment against external mechanical impacts IK Code",
+        "equivalent_is": "",
+        "identical_is": "IEC 62262: 2021 (Ed 1.1)",
+        "reviewOn": "2023-06-16",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjlVc05OOXBrQmU3M3d4UGd4UDNXVnc9PSIsInZhbHVlIjoiU0hXa2FUTmdsSStvdzZKQTU0Q0x1dz09IiwibWFjIjoiNzc5NWU4ZGVhM2JkZTI5ZjhjZmQxMGY0Y2MzNWQzMzNmZWRjZDUxYjNlZmYyYTYwMGQ5MWFjNzlmYzQ5YjdjNSIsInRhZyI6IiJ9",
+        "identical": "IEC 62262: 2021 (Ed 1.1)"
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 61140:2016",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IkY1UmVaazZVeTc2SDRaby9sSTFyZHc9PSIsInZhbHVlIjoiMVdnT1M3bVA2R0FnU3pVSTlZdEQ0dz09IiwibWFjIjoiN2QzYjI3ZWM5OWZkN2FlZjVjY2E4MDZmNGYyOTY4OTdhYWE0OTNjMDAzN2U5MGM0M2M3YWUwODk1YzJhZTNkZSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 23121,
+        "standardName": "Requirements for Low-Voltage Special Electrical Installations or Locations Solar Photovoltaic ( PV ) Power Supply Systems",
+        "standardNumber": "IS 16997:2018",
+        "equivalent_is": " ",
+        "identical_is": "IEC 60364-7-712 ",
+        "reviewOn": "2024-12-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImoxNjVweHhDQUFUZHlWdVY2Zk00VHc9PSIsInZhbHVlIjoiY1ZnejdjVWcyclhTeElmUS90OHBJQT09IiwibWFjIjoiNDcyNjc3MDNkY2UzNGI3ZmU0Y2E3YWM1MWU3ZmNhODRhNmU4N2VjNTYyYTQ4NmNjNDBkMjJkNGM3M2EwNzI0MiIsInRhZyI6IiJ9",
+        "identical": "IEC 60364-7-712 "
+      },
+      {
+        "standardId": 24899,
+        "standardName": "Ground-Mounted Photovoltaic Power Plants - Design Guidelines and Recommendations",
+        "standardNumber": "IS/IEC TS 62738:2018",
+        "equivalent_is": " ",
+        "identical_is": "",
+        "reviewOn": "2026-02-13",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlhtOXVLV0k1NWFJTUo1YUR6ak5Gc3c9PSIsInZhbHVlIjoiL0FGcURHZmpkMVJiT2ZSK1ZPK1lwQT09IiwibWFjIjoiMGY2ZDg5MDc4MGUxODY1N2NlMmVlM2Q2NThmNmU5MjEzYjJiNzExNGE2NTc5NmQ5MDQ5N2I3NDdiMzE5MjQxNiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 30021,
+        "standardName": "Information Technology   Data Centre Facilities and Infrastructures   Part 3: Power Distribution",
+        "standardNumber": "IS/ISO/IEC 22237 (Part 3):2021",
+        "equivalent_is": "",
+        "identical_is": "ISO/IEC 22237-3:2021 ",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IllGZDgweHNUY1dvYThQU2F5TTQ3UGc9PSIsInZhbHVlIjoiSW9Ubm9ua1U3UmlOazhRMUpWU1F4dz09IiwibWFjIjoiMWFkOGUwYmY2MDEyODIyMjk3NzNiZWZhZmIyNjViYjBiNzVkYjBmOWVkNDVkYjIyNzQ5OWE4NWQxOGZkMzYzMSIsInRhZyI6IiJ9",
+        "identical": "ISO/IEC 22237-3:2021 "
+      },
+      {
+        "standardId": 28616,
+        "standardName": "LOW-VOLTAGE SWITCHGEAR AND CONTROLGEAR PART 1 GENERAL RULES",
+        "standardNumber": "IS/IEC 60947 (Part 1):2020",
+        "equivalent_is": "",
+        "identical_is": "IEC 60947-1:2020",
+        "reviewOn": "2023-05-15",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Iml2cFFlTVc1QjlQRlNSUjZlV1pzd2c9PSIsInZhbHVlIjoiUEY3ME96UHlvK1ZabCt3RWhXZE9LUT09IiwibWFjIjoiNmVlMmFmM2E3NGNjNmIyNGMxZTQ0OTBkODdkYmUzZmMyNjVhNDJlMjgxMTZjY2UwZmI1ZDgyN2Q3MzYzZTMzNSIsInRhZyI6IiJ9",
+        "identical": "IEC 60947-1:2020"
+      },
+      {
+        "standardId": 66587,
+        "standardName": "Low-Voltage Switchgear and Controlgear Part 4 Contactors and Motor-Starters  Section 1  Electromechanical Contactors and Motor-Starters",
+        "standardNumber": "IS/IEC 60947 (Part 4/Sec 1):2023",
+        "equivalent_is": null,
+        "identical_is": "IEC 60947 (Part 4/Sec 1):2023",
+        "reviewOn": null,
+        "noOfReview": "03",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImN4ckVRU2lqQkdoVEdiOXRoNnlaR3c9PSIsInZhbHVlIjoiTktYdENCUUc5N3AydW5GeEJxT3VZUT09IiwibWFjIjoiZTNmNDNkZGY2NWZhMjI5MjdmY2NjNzdhMGQzZjVjZDg2MmMxOGQ2MTA2YjI4ZDM1MGE4NjA0ZjMxOGM5ZWU0NSIsInRhZyI6IiJ9",
+        "identical": "IEC 60947 (Part 4/Sec 1):2023"
+      },
+      {
+        "standardId": 31037,
+        "standardName": "Recommendations for Renewable Energy and Hybrid Systems for Rural Electrification  Part 9 Integrated systems  Section 2 Microgrids",
+        "standardNumber": "IS 18596 (Part 9/Sec 2):2024",
+        "equivalent_is": "",
+        "identical_is": "IEC TS 62257-9-2:2016",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlNIcmF5L1VXYVhaWkhvUG55dUltVHc9PSIsInZhbHVlIjoiVlRoL0tmaGxxOVgyNEdnOVROY2ZkZz09IiwibWFjIjoiYjY5YjI1MDNjNjg4YjZiMmM3YTU3MDZjZDI4Y2ZlYjlmNWQ3Zjk3MTk1YjNlYTdhZGE4MjM3OWJhMzAxMjhiOCIsInRhZyI6IiJ9",
+        "identical": "IEC TS 62257-9-2:2016"
+      }
+    ]
+  }
+}

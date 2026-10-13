@@ -1,0 +1,25 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 18711,
+      "So_No": "1776(E) ",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_265_18711_1775(E)+1776(E).pdf",
+      "pki_id": 405,
+      "Amd_No": 0,
+      "standardNumber": "IS 2082:2018",
+      "standardId": 18707
+    },
+    {
+      "IS_NO": 18711,
+      "So_No": "2699(E)+2700(E) ",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_265_18711_2699(E)+2700(E).pdf",
+      "pki_id": 2356,
+      "Amd_No": 1,
+      "standardNumber": " Amendment 1 to IS 2082:2018",
+      "standardId": 18707
+    }
+  ]
+}

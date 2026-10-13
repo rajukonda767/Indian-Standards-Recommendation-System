@@ -1,0 +1,101 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 6813,
+        "standardNumber": "IS 14841 (Part 2/Sec 1):2000",
+        "standardName": "Packaging of winding wires: Part 2 cylindrical barrelled delivery spools: Sec 1 basic dimensions",
+        "equivalent_is": "NULL",
+        "identical_is": "IEC 60264-2-1:1989",
+        "reviewOn": "2026-02-12",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlZsTXdWSmlQaXliR3pLelVFM3pHeEE9PSIsInZhbHVlIjoidm43ZkxlbzUwNDhpM0ZGbnJsaXloZz09IiwibWFjIjoiMWM4YTI1ZjcyZTY3YTNmN2E4MjIwOGE0YWU0MTMwYWExYTA2YWVlNzQ5MWUyNjRkY2YzYjFhNmFjMjVlYWQ0NyIsInRhZyI6IiJ9",
+        "identical": "IEC 60264-2-1:1989"
+      },
+      {
+        "standardId": 6814,
+        "standardNumber": "IS 14841 (Part 2/Sec 2):2000",
+        "standardName": "Packaging of winding wires: Part 2 cylindrical barrelled delivery spools: Sec 2 specification for returnable spools made fromThermoplastic materials",
+        "equivalent_is": "NULL",
+        "identical_is": "IEC 60264-2-2:1990",
+        "reviewOn": "2026-02-12",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImxMZktVNkJucm1jU2JFVXM1aGp6NUE9PSIsInZhbHVlIjoiVVpMUnYyZ0hKR2tjNEZvTEovbEx3dz09IiwibWFjIjoiNWYxNTQ1OGQ1NWQyMjhhNGU5YWQwNDQ2ZWUwMDgzYmNhNmZhYjFlYjk1ZDYyNTNmZDFhOWVjODgxZWRmOWNmMCIsInRhZyI6IiJ9",
+        "identical": "IEC 60264-2-2:1990"
+      },
+      {
+        "standardId": 6815,
+        "standardNumber": "IS 14841 (Part 3/Sec 1):2000",
+        "standardName": "Packag - Ing of winding wires: Part 3 taper barrelled delivery spools: Sec 1 basic dimensions",
+        "equivalent_is": "NULL",
+        "identical_is": "IEC 60264-3-1:1999",
+        "reviewOn": "2026-02-12",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ikxjd1Z2L2VrcStkcDZxTnV1ekxLY2c9PSIsInZhbHVlIjoiWUg5Ym00dmRHZEVYVWJNK1l4OHM3dz09IiwibWFjIjoiNTUxOGEyNWYzMDI3N2M1ZGIyYmM2YWE4ZGNkNDBmMTFmODVkZjFiZTliM2JiNzRhOTQ2OTE4ZTIxNTJjZTM2YyIsInRhZyI6IiJ9",
+        "identical": "IEC 60264-3-1:1999"
+      },
+      {
+        "standardId": 6816,
+        "standardNumber": "IS 14841 (Part 3/Sec 2):2000",
+        "standardName": "Packaging of winding wires: Part 3 taper barrelled delivery spools: Sec 2 specification for returnable spools made fromThermoplastic materials",
+        "equivalent_is": "NULL",
+        "identical_is": "IEC 60264-3-2:1999",
+        "reviewOn": "2026-02-12",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjN2cmhUNzNoYlJlbjAwL2w1ZWFmUGc9PSIsInZhbHVlIjoiUE5Eb282d2hpTGRLeWV3UklpK29Cdz09IiwibWFjIjoiYjIzNGM3NTZhNWY0ODA1NDMzNmRkNGQ0ODlhZGVkNmVhNTliOTRiY2YyNzdhYzhjODYyMTMxMjhjYTEyN2EwZSIsInRhZyI6IiJ9",
+        "identical": "IEC 60264-3-2:1999"
+      },
+      {
+        "standardId": 6817,
+        "standardNumber": "IS 14841 (Part 3/Sec 3):2000",
+        "standardName": "Packaging of winding wires: Part 3 taper barrelled dellVery spools: Sec 3 specification for non - Returnable spools made from thermoplastic material",
+        "equivalent_is": "NULL",
+        "identical_is": "IEC 60264-3-3:1990",
+        "reviewOn": "2026-02-12",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Im9EeVhqMU1SSlo1c0VBRlRjOWFlQ1E9PSIsInZhbHVlIjoiRkxkRk1mUGlWVFRqQkxTbnlydVJHdz09IiwibWFjIjoiNmYxODcyNWU3ZjM0MmFiNzIzMGNjNWM0MWIxMzNiMGJiNThmNDZiNmMxMGM4NDMzOTU3YmZlODA0NmRkNmU3NiIsInRhZyI6IiJ9",
+        "identical": "IEC 60264-3-3:1990"
+      },
+      {
+        "standardId": 6818,
+        "standardNumber": "IS 14841 (Part 3/Sec 4):2000",
+        "standardName": "Packaging of winding wires: Part 3 taper barrelled delivery spools: Sec 4 basic dimensions of containers for taper barrelled delivery spools",
+        "equivalent_is": "NULL",
+        "identical_is": "IEC 60264-3-4:1999",
+        "reviewOn": "2024-09-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkU3bUZjdDRnUnlaYWx6ZEVVMmxoQ1E9PSIsInZhbHVlIjoic2hNQlYrUVF0cEtkaU5CTWFFdVBiQT09IiwibWFjIjoiNDc2NWZhZTc5NGYxM2M4YTc2ZTlhZWIwNTMxMDA3YjQwNzRhZGUzNzM2MTI1ZmU1NGU5ZDdhZmI3NDQ3ZDVmNSIsInRhZyI6IiJ9",
+        "identical": "IEC 60264-3-4:1999"
+      },
+      {
+        "standardId": 6819,
+        "standardNumber": "IS 14841 (Part 4/Sec 1):2013",
+        "standardName": "Packaging of winding wires: Part 4 methods of test: Sec 1 delivery spools made from thermoplastic materials (First Revision)",
+        "equivalent_is": "NULL",
+        "identical_is": "IEC 60264-4-1:1997",
+        "reviewOn": "2024-09-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Impoc0dpbkZScElJaFF4TE9CZ2VGanc9PSIsInZhbHVlIjoiczFZaEJRdE00akhIeGpwczFLMytDZz09IiwibWFjIjoiYjY0ZmI1NzdiN2MzMWM0ZWQyMmUyMmQ3YjQ4NzM3Y2VkZTEyMDI3ZDA0NGIyZjNiYjA5NmY1NjczZDVmMGUwMCIsInRhZyI6IiJ9",
+        "identical": "IEC 60264-4-1:1997"
+      }
+    ],
+    "crossFollowRefData": []
+  }
+}

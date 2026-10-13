@@ -1,0 +1,25 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 15203,
+      "So_No": "1920(E)",
+      "migratedFiles": null,
+      "pki_id": 369,
+      "Amd_No": 1,
+      "standardNumber": " Amendment 1 to IS 8130:2013",
+      "standardId": 15200
+    },
+    {
+      "IS_NO": 15203,
+      "So_No": "PUB-015-1-2020-PUB-BIS (717)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_243_15203_8130_A2.pdf",
+      "pki_id": 11207,
+      "Amd_No": 2,
+      "standardNumber": " Amendment 2 to IS 8130:2013",
+      "standardId": 15200
+    }
+  ]
+}

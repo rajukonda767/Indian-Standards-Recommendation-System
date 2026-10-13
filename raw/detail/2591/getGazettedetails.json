@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 2591,
+      "So_No": "pub-014-1-2020-pub-bis (759)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/MTD/gf_27_2591_1148_A1.pdf",
+      "pki_id": 11692,
+      "Amd_No": 1,
+      "standardNumber": " Amendment 1 to IS 1148:2009",
+      "standardId": 2591
+    }
+  ]
+}

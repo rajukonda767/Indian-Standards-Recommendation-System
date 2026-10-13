@@ -1,0 +1,25 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 2203,
+      "So_No": "PUB012-1-2020-PUB-BIS (403)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/MTD/gf_39_2203_11169_1_1.pdf",
+      "pki_id": 7105,
+      "Amd_No": 0,
+      "standardNumber": "IS 11169 (Part 1):2022",
+      "standardId": 27526
+    },
+    {
+      "IS_NO": 2203,
+      "So_No": "PUB-014-1-2020-PUB-BIS (698)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/MTD/gf_39_2203_11169_1_A1.pdf",
+      "pki_id": 11084,
+      "Amd_No": 1,
+      "standardNumber": " Amendment 1 to IS 11169 (Part 1):2022",
+      "standardId": 27526
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 17832,
+      "So_No": "PUB_013_1_2020",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_242_17832_IE62271_102_1.pdf",
+      "pki_id": 5029,
+      "Amd_No": 0,
+      "standardNumber": "IS/IEC 62271 (Part 102):2018",
+      "standardId": 26108
+    }
+  ]
+}

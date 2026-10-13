@@ -1,0 +1,25 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 7948,
+      "So_No": "HQ-PUB013/1/2020-PUB-BIS (408)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/MTD/gf_26_7948_15756_1.pdf",
+      "pki_id": 7161,
+      "Amd_No": 0,
+      "standardNumber": "IS 15756:2022",
+      "standardId": 27576
+    },
+    {
+      "IS_NO": 27711,
+      "So_No": "HQ-PUB013/328/2026-PUB-BIS",
+      "migratedFiles": "BisProd/bisProd/projects/gazettes/2026/07/476_1783589873.pdf",
+      "pki_id": 20844,
+      "Amd_No": 0,
+      "standardNumber": "IS 15756:2022",
+      "standardId": 27576
+    }
+  ]
+}

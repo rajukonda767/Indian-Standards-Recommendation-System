@@ -1,0 +1,115 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 26312,
+        "standardNumber": "IS 1248 (Part 1):2021",
+        "standardName": "Direct Acting Indicating Analogue Electrical Measuring Instruments and their Accessories Part 1 Definitions and General Requirements ( Fifth Revision )",
+        "equivalent_is": "",
+        "identical_is": "IEC 60051-1: 2016",
+        "reviewOn": null,
+        "noOfReview": "05",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ik5VRHhTNitqVW8wRnVybTZ6T2RCb1E9PSIsInZhbHVlIjoidkRoQW5oVEtGS0NrMGliK2phdWZzUT09IiwibWFjIjoiMmE0ZGVhMDdjMTlmM2UwNmJmNDIxN2QyYWNhMjRhNDgzMTM0MjMwNGMyODhmODAyZDA4MzI0Nzg3ZjhjZjY3OCIsInRhZyI6IiJ9",
+        "identical": "IEC 60051-1: 2016"
+      },
+      {
+        "standardId": 26367,
+        "standardNumber": "IS 1248 (Part 9):2021",
+        "standardName": "Direct Acting Indicating Analogue Electrical Measuring Instruments and their Accessories Part 9 Recommended Test Methods (Fourth Revision)",
+        "equivalent_is": "",
+        "identical_is": "60051-9:2019",
+        "reviewOn": null,
+        "noOfReview": "04",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkdJZDdteTFubERVeHlzanlYT0g0U0E9PSIsInZhbHVlIjoicEwyV0g3OWw4a3l3RTNFbmNXaU95QT09IiwibWFjIjoiYWE3NTI0NzMyOThkZTZlMzk0ZDg5YzRjMjE5ZjMzOGY3MGQ4YmQ2Nzc3NzUxYWFiN2ZkYjY4YTI0NWIyNzJmNSIsInRhZyI6IiJ9",
+        "identical": "60051-9:2019"
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 7967,
+        "standardName": "Secondary cells and batieries containing alkaline or other non - Acid electrolytes - Nickel - Cadmium prismatic secondary single cells with partial gas recombination",
+        "standardNumber": "IS 15767:2008",
+        "equivalent_is": "NULL",
+        "identical_is": "lEe 62259 : 2003",
+        "reviewOn": "2024-08-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjNLM1pRMEI3TGRUN1NOU2ZQUXNPYUE9PSIsInZhbHVlIjoic1VCMUN4aEhGNzFiUlE1cFhTOE1YUT09IiwibWFjIjoiNTZiOWNmODZkN2JkNzlkYzM1MjdlOGUyYjg2OGVmMWI3ZDAzYWEwNzgzMDE0YzE3OTIzNzgxM2NmYjQ4YzNkOCIsInRhZyI6IiJ9",
+        "identical": "lEe 62259 : 2003"
+      },
+      {
+        "standardId": 279,
+        "standardName": "Secondary cells and batteries containing alkaline or other non - Acid electrolytes - Sealed nickel - Cadmium prismatic rechargeable single cells",
+        "standardNumber": "IS 16049:2013",
+        "equivalent_is": "NULL",
+        "identical_is": "IEC 60622 : 2002",
+        "reviewOn": "2023-05-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Im11ZTdpN1ZmeE01eWYzZ1BCRGNRdkE9PSIsInZhbHVlIjoiTS9MNHd0VU5XYXBHQ3NDWWZCS3l4UT09IiwibWFjIjoiODY3YjcyMTkzNGFlNjlkZWM3NTJhYjBhMWU0M2RmZTlkNDgzMmQyYWUwYTFlZTU1MjEwY2ZjOTU0NTE4NzIxNCIsInRhZyI6IiJ9",
+        "identical": "IEC 60622 : 2002"
+      },
+      {
+        "standardId": 377,
+        "standardName": "Lead - Acid traction batteries: Part 1 general requirements and methods of test (Second Revision)",
+        "standardNumber": "IS 5154 (Part 1):2013",
+        "equivalent_is": "NULL",
+        "identical_is": "IEC 60254-1 : 2005",
+        "reviewOn": "2024-09-01",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImU4RDdLSW85QkxITkFzKzhQZFhWU3c9PSIsInZhbHVlIjoiWDk3aXZMOExtZmxHaW91VWVnUlc1QT09IiwibWFjIjoiNjUwZWFjZTkyYjU3NGQ4OWM2ZTRhNTJmYzM2MDI3Yzk4MDE1YmE1ODQ2YTg4OWViYjNiYzU4NmNjM2Y2ZjRjNiIsInRhZyI6IiJ9",
+        "identical": "IEC 60254-1 : 2005"
+      },
+      {
+        "standardId": 10659,
+        "standardName": "Guide for testing three phase induction motors (First Revision)",
+        "standardNumber": "IS 4029:2010",
+        "equivalent_is": "NULL",
+        "identical_is": "NULL",
+        "reviewOn": "2024-09-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InlITmQrYVhUM2hCTVN1TmYvQ3I3T2c9PSIsInZhbHVlIjoiM2x4RkFjSVVnWHBKSFo4SG52VHpDUT09IiwibWFjIjoiYzliMTI5YjA3MzRkMjFhMzZhMDQwOTcwMTViMDQxMTRiNjA4MDhmODgwNGRkZGJjNzZhNzYwZDc0MWZkNGMwMCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 26857,
+        "standardName": "Test methods for electrical materials printed boards and other interconnection structures and assemblies Part 3 Test methods for interconnection structures printed boards",
+        "standardNumber": "IS/IEC 61189 (Part 3):2007",
+        "equivalent_is": "",
+        "identical_is": "IEC 61189-3: 2007",
+        "reviewOn": "2026-02-23",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IklldXg1SU94eU5TMVRJR1g1ZGJDaHc9PSIsInZhbHVlIjoiT01tdHU5b3F3S1dFbWRCbHljU09sdz09IiwibWFjIjoiMDA5Njc1Y2I5NWVmMTRmMDBlM2E4NGY1ZTFkYjA0NDIzM2VkMjU2MjVhMTNlMjZhNjViYTJhYjk5OGRkNGE5NiIsInRhZyI6IiJ9",
+        "identical": "IEC 61189-3: 2007"
+      },
+      {
+        "standardId": 33142,
+        "standardName": "Rotating Electrical Machines  Part 2 Determining Losses and Efficiency from Tests  Section 1 Standard Methods (Excluding Machines for Traction Vehicles)",
+        "standardNumber": "IS/IEC 60034 (Part 2/Sec 1):2024",
+        "equivalent_is": "",
+        "identical_is": "IEC 60034-2-1:2024 ",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkxxRlBRQkJRKzR0cnMxdnVRNnIwOWc9PSIsInZhbHVlIjoicHlMTzY5WHVXb3IrQ3NOVTAvclBSdz09IiwibWFjIjoiMDM4ZjIxMTczMmJiNTg2YjgyZGVhZDUzNmMxYTFmYTAyOWM0MmYzY2ZmYWJlMDg5NGRiNmQwOWNhMDVjZmQ5YSIsInRhZyI6IiJ9",
+        "identical": "IEC 60034-2-1:2024 "
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "No record found.",
+  "data": {
+    "crossRefData": [],
+    "crossFollowRefData": [
+      {
+        "standardId": 66544,
+        "standardName": "Definitions and terminology relating to hydraulic cement First Revision of IS 4845",
+        "standardNumber": "IS 4845:2026",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlUvVHo0eS91d1FGaUhhdUk2L3lnMEE9PSIsInZhbHVlIjoiWkwwRDhHUkU1NXVIWTVpYVhtZFB0UT09IiwibWFjIjoiZmU3Nzg0MDY0OTBiNDIwYWY5MjM2MTA0ZGM5YjBmN2FhNDE0YmUxYWU4ZmZjYzcxMDMyMWY1NWFiNWYxYjY3YSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

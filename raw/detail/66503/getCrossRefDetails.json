@@ -1,0 +1,154 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 16228,
+        "isType": 1,
+        "standardNumber": "IS 9000 (Part 4):2020",
+        "standardName": "Environmental Testing Part 4 Tests - Test Cab: Damp Heat, Steady State ( Second Revision )",
+        "noOfReview": "02",
+        "identical_is": "IEC 60068-2-78 : 2012 ",
+        "reviewOn": "2023-12-01",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImVrL2NoRjlBdHVCVHZVV1g4NHNPNlE9PSIsInZhbHVlIjoidHlYQ054aUd1OCs1QnYvQ1hoTTdzdz09IiwibWFjIjoiZDk4YjkxMTY4NDU1NWE0MjM1YWE1ZTYzZTM5NGU5ODIyYTBlNDkzNTYxMDVhYjgwZWQwNDRlYTczZDAwNTQzMCIsInRhZyI6IiJ9",
+        "identical": "IEC 60068-2-78 : 2012 "
+      },
+      {
+        "standardId": 16230,
+        "isType": 1,
+        "standardNumber": "IS 9000 (Part 7/Sec 1):2018",
+        "standardName": "Basic environmental testing procedures for electronic and electrical items: Part 7 impact test: Sec 1 shock (Test Ea) (Second Revision)",
+        "noOfReview": "02",
+        "identical_is": "IEC 60068-2-27 : 2008 ",
+        "reviewOn": "2024-11-01",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImcwZnNwRm5ybWVRNE4wR2FVd3hyUFE9PSIsInZhbHVlIjoiNlFlWEJlS3ZnYnVDUnJGVnpCM1VTZz09IiwibWFjIjoiZThmOTI4MDk2M2QxYTg4OWQ5NmE5YjZiY2YzNzkyZTkxMzBhOTZkMjJiMDMyMmU2Yjc2YTMzOTRkY2M1ZGVlYSIsInRhZyI6IiJ9",
+        "identical": "IEC 60068-2-27 : 2008 "
+      },
+      {
+        "standardId": 20829,
+        "isType": 1,
+        "standardNumber": "IS/IEC 60730 (Part 1):1999",
+        "standardName": "Automatic electrical controls for household and similar use : part 1 General Requirements",
+        "noOfReview": "00",
+        "identical_is": "NULL",
+        "reviewOn": "2026-01-16",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ii9GaDBxWkVNQm1kL2ozRmtCejFyTXc9PSIsInZhbHVlIjoiS0NKSW5PSU81U1VTQzVoakNrOG52Zz09IiwibWFjIjoiMGQ4ZDliY2UxNTMwODEwMjIzN2U1NjE4NThiZGI1MThiYzU1M2ZlM2ExMTA5ODk4NjZmZTNhY2NjMzdiNGEyZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 23953,
+        "isType": 1,
+        "standardNumber": "IS/IEC 60947 (Part 5/Sec 5):2016",
+        "standardName": "Low - Voltage switchgear and controlgear: Part 5 control circuit devices and switching elements: Sec 5 electrical emergency stop devices with mechanical latching function",
+        "noOfReview": "00",
+        "identical_is": "IEC 60947-5-5 : 2016 ",
+        "reviewOn": "2024-03-01",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImtTZlFGZWIyU0NIK1dUZ0Y1N0d2Q1E9PSIsInZhbHVlIjoiblF0TTVYMFVncVVLYm5NVmN6bExZZz09IiwibWFjIjoiOTVkODEwY2VkYzAwZTEyNDNlYjI5YTUzOGFkMDc2M2QyNzhiYTUwMzA3MDMwNzgzZmMwZjM2MjVjOWQzMDU3ZiIsInRhZyI6IiJ9",
+        "identical": "IEC 60947-5-5 : 2016 "
+      },
+      {
+        "standardId": 27319,
+        "isType": 1,
+        "standardNumber": "IS/IEC 60068 (Part 2/Sec 6):2007",
+        "standardName": "Environmental Testing Part 2 Tests Section 6 Test Fc: Vibration sinusoidal",
+        "noOfReview": "00",
+        "identical_is": "IEC 60068-2-6:2007",
+        "reviewOn": "2025-04-01",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Inl4amtGWWRFU3VkSjNOOUEzZDRNOWc9PSIsInZhbHVlIjoiMmx5MGpHRW5ySGE3ZjZxc3FWTEFLUT09IiwibWFjIjoiZTBhNmRhMmVkN2EwODk0OWRhMDkyNjMyYjY2OTEzZGZhNTQ3MjdiYmE4NDA5NWIzYmM4ZmVmNzkzZWUwYTgxMyIsInRhZyI6IiJ9",
+        "identical": "IEC 60068-2-6:2007"
+      },
+      {
+        "standardId": 28566,
+        "isType": 1,
+        "standardNumber": "IS/IEC 60695 (Part 2/Sec 11):2021",
+        "standardName": "Fire Hazard Testing  Part 2: Glowinghot-wire based test methods  Section 11: Glow-wire flammability test method for end products GWEPT",
+        "noOfReview": "01",
+        "identical_is": "IEC 60695-2-11:2021",
+        "reviewOn": "2026-05-14",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InEya3p5SStuUkorS3dwdWh3Y3hBemc9PSIsInZhbHVlIjoiWTR4QUlhUmlmWVZYV2JqVzNYcFFTdz09IiwibWFjIjoiOTJlODJkZDYxZDc5MTY4MTBmNGVlNGRkNmU3Y2EwODEwMmY5ZTYyMTcyZjM1ZWI0M2I5YWE4NTBlYjMyOTQyNSIsInRhZyI6IiJ9",
+        "identical": "IEC 60695-2-11:2021"
+      },
+      {
+        "standardId": 28567,
+        "isType": 1,
+        "standardNumber": "IS/IEC 60695 (Part 2/Sec 12):2021",
+        "standardName": "Fire Hazard Testing  Part 2: Glowinghot-wire based test methods  Section 12: Glow-wire flammability index  GWFI Test method for materials",
+        "noOfReview": "01",
+        "identical_is": "IEC 60695-2-12:2021",
+        "reviewOn": "2026-05-14",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ind0S2V4VEN3cGdMWFN5UlMxRGo0RWc9PSIsInZhbHVlIjoiZXV3Y0tlZWNPKzBuNklFWjVmYk0rQT09IiwibWFjIjoiYjkyZWZmOTZkYjM3YzJmMzhmMWJlOTY4NzRhZjQyODdiM2NhYTEyYjVkODVkMjc4ODkyZGVjNjI5MTQ5YzdhZiIsInRhZyI6IiJ9",
+        "identical": "IEC 60695-2-12:2021"
+      },
+      {
+        "standardId": 28616,
+        "isType": 1,
+        "standardNumber": "IS/IEC 60947 (Part 1):2020",
+        "standardName": "LOW-VOLTAGE SWITCHGEAR AND CONTROLGEAR PART 1 GENERAL RULES",
+        "noOfReview": "01",
+        "identical_is": "IEC 60947-1:2020",
+        "reviewOn": "2023-05-15",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InhYSlVvTzVBV0o1RU5mWDkvRkZXaGc9PSIsInZhbHVlIjoidDJhODlXM1dEaDZzNE5jUXB0cVphQT09IiwibWFjIjoiMDQ1NjZiNzhiOWY3ZjkyY2RjOGUxNjU3OTY0OTA4ZWU4M2UzNjI4ZGY0YTcwODdiMGY2MTkwMzU0NzNlZmQ3NSIsInRhZyI6IiJ9",
+        "identical": "IEC 60947-1:2020"
+      },
+      {
+        "standardId": 29451,
+        "isType": 1,
+        "standardNumber": "IS/IEC 60947 (Part 5/Sec 2):2019",
+        "standardName": "LLow-Voltage Switchgear and Controlgear Part 5 Control Circuit Devices and Switching Elements Section 2 Proximity Switches ( First Revision )",
+        "noOfReview": "01",
+        "identical_is": "IEC 60947-5-2: 2019",
+        "reviewOn": "2023-08-01",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlpmYlFrQktyL09QbFVSZDd2TFJGYkE9PSIsInZhbHVlIjoiSTA1TDR4ejk3RVhySEtoQjRUTFpOdz09IiwibWFjIjoiNDRmYjBjYWYxMDdmYjI0YmI0MjE0ZjMwMGRlMzgwYmQxNjZhYjgyN2JiYjJkYmRkNWM3MjUwZGY5MjA2ZWU5OCIsInRhZyI6IiJ9",
+        "identical": "IEC 60947-5-2: 2019"
+      },
+      {
+        "standardId": 29994,
+        "isType": 1,
+        "standardNumber": "IS/IEC 60068 (Part 2/Sec 30):2005",
+        "standardName": "Environmental testing   Part 2 Tests Section 30 Test Db: Damp heat cyclic 12 h  12 h cycle",
+        "noOfReview": "00",
+        "identical_is": "IEC 60068-2-30:2005",
+        "reviewOn": "2026-09-07",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ik1HaUZ4ME5iam05bTBNSnhWMjVBTFE9PSIsInZhbHVlIjoib0FwdUVPc04raHd2TldlSlBZNzkvUT09IiwibWFjIjoiOGMyMzMxMTJlYjBhM2IzM2RkODQ4ZDY5OTAzMTNjNmY3MDhhZDYwZjU0YzY2ZDQxM2E0NzBhODM1MGFlNWY1YSIsInRhZyI6IiJ9",
+        "identical": "IEC 60068-2-30:2005"
+      },
+      {
+        "standardId": 31764,
+        "isType": 1,
+        "standardNumber": "IS/IEC 60068 (Part 2/Sec 14):2023",
+        "standardName": "Environmental Testing  Part 2 Tests  Section 14 Test N: Change of Temperature (First Revision)",
+        "noOfReview": "01",
+        "identical_is": "IEC 60068-2-14:2023",
+        "reviewOn": "2024-09-11",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InhsQ0YvZG54T05WOG5iUlNmbjVDSWc9PSIsInZhbHVlIjoiQTl5YkZ1TTMzaGlSTkhnenNYYWRwZz09IiwibWFjIjoiYzIwNmJlNjZjZDFmM2Y1OGFiMjBjODBmN2FmYjViNGQyMTcyMWY0ZWM4YTJkZTFjOTg5Mzc5NTQ5ZDIzZTNlNCIsInRhZyI6IiJ9",
+        "identical": "IEC 60068-2-14:2023"
+      },
+      {
+        "standardId": 66587,
+        "isType": 1,
+        "standardNumber": "IS/IEC 60947 (Part 4/Sec 1):2023",
+        "standardName": "Low-Voltage Switchgear and Controlgear Part 4 Contactors and Motor-Starters  Section 1  Electromechanical Contactors and Motor-Starters",
+        "noOfReview": "03",
+        "identical_is": "IEC 60947 (Part 4/Sec 1):2023",
+        "reviewOn": null,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjFuc2JaSU9zUlBkcjBLS0N6Ui9sYlE9PSIsInZhbHVlIjoiY1ZWR0VqSEV5QzRaazM3ZEp1RnYwQT09IiwibWFjIjoiZTAyMmJmM2E0MDlhY2NhZWFjYjdjMmM5ZWM5ZDllNjM4YzYwYTJmYjU1NDkyNzc1ZTc2YTM0ODkxMTBmOTdjMiIsInRhZyI6IiJ9",
+        "identical": "IEC 60947 (Part 4/Sec 1):2023"
+      }
+    ],
+    "crossFollowRefData": []
+  }
+}

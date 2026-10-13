@@ -1,0 +1,77 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6InZ4T3g3a3ZGdHJPSmdlSWdaRmJoS2c9PSIsInZhbHVlIjoiWVRYeGlONDJhYzcrK0RwREE1YUh2UT09IiwibWFjIjoiOWM1MThhOWQxMzhlZTgxNGZmYjU3YmJmZTZhMjQ3NWU1OTRkZDA3YjQ3MjJjZmU0M2NkYWM1Njg4MTlkODlmMCIsInRhZyI6IiJ9",
+    "rowStandardId": 29773,
+    "pk_is_id": 29960,
+    "standardName": "Autoclaved Reinforced Cellular Concrete Wall Slabs - Specifications (First Revision)",
+    "standardNumber": "IS 6072:2023",
+    "publishedOn": "2023-11-28",
+    "committeeId": 435,
+    "departmentId": 63,
+    "groupName": "Civil Engineering Design and Construction",
+    "subGroupName": "Concrete structures",
+    "subSubGroupName": "Prefabricated Construction",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "01",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "AAC slabs, Autoclaved Aerated Concrete",
+    "certificationName": "Voluntary",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "IS 6072 : 1971",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S03/S03V01/6072.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2023-11-30",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Abhishek Pal (SCIENTIST-D)",
+    "committeeName": "Prefabricated Construction",
+    "departmentName": "CIVIL ENGINEERING DEPARTMENT",
+    "deptAliasName": "CED",
+    "committeePreparedName": "CED 32 - Prefabricated Construction",
+    "deptPreparedName": "Civil Engineering Department(CED)",
+    "reviewList": [
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 6072:1971"
+      },
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 6072:1971"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 6072:2023"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 6072:1971"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 6072:1971"
+      }
+    ]
+  }
+}

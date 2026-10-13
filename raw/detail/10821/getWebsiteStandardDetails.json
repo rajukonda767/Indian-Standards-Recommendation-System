@@ -1,0 +1,81 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Electronics and Information Technology, Ministry of Power",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6IjltdkM2emhXaVRoTENheEw1TExUMWc9PSIsInZhbHVlIjoibFNGa3NjZUcwZVR5SE80UUE4RVFJZz09IiwibWFjIjoiNzdlOTM2OWM3YTcxYzBmMGU3OTlmZDEzNDQ0YTE0MWRhYjEyZGE3ZDJkZjBiN2Q0NmVmOWZiMmFlNDc3YTg1OSIsInRhZyI6IiJ9",
+    "rowStandardId": 10820,
+    "pk_is_id": 10821,
+    "standardName": "Tungsten filament lamps for domestic and similar general lighting purposes (Fourth Revision)",
+    "standardNumber": "IS 418:2004",
+    "publishedOn": "2004-05-31",
+    "committeeId": 257,
+    "departmentId": 65,
+    "groupName": "Electrical Appliances and Accessories",
+    "subGroupName": "Lamps, Luminaire and Accessories",
+    "subSubGroupName": "Luminaires & lighting",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "04",
+    "noOfAmendment": "05",
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "Tungsten Filament Lamp for Domestic and Similar General Lighting Purposes",
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Modified/Technically Equivalent",
+    "supersheed": "",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "2025-02-01",
+    "commentCount": 0,
+    "equivalenceId": 3,
+    "is_documents": "BisProd/bisProd/oldStandards/S05/S05V01/418.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": "IEC 60064",
+    "identical_is": "IEC 60064",
+    "reviewOn": "2025-02-01",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Jainendra Kumar (SCIENTIST-D)",
+    "committeeName": "Lamps and Related Equipments",
+    "departmentName": "ELECTROTECHNICAL DEPARTMENT",
+    "deptAliasName": "ETD",
+    "committeePreparedName": "ETD 23 - Lamps And Related Equipments",
+    "deptPreparedName": "Electrotechnical Department(ETD)",
+    "reviewList": [
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 418:2004"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 418:2004"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 418:2004"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 418:2004"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 418:2004"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 418:2004"
+      }
+    ]
+  }
+}

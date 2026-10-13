@@ -1,0 +1,89 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 3713,
+        "standardNumber": "IS 1239 (Part 1):2004",
+        "standardName": "Steel tubes, tubulars and other wrought steel fittings - Specification: Part 1 steel tubes (Sixth Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-06-01",
+        "noOfReview": "06",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlpZVWxNQ2dMTmJBYW1MSFlxV2NHMmc9PSIsInZhbHVlIjoiWUFvYlpaWk5vSG5pUW43UXA3bExEZz09IiwibWFjIjoiNDY2NzhlMWQyMjliN2Y4MjJhMzY2MzI3NzA2ZGNhOTI3Y2JkNmM3NTE4YmJjMzcxNDhiZWM1M2Y4MzEwNTg2NSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 65588,
+        "standardNumber": "IS 1875:2025",
+        "standardName": "Steel Ingots, Billets, Blooms, Slabs and Bars For Forging - Specification (Sixth Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "06",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImtMRm0yazNHaUswNnZVYUZnTG5UakE9PSIsInZhbHVlIjoiR0o0WFNPZ3FoeGtaUFlBNTBIOWRBdz09IiwibWFjIjoiNjhlMWU0OGVkNTQyM2M2YTViYTcxYmE3NTg5ODI1NmZiODQ4YjJlMmE3ZjgxNzlmOWNiNmNjZmNkZDg0MTM5MyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 9340,
+        "standardNumber": "IS 2809:1972",
+        "standardName": "Glossary of terms and symbols relating to soil engineering (First Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-05-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlFrYXY4ZVFqK0FlY2V5SUlXZEpTbVE9PSIsInZhbHVlIjoiazI3K093Q0lPa1lwa2wydnRpdDczZz09IiwibWFjIjoiYzA5YjI2Y2VmODg2ZjJkZGI0MzNlYzAxNjkyZWE0YjVlNGQ0YzY1Mjk5OWVhMTllMGRjYTkyZWI1MjZkNGY3YSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 11096,
+        "standardNumber": "IS 4432:1988",
+        "standardName": "Specification for case hardening steels (First Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-04-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImxWTlljcWlEcUpzNDlaRUl1eC8xeXc9PSIsInZhbHVlIjoiTFlRWVk5SkFYcXVQVWVBc2JEak9PUT09IiwibWFjIjoiYzQzMjM0YTg1M2MyYmM4MmI5NTI4MjEzZTcyZjk3YTVhNTNiNDhlZjQxMGMxZjhiN2Q1NGIxY2E5YTE2MzI5ZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 28491,
+        "standardNumber": "IS 18120:2023",
+        "standardName": "Tourism and related services - Accessible tourism for all  - Requirements and recommendations",
+        "equivalent_is": "",
+        "identical_is": "ISO 21902:2021",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjEyZHViaEdsQjJzUzR1bjZWNURlelE9PSIsInZhbHVlIjoiMFc5bjJjbEZ0ZVR6eVQwMHN5RHY5dz09IiwibWFjIjoiOWRlMDljNTNhZmUyZmY5Y2MyZmNmOGVjYjNjYTM4NmM5ODNlYmI4NzJkYjBiMmI0MDhhZTkxMzcxZTA0ZWE1YyIsInRhZyI6IiJ9",
+        "identical": "ISO 21902:2021"
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 17716,
+        "standardName": "Compendium of Indian Standards on Soil Engineering: Part-2 Field Testing of Soils For Civil Engineering Purposes",
+        "standardNumber": "SP 36 (Part 2):1988",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InhHT0g3VisrYjBLeUVwY1p2NnV1ZlE9PSIsInZhbHVlIjoiQUcvdXpHYnJWUTBiTTRUWFBaeUhuQT09IiwibWFjIjoiNWUwODc1YTU2YTA2NDhkMGYwN2QzNGM1ZDZhOTJlNTgzMDg4NjI0ZjkyNGIyYTAzZWYxMTY5MWU3MGIyMjBmYSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

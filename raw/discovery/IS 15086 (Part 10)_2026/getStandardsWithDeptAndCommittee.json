@@ -1,0 +1,41 @@
+{
+  "endpoint": "getStandardsWithDeptAndCommittee",
+  "url": "https://standardsadmin.bis.gov.in/proposal-service//getStandardsWithDeptAndCommittee",
+  "method": "POST",
+  "request_headers": {
+    "referer": "https://standards.bis.gov.in/",
+    "accept": "application/json, text/plain, */*",
+    "content-type": "application/json"
+  },
+  "request_body": {
+    "StandardId": "eyJpdiI6IlBuVlErMjdsellIc0w3WmxVeW9raFE9PSIsInZhbHVlIjoiWWZqeTlzSS9abytkd3hJVUR2QW1BUT09IiwibWFjIjoiODk1YzdlNDQxMDc0NzJjOTM3ZjQ5YWZkZTEzNjMxZTM5ODI5Yjc0Y2YwZGYwMmI2OGZlODZhY2FlNTQ0ZWMzNyIsInRhZyI6IiJ9",
+    "token": null,
+    "refreshToken": null,
+    "clientId": null,
+    "clientSecret": null,
+    "sub": null
+  },
+  "response_status": 200,
+  "response_json": {
+    "status": "SUCCESS",
+    "statusCode": 200,
+    "msg": "Standard details fetched successfully",
+    "data": [
+      {
+        "standardId": 67227,
+        "pk_is_id": 67227,
+        "standardEncId": "eyJpdiI6IkRSbkR1VkVoTVV5SFNPZjJNMlNJRkE9PSIsInZhbHVlIjoiM3BlR29TQnhaa2xlWmFiMDNmTS83QT09IiwibWFjIjoiZjU2NGM1ZDg3NjRiNWI2MDJiOWEzODRhNWI2YWM4Njg3ZGU1ZDM2MjUzYzZlNzE4NjM3OWQ2NGEwZTI0YmU2MSIsInRhZyI6IiJ9",
+        "standardEncIId": "eyJpdiI6IlBvMFFNSncyd0cvVkpDV2ZMbU12WFE9PSIsInZhbHVlIjoidDlsVytudTFsS1NxRnU0eHpCRHhHUT09IiwibWFjIjoiNjg2Mjk4MDNmYThlOTQyMGE4Yjc3ZTkwMTY2ZDZmMzFmZWVlY2JjN2Q0MTJkOTA4OTFhZDZkNmQyNmI4OWZjNSIsInRhZyI6IiJ9",
+        "standardNumber": "IS 15086 (Part 10):2026",
+        "standardName": "Surge arresters - Part 10: Rationale for tests specified by IEC 60099 Part 4 : 2014",
+        "departmentId": 65,
+        "departmentEncId": "eyJpdiI6IlBVSERDZ24xaGpZb3pYVUNVV0d5VXc9PSIsInZhbHVlIjoiK3hyUzk0Y01iRktOR0kzbUZieGkwUT09IiwibWFjIjoiNzk5ODFkY2Y1ZmQ3ZWM0YzdiM2I2YjM5NmE4MWRjNzU2ODFhZjFmOWFhYzNiOGMzOGI3MWQ1Y2ZjMjE4NDY4OSIsInRhZyI6IiJ9",
+        "committeeId": 263,
+        "committeeEncId": "eyJpdiI6IjE0Znc0RHd0RjRCUUhiVGViVVRJZWc9PSIsInZhbHVlIjoia0NNYWVyL2FXdFBYZnJVK2FnQ2hGQT09IiwibWFjIjoiYWNjMjg5ZmRkNjU4OWY0NDUyYWJmYTcxN2ZhZjM5MDVlODM4N2IxNjM2M2Y4NTkyNTRlZGEyYjEyODdjNjQwNSIsInRhZyI6IiJ9",
+        "deptPreparedName": "Electrotechnical Department(ETD)",
+        "secCommitteePreparedName": "ETD 30 - Surge Arresters",
+        "reviewId": "eyJpdiI6IkVvUTVhQ3ZsR3F5WjFJV2lWM3p5cEE9PSIsInZhbHVlIjoiNEw4eFVOeHBQNVd2eDgzekMwVEFrUT09IiwibWFjIjoiNmM0OTYzMmJjOTg4MmQ5YTg4NzRkYWI0ODU1M2MwYjcxMmYzNWFkY2RkZGI0NmE5MDBkMGMyMjNmMDVhYjBiNyIsInRhZyI6IiJ9"
+      }
+    ]
+  }
+}

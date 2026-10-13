@@ -1,0 +1,153 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "No record found.",
+  "data": {
+    "crossRefData": [],
+    "crossFollowRefData": [
+      {
+        "standardId": 21351,
+        "standardName": "Safety of power transformers, power supplies reactors and similar products: Part 2 - 7 particular requirements and tests for transformers and power supplies for toys",
+        "standardNumber": "IS/IEC 61558 (Part 2/Sec 7):2007",
+        "equivalent_is": null,
+        "identical_is": "IEC 61558_2_7",
+        "reviewOn": "2021-08-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IndJakJnM3FKTHh0NzE4TUJ2dGRuaXc9PSIsInZhbHVlIjoiUUdOQ3RiYzl3SStxblBteWFJbkl1dz09IiwibWFjIjoiN2I2NjcyNGU0ZmY0ZDkyNDMyZWM1Y2MzNzNkZDFiODg4MjBlYzdiYmQ4YWZjYTMxNDEyNDBiMjI5YTVkYTJhZCIsInRhZyI6IiJ9",
+        "identical": "IEC 61558_2_7"
+      },
+      {
+        "standardId": 23323,
+        "standardName": "Electric Vehicle Conductive Charging System Part 1 General Requirements",
+        "standardNumber": "IS 17017 (Part 1):2018",
+        "equivalent_is": " ",
+        "identical_is": " ",
+        "reviewOn": "2023-07-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImpBdU5qR2NyZ3hzaTI4d0JJbXROcHc9PSIsInZhbHVlIjoiSjF5ZW9EYlE2U3pxejBNM3hnM2YyZz09IiwibWFjIjoiYmFmMmY1ZGI2MmMwZThmODQxOTk1NTU1Mzk4NjMwZTA0NDgxNTI3ZjljYWQ0ZjI4MTMyZmIxMDIwMThmNzAyZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 23569,
+        "standardName": "Industrial Cable Reels",
+        "standardNumber": "IS 17039:2018",
+        "equivalent_is": " ",
+        "identical_is": "IEC 61316 : 1999 ",
+        "reviewOn": "2024-08-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkU1ekhmS2JkdmhBM0ZMNXhBM204UUE9PSIsInZhbHVlIjoid2RMV2c4Mm1LbHhubzF3SzVDYTlnZz09IiwibWFjIjoiZjFmZTRmMTA0OTQ2NGU2ODFmODU2OGQ4MjQ1ZmU5M2NmZjljMWNkNDAwMmU5NWYwY2ZlZWQ1N2MzYjg5Yjg3OSIsInRhZyI6IiJ9",
+        "identical": "IEC 61316 : 1999 "
+      },
+      {
+        "standardId": 66701,
+        "standardName": "Industrial Cable Reels (First Revision)",
+        "standardNumber": "IS 17039:2026",
+        "equivalent_is": null,
+        "identical_is": "IEC 61316:2021",
+        "reviewOn": null,
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImNRMmo0cGFXR0YxNW85UjhDTmNVVVE9PSIsInZhbHVlIjoiMFBsaURNVWNVTGVPL0VKeHF0SjVTQT09IiwibWFjIjoiYjk2YmEyYTI1ZmJkNDAyZmEyNzZhOWE2MDRkMTZjYzI2YTkzYzQ4MmFhZWRmMGVjMzM0OGViNDA3ZjEzMWI4NCIsInRhZyI6IiJ9",
+        "identical": "IEC 61316:2021"
+      },
+      {
+        "standardId": 348,
+        "standardName": "Information Technology Equipment - Safety Part 1: General Requirements (Second Revision)",
+        "standardNumber": "IS 13252 (Part 1):2010",
+        "equivalent_is": null,
+        "identical_is": "IEC 60950 Part 1:2005",
+        "reviewOn": "2025-12-11",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ikgzdmtmdis2Ylh2T3hWK1J6dTFRanc9PSIsInZhbHVlIjoiVVg5RDA3OXQySm1FNHBlZGpjVVpuUT09IiwibWFjIjoiNDBhOTVjZGE0OWYzM2RmZTVhMzQ5NzlmMTBjZGRiMDY2YTcyOTc1ODQzNTM1ZDRlYzQ0OTJiOWMyYmFhYTE0YyIsInRhZyI6IiJ9",
+        "identical": "IEC 60950 Part 1:2005"
+      },
+      {
+        "standardId": 29112,
+        "standardName": "Electric Rickshaw E-Kart  Construction and Functional Safety Requirements  Specification",
+        "standardNumber": "IS 18294:2023",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ino2SUF5MFRrZ2hCbW1Hd2lHOTdsK1E9PSIsInZhbHVlIjoiMGllR3FVNjkxNzJ4V1VJTVF0bjI4UT09IiwibWFjIjoiNjg4MDFiZGEzMjg1NDVmOThmZDY1ZTFlOTYwNWU1MTAzMjMzYmMxNDRhOWUwY2I0ZDczMmMwNGQ0ZDQ0YTNmZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 29900,
+        "standardName": "Safety Requirements for Electrical Equipment for Measurement, Control, And Laboratory Use Part 2 Particular Requirements for Laboratory Equipment used in Mixing and Stirring",
+        "standardNumber": "IS 17724 (Part 2):2023",
+        "equivalent_is": "",
+        "identical_is": "IEC 61010-2-051: 2018",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjhvdTdobnIwRWZVb3lKODRMWlZVS2c9PSIsInZhbHVlIjoiQlhzdTk0UWVJTnRyTHNZbmVqaE9oUT09IiwibWFjIjoiN2Y0OTc4YjkyMTk3YTY0ZjBmYjVlMDM0NjUyZDBlMTJmMzFiNDk3NjMwZjAzMGVjMjljZDdmZTdkNDI5N2Q2NCIsInRhZyI6IiJ9",
+        "identical": "IEC 61010-2-051: 2018"
+      },
+      {
+        "standardId": 30396,
+        "standardName": "ELECTRIC VEHICLE CONDUCTIVE CHARGING SYSTEM   Part 31: ac  or dc EV supply equipment for where protection relies on electrical separation",
+        "standardNumber": "IS 17017 (Part 31):2024",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImNjbnlqMk1WYnp0ZXhvNVYzdzAyU0E9PSIsInZhbHVlIjoiQ1pOeGNadm9nVEw0dVFFNXNmdEt4Zz09IiwibWFjIjoiZDQwZGZmZDUwNDA5YzZlYmEzZmI2YzUzMDE1Y2VmN2ZkMTY2MWRiZjVjMDAyOTlmMTY5YjI3ZjhmNzZiMzRkYyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 25976,
+        "standardName": "Electric Vehicle Conductive Charging Systems Part 22  AC Charging Configurations Section 1 - AC Charge Point for Light Electric Vehicle",
+        "standardNumber": "IS 17017 (Part 22/Sec 1):2021",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InZnbTVMbGgvTk94Y0JjaEJ2dWxMWkE9PSIsInZhbHVlIjoia21WL0habW5Za3kzMElKZjRVVEtsdz09IiwibWFjIjoiMjc4ZjY0MDc2YTFjMmQ2NDYyODhmYWIxNDY2Nzc3ZDdjMTViYWQ0MjY4NTBmZTA0YjM5ZGJhZmRmZTdhMjg2OCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 66502,
+        "standardName": "In-cable control and protection device IC-CPD for mode 2  charging of electric road vehicles (First Revision)",
+        "standardNumber": "IS 17120:2026",
+        "equivalent_is": null,
+        "identical_is": "IEC 62752:2024",
+        "reviewOn": null,
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlBGNEN0K01OV2JkeURmZGVxTDJSZHc9PSIsInZhbHVlIjoiWStiVWJhUkd6QUhWRWpVRTExeDlMQT09IiwibWFjIjoiODc4YzM1ODU5MDBlODZlODgyMGViZTc5ZmIxYWQyYTc2MmE4Mjc2NTg4ZDZiMDA0OThkMTFmZWIyMDY1MTc1ZCIsInRhZyI6IiJ9",
+        "identical": "IEC 62752:2024"
+      },
+      {
+        "standardId": 22223,
+        "standardName": "Safety of Power Converters for use in Photovoltaic Power Systems Part 1 General Requirements",
+        "standardNumber": "IS 16221 (Part 1):2016",
+        "equivalent_is": " ",
+        "identical_is": "IEC 62109-1 : 2010 ",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik9yb1hyLzU2WnMwOWRIc2p6MlRxOGc9PSIsInZhbHVlIjoiMGNnRnlEZGMzdGs1aG40OGhPaDU1dz09IiwibWFjIjoiOWIyMDA5M2E3OGJkOGJkMTg1ZmFjMjFmMzc5MjU3N2E5ZmZhZjE5M2FkYWU3NTlmMjNkN2QwYTBjMGYwYTEyNSIsInRhZyI6IiJ9",
+        "identical": "IEC 62109-1 : 2010 "
+      }
+    ]
+  }
+}

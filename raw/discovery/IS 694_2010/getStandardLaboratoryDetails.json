@@ -1,0 +1,64 @@
+{
+  "endpoint": "getStandardLaboratoryDetails",
+  "url": "https://standardsadmin.bis.gov.in/review-service//getStandardLaboratoryDetails",
+  "method": "POST",
+  "request_headers": {
+    "referer": "https://standards.bis.gov.in/",
+    "accept": "application/json, text/plain, */*",
+    "content-type": "application/json"
+  },
+  "request_body": {
+    "standardId": "eyJpdiI6IkZOdVdIUTgzc1ViOGVUb2xUelJEU1E9PSIsInZhbHVlIjoid1JxNmVSamtUelZrTll4bEVROE82QT09IiwibWFjIjoiZmQ1YjRmNGQ0NWRmNjNiZjMwZDQwYmY0N2Q5MTViYzMyYjBhNmEwMDA0MjkxOGI2MmQwOTM3ZDg5OGVmYjgyZiIsInRhZyI6IiJ9",
+    "page": 1,
+    "limit": 1,
+    "searchText": "",
+    "token": null,
+    "refreshToken": null,
+    "clientId": null,
+    "clientSecret": null,
+    "sub": null
+  },
+  "response_status": 200,
+  "response_json": {
+    "status": "SUCCESS",
+    "statusCode": 200,
+    "msg": "Laboratory details fetched successfully.",
+    "data": [
+      {
+        "id": 1,
+        "pki_id": 499,
+        "fki_api_id": 2033,
+        "bisId": [
+          13829
+        ],
+        "labName": "ARYAVRAT TEST HOUSE PRIVATE LIMITED",
+        "oslCode": "5191706",
+        "bisCode": "--",
+        "labType": "osl",
+        "contactPerson": "PABITRA SARKAR",
+        "contactNumber": "+91 8240118890",
+        "labEmail": "aryavrat.lab@gmail.com",
+        "labMobile": "--",
+        "labTelephone": "--",
+        "latitude": "22.592188",
+        "longitude": "88.223043",
+        "labDistrict": "Howrah",
+        "labAddress": "L.R. DAG No .257 AND 259, MOUZA ARGOURI, NH 6, BOMBAY ROAD, JANGALPUR,NATIBPUR",
+        "labCity": "Howrah",
+        "labState": "West Bengal",
+        "labCountry": "India",
+        "labZipcode": "711302",
+        "state": "Recognized"
+      }
+    ],
+    "pagination": {
+      "totalRecord": 51,
+      "totalPages": 51,
+      "currentPage": 1,
+      "pageSize": 1,
+      "firstPage": true,
+      "lastPage": false,
+      "numberOfElements": 1
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 13785,
+      "So_No": "4875(E) ",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/MTD/gf_34_13785_4875(E)+4876(E)+4877(E).pdf",
+      "pki_id": 1297,
+      "Amd_No": 0,
+      "standardNumber": "IS 6901:2018",
+      "standardId": 13782
+    }
+  ]
+}

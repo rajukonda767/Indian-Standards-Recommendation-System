@@ -1,0 +1,75 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "No record found.",
+  "data": {
+    "crossRefData": [],
+    "crossFollowRefData": [
+      {
+        "standardId": 24586,
+        "standardName": "Method for Measuring Photovoltaic ( PV ) Glass Part 2 Measurement of Transmittance and Reflectance",
+        "standardNumber": "IS/IEC 62805 (Part 2):2017",
+        "equivalent_is": " ",
+        "identical_is": "",
+        "reviewOn": "2026-02-13",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Im5EcWNsYlJGbUdyU28yVjZ2ZU9jakE9PSIsInZhbHVlIjoiUWFGRG9sYWEyZk1vdDUzTDhsb0pBZz09IiwibWFjIjoiOGQwMTA2MTdjNjEwZGViNGY5ZDZlZWMxMjQzYzE5YzMxZmViNWI0MmQxZWFmNWM3Y2Y5MGRmYmUwNDJiMGNmNiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 24905,
+        "standardName": "Primary Optics for Concentrator Photovoltaic Systems",
+        "standardNumber": "IS/IEC/TS 62989:2018",
+        "equivalent_is": " ",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjdBVkVrUDZQTVErazdRMElPL2szenc9PSIsInZhbHVlIjoiQ2wreUtiUjU2YTR6eGRDeW9ZUXIvUT09IiwibWFjIjoiZTNiNDk2ODkxMjkyOGI1ZDdiMGM3NTYzNzU2MThjMGZiMTlmNDA2ZDE1NGU0YTNmMzcwYmJiMmNkYzQ5ZjBkNCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 28049,
+        "standardName": "Measurement Procedures for Materials Used in Photovoltaic Modules  Part 1-7: Encapsulates  Test Procedure of Optical Durability",
+        "standardNumber": "IS 16792 (Part 1/Sec 7):2023",
+        "equivalent_is": "",
+        "identical_is": "IEC 62788-1-7 : 2020",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlVzUUlta0gwMjNVWEgwcm55L0RZVkE9PSIsInZhbHVlIjoiZkpDanlyTXc0TzkzalpwREpvQ0x6UT09IiwibWFjIjoiYmI3NTEyYzI5MDhjZTkyNjNkOGI3YWJkMjRiODIyYjc5ZTQwY2ZkZjBjZmZhMjIyNjFjODY1NTkyNmY4YTQwMSIsInRhZyI6IiJ9",
+        "identical": "IEC 62788-1-7 : 2020"
+      },
+      {
+        "standardId": 24880,
+        "standardName": "Measurement Procedures for Materials Used in Photovoltaic Modules Part 2 Polymeric Materials - Frontsheets and Backsheets",
+        "standardNumber": "IS 16792 (Part 2):2020",
+        "equivalent_is": " ",
+        "identical_is": "IEC TS 62788-2 : 2017 ",
+        "reviewOn": "2026-02-17",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjZ4TVJSYWxRUWdhTFRNSFVqSTFuVGc9PSIsInZhbHVlIjoibUI2ODdhVkZZQVNURnZtdjdQRWZ0QT09IiwibWFjIjoiMmRiZWRhOWY5NGJlNzIwNzQzOTQzNmYxYmU5NWJkZTJjYzExYWE3ZGEwYzhiNmYzYWMxMzEyZjQ1MDgyMzNmMSIsInRhZyI6IiJ9",
+        "identical": "IEC TS 62788-2 : 2017 "
+      },
+      {
+        "standardId": 24881,
+        "standardName": "Measurement Procedures for Materials Used in Photovoltaic Modules Part 7 Environmental Exposures Section 2 Accelerated weathering tests of polymeric materials",
+        "standardNumber": "IS 16792 (Part 7/Sec 2):2020",
+        "equivalent_is": " ",
+        "identical_is": "IES TS 62788-7-2 : 2017 ",
+        "reviewOn": "2026-02-17",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InZSSDFqaXZDM01vQ3E0RWlMdk44WUE9PSIsInZhbHVlIjoiQkJhSkFkM29tMit4ckZmQjhpRk43UT09IiwibWFjIjoiYTZmYjU4NjU5NWJiN2UxM2VkNmM5M2FjZTY0MjVlNTRiZmY4YjIxYjhlZDUxYjY0OGFiOTViN2UzMGQ1NjRjMCIsInRhZyI6IiJ9",
+        "identical": "IES TS 62788-7-2 : 2017 "
+      }
+    ]
+  }
+}

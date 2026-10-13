@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 10315,
+      "So_No": "PUB012/1/2020-PUB (775 A)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/MTD/gf_32_10315_3717_2.pdf",
+      "pki_id": 12275,
+      "Amd_No": 0,
+      "standardNumber": "IS 3717:2024",
+      "standardId": 30364
+    }
+  ]
+}

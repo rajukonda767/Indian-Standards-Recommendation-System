@@ -1,0 +1,115 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 30,
+        "standardNumber": "IS 3116:2002",
+        "standardName": "Sealing compound for lead - Acid bateries (Bitumen Based) - Specification (First Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-03-12",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjFhTkliYzhhbWVWZVNsTGw4cUVYWFE9PSIsInZhbHVlIjoiRDRNRTZCY3dROWhMU2pHeVJkWGp3UT09IiwibWFjIjoiZjI0NWMwNzRlZGRiZDk2MGRjYmFlMzdhNzU3NzUyZWE0ZTA4OWU4MTNkNWIzM2NjZGEwNTRmNDQxNTk1MGNiMyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 25964,
+        "standardNumber": "IS 1069:2021",
+        "standardName": "Quality Tolerances for Water for Storage Batteries - Specification (Third Revision)",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2025-12-01",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InFYN0U0cjZPMFc2UXNpNXBvTTdVdVE9PSIsInZhbHVlIjoiM05sbXpnakYwak9nVkljMFNTUVUrUT09IiwibWFjIjoiOWJhMzYyMDY4ZGQ1MTAyNzdmY2Q1ODhkOWI3ZWVjN2VlNTk2YWI4OWEzNDMyZWJhMjhiMzBlMjAxZTI1YmY3MCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 66590,
+        "standardNumber": "IS 1146:2026",
+        "standardName": "Rubber and Plastics Containers for Lead-Acid Storage Batteries — Specification  ( Third Revision )",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlhlYUpUd1h2Vzc4clF1K0Z5YUdwQWc9PSIsInZhbHVlIjoibkNIeFhqMnhoYm1PRlZkUkJiRXhyUT09IiwibWFjIjoiZTBmNjUxZDk2MmY0NzIyNDI3ZDI2ZDc5ODY4MWQ1NDYyYzE0OWE0YTFhYzQyZjQ1Y2M3OGZmMGI1N2QwZWM5NCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 33760,
+        "standardNumber": "IS 266:2025",
+        "standardName": "Sulphuric Acid - Specification (Fifth Revision)",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2025-08-11",
+        "noOfReview": "05",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IndvSUdrSjAwd2haVWlUUkI1R1V3dHc9PSIsInZhbHVlIjoiaVdpZVcyVkh3K3drdGZSV2NBUkZNUT09IiwibWFjIjoiN2I1ZWEyZjU3M2FkYmM2N2NkNzJlYzgzZDk4NDg5YWI4ZGNhZjE4ZjYxZGI0M2IzOWZlNDBhYWNiNjM5ZjYwYiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 12895,
+        "standardNumber": "IS 6071:1986",
+        "standardName": "Specification for synthetic separators for lead - Acid batteries (First Revision)",
+        "equivalent_is": "NULL",
+        "identical_is": "NULL",
+        "reviewOn": "2024-08-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Im9mYk5oVSttZHZLUHlkelpmMERKYlE9PSIsInZhbHVlIjoiVWhyYmNVd1p2WmNSMmpYaE45cVpOdz09IiwibWFjIjoiZWRkYzFhYzI3NjYwNmYzMTFmNDJjNmE0YjEzOGQxZWM4ZTUxMjExNGMzOGE1MjFhYTgwOTg4MmE4MGM3MjliYiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 15480,
+        "standardNumber": "IS 8320:2000",
+        "standardName": "General requirements and methods of tests for lead - Acid storage batteries (Second Revision)",
+        "equivalent_is": "NULL",
+        "identical_is": "NULL",
+        "reviewOn": "2026-07-06",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlQvLzJhVEtTVjVJYys4SHBGRS96VFE9PSIsInZhbHVlIjoiWCs5SDdvS2FtRzZ2Um1vSythMUYwQT09IiwibWFjIjoiZThiM2JmODFjM2RkNmI1NWZmNjE1NWE2ZGNmMzQ2NTBlYTdiMmM3NDBjZGM2MGM2NGE3N2IzOGYwN2M0YzE2ZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 18641,
+        "standardNumber": "IS 1885 (Part 8):1986",
+        "standardName": "Electrotechnical Vocabulary - Part 8 : Secondary Cells and Batteries",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2021-02-04",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InNsWEt4THpPR0NkSk5QMjZZdGt4bEE9PSIsInZhbHVlIjoibHlQS3R1SnhJL2NJWVdFb0ZyOFYwQT09IiwibWFjIjoiOTUwNzExMmFjY2VjMzc2MmRiZTU5NTk1OTc4YmU3Nzk1MzE5OTU4OTAyOTE5OTU2MWVlZGRkODhmNWY0NjFmNiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 15480,
+        "standardName": "General requirements and methods of tests for lead - Acid storage batteries (Second Revision)",
+        "standardNumber": "IS 8320:2000",
+        "equivalent_is": "NULL",
+        "identical_is": "NULL",
+        "reviewOn": "2026-07-06",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik1yclZ2a2FjMStqalVSUVA3TjZCaGc9PSIsInZhbHVlIjoiak1Xclh4eFg1M29wbldlaDFUbm4wZz09IiwibWFjIjoiNTU1ZDQ2ZWQ4ZjkxZjNhZGNlMjgwMjIzNTYxZTM4OGQyY2M1MWZhNjYzMmRlMDQ0OWM2N2E1ZjdhNTMzZDBlNiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

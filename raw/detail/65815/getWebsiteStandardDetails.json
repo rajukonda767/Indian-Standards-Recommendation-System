@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Steel",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6ImdmUVBjS3I3V01DTXZ0Z20zU2tUM0E9PSIsInZhbHVlIjoiS2pFcDNGeHhmaXZja045YWdTRWo2dz09IiwibWFjIjoiNWNmZGVkMWVjMzI4Yjc0NzYwNWEwYmQzMGQ5MzM3MGY3NjlmNWY5OTVkMGMyMDQ0NjVlZWRmNGM4NzVhNmYzNSIsInRhZyI6IiJ9",
+    "rowStandardId": 65815,
+    "pk_is_id": 65815,
+    "standardName": "Ferrochromium - Specification Third Revision",
+    "standardNumber": "IS 1170:2026",
+    "publishedOn": "2026-01-05",
+    "committeeId": 28,
+    "departmentId": 70,
+    "groupName": "Metals, Alloys and Metal Products (including Steel Products)",
+    "subGroupName": "Ores and sponge iron, ferro alloys and other metallic additions",
+    "subSubGroupName": "Ferro Alloys",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "03",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 5,
+    "languageId": "English",
+    "icsCode": "77.100",
+    "shortTitle": null,
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "IS 1170:1992",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/projects/proof/2026/01/192_1768815514.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": null,
+    "source": 1,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Vipul Bohara (SCIENTIST-C)",
+    "committeeName": "Ferro Alloys",
+    "departmentName": "METALLURGICAL ENGINEERING DEPARTMENT",
+    "deptAliasName": "MTD",
+    "committeePreparedName": "MTD 05 - Ferro Alloys",
+    "deptPreparedName": "Metallurgical Engineering Department(MTD)",
+    "reviewList": [
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 1170:1992"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1170:1992"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 1170:1992"
+      }
+    ]
+  }
+}

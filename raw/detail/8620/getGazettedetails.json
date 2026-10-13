@@ -1,0 +1,34 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 8620,
+      "So_No": "HQ-PUB-012-4-2020 ",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/CED/gf_200_8620_PUB_012_4_2020.pdf",
+      "pki_id": 3961,
+      "Amd_No": 0,
+      "standardNumber": "IS 208:2020",
+      "standardId": 8620
+    },
+    {
+      "IS_NO": 8620,
+      "So_No": "pub-014-2-20-pub-bis (508)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/CED/gf_200_8620_208_A1.pdf",
+      "pki_id": 7928,
+      "Amd_No": 1,
+      "standardNumber": " Amendment 1 to IS 208:2020",
+      "standardId": 8620
+    },
+    {
+      "IS_NO": 8620,
+      "So_No": "pub013/1/2020-pub-bis (1246)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/CED/gf_200_8620_208_A2.pdf",
+      "pki_id": 17517,
+      "Amd_No": 2,
+      "standardNumber": " Amendment 2 to IS 208:2020",
+      "standardId": 8620
+    }
+  ]
+}

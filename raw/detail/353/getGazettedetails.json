@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 353,
+      "So_No": "3133(E) ",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_266_353_3131(E)+3132(E)+3133(E)+3134(E)+3135(E)+3136(E).pdf",
+      "pki_id": 890,
+      "Amd_No": 0,
+      "standardNumber": "IS 13730 (Part 31):2018",
+      "standardId": 353
+    }
+  ]
+}

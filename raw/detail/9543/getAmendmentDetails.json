@@ -1,0 +1,32 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "totalAmendments": 3,
+  "data": [
+    {
+      "standardId": 9543,
+      "standardNumber": "IS 3024:2015",
+      "noOfAmendment": 1,
+      "amendmentYear": "2017",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/3024A1.pdf",
+      "amendmentLabel": "First Amendment"
+    },
+    {
+      "standardId": 9543,
+      "standardNumber": "IS 3024:2015",
+      "noOfAmendment": 1,
+      "amendmentYear": "2023",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/3024A2.pdf",
+      "amendmentLabel": "Second Amendment"
+    },
+    {
+      "standardId": 9543,
+      "standardNumber": "IS 3024:2015",
+      "noOfAmendment": 2,
+      "amendmentYear": "2025",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/3024A3.pdf",
+      "amendmentLabel": "Third Amendment"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 2505,
+        "standardNumber": "IS 1141:1993",
+        "standardName": "Seasoning of Timber - Code of practice (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-04-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImpzekdjZzBJdXlmSGlFMXZYNGVpV1E9PSIsInZhbHVlIjoiKzdNaHlJTXlRRzRUcEk0SUlhdzIxQT09IiwibWFjIjoiODI3N2U3M2YyZjBkNTgwMTVmNDYxMTUyZmNmYmJkN2ExOTQxMjdmOWUxZWEzZGVhNGY3ODdhYzFkNGNkN2ZjNSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 2611,
+        "standardNumber": "IS 1150:2000",
+        "standardName": "Trade Names and Abbreviated Symbols for Timber Species (Third Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-04-01",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ikk3MklKdE0yK2tRckJVVENPM0p3VHc9PSIsInZhbHVlIjoiU2JKSlNXL0RpU1UrZXJEV1ZNalJhdz09IiwibWFjIjoiN2EwZDQxNzk4YjQ3MmE2MWJmNzNlMGY0YmUyNTYzNzEyOWRiMjdiNmYxY2I3N2Q3NjI0MzczOGU1ZDY5MzJlMyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 9955,
+        "standardNumber": "IS 3364 (Part 2):1976",
+        "standardName": "Methods of measurement and evaluation of defects in timber: Part 2 Converted timber",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-10-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ik5lZ2pKa2gvdW5KazZ5YzFJaUVPdVE9PSIsInZhbHVlIjoid01IZkViNzlTSndYRDh4RWdLWXJnUT09IiwibWFjIjoiYmJjZjJmYmI0YzZkMDc2MTBhNTVhMDI4NjQzZmY3NGU3NGQ0YTM2NzE3YjI2YjZkZjY1Y2UyM2M2YmMxMjE0YiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 10632,
+        "standardNumber": "IS 401:2001",
+        "standardName": "Preservation of Timber - Code of Practice (Fourth Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2021-10-01",
+        "noOfReview": "04",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InE4ZTVHcVh1Wm91TlVMRGEwWGNqZFE9PSIsInZhbHVlIjoieHkvUS9zY0M3azlmK1ZoRHJ4ZTRxQT09IiwibWFjIjoiZTNiYTU0ZTUwMjQ0NTRiZGRjYjE1ZDhkYmQ3ODBmZmE4YmFhZGI4YTc2YWJmMTBmMWQ2ZDJiNjhiODEyNjgyNCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 13978,
+        "standardNumber": "IS 707:2011",
+        "standardName": "Timber Technology and Utilization of Wood, Bamboo and Cane - Glossary of Terms (Third Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2021-10-01",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkJlL2Y5Z0dUdTM1OEtzM09XOEpraVE9PSIsInZhbHVlIjoiV2dPRFhmdWFpaDdRNjNCZDRUWVVBQT09IiwibWFjIjoiNWQ4ZDcwYWVhZDAzMDBiMWM2NmY3NDlhMDk5OTZiMzFlM2Y4OTUzNjQ5ZTRkMTc0NjQyNjAwNWE3YzgxNGY2NSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 21757,
+        "standardName": "Dry Lining and Partitioning Using Gypsum Plasterboard - Code of Practice",
+        "standardNumber": "IS 16135:2014",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-05-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjRjL0FIcndlSHU5K3BBVGw2clY0Ync9PSIsInZhbHVlIjoiUFBFRGNPQU1zZGx4YkI2UUxXL2lvZz09IiwibWFjIjoiYzI0NGJmZmQwMTZhZmMwYjgxY2JiZTk2M2FiYTQ1ZTMxMDE4M2FkZDI0YzlhZjUxMjliY2NkMDZiOTUwZGUyNSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 12603,
+        "standardName": "Specification for non - Coniferous timber in converted form for ammunition/explosives boxes",
+        "standardNumber": "IS 5806:1970",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-10-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkR5dFlDdHRzN0pacW0vckxrVGN6K1E9PSIsInZhbHVlIjoiLytQa1NTeEM5dFFVV0xnRzZIUi9sUT09IiwibWFjIjoiNTI3ZGVhMDg3OTY1ZmVlYmNhMTkxZWExYjlmMjlhODg2MWYyNjc3Nzg4YzQ1MWE2YzQwODExMDNlMTYyODE4NiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 17713,
+        "standardName": "Handbook on Timber Engineering",
+        "standardNumber": "SP 33:1986",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkNhUHBFVVFxUndRQlZ3MVRNcm1pUUE9PSIsInZhbHVlIjoiZkVpbEloYjh4VktKYXlGbFc1RjBsQT09IiwibWFjIjoiYzIxMzQwYTI2OGI0ZmE3ODY3YzJhMjg5OGRhYTlkYzI3YzM4YWU4YjY4M2Q2YmZkNGRjY2U1N2EzMzk2NWRmNSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 30126,
+        "standardName": "Non-Coniferous Timber in Converted form for General  Purposes  Specification",
+        "standardNumber": "IS 5966:2023",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImZ4UFJHNzNGODBBYXk2UlZNR1ZKaGc9PSIsInZhbHVlIjoidnVxQmxjeGJRdGRJZHBDanZMdzh2QT09IiwibWFjIjoiYjU1MGExYzA5MjU0MjY5MTEwMjhiNjAyMzU3NTlmNDNkZjZlZDZmNGMxNDY2OWU0ZjEyNWZhODIzYmNlNDA3MSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 30361,
+        "standardName": "WOODEN PATTERN EQUIPMENT FOR FOUNDRIES - SPECIFICATION  - (Third Revision)",
+        "standardNumber": "IS 1513:2024",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2024-02-26",
+        "noOfReview": "03",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImdKZThqOUF2bFRyMkhYaVF6WTJJbGc9PSIsInZhbHVlIjoiT2tmRGlLaVZkTFVPam12UTRQY0xaUT09IiwibWFjIjoiMGZlNzQ1N2FhNGQxMDhlZDFkYzJhYTBlNjUwZWU4MDRmYmIyMTE4OGUxZDRmNWZiZGUxNzMwOTRlY2M3ODczZiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

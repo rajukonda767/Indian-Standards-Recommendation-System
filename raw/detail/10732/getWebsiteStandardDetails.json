@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Commerce and Industry - Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Mines",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6Ik1CaXQwTDN5NEtvQ1VUd3NFNmJtcUE9PSIsInZhbHVlIjoialY3bUF2K1FITGloZjZodS82REdyUT09IiwibWFjIjoiOTljZjczZDdmYjZkYWY2ODNhNTY5MzlkMDAzMDU1YzkyNzE2ODZlNjNlYTY1OGRkZjUwOWQxMTZhMWM2Mzc1NyIsInRhZyI6IiJ9",
+    "rowStandardId": 10731,
+    "pk_is_id": 10732,
+    "standardName": "Specification for cold rolled brass sheet, strip and foil (Third Revision)",
+    "standardNumber": "IS 410:1977",
+    "publishedOn": "1978-03-31",
+    "committeeId": 31,
+    "departmentId": 70,
+    "groupName": "Metals, Alloys and Metal Products (including Steel Products)",
+    "subGroupName": "Non ferrous metals and their alloys",
+    "subSubGroupName": "Brass",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "03",
+    "noOfAmendment": "02",
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "Cold Rolled Brass Sheet, Strip And Foil",
+    "certificationName": "Voluntary",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "2026-03-23",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S10/S10V01/410.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2026-03-23",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Vishal Kumar Rana (SCIENTIST-C)",
+    "committeeName": "Ores and Feed Stock for Copper Industry, its Metals/ Alloys and Products Sectional Committee",
+    "departmentName": "METALLURGICAL ENGINEERING DEPARTMENT",
+    "deptAliasName": "MTD",
+    "committeePreparedName": "MTD 08 - Ores And Feed Stock For Copper Industry, Its Metals/ Alloys And Products Sectional Committee",
+    "deptPreparedName": "Metallurgical Engineering Department(MTD)",
+    "reviewList": [
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 410:1977"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 410:1977"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 410:1977"
+      }
+    ]
+  }
+}

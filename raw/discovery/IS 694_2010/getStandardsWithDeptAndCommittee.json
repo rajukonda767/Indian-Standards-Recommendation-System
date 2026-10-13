@@ -1,0 +1,56 @@
+{
+  "endpoint": "getStandardsWithDeptAndCommittee",
+  "url": "https://standardsadmin.bis.gov.in/proposal-service//getStandardsWithDeptAndCommittee",
+  "method": "POST",
+  "request_headers": {
+    "referer": "https://standards.bis.gov.in/",
+    "accept": "application/json, text/plain, */*",
+    "content-type": "application/json"
+  },
+  "request_body": {
+    "StandardId": "eyJpdiI6IkZOdVdIUTgzc1ViOGVUb2xUelJEU1E9PSIsInZhbHVlIjoid1JxNmVSamtUelZrTll4bEVROE82QT09IiwibWFjIjoiZmQ1YjRmNGQ0NWRmNjNiZjMwZDQwYmY0N2Q5MTViYzMyYjBhNmEwMDA0MjkxOGI2MmQwOTM3ZDg5OGVmYjgyZiIsInRhZyI6IiJ9",
+    "token": null,
+    "refreshToken": null,
+    "clientId": null,
+    "clientSecret": null,
+    "sub": null
+  },
+  "response_status": 200,
+  "response_json": {
+    "status": "SUCCESS",
+    "statusCode": 200,
+    "msg": "Standard details fetched successfully",
+    "data": [
+      {
+        "standardId": 13826,
+        "pk_is_id": 13829,
+        "standardEncId": "eyJpdiI6IjlJdVJsSzZvODZOdTJDdXlrZ3grMFE9PSIsInZhbHVlIjoiclhGSEZ3ZFhKRVMxQUdXeHViczRzQT09IiwibWFjIjoiMmZmMGJiNjc1MTliMGU3ZjM3NGI0MjlhMmJkMDQ0NTdlNmI2YmRjY2I5MjFmOGY3ZTRlYTUyZWI4NGYzMjNjOSIsInRhZyI6IiJ9",
+        "standardEncIId": "eyJpdiI6IjhtWG42ekEzMFQ1bFNXMGZvVHFLMmc9PSIsInZhbHVlIjoiSm1maWVOVmdSTHo4VTI3VFFOOW4xQT09IiwibWFjIjoiODAzMTUyNzkwYzExZGI5ZjM0YWI0YmYyNjZlZDY2OGQyNzExNjhlZDNiM2VjYTA0MTg2MzE4NmQ3ZmJhYzk4NCIsInRhZyI6IiJ9",
+        "standardNumber": "IS 694:2010",
+        "standardName": "Polyvinyl chloride insulated unsheathed and sheathed cables/cords with rigid and flexible conductor for rated voltages up to and including 1 100 V (Fourth Revision)",
+        "departmentId": 65,
+        "departmentEncId": "eyJpdiI6Ik1mR1BIMXRMVXI4dXJJQkFoczVqNGc9PSIsInZhbHVlIjoiTDRtc3h2Nm12VTNCZjFIL1I0eUVWQT09IiwibWFjIjoiMmNjZDFjZGI5YWMwMGVkOWZmODFkNmVjN2IzYmQwOTNmOTM3ZjVhMjI1NWI0ODY0OGY4NTA2Y2MwZTUzNTgwMyIsInRhZyI6IiJ9",
+        "committeeId": 243,
+        "committeeEncId": "eyJpdiI6Ill3bFltdGwzTHgzWHhoT0NCTHVTMEE9PSIsInZhbHVlIjoiMlBRL0p4UEErcHNaRjBkTXphbzhqUT09IiwibWFjIjoiOWE2MTAzMGM0NWI2NDY1MWY2Y2YwNWE3MzFmMmMyNGU2YWE2MWVjYmZiZmMwZTUwYmQyNTM2NTM4YmMxMGJlNSIsInRhZyI6IiJ9",
+        "deptPreparedName": "Electrotechnical Department(ETD)",
+        "secCommitteePreparedName": "ETD 09 - Power Cables",
+        "reviewId": "eyJpdiI6Iks5TE1LdEZUMW96YnJHME54b1U2cWc9PSIsInZhbHVlIjoiODV6NHJTbEZJMVdaa3BlTlVLUEZIUT09IiwibWFjIjoiMjVkYzE5Y2ZmZDgyZDk4OTA3NjYzYTlkOWQwYzA1Y2Q0MzkzMTRhMjU2YzZiMmEzNjBiMGZjN2ZjYTkyN2JiMyIsInRhZyI6IiJ9"
+      },
+      {
+        "standardId": 13826,
+        "pk_is_id": 13829,
+        "standardEncId": "eyJpdiI6IlN4SStJZk42SUlNK1J1Z3diKzNqc1E9PSIsInZhbHVlIjoicXo4bnhMR1RDR1MwRWpzajlxNVJTQT09IiwibWFjIjoiYTllM2EzOWM1YTg0MTdmNDRjNWMyNjM4MjdjNTM5MDE5YTBmYzY4MzFkOWUxN2ExZjg2ZTQyNTk2NWExMmUzMCIsInRhZyI6IiJ9",
+        "standardEncIId": "eyJpdiI6Ilc4Vm40ZDVmR1lCREYyeXhPYW8zeXc9PSIsInZhbHVlIjoiT0JZVlZETHpLUmtVdGFRRGRIc2RYdz09IiwibWFjIjoiZjQ2OWM0YzlkMTVmNmM2ZjNhODA3Zjk0ZGNmZTJlNGQwYWRjYmQ3ZTdmMDQ3YzE5YjA5NGIxZTE3NzY2OWI1YiIsInRhZyI6IiJ9",
+        "standardNumber": "IS 694:2010",
+        "standardName": "Polyvinyl chloride insulated unsheathed and sheathed cables/cords with rigid and flexible conductor for rated voltages up to and including 1 100 V (Fourth Revision)",
+        "departmentId": 65,
+        "departmentEncId": "eyJpdiI6IlFNMWFHTDhzZkYwZWNqN3dLZjlqdmc9PSIsInZhbHVlIjoiMXF0aldndDlHTGZOSUxMRG5Xbk55dz09IiwibWFjIjoiZjQwNjg1MTE1MDQ2MzExMTc5OTNkNTA3ZDI2Yzk5NGZkNTczYzM2ZjE5OGFlOTBlNjAzMTA5ZjllNzNlODc2NyIsInRhZyI6IiJ9",
+        "committeeId": 243,
+        "committeeEncId": "eyJpdiI6InpXU1JKcVRvWGV0cWI2V0pqR0JtUkE9PSIsInZhbHVlIjoidHFpZm9Yb0tpRkk4dEZHQWNYRWg1Zz09IiwibWFjIjoiNDRjNTdmMGJmYWY4ZTgxZjEwODhiY2NhYmNhYzI3ZjQ2NjkwNGJhYjM2YzhhN2IxN2E2Mjk4NDc0MzUxZGJkNiIsInRhZyI6IiJ9",
+        "deptPreparedName": "Electrotechnical Department(ETD)",
+        "secCommitteePreparedName": "ETD 09 - Power Cables",
+        "reviewId": "eyJpdiI6IjJHaUdhb1BORzEzZHNLUVp3RkJaa3c9PSIsInZhbHVlIjoiRWtIMVdqL2E3MXFNYUdhM3QvTFdlUT09IiwibWFjIjoiY2JiMTlkZTBmZTZjMTVhODc2NTFjNTUwYmNkZDg4YjkwZDY0NDc0YmJiNTE3NzkyYjQ2MjE3OTc5M2MxZWViNyIsInRhZyI6IiJ9"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Consumer Affairs, Food and Public Distribution - Department of Consumer Affairs",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6IndBTXAzR0NPUkNnV2VWVEIxZXkzK3c9PSIsInZhbHVlIjoiZFE3dE45NnR3eHJXS1ZxTkZzbk1Jdz09IiwibWFjIjoiODc5NTQyZDc1MWM3ZTgyOGM2ZmQ1ZjZhOGFlOGQzYmFhMWJhNTFhNmQ1MjcxZDdlYzkwYjU5YTg4ZDI0ZmExZCIsInRhZyI6IiJ9",
+    "rowStandardId": 33498,
+    "pk_is_id": 33687,
+    "standardName": "Multipurpose Dry Batteries  Specification (Third Revision)",
+    "standardNumber": "IS 8144:2025",
+    "publishedOn": "2025-06-20",
+    "committeeId": 244,
+    "departmentId": 65,
+    "groupName": "Household Products Appliances(non-electrical)",
+    "subGroupName": "Batteries",
+    "subSubGroupName": "Batteries & cells",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "03",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": null,
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "IS 8144 : 2018",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S05/S05V01/8144.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2025-06-25",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Neeraj Kushwaha (SCIENTIST-C)",
+    "committeeName": "Primary Cells And Batteries",
+    "departmentName": "ELECTROTECHNICAL DEPARTMENT",
+    "deptAliasName": "ETD",
+    "committeePreparedName": "ETD 10 - Primary Cells And Batteries",
+    "deptPreparedName": "Electrotechnical Department(ETD)",
+    "reviewList": [
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 8144:2018"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 8144:2018"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 8144:2025"
+      }
+    ]
+  }
+}

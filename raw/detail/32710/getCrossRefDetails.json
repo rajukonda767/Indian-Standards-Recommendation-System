@@ -1,0 +1,167 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 72,
+        "standardNumber": "IS 13778 (Part 2):2013",
+        "standardName": "Winding wires - Test methods: Part 2 determination of dimensions (First Revision)",
+        "equivalent_is": "NULL",
+        "identical_is": "IEC 60851-2 : 2009",
+        "reviewOn": "2024-09-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlJtL0VKaEdMWS9lWGd4R1lQeXFFZHc9PSIsInZhbHVlIjoiOER1aTVFY05jaVJXNXdhbi9NQWhFQT09IiwibWFjIjoiZWI3NzVlMTEwOTlhMDJlOTJkMTViYjU2OGVkMTAzZjM5NmI2MGM4YjJlZjcxODRjOTE2MzRjMjAwODNjNWY4NCIsInRhZyI6IiJ9",
+        "identical": "IEC 60851-2 : 2009"
+      },
+      {
+        "standardId": 32525,
+        "standardNumber": "IS 13778 (Part 1):2024",
+        "standardName": "Winding wires - Methods of Test  Part 1 General (Second Revision)",
+        "equivalent_is": "",
+        "identical_is": "IEC 60851-1:2021",
+        "reviewOn": null,
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InZ1WU5pNEttNFlUSU1WbUFOYW0zcmc9PSIsInZhbHVlIjoiUS9ITjJMcE0yMHVWYU9wYW5uS2I2dz09IiwibWFjIjoiMTIxOThkODExYTc2NmQ3ODQ2Mzk3MmY4NWRiZGVmZmUwNzc0OTRjOTcyYzI2YThiMDIzODA0MTU2MzQ3OTVjNSIsInRhZyI6IiJ9",
+        "identical": "IEC 60851-1:2021"
+      },
+      {
+        "standardId": 32526,
+        "standardNumber": "IS 13778 (Part 3):2024",
+        "standardName": "Winding Wires - Methods of Test  Part 3 Mechanical Properties  ( Second Revision )",
+        "equivalent_is": "",
+        "identical_is": "IEC 60851-3:2023 ",
+        "reviewOn": null,
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImJyVEpFWVdKdEdrNGdQVy9mRkxGdkE9PSIsInZhbHVlIjoienRMcmZjS0VtZTBLaW9OUUhNRkhRZz09IiwibWFjIjoiN2I4ZmY5OGZkM2Y4YzFmNDBmNmY1ZTcyMjlmMmFlNDQ5OTZkNTQ0YWFhNGMzOTU3ODEyZGJlNTFiMDExMjQyNCIsInRhZyI6IiJ9",
+        "identical": "IEC 60851-3:2023 "
+      },
+      {
+        "standardId": 5542,
+        "standardNumber": "IS 13778 (Part 4):2018",
+        "standardName": "Winding wires - Test methods: Part 4 chemical properties (Second Revision)",
+        "equivalent_is": " ",
+        "identical_is": "IEC 60851-4 : 2016 ",
+        "reviewOn": "2024-09-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ik5UazQzWWxZdzVhaGZ3VUtYVXIwWGc9PSIsInZhbHVlIjoiamEySVhub20xc1l0b0FLd0tqQitmUT09IiwibWFjIjoiM2JmZTk0ZDBlMWJmMTk5ZmQ0Y2U4MzA1N2U5OTQ1NGQ4YjYyMjVjODhlMGM3MDZlMTBmNzJjYWFiMzQ2MzNhNyIsInRhZyI6IiJ9",
+        "identical": "IEC 60851-4 : 2016 "
+      },
+      {
+        "standardId": 5543,
+        "standardNumber": "IS 13778 (Part 5):2012",
+        "standardName": "Winding wires - Test methods: Part 5 electrical properties (First Revision)",
+        "equivalent_is": "NULL",
+        "identical_is": "IEC 60851-5 : 2008",
+        "reviewOn": "2024-09-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkswSFFCc2NCNXd0WkJxWXZZQ0hjMHc9PSIsInZhbHVlIjoiNFNFSzZMam53ZDFJM2R2aVZQYWkyZz09IiwibWFjIjoiZWY3Mjk2M2I1Yzc5YzVkMDZjNDc0ZDYxMDUxOWVkOTZjNWZlNmRhZTFkNjg3ODVkYjU4YjVjZjFiZjNjMGNkMiIsInRhZyI6IiJ9",
+        "identical": "IEC 60851-5 : 2008"
+      },
+      {
+        "standardId": 5544,
+        "standardNumber": "IS 13778 (Part 6):2018",
+        "standardName": "Winding wires - Test methods: Part 6 thermal properties (Second Revision)",
+        "equivalent_is": " ",
+        "identical_is": "IEC60851-6 : 2012 ",
+        "reviewOn": "2024-09-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlRHN3pFanZQZStHQ1h6WWpnRENTc3c9PSIsInZhbHVlIjoidzFvRTVxaXlEMlpGZEgwd1IwNWJvUT09IiwibWFjIjoiMGI4Zjg4ZTE3M2NhZGFhNGRiYjk4YTcyZDllZjRlY2RiYzcyMDc3YTFlYWI0YzZmNGQ1OGZmOTdjMmRjYWU2NyIsInRhZyI6IiJ9",
+        "identical": "IEC60851-6 : 2012 "
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 26,
+        "standardName": "Electrical insulating materials - Thermal endurance properties: Part 2 determination of thermal endurance properties of electrical insulating materials - Choice of test criteria (First Revision)",
+        "standardNumber": "IS 8504 (Part 2):2013",
+        "equivalent_is": null,
+        "identical_is": "IEC 60216 - 2 : 2005",
+        "reviewOn": "2023-01-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlFEejI2Z1Q2R29ycTVXRUZWYUxtTHc9PSIsInZhbHVlIjoiclNWZVVCWENMVkJuSXBzOWxtUndQUT09IiwibWFjIjoiMDRjYWIzNWUwZDY3YTM3NWQzMTM1MGMwMTI5MzE1MzU5Njk1ZDFjN2M0NDllY2FiNTI5Y2VkMmUwN2FmMmQ4ZCIsInRhZyI6IiJ9",
+        "identical": "IEC 60216 - 2 : 2005"
+      },
+      {
+        "standardId": 21351,
+        "standardName": "Safety of power transformers, power supplies reactors and similar products: Part 2 - 7 particular requirements and tests for transformers and power supplies for toys",
+        "standardNumber": "IS/IEC 61558 (Part 2/Sec 7):2007",
+        "equivalent_is": null,
+        "identical_is": "IEC 61558_2_7",
+        "reviewOn": "2021-08-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik0zcmdNakF5ZkRZNmJvS0tDeDNMN2c9PSIsInZhbHVlIjoidDZobXlGb3F2RWNWNmNsSFNnTXVLQT09IiwibWFjIjoiODIzOWU1OWM3MWM2N2M2NjVlZDlmOGNiMzFlNmE5ZDhhMmZjNDBjNGY1OTEyYjhiZmI2ZWE0ZTg3ZmI4N2UxZSIsInRhZyI6IiJ9",
+        "identical": "IEC 61558_2_7"
+      },
+      {
+        "standardId": 353,
+        "standardName": "Specifications for particular types of winding wires: Part 31 glass fibre wound, resin or varnish impregnated, bare or enamelled rectangular copper wire, temperature index 180 (First Revision)",
+        "standardNumber": "IS 13730 (Part 31):2018",
+        "equivalent_is": " ",
+        "identical_is": "IEC 60317-31 : 2015 ",
+        "reviewOn": "2024-09-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImJCQ0lUTnR4NlBCZTZ2Q1JzeHhHSkE9PSIsInZhbHVlIjoiUDhYVUN1WEFUajNTOUNXK0FpdkJCZz09IiwibWFjIjoiYjI3NGExYjU3MWM5MWUzZWViODE3ZDY2NjI5YTlmMGRkZWY0YjVhODA3ZTU4ZjAyNjI3NGI0NTRhZGVlZjc1YiIsInRhZyI6IiJ9",
+        "identical": "IEC 60317-31 : 2015 "
+      },
+      {
+        "standardId": 354,
+        "standardName": "Specifications for particular types of winding wires: Part 32 glass fibre wound, resin or varnish impregnated, bare or enamelled rectangular copper wire, temperature index 155 (First Revision)",
+        "standardNumber": "IS 13730 (Part 32):2018",
+        "equivalent_is": " ",
+        "identical_is": "IEC 60317-32 : 2015 ",
+        "reviewOn": "2024-09-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IncwbUx4WkxWa3UzNWpWaEIxSndPZUE9PSIsInZhbHVlIjoiTW5wVnF0ZTg5c1UrOEowbWl6S1JMdz09IiwibWFjIjoiYjE2MTFlOGU1YzA3YjAzOWNjMzQ0ZmEzMDkwMGRmMzQwMmUzMWFlNDliZDZlNTcxZjc0ZjJmMGJhZmRkMDM5NiIsInRhZyI6IiJ9",
+        "identical": "IEC 60317-32 : 2015 "
+      },
+      {
+        "standardId": 5456,
+        "standardName": "Specifications for particular types of winding wires: Part 33 glass fibre wound, resin or varnish impregnated, bare or enamelled rectangular copper wire, temperature index 200 (First Revision)",
+        "standardNumber": "IS 13730 (Part 33):2018",
+        "equivalent_is": " ",
+        "identical_is": "IEC 60317-33 : 2015 ",
+        "reviewOn": "2024-09-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InhEUGxWc01lenpmVVl5cmJjK3l6eHc9PSIsInZhbHVlIjoiTnVBaEZxZndvK3JsOFowVG5qZGRXZz09IiwibWFjIjoiYWQ5MGJmZmRmNWY5NzAwOTYzZWVhNDM3M2IwNDk2ZDI5MjA2MmVjY2JmOTUyOGU3NjliNzg4NzNmOWI5MjQ3NSIsInRhZyI6IiJ9",
+        "identical": "IEC 60317-33 : 2015 "
+      },
+      {
+        "standardId": 32525,
+        "standardName": "Winding wires - Methods of Test  Part 1 General (Second Revision)",
+        "standardNumber": "IS 13778 (Part 1):2024",
+        "equivalent_is": "",
+        "identical_is": "IEC 60851-1:2021",
+        "reviewOn": null,
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Im1pdUJTeis0ZXNWRDJNaVhzOVdmOXc9PSIsInZhbHVlIjoiRi9SU2dPd3VYMVhkc0RkNWtaOFNDdz09IiwibWFjIjoiZTM4OTk1NzA3MTViMzE4M2E4NTk1MzMzZTIzNTMyZGYzODJhNmIzNGRhMzllNzNjZDFlNTAxMWU1MWFkOGZjMyIsInRhZyI6IiJ9",
+        "identical": "IEC 60851-1:2021"
+      }
+    ]
+  }
+}

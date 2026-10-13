@@ -1,0 +1,76 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 5659,
+        "standardNumber": "IS 1387:1993",
+        "standardName": "General requirements for the supply of metallurgical materials (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-03-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InZ2S2F1S2t0dU5kOGxkUXByRnhtMUE9PSIsInZhbHVlIjoiNFRKUUowTVoxZk9YeWxqQVYzY0MyQT09IiwibWFjIjoiZWJhNDI2MDE1MDQyMDNmY2FlMzNiMDI3ZDljMjg4NjYwMTM1NTAwYmJlYjQxZDM2NDdiZGQ1NDEyMzRiMWM2NiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 8161,
+        "standardNumber": "IS 1755:2018",
+        "standardName": "Metallic Materials - Wire - Wrapping test (Second Revision)",
+        "equivalent_is": "  ",
+        "identical_is": " ISO 7802 : 2013 ",
+        "reviewOn": "2023-08-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IklLb3N6SVFEdFlkL1lJVmtCVWN4dXc9PSIsInZhbHVlIjoiNkEweVRQbjRjVjQ0RVNick9hS1hFZz09IiwibWFjIjoiYWVmNTAyZTBmNjRhYTMyNDU0MjcwZmE0Y2FjMDJlMzgwNjMxNzNjY2ZhNmFmOTRjNjk3OTQ4YTAxMjQ4YWZhZCIsInRhZyI6IiJ9",
+        "identical": " ISO 7802 : 2013 "
+      },
+      {
+        "standardId": 30192,
+        "standardNumber": "IS 209:2024",
+        "standardName": "Refined Zinc - Specification (Fifth Revision)",
+        "equivalent_is": "ISO 752 : 2004",
+        "identical_is": "",
+        "reviewOn": "2024-01-18",
+        "noOfReview": "05",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlVNS2paQ2d3dWJzUG9CekN4ODNuTFE9PSIsInZhbHVlIjoicHd6TGQ5cGgrNml1SGFRc0d4d1VFZz09IiwibWFjIjoiMjBiMzgwZDFmNTZhYTgwZTBhN2ZjNTM1ODMzZDRkN2RhYzg3YjYxOWI0NDhkMzAxYzk4M2ZkYjczYWEyODc4NCIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 439,
+        "standardName": "Welded low carbon steel cylinders exceeding 5 litres water capacity for low pressure liquefiable gases: Part 1 cylinders for liquefied petroleum gases (Lpg) - Specification (Sixth Revision)",
+        "standardNumber": "IS 3196 : Part 1 : 2013",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-04-21",
+        "noOfReview": "06",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InBVN2w0Nm5qZ2huZHAxSDNsaFBKWWc9PSIsInZhbHVlIjoiVE0rdUV1c2J1c0RmWVJNRVdPNTdDdz09IiwibWFjIjoiNjEwMTY4Nzk1YmZkMThhMjEwNTUyY2I1MGUyNzBhM2ZjMGE2YzNiNjk5M2FhN2UxMDQwNjE0NzJhNzM2NmM5YyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 122,
+        "standardName": "Welded low carbon steel cylinders exceeding 5 litre water capacity for low pressure liquefiable gas - Requirements for inspection and reconditioning of used lpg cylinders (First Revision)",
+        "standardNumber": "IS 13258:2014",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-03-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IklKZlp0dWN2K0x0MTROTEg3djdRR1E9PSIsInZhbHVlIjoiQ3FTTWpkKzhkZElwS2xOSTR2Tmpsdz09IiwibWFjIjoiYmZjODgxNGRjMjVmZjI1MmQzYjIyMjg0OTExNTIwZDVhMWUxZWQ3NzMyNTg5MmQ5ZWJkOGZkNjY2Njk0NzM3NCIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

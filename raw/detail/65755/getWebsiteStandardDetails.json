@@ -1,0 +1,73 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Steel",
+    "riskNameName": "Medium",
+    "standardId": "eyJpdiI6Ijl6dmR4M2pzYWFmRlpZak5VU3lEM0E9PSIsInZhbHVlIjoiZExxTTNvbmdLK0JwdFM1eFJWLzJ3UT09IiwibWFjIjoiZmEyZTJmNGI5NWZiNWU0MmNhOWEzMzEzZDE5MzMxODA1OTRhMTA2MGZiNzBhNmFjNDJjY2JmYmZkMzhjZDhiOCIsInRhZyI6IiJ9",
+    "rowStandardId": 65755,
+    "pk_is_id": 65755,
+    "standardName": "Hot-Rolled Steel Strip for Welded Tubes and Pipes - Specification ( Third Revision)",
+    "standardNumber": "IS 10748:2025",
+    "publishedOn": "2025-12-10",
+    "committeeId": 27,
+    "departmentId": 70,
+    "groupName": "Metals, Alloys and Metal Products (including Steel Products)",
+    "subGroupName": "Steel and Steel Castings, Wires, Ropes, Pipes , Tubes and other products",
+    "subSubGroupName": "Wrought steel Products",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "03",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 5,
+    "languageId": "English",
+    "icsCode": "77.140.50",
+    "shortTitle": null,
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "IS 10748:2004",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/projects/standardDocuments/2026/01/592_1767256219.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": null,
+    "source": 1,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Ram Sai Kumar Gedela (SCIENTIST-C)",
+    "committeeName": "Wrought Steel Products Sectional Committee",
+    "departmentName": "METALLURGICAL ENGINEERING DEPARTMENT",
+    "deptAliasName": "MTD",
+    "committeePreparedName": "MTD 04 - Wrought Steel Products Sectional Committee",
+    "deptPreparedName": "Metallurgical Engineering Department(MTD)",
+    "reviewList": [
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 10748:2004"
+      },
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 10748:2004"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 10748:2004"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 10748:2004"
+      }
+    ]
+  }
+}

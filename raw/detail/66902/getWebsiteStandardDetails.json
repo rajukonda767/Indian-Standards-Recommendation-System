@@ -1,0 +1,77 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Power",
+    "riskNameName": "High",
+    "standardId": "eyJpdiI6IjVsYkRjM1ZkU1lsenYwb2s3YWZIakE9PSIsInZhbHVlIjoibFRoM2pmLzhoRUhRNUhINDlkOUw2QT09IiwibWFjIjoiMGEzNWE4OTY2NzI5NDVmN2EzNzAyNzVlNTM1MTljODZmOWM0YWNhNDczODc4ZDgzZWIwZWRlYjYyNTM1YmQ5NCIsInRhZyI6IiJ9",
+    "rowStandardId": 66902,
+    "pk_is_id": 66902,
+    "standardName": "Line Operated Three Phase ac Motors  IE CODE  Efficiency Classes and Performance Specification",
+    "standardNumber": "IS 12615:2026",
+    "publishedOn": "2026-04-21",
+    "committeeId": 249,
+    "departmentId": 65,
+    "groupName": "Electrical  Switchgear and Other Electrical Products/Accessories",
+    "subGroupName": "Motors, Winding Wires and Accessories",
+    "subSubGroupName": "Motors, Generators & Turbines",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "04",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 3,
+    "languageId": "English",
+    "icsCode": "29.060.10",
+    "shortTitle": null,
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Modified/Technically Equivalent",
+    "supersheed": "IS 12615:2018",
+    "orgTypeName": "Others",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 3,
+    "is_documents": "BisProd/bisProd/projects/proof/2026/05/101_1777974071.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": "IEC 60034 (Part 30/Sec 1):2014",
+    "identical_is": "IEC 60034 (Part 30/Sec 1):2014",
+    "reviewOn": null,
+    "source": 1,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Jatin Tiwari (SCIENTIST-C)",
+    "committeeName": "Rotating Machinery",
+    "departmentName": "ELECTROTECHNICAL DEPARTMENT",
+    "deptAliasName": "ETD",
+    "committeePreparedName": "ETD 15 - Rotating Machinery",
+    "deptPreparedName": "Electrotechnical Department(ETD)",
+    "reviewList": [
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 12615:2018"
+      },
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 12615:2011"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 12615:2018"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 12615:2018"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 12615:2018"
+      }
+    ]
+  }
+}

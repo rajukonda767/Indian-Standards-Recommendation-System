@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 11695,
+      "So_No": "HQ-PUB-012-1-2020-179",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/CED/gf_217_11695_4985_4.pdf",
+      "pki_id": 4522,
+      "Amd_No": 0,
+      "standardNumber": "IS 4985:2021",
+      "standardId": 25779
+    }
+  ]
+}

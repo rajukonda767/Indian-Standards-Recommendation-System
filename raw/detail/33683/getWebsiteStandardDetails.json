@@ -1,0 +1,77 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6IlhTNHNoZUtFSWt6SldtTzcwTmR0dVE9PSIsInZhbHVlIjoiSDRqMGpDcEpseWhveEVLaHpNNWE3dz09IiwibWFjIjoiMzFkZjJlNDVjNzQ1ZjQ2MGQxNDU0ZGViNDMxY2JiNTc0NTJhNzE5MGFhMmFhYjU5MDc0NjYwYTA1MjA5MDdhNiIsInRhZyI6IiJ9",
+    "rowStandardId": 33494,
+    "pk_is_id": 33683,
+    "standardName": "Aluminium Conductor for Overhead Transmission Purposes - Specification Part 2 Aluminium Conductors Galvanized Steel Reinforced (Fourth Revision)",
+    "standardNumber": "IS 398 (Part 2):2025",
+    "publishedOn": "2025-06-20",
+    "committeeId": 270,
+    "departmentId": 65,
+    "groupName": "Electrical  Switchgear and Other Electrical Products/Accessories",
+    "subGroupName": "Cables, Conductors, Wires and Accessories",
+    "subSubGroupName": "Aluminum overhead conductors",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "04",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": null,
+    "certificationName": "Voluntary",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "IS 398 : Part 5 : 1992",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 1,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S05/S05V01/398_2.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2025-06-25",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Ritanshu Dhiman (SCIENTIST-B)",
+    "committeeName": "Conductors And Accessories For Overhead Lines",
+    "departmentName": "ELECTROTECHNICAL DEPARTMENT",
+    "deptAliasName": "ETD",
+    "committeePreparedName": "ETD 37 - Conductors And Accessories For Overhead Lines",
+    "deptPreparedName": "Electrotechnical Department(ETD)",
+    "reviewList": [
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 398 (Part 2):1996"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 398 (Part 2):2025"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 398 (Part 2):1996"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 398 (Part 2):1996"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 398 (Part 2):1996"
+      }
+    ]
+  }
+}

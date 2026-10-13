@@ -1,0 +1,154 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 5659,
+        "standardNumber": "IS 1387:1993",
+        "standardName": "General requirements for the supply of metallurgical materials (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-03-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImZLMEcyWXFPVnZ4TlZkcUFpQWZNOGc9PSIsInZhbHVlIjoia1Bxa3BsSnQ4UGxmaEhUVnI0c0gzdz09IiwibWFjIjoiNjFjNTc5ZTE3NDg0NjQyMDM5N2VlYTE5ODAwODIzZjk0YWZkY2NiZTVjMTExYWRkMGMyNzgwNjkzNGE1MTM2YSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 27122,
+        "standardNumber": "IS 2:2022",
+        "standardName": "RULES FOR ROUNDING OFF NUMERICAL VALUES (Second Revision)",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkVBa1NsK1RDSUo1RS9iL0JuTDNjS2c9PSIsInZhbHVlIjoibHRuRGNFTExKelhJUktLOTZ6V1VDQT09IiwibWFjIjoiNWRjZTFkZWZmYmEyZjk4ZGUxNWUyMWZlNTMyNTI4OWM0NWY2YjAzYjg1ZjM3ZmZlNWQ3OWU4Yzk4YzU2NjE2NSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 18453,
+        "standardNumber": "IS 1521:1972",
+        "standardName": "Method for tensile testing of steel wire",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2021-02-04",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImZGTzhmMzlvbVBRZStRY1NoMEVMRHc9PSIsInZhbHVlIjoiekQvUkxFK013aFlMTVdDNitvbkRMdz09IiwibWFjIjoiNWEzMWJjYmRiN2I2NjAxNWY4Mzk4MjM0YzNjOWYzYTY2MWQ0YjlkNWU1MDNjZWYxNGFlMzUwYWQxMGYyMjE3OSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 18794,
+        "standardNumber": "IS 228:1959",
+        "standardName": "Methods of chemical analysis of pig iron, cast iron and plain carbon and low alloy steel",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjIrMWc2RDVKMitDQ3pQOHlzdkJseVE9PSIsInZhbHVlIjoiUFhvMnduZFlTYTYydllJRzFKWjVvZz09IiwibWFjIjoiYzg5MDQzNTgyMGUzZWE3NjcyMmMzYTU1MGM3MGU5NmMyMDIzODc2ZTJhYTI3NDJjNWM5Y2JhZmIxZTdiMzQ1OSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 9765,
+        "standardName": "Criteria for Design and Construction of Precast Concrete Trusses and Purlins (First Revisio)",
+        "standardNumber": "IS 3201:1988",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-04-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlE1MDBobFM2SVNSSnR6T2hGdlp5dkE9PSIsInZhbHVlIjoielh3U0g3aTRRLzE0QU1BWUV3MTVhUT09IiwibWFjIjoiZmFkOGRiM2FlOTM3MTZiNjkzZWQ2MGFhNWRkMDE0NTBlNWYxZDQxM2YyNDUwNjI4ZmQ5ODc5N2Y3MjkxZGU5NiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 10523,
+        "standardName": "Code of practice for composite construction",
+        "standardNumber": "IS 3935:1966",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2022-12-20",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlllRjQ0Z253b0VDUlg4Sk4yQzQ5RHc9PSIsInZhbHVlIjoiZEhOeXJQU2VzTFowYnFJd0hpdDkwQT09IiwibWFjIjoiNTllMzBiNTY2YTI0Yjg5MDJmNTg3NzFhMWI2NDdlNzI3NTEwMmI5NDc3YWU1NmRlMGYzODg1MWQ5NTBlYjE0NyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 5064,
+        "standardName": "Prestressed Concrete - Code of Practice (Second Revision)",
+        "standardNumber": "IS 1343:2012",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2022-11-01",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik1SK01ZbGdRdmJudkdwemtRdXV2eEE9PSIsInZhbHVlIjoiMmNSdVNiNExLbEpMbWR1RU8xT3dHUT09IiwibWFjIjoiYzcwMzJlMDRmNWQyYjBhNTFhODFiYTcyOTllN2IyODdlZWNhOGQ3ZmUxMTNhY2JjYWE0NzQwMGJkNGNlZTlhZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 4672,
+        "standardName": "Prestressed concrete circular spun poles for overhead power, traction and telecommunication lines -",
+        "standardNumber": "IS 13158:1991",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2022-01-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImtlemFKRlNTVXIwZ01FMFByc2ZaTEE9PSIsInZhbHVlIjoiZVFPdjVvVFJ3M0VtMit3T1pLeHlFUT09IiwibWFjIjoiZDg4YWU3NWM3ZjEwMDM0ZmFjYjM3MmMyMGZjYjA1YzdmN2FiZDdkNTRiNjcxYmZhMGY2M2VhOTAxODA4YjdhNCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 8724,
+        "standardName": "Precast Prestressed Concrete Street Lighting Poles",
+        "standardNumber": "IS 2193:1986",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2022-01-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjVHNnlwd2pFLzh4UFdNOUR1MFcwTlE9PSIsInZhbHVlIjoiREtpelJ3b0tTWDQyVnc2UGZCQkE5QT09IiwibWFjIjoiYzcyNjBjODhiMTkyNTRkODZmMzVmMGMzZTNmZjdhOTY3NWViMzUyMmQ4Zjc3NDczZTJmZGViYmE2MWU1MjJhNiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 14874,
+        "standardName": "Prestressed concrete pipes (Including Specials) - Specification (Third Revision)",
+        "standardNumber": "IS 784:2019",
+        "equivalent_is": " ",
+        "identical_is": " ",
+        "reviewOn": "2024-03-01",
+        "noOfReview": "03",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InZpS0FmWXhqWUl1Mmw0NmhIWk80d1E9PSIsInZhbHVlIjoiSlFRcEdUUG4wdVBxdG8rNU94OWJUUT09IiwibWFjIjoiOTI5NDNmOGMwODk2Y2IwMzZlYmY4ZDRiMzBhYTUxM2Y0MjllODY2MjAxODdhYTUwYTFlMzI3MTlhODQxODAxNiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 25661,
+        "standardName": "Precast Concrete Pipes (with and without Reinforcement) -",
+        "standardNumber": "IS 458:2021",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2026-03-01",
+        "noOfReview": "05",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkxDYlArbnYzdFNVeTBHTUNJdUpOdnc9PSIsInZhbHVlIjoid1QwY2VFL0RhUG9sZGdUSUtUNzJ3Zz09IiwibWFjIjoiZDk2MjgyN2E1ZWFkZTYwNjU1YjUxZTgxMGY3OTNmMjMxY2FkMzM1OTY0MTU4YWQxOTVhMjU1MzZkMTQ5NzQ4OSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

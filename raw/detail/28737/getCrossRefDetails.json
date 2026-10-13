@@ -1,0 +1,181 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 6636,
+        "standardNumber": "IS 14700 (Part 3/Sec 2):2020",
+        "standardName": "Electromagnetic Compatibility (EMC) Part 3 Limits Section 2 Limits for harmonic current emissions ( equipment input current ? 16 A per phase ) ( Third Revision )",
+        "equivalent_is": "  ",
+        "identical_is": "IEC 61000-3-2 : 2018 ",
+        "reviewOn": "2026-08-20",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImlxamVUT1BqWGtUTm5NSHNlMTJSM0E9PSIsInZhbHVlIjoiV1RBWERyK3lob3FmaUQ5S1lzQW5ZQT09IiwibWFjIjoiNTU1MDE3NTg2YzM2YzUwNDE0MGM2MTcwNzA2NTY2ZGU4ZTlkMjc0MWUyNWRhODc4ZWIxMGVmNTViMDMyOTkxNiIsInRhZyI6IiJ9",
+        "identical": "IEC 61000-3-2 : 2018 "
+      },
+      {
+        "standardId": 6637,
+        "standardNumber": "IS 14700 (Part 3/Sec 3):2018",
+        "standardName": "Electromagnetic compatibility (EMC): Part 3 limits section 3 limitation of voltage changes, voltage fluctuations and flicker in public low-voltage supply system, for equipment with rated current ? 16 a per phase and not subjected to conditional connection (Second Revision)",
+        "equivalent_is": " ",
+        "identical_is": "IEC 61000-3-3 : 2013 ",
+        "reviewOn": "2024-05-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlR3K2EyNTZoeHJTbWlGNExlVklkQnc9PSIsInZhbHVlIjoiMVI1djRZMWU0RE10WFNOZW1ZRDZoZz09IiwibWFjIjoiNDg5OTk1NGQ5OWNkYWViZjRhMTcxZjI5ZTY3MjRjNGZiZDE3NTUyYTVhYmFiNDEwNGIxMjc1ODYwYjE0ZTAwYiIsInRhZyI6IiJ9",
+        "identical": "IEC 61000-3-3 : 2013 "
+      },
+      {
+        "standardId": 9007,
+        "standardNumber": "IS 2500 (Part 1):2000",
+        "standardName": "Sampling procedures for inspection by attributes: Part 1 sampling schemes indexed by acceptance quality limit (AQL) for lot - By - Lot inspection (Third Revision)",
+        "equivalent_is": null,
+        "identical_is": "ISO 2859-1:1999",
+        "reviewOn": "2026-03-23",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImdHejZjeGNkZ3doQzlJeFlna01RUHc9PSIsInZhbHVlIjoiejlQakduVjA5alJyNUl6MzdjNVNYQT09IiwibWFjIjoiZTRjMzE3MDMwMWE2MjU3ZDFiNTkwZjA5MjY2MTU0NGMzMzdkY2Q0M2NmNTE4YzZlMTkwZWE0YTFhNTIxZDMxZSIsInRhZyI6IiJ9",
+        "identical": "ISO 2859-1:1999"
+      },
+      {
+        "standardId": 25920,
+        "standardNumber": "IS 6873 (Part 4):2019",
+        "standardName": "Limits and Methods of Measurement of Radio Disturbance Characteristics   Part 4 Industrial Scientific and Medical Radio-Frequency Equipment Second Revision",
+        "equivalent_is": "",
+        "identical_is": "CISPR 11: 2016",
+        "reviewOn": "2025-11-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Im9rak5KU0FjL3ZRZDZFaUZZRmJTeFE9PSIsInZhbHVlIjoiaFF4SUY2ZGZWcUhqVGkzaGlEZlowUT09IiwibWFjIjoiZjczOGI3ZGM5YWE0NmQzYzI4YmExN2MwZmU5NTU0ZTRmN2VhYjhjZTMzZDBmYjFkY2IxNmVmOWU5NzkxNTgzNiIsInRhZyI6IiJ9",
+        "identical": "CISPR 11: 2016"
+      },
+      {
+        "standardId": 17560,
+        "standardNumber": "IS/IEC 60715:2017",
+        "standardName": "Dimensions of low - Voltage switchgear and controlgear - Standardized mounting on rails for mechanical support of switchgear, controlgear and accessories (First Revision)",
+        "equivalent_is": "NULL ",
+        "identical_is": "NULL ",
+        "reviewOn": "2024-03-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ii9NMXpuZlNzUkhZQ2xyRGdPR0xxanc9PSIsInZhbHVlIjoiajUvSEtMTEVSQnNQdnBYMVFPbmFxQT09IiwibWFjIjoiMWVlYzFlNzYwMzRlMWYyMDM1MTQ3MDlhOTdmMTI5YzRiZTBlOTAzZjQ5MmExMWFjYzgwMzk5MTFmNTJkYjA3YiIsInRhZyI6IiJ9",
+        "identical": "NULL "
+      },
+      {
+        "standardId": 20829,
+        "standardNumber": "IS/IEC 60730 (Part 1):1999",
+        "standardName": "Automatic electrical controls for household and similar use : part 1 General Requirements",
+        "equivalent_is": "NULL",
+        "identical_is": "NULL",
+        "reviewOn": "2026-01-16",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImdvTjJhOVVpcWZZVmV4WUhFSjBoVmc9PSIsInZhbHVlIjoiVUZBcGdNN2NGOGdzM2QzL1JMTlJmUT09IiwibWFjIjoiOWVjYWVlMDI0Y2QwNDZhNzc3YmUyOWU5ZjEyZmRjYTFlNTg2NTViZWI2ZjUzNTQ5ZTU0MDUyNGI5ZTNiODliMiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 28616,
+        "standardNumber": "IS/IEC 60947 (Part 1):2020",
+        "standardName": "LOW-VOLTAGE SWITCHGEAR AND CONTROLGEAR PART 1 GENERAL RULES",
+        "equivalent_is": "",
+        "identical_is": "IEC 60947-1:2020",
+        "reviewOn": "2023-05-15",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImdTSFd0eXdMUTV0NTdsZk5jS2dDN0E9PSIsInZhbHVlIjoiMmppY2NQbUs4Q2lBU2I3clhEZkpCZz09IiwibWFjIjoiNjMzNTkxOGIyNTg0Nzg1MDlmMTYzODIxMjk0NDgwNmM2YmRkNGIxOTVlZTFhMDNjMmJiZGQyMzhiZmIzMGY4MSIsInRhZyI6IiJ9",
+        "identical": "IEC 60947-1:2020"
+      },
+      {
+        "standardId": 26078,
+        "standardNumber": "IS 15999 (Part 1):2021",
+        "standardName": "Rotating electrical machines - Part 1 : Rating and performance",
+        "equivalent_is": "",
+        "identical_is": "IEC 60034-1: 2017",
+        "reviewOn": "2021-09-20",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ikl5U0tQK2o0Q3ZocWRpMU9EaTVVR2c9PSIsInZhbHVlIjoiTGxoNVB4WWVFWGI0ZndsQ1VITkJIUT09IiwibWFjIjoiYjYxZGI5MTc1YTMwNzIwM2FiNjBjODlhNmJiMzYwODkwNzkzYTcwNTM0YTBhNjU3MWMzZmRhN2Y4NTU0N2IwNSIsInRhZyI6IiJ9",
+        "identical": "IEC 60034-1: 2017"
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60445:2021",
+        "standardName": "Basic and safety principles for man-machine interface, marking and identification — Identification of equipment terminals, conductor terminations and conductors",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlhtMm1CaU1uUCtkZEFmZExoS29CSHc9PSIsInZhbHVlIjoicDlubWJoVUc5THhNbmRhMXN6TGt2QT09IiwibWFjIjoiZTI3MmIzNmVmMGMyZTMxOTEwN2NmZGI5ZTg5Mzk0YTk5ZjA3MWMyYmExZTJiYjgxM2E2ZDQwNzViNDg4MDRlOCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 61000 (Part-3) (Sec-11):2017",
+        "standardName": "Electromagnetic compatibility (EMC) — Part 3-11: Limits — Limitation of voltage changes, voltage fluctuations and flicker in public low-voltage supply systems — Equipment with rated current ≤ 75 A and",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6InZwbHYyRzlDeTNrS1Bobng3REViRGc9PSIsInZhbHVlIjoiLzRBd0RUVFdONXp4Wm8wMTd4VUlidz09IiwibWFjIjoiNGNiZjU5ZDBiYjZlNGYwNDM3ZDI1Yzg3ZTgzNjBhMGEzYWRjN2I2NzQzYWFmOTBmNDhkOTYzMzQyZDYxYjNlZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 3 (Part-12):2011",
+        "standardName": "Electromagnetic compatibility (EMC) — Part 3-12: Limits — Limits for harmonic currents produced by equipment connected to public low-voltage systems with input current >16 A and ≤ 75 A per phase",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Im9CVllUT0lWZWU1SG43UGpZQUsvV0E9PSIsInZhbHVlIjoiYThkeGEvTFB5RkhxZkRmWitTTVNwdz09IiwibWFjIjoiNTc5YTllNzY5OTRlOGQxMDE1YWEyZDFkNjU0ZTFlZTYxOTI5NTg5MDY4OTJlZmFiYWZlNDIyNzMyMWM3MDkyYyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 61140:2016",
+        "standardName": "Protection against electric shock — Common aspects for installation and equipment",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IjF6VVRkc2VKb3hIdzVEalRmSzVxcXc9PSIsInZhbHVlIjoiRk1LeFFFdnQyL0JsTUNHSXZta0RHUT09IiwibWFjIjoiZDdhNjc0NWQ1OTM5YjRkMzM3NGMzYWFhMTcxOTA2Y2M4MmJkNjY5OTg3OGZiMTRlN2I4ZTE0ZDBjYmM2ZTRiYSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 28616,
+        "standardName": "LOW-VOLTAGE SWITCHGEAR AND CONTROLGEAR PART 1 GENERAL RULES",
+        "standardNumber": "IS/IEC 60947 (Part 1):2020",
+        "equivalent_is": "",
+        "identical_is": "IEC 60947-1:2020",
+        "reviewOn": "2023-05-15",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkFLTkRqaW5DQkhiTmQ2czRZZnhwVWc9PSIsInZhbHVlIjoiMTMwV3NEZnhVVmZ6d2FJUUo4MElFUT09IiwibWFjIjoiZDFkNjFkYzJkYjdmYmEzN2EwYmQ3ZDJlOGMzMzQxN2U1YzkwZmM5YjcxZTJmYjEwN2Y2Y2MwMGFjYWE1MzNkYyIsInRhZyI6IiJ9",
+        "identical": "IEC 60947-1:2020"
+      },
+      {
+        "standardId": 23611,
+        "standardName": "Low-Voltage Fuses Part 5 Guidance for the Application of  Low-Voltage Fuses",
+        "standardNumber": "IS/IEC/TR 60269 (Part 5):2014",
+        "equivalent_is": " ",
+        "identical_is": "IEC/TR 60269-5 : 2014 ",
+        "reviewOn": "2024-05-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjVGUlpoaTI1VlNFdjcvZG5nYnRnQlE9PSIsInZhbHVlIjoiL2pvSjNjOXVwRTQ5TVgySkRBczhhdz09IiwibWFjIjoiZTllMjQwMmY4ZDMyMjdhM2ZkMTQ1NWI0NWQ0M2EyZGY2MTFhNjJjMTZkMDZlODVhNTg2MzE1NzFjZmQ5YTFlMiIsInRhZyI6IiJ9",
+        "identical": "IEC/TR 60269-5 : 2014 "
+      }
+    ]
+  }
+}

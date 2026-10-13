@@ -1,0 +1,125 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 413,
+        "standardNumber": "IS 1956 (Part 4):2013",
+        "standardName": "Glossary of terms relating to iron and steel: Part 4 flat products (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-03-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkNOTG1ZYWZvUHhJNjhDUHJ1M1kxTlE9PSIsInZhbHVlIjoiWnNSbXU3d0dndG0rQlF2MlArTVVXUT09IiwibWFjIjoiNWNkOTY4ZjkwMjc1M2JkYzEyMWIxZDc0YmViOGUyZWMzNjY4MDdjZGQ2OTEyMmRiOWM4MmNhNGFhNGY3ZGZmYSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 4318,
+        "standardNumber": "IS 12860:1989",
+        "standardName": "Metallic coating thickness by X-ray fluorescence technique method - Determination",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-10-16",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InN4bmU5MElqYVRNTUo3MDFYRXJleXc9PSIsInZhbHVlIjoiME9kcjAvMzRNSC81QURmRkNLcDdXQT09IiwibWFjIjoiNmY0ZTdiNzRlZDE5YjgyM2RmOTMzY2E5ZmU1Mzg2NWY5ZTk3NGNlNjRjZGE2NjI3ZGEwNzFjZDA3MDMwZjYxOCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 17836,
+        "standardNumber": "IS/ISO 16163:2012",
+        "standardName": "Continuously hot - Dipped coated steel sheet products - Dimensional and shape tolerances (First Revision)",
+        "equivalent_is": " ",
+        "identical_is": "ISO 16163 : 2012 ",
+        "reviewOn": "2022-01-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InNYSXdlbFl0MktFVk9Qa1dDWXZDYVE9PSIsInZhbHVlIjoiM1RwZEQ5MmRzUEUyMi8rN2hNbmNNUT09IiwibWFjIjoiNGZhMTg0YTBiYzY2OWE3MjBjNWFlZjUyYTA5ZTJiNjRjODk4MTE1ODFmMzExMWYzOTNjNzA0YzBlYzMyNTQwMSIsInRhZyI6IiJ9",
+        "identical": "ISO 16163 : 2012 "
+      },
+      {
+        "standardId": 22373,
+        "standardNumber": "IS 513 (Part 1):2016",
+        "standardName": "Cold reduced carbon steel sheet and strip: Part 1 cold forming and drawing purpose (Sixth Revision)",
+        "equivalent_is": " ",
+        "identical_is": " ",
+        "reviewOn": "2021-11-01",
+        "noOfReview": "06",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjdTNCtYdksvOEhEN2R3V21UbFlEZmc9PSIsInZhbHVlIjoiVEVibTFuZkxQNnJ6S3d6QitaaExjUT09IiwibWFjIjoiNmFiYTFhYWJkYjMyNzgzODIzNjhiZDkxNGNmMzkwZWE3MzEyOWQ2NWM5NWY4OWVmZGU4MzQ3MGFlMTQwNzZlNyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 22374,
+        "standardNumber": "IS 513 (Part 2):2016",
+        "standardName": "Cold reduced carbon steel sheet and strip: Part 2 high tensile and multi - Phase steel (Sixth Revision)",
+        "equivalent_is": " ",
+        "identical_is": " ",
+        "reviewOn": "2025-12-23",
+        "noOfReview": "06",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlFxLzV6dmZXRVhUTHVOTUhVeTZqYkE9PSIsInZhbHVlIjoiSEx3MTQ5QUpWVCtJK2xZY1RnTGoydz09IiwibWFjIjoiZDU5N2Y3ZWMzZGY0OWMyMmY1MWUxYTU2YTViN2Q3OTJjZWY5YTY3NzM5YTgzNTIyN2QzMWRlMTM0ZmZmMGMzZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 28783,
+        "standardNumber": "IS 18215:2023",
+        "standardName": "Stainless Steel Neti Pot Specification",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkxvZUtZZWk0YnpIV2laK29iVmtxWnc9PSIsInZhbHVlIjoic2VKQUE4TmJJTXB0blFlQWRRY1BFdz09IiwibWFjIjoiOGQxZjAwMmUyMWEwODg3YjNlNzc0NTJmNDdiNzkyMGFlZWYyOWE1ZTRhNDUyNjMzZWFkZGU1ZmU4MTNiMGU2MyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 29452,
+        "standardNumber": "IS 17895:2023",
+        "standardName": "Dentistry  Vocabulary",
+        "equivalent_is": "",
+        "identical_is": "ISO 1942:2020",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InVFU2ZYUC83a1BrSnBnYlBqc2lmZEE9PSIsInZhbHVlIjoiN2o1NWlBd1I4U0txbTlRa1k1OUZrQT09IiwibWFjIjoiMDU3MjAwZDVkYjA2NTMxODA0MmZjZmFjZGM5MmM0OTk0N2Y0MDZiMGRlMTUzNDdmMGM2YWZmZjliMjgxMGEzNyIsInRhZyI6IiJ9",
+        "identical": "ISO 1942:2020"
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 16163:2005",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6ImYreDB1MGN3OW1RWU9QWDhGTFZJNWc9PSIsInZhbHVlIjoiUUpvUzNDaVVjd083ZjhBZGQ5RS9PZz09IiwibWFjIjoiN2YyNWU3YmY5Nzg5MjM0MGU1N2VlNWMxY2MxMDFkYWE3NTg2NDg4Y2U5YWI4Mjg0MGJkN2I1M2ViMzU0OWIxNCIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 6638,
+        "standardName": "Electromagnetic compatibility (EMC): Part 4 testing and measurement techniques: Sec 1 overview of the IEC 61000 - 4 series (Second Revision)",
+        "standardNumber": "IS 14700 (Part 4/Sec 1):2019",
+        "equivalent_is": " ",
+        "identical_is": "IEC 61000-4-1 : 2016 ",
+        "reviewOn": "2026-02-23",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkJuWHhLOEx2Y01GaERpWDhQQTVrYlE9PSIsInZhbHVlIjoibWVOcXVkbHU0SXdCK21JeHhYVXFMZz09IiwibWFjIjoiMzU4MDk0NzZkNDJmNzlkODUwMjVmYjljOTU4MGFmN2I3YzM4NjcyZmZmMjJjMjVkNmI3MjYxN2UzMDAyMTU3YiIsInRhZyI6IiJ9",
+        "identical": "IEC 61000-4-1 : 2016 "
+      }
+    ]
+  }
+}

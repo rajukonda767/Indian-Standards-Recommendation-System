@@ -1,0 +1,180 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 26584,
+        "standardNumber": "IS 14897:2021",
+        "standardName": "Glass Bulb Designation System for Lamps ( First Revision )",
+        "equivalent_is": "",
+        "identical_is": "60887",
+        "reviewOn": "2026-08-20",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InliMFhkOGFKSCtDVnZrWlVmbkxIYWc9PSIsInZhbHVlIjoiZWxNUk8vcVZDcHhXaWhCM1ZrenpPZz09IiwibWFjIjoiOWM3OTAwMjI4YWUwM2I2NjJmYmMxMDBlMmVmMzVjMjIyNjhiNWVhN2I0NjlkMDA3MzVhY2FiNjJmNWJlZDdmMCIsInRhZyI6IiJ9",
+        "identical": "60887"
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 4366,
+        "standardName": "Filaments for general service lamps - Guide (First Revision)",
+        "standardNumber": "IS 12897:2001",
+        "equivalent_is": "NULL",
+        "identical_is": "NULL",
+        "reviewOn": "2024-12-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InNlZEhPZFM1eVdGeEtyWThrUVJnclE9PSIsInZhbHVlIjoibURFOEhtemphQWp2T0Vrd1BCMFdSZz09IiwibWFjIjoiODVmMDQ4OWIzOGUwZjVmOGYzYjJmODJkYTBjZjNkNTk0YjFkODAxMTViY2U1ZDFiZjNlNjFiMDMxYmZiYTc0NiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 7142,
+        "standardName": "Self ballasted lamps for general lighting services: Part 1 safety requirements",
+        "standardNumber": "IS 15111 (Part 1):2002",
+        "equivalent_is": "IEC 60968 : 1988",
+        "identical_is": null,
+        "reviewOn": "2024-12-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjhrRjRtanQ2dy8rWkZXcE5KcHkwQlE9PSIsInZhbHVlIjoiWlE1S3FZdkUyOXVacFlKam5xd3lOZz09IiwibWFjIjoiNWRmMmE5MGQ5NDUwMzYxMDVjN2U4YjU0YjIwNWJmZjQ5Yjg5OGRjOWExOTFhMjk3YzMzNzhkOWQyOWY5MTgxNiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 7654,
+        "standardName": "Safety requirements for incandescent lamps: Part 1 tungsten filament lamps for domestic and similar general lighting purposes",
+        "standardNumber": "IS 15518 (Part 1):2004",
+        "equivalent_is": "IEC 60432-1 : 1999",
+        "identical_is": null,
+        "reviewOn": "2024-12-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkVZTmxDQlJQZFB2b2VDeEhrRXhJSmc9PSIsInZhbHVlIjoibWlWOFpQRHhNWE5aSWZ2em1kdEpIQT09IiwibWFjIjoiY2I0MjVlZGVmYjdmZTExYjExNDQxNTczN2ZiYTI4OGJiNTA5NjEwMWUwOWU3Yjg5NzBkMGY0N2FjZjY0OTE2MyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 16987,
+        "standardName": "Specification for electric lamps for railway signalling",
+        "standardNumber": "IS 9589:1980",
+        "equivalent_is": "IEC Publication 61-1 ( 1969 )",
+        "identical_is": "NULL",
+        "reviewOn": "2025-11-14",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Im9VMFFCMFZaSjBVbFhiTDhrSjlmVEE9PSIsInZhbHVlIjoiQVVST2VxWG9URGFOeTFZRXhQaFZJQT09IiwibWFjIjoiODIxMmNlYTZlMmNjMmQ3ZGM1MDAyOGRhMjM0ZTU1ZDE1ZTQzOTNjMWE0NTI2MDBhOTZmYzgyZDc4N2E4NTBiOSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 16517,
+        "standardName": "Dimensions of caps for tungsten filament general service electric lamps",
+        "standardNumber": "IS 9206:1979",
+        "equivalent_is": null,
+        "identical_is": "IEC 60061-1",
+        "reviewOn": "2024-05-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjhCZ1NGQXRBdnQxT3RPMERmcWhZUEE9PSIsInZhbHVlIjoiS1pBSmo2UkFveThrb0N5dTV1UE5SUT09IiwibWFjIjoiMGIzYmFmYTFiZTYyOTQzM2RlYzliMzM0MDQ5YTdiZGUxYTE1ZTU1YzE3M2Y2NjBlMjJhOTIxZDc1ZGJlMTAyMiIsInRhZyI6IiJ9",
+        "identical": "IEC 60061-1"
+      },
+      {
+        "standardId": 33693,
+        "standardName": "Standard method of measurement of lamp cap temperature rise  (First Revision)",
+        "standardNumber": "IS 8913:2025",
+        "equivalent_is": "",
+        "identical_is": "IEC 60360: 1998",
+        "reviewOn": "2025-07-25",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImNmc2ljM2IwMHFJSThpbHpJNzZOK1E9PSIsInZhbHVlIjoidnBBKzhpQ3liY2EzQmVmcEd4bFJYUT09IiwibWFjIjoiNDVmYzQ4ZjZmNDA3MGMxZmEwZmYxNTFiYTQ5MjNiOWRmNDNmNTliZDYwMzYyYTA3ZDdmMDY1ODA5YjAzYmZiMCIsInRhZyI6IiJ9",
+        "identical": "IEC 60360: 1998"
+      },
+      {
+        "standardId": 13564,
+        "standardName": "Specification for tungsten filament miscellaneous electric lamps (First Revision)",
+        "standardNumber": "IS 6701:1985",
+        "equivalent_is": "IEC 61-1 : 1969",
+        "identical_is": null,
+        "reviewOn": "2024-03-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlI5Y0hFbTkvS05LZkprbWVzV2U5eEE9PSIsInZhbHVlIjoiSVJXV1JRY1RvdTFqc0EyWlIyWDB6dz09IiwibWFjIjoiMGJlYjYzMzRkZDcwMTI1Njk4MmU5YWMzZGZhNGMzMTg3YmNjMTIwMjcwNDdiY2NjNDZiNTI0MGQxYzkxNWFiYiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 8777,
+        "standardName": "Specification for transformers for high voltage luminous discharge tubes",
+        "standardNumber": "IS 2262:1963",
+        "equivalent_is": "B.S. 326 : 1941, B.S. 559 : 1955, ASA No. C 33.4-1958 , NEMA PUB. No. ST 1-1955 ",
+        "identical_is": "NULL",
+        "reviewOn": "2021-03-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkRPWmxGbFJUMm5senY0NkUyNFVwRHc9PSIsInZhbHVlIjoiVGN2Lzg4N09GME53VjU1bHBEUVR6Zz09IiwibWFjIjoiY2E0NDRkODljZTRiMGFhMjRmNDg3Mjc5ODNlMjY0OTRjMDk4Y2I4NDk0YTEyZGMyODU2MmE5NmI3NTMxM2QyYSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 25360,
+        "standardName": "Fire Detection and Alarm Systems Part 10 Point-Type Flame Detectors",
+        "standardNumber": "IS/ISO 7240 (Part 10):2012",
+        "equivalent_is": " ",
+        "identical_is": "ISO 7240-10 : 2012 ",
+        "reviewOn": "2025-06-20",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik1rTHlZWjdZMnZrNnl2elF0bU8rMHc9PSIsInZhbHVlIjoiOFEyV01rWGxyUkR0ZXFDMGRGYmZLUT09IiwibWFjIjoiMWZiMWU5YTIyMmU3ODRhZGU1ZDJmOTI0NWQ0OTNmNDNiMjNiNGMyZGMwOGYxMTAxMGU1MjA0ZjgxNDkyOWIwMCIsInRhZyI6IiJ9",
+        "identical": "ISO 7240-10 : 2012 "
+      },
+      {
+        "standardId": 25336,
+        "standardName": "Fire Detection and Alarm Systems Part 29 Video Fire Detectors",
+        "standardNumber": "IS/ISO 7240 (Part 29):2017",
+        "equivalent_is": " ",
+        "identical_is": " ",
+        "reviewOn": "2025-06-20",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InFmMzVBQXRQeUVGaGpJUmlMQ1kxMEE9PSIsInZhbHVlIjoiU0tNakU0SkM0WTBlQkYrS1hVcWlNUT09IiwibWFjIjoiNzU0OTk3YTA0NGM5Njc5N2UwYzdjZjZmNjU5MTFmZGQ2Yjg1NGFkZThmZDljNmU2ZWMyZGI4ZDYwMTgwZDhmYSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 28716,
+        "standardName": "Explosive atmospheres - Part 7: Equipment protection by increased safety \"e\" (Second Revision)",
+        "standardNumber": "IS/IEC 60079 (Part 7):2017",
+        "equivalent_is": "",
+        "identical_is": "IEC 60079-7:2017 (Ed 5.1)",
+        "reviewOn": null,
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Im16dHNCSDNmSTZJR3ZTV3p4ZXBpWlE9PSIsInZhbHVlIjoiNmZ1aHJxNGtKQXZKZGcwcFNWVEFNQT09IiwibWFjIjoiOGIwZGJhMWFlNjVjMGU0YjliYzQxZThkMTBhYzhiYTk2MjI5ZDQ4Y2ZiZTdmMTYwMjIyMDU4M2E1ZDRjODAxNCIsInRhZyI6IiJ9",
+        "identical": "IEC 60079-7:2017 (Ed 5.1)"
+      },
+      {
+        "standardId": 31452,
+        "standardName": "Fire Detection and Alarm Systems - Part 12 Line Type Smoke Detectors using a Transmitted Optical Beam first revision",
+        "standardNumber": "IS/ISO 7240 (Part 12):2022",
+        "equivalent_is": "",
+        "identical_is": "ISO 7240-12: 2022",
+        "reviewOn": null,
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IllEU0FrOGtMQWhzbEU0ZVZrSnc4WGc9PSIsInZhbHVlIjoiRHh1TGRjcmdKbVVtVUlxN1V5d0RVdz09IiwibWFjIjoiMjBiYTNmYjU2MTUxODg3NTY0ZWEyMWMwY2JiNjVjZmM1ZGE1ZTE1NWU2OWE5Yjc3NGVjN2ZiOWU0Nzc4ZDYwNyIsInRhZyI6IiJ9",
+        "identical": "ISO 7240-12: 2022"
+      }
+    ]
+  }
+}

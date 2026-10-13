@@ -1,0 +1,77 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6ImJYYzVydTI3VE1rSzFhVnNyWmd4cVE9PSIsInZhbHVlIjoiUzF0cGZVeUVLNGhqa2syYmZrRURKQT09IiwibWFjIjoiMmJkNzdlYjM4MGIyNTZhNWY0ZjI4MWU1ZThkY2I5NjM5MTIwNjQ3MWRjNzU3YWRlMmVmNzI3MDViOWM3NjIxOSIsInRhZyI6IiJ9",
+    "rowStandardId": 27801,
+    "pk_is_id": 27936,
+    "standardName": "Wooden Flush Door Shutters (Solid Core Type) — Specification Part 2 Particle Board, High Density Fibre Board,Medium Density Fibre Board and Fibre Hardboard Face Panels ( Fourth Revision )",
+    "standardNumber": "IS 2202 (Part 2):2022",
+    "publishedOn": "2022-11-30",
+    "committeeId": 197,
+    "departmentId": 63,
+    "groupName": "Building Materials including Paints",
+    "subGroupName": "Door and Window and its  Fittings",
+    "subSubGroupName": "Doors and Windows",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "04",
+    "noOfAmendment": "01",
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "WOODEN FLUSH DOOR SHUTTERS",
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "IS 2202 : Part 2 : 1983",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S03/S03V01/2202_2.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2022-12-20",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Shubham Chaudhary (SCIENTIST-C)",
+    "committeeName": "Doors, Windows And Shutter",
+    "departmentName": "CIVIL ENGINEERING DEPARTMENT",
+    "deptAliasName": "CED",
+    "committeePreparedName": "CED 11 - Doors, Windows And Shutter",
+    "deptPreparedName": "Civil Engineering Department(CED)",
+    "reviewList": [
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 2202 (Part 2):1983"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 2202 (Part 2):2022"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 2202 (Part 2):2022"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 2202 (Part 2):1983"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 2202 (Part 2):1983"
+      }
+    ]
+  }
+}

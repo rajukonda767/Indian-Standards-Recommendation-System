@@ -1,0 +1,102 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 33271,
+        "standardNumber": "IS 2248:2025",
+        "standardName": "Clay Products for Buildings - Glossary of Terms",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2025-05-13",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlQxazVMcE1jdk8wWGpuY2hVa2xpWFE9PSIsInZhbHVlIjoiQnRQems0YnZTWjJpc2VUTjFJVlN2UT09IiwibWFjIjoiYWRiNGI3NGMyMGI0Nzk0OTM0YzJlYTUyYmExYWM1NWYzZGYwODMwMjk4MjY1YjgwM2M0Mzg0MTQyYjc3MjIzMCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 30464,
+        "standardNumber": "IS 5454:2024",
+        "standardName": "Burnt Clay Bricks and Burnt Clay Tiles - Methods of Sampling",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2024-03-22",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkF1WU1VcnNXMWNySHhGU0lJZjhTUVE9PSIsInZhbHVlIjoicnBNdlovb085MXdKdm5pN0doc3BYUT09IiwibWFjIjoiZjcxOWNkNzdiZTg4OTgyY2MzODUwODY0NjI1OTAyZWRjZTI3MGE1YTdmN2QxZTNhNmI3ZTZmYTIzM2M3M2I2MyIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 17760,
+        "standardName": "Code of Practice for Waterproofing of Roofs with Bitumen Felts (Third Revision)",
+        "standardNumber": "IS 1346:1991",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-03-20",
+        "noOfReview": "03",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjlmYmpqUldxSlRkMmtSS055c01pdFE9PSIsInZhbHVlIjoiRW1ndStUdTduak8vZFlld1Y1N2NzUT09IiwibWFjIjoiODdkMjQ3MjcwOWYyMmNkZWNiMTIzNjQwZGRjNWNmODFhZDA1MWRmOGQ3ZTljNDUyOThhMTY2ZTY4MjBkMjdmYyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 8657,
+        "standardName": "Code of practice for flat roof finish : mud phuska",
+        "standardNumber": "IS 2115:1980",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-01-01",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImhENC9WazE3NWgwV0lyRjNtMHdqZlE9PSIsInZhbHVlIjoiNVZYTVUzTWRqZXRZeHFyWFNQVk5RQT09IiwibWFjIjoiMDI0YWU5ZDQwMjMyYzEzYWEwODJiNGQ4NDdkODQ5OWQxNDNlNWIyYTdiMTk0MDVmZWUyODAxMGVhYzVhNWQ1YiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 8661,
+        "standardName": "Code of practice for construction of brick - Cum - Concrete composite (Madras Terrace) floor and roof",
+        "standardNumber": "IS 2119:1980",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-01-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Im9ycVNFTHR4ZEJTZHZ4Z3pqSW5nY0E9PSIsInZhbHVlIjoiS2RIM0VMRVdXamhUeWZ3MGJ1MHZoUT09IiwibWFjIjoiMTQyYmYyZTc1Y2QzNWU1MmFkMDExYTY1Njk5ZjQwMzFhMjNhOTQxMjY2ZThlYzNmNTAzZjkzYmU4MjZlN2RiYiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 20937,
+        "standardName": "Handbook on causes and prevention of cracks in buildings",
+        "standardNumber": "SP 62:1997",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik1nUEZhNnAxODRvR2NxVis5L0FNdWc9PSIsInZhbHVlIjoicFNVQ3ROZGF3bGZlYWVPSlV0QXRuQT09IiwibWFjIjoiNjgwZDFhM2JmZjIzOTMzYzlkMDRkYjQxNWM5ZGZjMGExYjcyMWUyYWY1YTZhNzRlNWU4MDU2ODkyOGYxOGRkMyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 27154,
+        "standardName": "Laying Lime Concrete for a Waterproofed Roof Finish - Code of Practice (Third Revision)",
+        "standardNumber": "IS 3036:2022",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2022-04-01",
+        "noOfReview": "03",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Iit4eWxRSm1xd0R2WXNhc01KcDcvWlE9PSIsInZhbHVlIjoiaW1BOGtXcFdBNHpMYlZyUTJnNE9Fdz09IiwibWFjIjoiYzFmYzhlMzFhYWZiYjc5YzI4MmYwYzJkN2I5NGI3MzZhZTIwODIyODI2ZjQzMzA5OTczMWY3ODVlNjU1ZTc1YyIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

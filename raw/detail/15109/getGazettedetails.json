@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 15109,
+      "So_No": "pub-014-2-2020-pub-bis (607)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/CED/gf_190_15109_8042_A1.pdf",
+      "pki_id": 8947,
+      "Amd_No": 1,
+      "standardNumber": " Amendment 1 to IS 8042:2015",
+      "standardId": 15106
+    }
+  ]
+}

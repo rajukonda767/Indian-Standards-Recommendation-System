@@ -1,0 +1,77 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Steel",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6ImowM2JZVUZrSEgxMitkTStWa0xPSlE9PSIsInZhbHVlIjoiSDMxZHN5RjhhcFhqbGtsS3d2ekhUUT09IiwibWFjIjoiZTk5MTY3MDljYjY4NTM5MDA3NmQ3NzMwYmIxYmI4YWQxZTAwNjJhNWFiNzljMjY3YWRiYWRmZjMwOTQxMGU5MSIsInRhZyI6IiJ9",
+    "rowStandardId": 33958,
+    "pk_is_id": 34147,
+    "standardName": "Hot Dip Aluminium-Zinc Alloy Metallic Coated Steel Strip and Sheet - Specification (First Revision)",
+    "standardNumber": "IS 15961:2025",
+    "publishedOn": "2025-09-24",
+    "committeeId": 27,
+    "departmentId": 70,
+    "groupName": "Metals, Alloys and Metal Products (including Steel Products)",
+    "subGroupName": "Steel and Steel Castings, Wires, Ropes, Pipes , Tubes and other products",
+    "subSubGroupName": "Wires & galvanized sheets",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "01",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "Galvalume sheets",
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Not Equivalent",
+    "supersheed": "IS 15961 : 2012",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 4,
+    "is_documents": "BisProd/bisProd/oldStandards/S10/S10V01/15961.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": "ISO 9364:2017",
+    "identical_is": null,
+    "reviewOn": "2025-09-29",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Ram Sai Kumar Gedela (SCIENTIST-C)",
+    "committeeName": "Wrought Steel Products Sectional Committee",
+    "departmentName": "METALLURGICAL ENGINEERING DEPARTMENT",
+    "deptAliasName": "MTD",
+    "committeePreparedName": "MTD 04 - Wrought Steel Products Sectional Committee",
+    "deptPreparedName": "Metallurgical Engineering Department(MTD)",
+    "reviewList": [
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 15961:2012"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 15961:2012"
+      },
+      {
+        "isStatus": 1,
+        "standardNumber": "IS 15961:2012"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 15961:2012"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 15961:2025"
+      }
+    ]
+  }
+}

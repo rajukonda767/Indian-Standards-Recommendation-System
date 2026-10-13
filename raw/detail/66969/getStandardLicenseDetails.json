@@ -1,0 +1,44 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "License details fetched successfully.",
+  "data": [
+    {
+      "id": 1,
+      "data_id": 6773644,
+      "licenseNo": "9900052522",
+      "firmName": "K K FASTNERS",
+      "firmAddress": "PLOT NO C-113,C-114,C-115, NEW INDUSTRIAL FOCAL POINT,  MEHTA ROAD,MEHTA CHOWK",
+      "district": "AMRITSAR",
+      "state": "PUNJAB",
+      "validityDate": "2031-08-13",
+      "status": "Operative",
+      "variety": "Cable Management Cable Tray Systems and Cable Ladder Systems for Metallic, Non flame propagating System Component, Electrical continuity characteristics, Electrically conductive system, Class 3 as per table 8,Min Temperature- (+) 5 degree C and Max Temperature- (+) 120 degree C, Perforation base area classification-D, System component offering impact resistance upto 20J, SWL- for 1.5 meter is 116 kg and SWL- for 3 meter is 29 kg, the Cable and ladder System to be provided without bend",
+      "brandName": "KLEMCO USA",
+      "scale": "Micro",
+      "region": "Jammu  Kashmir Branch Office",
+      "branch": "JKBO",
+      "technicalDepartment": "--",
+      "standardNumber": "IS/IEC 61537 : 2006",
+      "manorvol": "Voluntary",
+      "productName": "Cable management  Cable tray systems and cable ladder systems (First Revision)",
+      "licenseContactNo": "--",
+      "licenseEmail": "--",
+      "licenseGrantDate": "2025-08-14",
+      "statusDate": "--",
+      "branchOffice": "JKBO",
+      "certificationType": "--",
+      "availableSti": "--",
+      "contactPersonDetails": "--"
+    }
+  ],
+  "pagination": {
+    "totalRecord": 1,
+    "totalPages": 1,
+    "currentPage": 1,
+    "pageSize": 10,
+    "firstPage": true,
+    "lastPage": true,
+    "numberOfElements": 1
+  }
+}

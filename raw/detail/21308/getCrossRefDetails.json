@@ -1,0 +1,128 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 413,
+        "standardNumber": "IS 1956 (Part 4):2013",
+        "standardName": "Glossary of terms relating to iron and steel: Part 4 flat products (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-03-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlpsUFlxeDlYdncvUmFPaXVYTTRPTnc9PSIsInZhbHVlIjoiWTh5NWs4YXhFR2p5QlhiZjQ1K1VFQT09IiwibWFjIjoiYjhkYmQzZTZjOTY3ZDAzNmFjZjlkODE3MDRjZDliMjBlYzllYmExNWJmNzdkMjNiMzk1NjMwMjA4MTlhZWZlZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 8052,
+        "standardNumber": "IS 1608:2005",
+        "standardName": "Mechanical testing of metals - Tensile Testing",
+        "equivalent_is": null,
+        "identical_is": "IS 1608:2005 / ISO 6892:1998",
+        "reviewOn": "2021-02-04",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InhzS1FIUE5uYWRydDJ4WGQrYnJjWGc9PSIsInZhbHVlIjoiK2trT1JWL0pCRUVmWjYxMzRWbXlNdz09IiwibWFjIjoiYmE1MWYyYWQ4OWY3Mjc3NzU0NTNhNWZiODJjNTQ3ZTI4ZDMxMDU2ZjdjNTc2OWI5ZmNkNDQ2MzQ3ZjY3OWI3ZCIsInRhZyI6IiJ9",
+        "identical": "IS 1608:2005 / ISO 6892:1998"
+      },
+      {
+        "standardId": 8140,
+        "standardNumber": "IS 1730:1989",
+        "standardName": "Steel Plates, Sheets Strips and Flats for Structural and General Engineering Purposes - Dimensions (Second Revision)",
+        "equivalent_is": "ISO 1035-3:1980",
+        "identical_is": null,
+        "reviewOn": "2024-03-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjBaSjhCN0k2ak9QK1Y5QlgybHRzMGc9PSIsInZhbHVlIjoiUmMyajZReVcwZmFnVWtUWXJNWjNPZz09IiwibWFjIjoiMGRiY2YwZjc3ZTlmZGQxMjMxZWU2ODVmMmRkMzEyZWQwZTkxODI5NmIwMzc1NzBiOGM5ODk2MjkzZDhkNTQzMCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 28257,
+        "standardNumber": "IS 3803 (Part 1):2023",
+        "standardName": "Steel - Conversion of elongation values: Part 1 carbon and low alloy steels",
+        "equivalent_is": "",
+        "identical_is": "ISO 2566-1 : 2021",
+        "reviewOn": "2023-02-24",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlpmMWxFNG14NFN2Mmc5aE9YNGxHSHc9PSIsInZhbHVlIjoiVE8vZ0EySU16dC9IdFplbmlGdGdXQT09IiwibWFjIjoiMDA1MjI0ZTEzYTYzZGQ2ZDBlMzY5Yzc3ZDI5NTZlMGI3YmEyNmJmMjU2OTQ5YzY0OWUwMGFlZWU4NjcyNjY2MSIsInRhZyI6IiJ9",
+        "identical": "ISO 2566-1 : 2021"
+      },
+      {
+        "standardId": 27156,
+        "standardNumber": "IS 8910:2022",
+        "standardName": "General technical delivery requirements for steel and steel products",
+        "equivalent_is": "",
+        "identical_is": "ISO 404:2013",
+        "reviewOn": "2022-04-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkdPSVFVcTFpeVRCY1F4WUF6VHBPRXc9PSIsInZhbHVlIjoicmxaUGdEbEFvdVpBNitENElZZEhodz09IiwibWFjIjoiMDU1YjM2MzQxYzcyOGUyOThlZWMxNWMyYjkwY2RkNzIyOTFhMmM0ZWRhYjAxM2Y1OWUzNWRiOWEyNzk4ZmM0MSIsInRhZyI6IiJ9",
+        "identical": "ISO 404:2013"
+      },
+      {
+        "standardId": 18794,
+        "standardNumber": "IS 228:1959",
+        "standardName": "Methods of chemical analysis of pig iron, cast iron and plain carbon and low alloy steel",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlhCcEJyTXVjK3BPSkRvQkJsMDFUZUE9PSIsInZhbHVlIjoic1ZTRmpHNFdUb1JjZ0o3VFZpelIvdz09IiwibWFjIjoiOTQ2ZjM2MWVjOGM4MzQwYWNkMzhiZDM3ZGYyZDM3YjgzMDMwMDQyNjUwNzQzOGU0NzI5NzM2NzdiMzM0NGQyNyIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 439,
+        "standardName": "Welded low carbon steel cylinders exceeding 5 litres water capacity for low pressure liquefiable gases: Part 1 cylinders for liquefied petroleum gases (Lpg) - Specification (Sixth Revision)",
+        "standardNumber": "IS 3196 : Part 1 : 2013",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-04-21",
+        "noOfReview": "06",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik5nTVVaUXFjUFRsRUpLMWJmMy9yZ1E9PSIsInZhbHVlIjoiUWovYzh6VEVYdDRNV3dFKzQwWE1nUT09IiwibWFjIjoiOGIwZjk1NmZiZDdlMzMyNTA3YzcwM2RhZTczNzIyNWU5YjkyMTk1OGU1ZmE0ZjI1NjJkZThmYTE1MmFiMDAzZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 6886,
+        "standardName": "Liquefied petroleum gas (LPG) containers for automotive use - Specification (First Revision) Amendment - 1",
+        "standardNumber": "IS 14899:2014",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-11-10",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Iit5VjM5enhnTGtuOHVnbXcyejhndUE9PSIsInZhbHVlIjoibEdENTdEZHVvd3gwb3lwQlJxUFFBdz09IiwibWFjIjoiNGMyZGZkZmVlOGFhN2Q1YzI2ODg3YTc0MjA1NjE3ZWUzODA5OWUxNmIyYjFkYzdjMjMyZTI3MjVkYWI4OWZkZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 33120,
+        "standardName": "Welded Low Carbon Steel Cylinders for Low Pressure Liquefiable Gases not exceeding 5 Litre Water Capacity - Specification  ( Second Revision )",
+        "standardNumber": "IS 7142:2025",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2025-04-11",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlkraWRVaVhERW16MXFkZ01aNkNhTUE9PSIsInZhbHVlIjoiVEZLY0EvUGxacDdYTTV4aXhxN1lpZz09IiwibWFjIjoiZGZlZGY4MWQ5MmJmNDQ4YzljZDAxODAzOTIyYzk5M2UxMDA0ODQyMTkyNDBhN2M4ZDA0Y2Y2YzUxY2E3NGFmNSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

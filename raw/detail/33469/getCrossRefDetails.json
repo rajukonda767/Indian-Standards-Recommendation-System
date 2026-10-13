@@ -1,0 +1,76 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 1078,
+        "standardNumber": "IS 10259:1982",
+        "standardName": "General condition of delivery and inspection of aluminium and aluminium alloy products",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-03-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImMzNnJaQzNKS0E2eEdROEVMclpiMXc9PSIsInZhbHVlIjoiaTRYTEhpUjdMQ2IrTWtZSTFJclF2Zz09IiwibWFjIjoiMzc5MTRjMTUyY2I2NWVkZWE0ZjgwZjAzZmMwMTkyNWI1ZDdlYjI4YjM5NzBiOTE4OTZmODRlMDY0MmRlNTdhNCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 13615,
+        "standardNumber": "IS 6754:1972",
+        "standardName": "Specification for aluminium alloy ingots for bearings",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-01-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlVEUUpVWjUyeTRJWkJrZDJ3K20wcGc9PSIsInZhbHVlIjoiNXFkTTdpTU9tUFdtNkpWRkZGODV6QT09IiwibWFjIjoiNjliMWQ5NGQzYmVlYTc0OGJkYzQ0MzI5MzZjMjg5OGMxMmIwMjA1ZTZjOTRjOGVhNmY5ZDdkNGU5OWE4NzliMiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 33543,
+        "standardNumber": "IS 1586 (Part 1):2025",
+        "standardName": "Metallic materials  Rockwell hardness testPart 1: Test method (Sixth Revision)",
+        "equivalent_is": "",
+        "identical_is": "ISO 6508-1 : 2023",
+        "reviewOn": "2025-07-03",
+        "noOfReview": "06",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InBIaXRHaWpCUUdwQTA3aS9TWUVYTUE9PSIsInZhbHVlIjoiZ0ZYdHJrRGhWRHhEaG1KeVlob1Z0Zz09IiwibWFjIjoiZmJhZGY1ZWI0OTliMDJmZjE2MjU5NGM2MmMwMGY2NjlkZDM2NWVlMTQ4ZjgxNDI1MmE0YmEyMjExMzNhNjZlMyIsInRhZyI6IiJ9",
+        "identical": "ISO 6508-1 : 2023"
+      },
+      {
+        "standardId": 28783,
+        "standardNumber": "IS 18215:2023",
+        "standardName": "Stainless Steel Neti Pot Specification",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ik1CNm9GTEhkblJMWE9MSFcycGplenc9PSIsInZhbHVlIjoiM2ZrVEozOWpYa21MdmgxT1lWb3ZJdz09IiwibWFjIjoiNThiMTYyMDdlYTNhYzJlMzc2OWVkNjU3MTU0ZTY2ZTgyOTljNjMwZWZmYjkxYzNmMWRiNjI4MzA1ZTQyZTUzNSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 14818,
+        "standardName": "Specification for aluminium alloys for i.c. engine pistons",
+        "standardNumber": "IS 7793:1975",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2022-01-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImpJVDI3RUd1d3J6Uk5Pa3oxa3FlZ0E9PSIsInZhbHVlIjoiQmwvQjZOK29QaDlEUTRHb2FJb1lSUT09IiwibWFjIjoiMTEyYmE4ZjVlMzgzNGUzNWI1YjAzMTU4OTFjZmViODFhYzVhNTY2ZjljMjE5NzRiNjQ2MWI3OTRhZThkMjY2NCIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

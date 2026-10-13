@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 8531,
+      "So_No": "PUB012/1/2020-PUB-BIS (982)   ",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/MTD/gf_27_8531_2002_4.pdf",
+      "pki_id": 14005,
+      "Amd_No": 0,
+      "standardNumber": "IS 2002:2024",
+      "standardId": 31401
+    }
+  ]
+}

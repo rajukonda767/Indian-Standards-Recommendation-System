@@ -1,0 +1,125 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 30872,
+        "standardNumber": "IS 1885 (Part 17):2024",
+        "standardName": "Electrotechnical Vocabulary      Part 17   Switchgear and Control Gear   (Second Revision)",
+        "equivalent_is": "",
+        "identical_is": "IEC 60050-441: 1984",
+        "reviewOn": "2024-06-10",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImxDRnZGZGpVNGZtN2NWMjRaSHZUMkE9PSIsInZhbHVlIjoiZmU1eWwycmZKeHhOL0pHbnc3ME1qUT09IiwibWFjIjoiZDUxZDBkYzhhNWUyOTFjZjU0NTViNjM3ZGMwMTJmZTc2ZGZmMmY3M2NhMmY5ODY3ZGY1ODMyMjNmZmM2MTg2MCIsInRhZyI6IiJ9",
+        "identical": "IEC 60050-441: 1984"
+      },
+      {
+        "standardId": 20967,
+        "standardNumber": "IS/IEC 60529:2001",
+        "standardName": "Degrees of protection provided by enclosures (IP Code)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-07-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjRFaUlaTElXZStVOUdHaUFRb29YRXc9PSIsInZhbHVlIjoia0RxU0hidlRJOHdDbkp3NXlRejd0QT09IiwibWFjIjoiZjU3YmVhNmY5OTlmNjI2ZWM2ZDk0OGI0MGJjNTMyMDYyMzlkZjY0MDgwMDI0YmJkMThhM2VlMTZkZDNlODI3NCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 33487,
+        "standardNumber": "IS/IEC 61730 (Part 1):2023",
+        "standardName": "Photovoltaic (PV) Module Safety Qualification  Part 1 Requirements for Construction  (Second Revision)",
+        "equivalent_is": "",
+        "identical_is": "IEC 61730-1:2023",
+        "reviewOn": null,
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlFLL2Vnb2YvV3VkeHlSZVE0QkpVRFE9PSIsInZhbHVlIjoiK1piV1dyNFNnK0phcmJuNkhmWGFBZz09IiwibWFjIjoiNmEwYzBkNzQzNmNmZTNkMjk1ZWQwNTVkMTBjNTA0ZDUyYTIyYTUyODAwOTEzMmJmOGQ0MjZkMzNhM2ExMGU4NCIsInRhZyI6IiJ9",
+        "identical": "IEC 61730-1:2023"
+      },
+      {
+        "standardId": 28890,
+        "standardNumber": "IS 17050:2023",
+        "standardName": "Degrees of protection provided by enclosures for electrical equipment against external mechanical impacts IK Code",
+        "equivalent_is": "",
+        "identical_is": "IEC 62262: 2021 (Ed 1.1)",
+        "reviewOn": "2023-06-16",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjI0bkM4RFBXRitTTVJKQ3RhMkFOeFE9PSIsInZhbHVlIjoiVmE4MmZnWmptMXBaV1ZXSitnaHY0QT09IiwibWFjIjoiNzhhYzlmZTcyNDE5NGUxMjFiYmIzOGE5M2E1NmM1YzU3MjUxYWY2MTdhNTMwMWY5N2U1YjkxN2FkNWViNmI0YiIsInRhZyI6IiJ9",
+        "identical": "IEC 62262: 2021 (Ed 1.1)"
+      },
+      {
+        "standardId": 27177,
+        "standardNumber": "IS 3025 (Part 74):2022",
+        "standardName": "Methods of Sampling and Test (Physical and Chemical) for Water and Waste Water Part 74 Vanadium",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2026-09-23",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkJ3bG45eWIrRUdKNXMvWFV4RDExQ1E9PSIsInZhbHVlIjoidC9pa0xTaWovM0prc2ROZWtWa0Z4dz09IiwibWFjIjoiNDI5MjdiOGY1MDQ0OWQxODZiOGRmZGEyYjA2NGMxMWI4ZjkxNGE5ZDRmODFkZWNiMTA4ZWEwODlhMGMwMzI0OCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 62271 (Part 110):2017",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6ImVGWW9ocXpGZWZpQXF0VHlsbTdaUkE9PSIsInZhbHVlIjoibURkMk5tRXV2VnQvcFVpQlZvRnlOdz09IiwibWFjIjoiZjlmMWVkNWU4OTIzODY4N2VhYjhhNWFiNDczNDg5NDViOTY4MmU2NWQ0ZDkzNjcxMjNkNjFmNGU0NjI3ZTA3MiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 24899,
+        "standardName": "Ground-Mounted Photovoltaic Power Plants - Design Guidelines and Recommendations",
+        "standardNumber": "IS/IEC TS 62738:2018",
+        "equivalent_is": " ",
+        "identical_is": "",
+        "reviewOn": "2026-02-13",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlNxRTZHQjZsT05SZzQwME1LMVlhQVE9PSIsInZhbHVlIjoiWU5pbkJmTmc0RXFncDZxZVZZSE83Zz09IiwibWFjIjoiNTgzZGM2ZTAxOGI1ZjJlNmNhMDhkODc0ZGI3ZGNkNDc5M2ZjYThjNDlmMjVhMWM2OWNkYTJjZTIxZGY2YmFhNSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 25135,
+        "standardName": "Safety of Machinery - Electrical Equipment of Machines Part 11 Requirements for Equipment for Voltages above 1 000 V AC or 1 500 V DC and not Exceeding 36 kV",
+        "standardNumber": "IS 16504 (Part 11):2020",
+        "equivalent_is": " ",
+        "identical_is": "IEC 60204-11 : 2018 ",
+        "reviewOn": "2026-01-02",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImxHNTlUWFFvSjdEYlRIK1RtZnlZUmc9PSIsInZhbHVlIjoiUUN0UFcyMnFaTkI5K1ZzNFFvRFFpdz09IiwibWFjIjoiODQ4YTg4OWJlMTg2MmI1Y2ZjZWEyODBjNzdlMDRiMTQ3YzVmYWU5NDdlMDBkODczOGNmM2ZjMzhhZTdkNDQzYyIsInRhZyI6IiJ9",
+        "identical": "IEC 60204-11 : 2018 "
+      },
+      {
+        "standardId": 30795,
+        "standardName": "Tutorial and application guide for high-voltage fuses",
+        "standardNumber": "IS/IEC/TR 62655:2013",
+        "equivalent_is": "",
+        "identical_is": "IS/IEC 62655:2013 ",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ind1STgvWHFHR0ZVM0U1QzFmV1VDdlE9PSIsInZhbHVlIjoiQmlNSXhQZkxodXRMOEV2ZnQ2VjRZQT09IiwibWFjIjoiMTUxZTcxZGNmZDNmZmRhMjA1YzRjMGJjZDA1NDgzMzYyYmM0ZWI5OTU2OTgwZGEzMWEwMWY0NTdjYjM5MGZjMCIsInRhZyI6IiJ9",
+        "identical": "IS/IEC 62655:2013 "
+      }
+    ]
+  }
+}

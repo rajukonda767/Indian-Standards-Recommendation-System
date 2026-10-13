@@ -1,0 +1,142 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 10808,
+        "standardNumber": "IS 4169:2014",
+        "standardName": "Metallic materials - Calibration of force proving instruments used for the verification of uniaxial testing machines (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": " ISO 18265:2003",
+        "reviewOn": "2024-12-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InNqdXBDd1cveERiMWE0eXU5S0NOVHc9PSIsInZhbHVlIjoiak10dlJJamtuWmorNmJRZ292U0hpQT09IiwibWFjIjoiMWYwYWNjZmQzZjM3MWYyZDg3ODYyMDIyNmEyMmM3MmIxOWZkNGY0ODFiZWE5YWM3ZDM2YWRlMzVkMDg5MGU3YiIsInRhZyI6IiJ9",
+        "identical": " ISO 18265:2003"
+      },
+      {
+        "standardId": 26485,
+        "standardNumber": "IS/ISO 13655:2017",
+        "standardName": "Graphic technology  Spectral measurement and colorimetric computation for graphic arts images",
+        "equivalent_is": "",
+        "identical_is": "ISO 13655:2017",
+        "reviewOn": "2021-11-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjlxcDZpOEFUU0tybHZ2Q0ZiWW9xWFE9PSIsInZhbHVlIjoiTnM0dDNVK0FaQ3ZEWGlkY01oSldvUT09IiwibWFjIjoiNDljOGVkZWQyZGRjYWNkMzhiZmE4ZTA0ODVmNTQ1OTEzN2YzZjZjMDI0Y2ZiNTE5NjU5ZTczNWU0MGEzNmQ5YyIsInRhZyI6IiJ9",
+        "identical": "ISO 13655:2017"
+      },
+      {
+        "standardId": 26493,
+        "standardNumber": "IS 17682:2021",
+        "standardName": "Aluminium Composite Panel - Specification Amendment - 2",
+        "equivalent_is": "",
+        "identical_is": null,
+        "reviewOn": "2026-11-30",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ii96eFo3TW9yVXREeFJ1dnUyQzFGbkE9PSIsInZhbHVlIjoiOWl0Q21ITHhqTFBtQ1lIUGJtWFovUT09IiwibWFjIjoiMmRlYWVkYjNlNGJhYTUwZDJhZTdjNDU4YzJkNjA2MzhiY2ViMTgwNzlkZTA5M2I0YzY2OTYxMjBmNWI2NjEwYyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 66028,
+        "standardNumber": "IS/ISO/TS 55010:2024",
+        "standardName": "Asset management - Guidance on the alignment of financial and non-financial functions in asset management (First Revision)",
+        "equivalent_is": null,
+        "identical_is": "ISO/TS 55010:2024",
+        "reviewOn": null,
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ilh2MjN2ZU1XajlYRWdGTzMzNExIVXc9PSIsInZhbHVlIjoiL0ZIaG1xNmRPN2VRV0hUbit5NThodz09IiwibWFjIjoiOWUwODc4YmI0ZmVkZDAxN2NmOWJjOWE1OGYzNzM0MmJhZWFmNTkzOGY4NDVkZWVhNzFlOGYzODMzMDBhMjJjNCIsInRhZyI6IiJ9",
+        "identical": "ISO/TS 55010:2024"
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 6508 (Part 1):2023",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IjBnOEZRSDRMNloxMHYwa1ZmbFRicmc9PSIsInZhbHVlIjoicGloZzF4aEo1bDEydWRPMU9Md08yUT09IiwibWFjIjoiODI0MzQxMDU2NDhjYjA5ZGU1YTdhMTA4YTZhNTMxODFiMGQ1ZjQ3MzU3OTM4MjEyMDlkYjljYTMxYTdjMTAwZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 6508 (Part 3):2023",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Ik12RE1COVlxaU9rY3FDNllDRWRPVGc9PSIsInZhbHVlIjoiMU5yNC9ISkhrSEo3RXAvRTc2b2Q2UT09IiwibWFjIjoiODg4YmI0ODU0ZjllZDc0M2Q0OGM1NmZkOTRlOTlmM2Q4NWVlNmE3MWMyYTg5MTRhOTBhOTA5YWVmNDFkZWJlZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 6507 (Part 1):2023",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IjRZck44YlJlVlJEdzBmd21qSitrUXc9PSIsInZhbHVlIjoiSk9qL3ViZGlxVFVpUTErdzV5UFg4UT09IiwibWFjIjoiMmRlMzU4ZTZlYTJkNmJjOGYyMWU4ZjRlNzBjMjQzYzZlMmMwMTg1Yjg3YTllMzVlYTQ0NjM1YjcyOGJjYjBlZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 376:2011",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6InRhZzY4MVFybTNEbUZ3K1ZuZTRmM1E9PSIsInZhbHVlIjoiTjkrcTJjT0tER0JZS2Q3M3ozUllTQT09IiwibWFjIjoiYTk3ZjA4ZmI4YTVmYTg3N2FmYWI4ZWM5YzYyYmY2OGM3ZjM5MjBmYTU0ZDE5OGE2ZGI3YzNlMjk3M2JkOTQwNyIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 6638,
+        "standardName": "Electromagnetic compatibility (EMC): Part 4 testing and measurement techniques: Sec 1 overview of the IEC 61000 - 4 series (Second Revision)",
+        "standardNumber": "IS 14700 (Part 4/Sec 1):2019",
+        "equivalent_is": " ",
+        "identical_is": "IEC 61000-4-1 : 2016 ",
+        "reviewOn": "2026-02-23",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjVFWmtLV2FCTHJBL3ZjQlB6U3p6eFE9PSIsInZhbHVlIjoiODJ6NTU4RmgzUWEveWJ2ekdiNjA1dz09IiwibWFjIjoiOTNjY2RiNTEzZjQwMmY1NWQzYjVkYmQxNTc2MTE0OGI0NjkxNmM3NzAwYWE2NGFlNjdjZTQxMmE1MWRmNjNjOSIsInRhZyI6IiJ9",
+        "identical": "IEC 61000-4-1 : 2016 "
+      },
+      {
+        "standardId": 30649,
+        "standardName": "Steel — Hardenability Test by End Quenching (Jominy Test) (Second Revision)",
+        "standardNumber": "IS 3848:2024",
+        "equivalent_is": "",
+        "identical_is": "ISO 642:1999",
+        "reviewOn": "2024-05-01",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlZ3S1FnWS9wSnlOeXhRZ0IrRjVlU0E9PSIsInZhbHVlIjoibjI2Y2pyVWpWNmdwODgzTVhNNXVnQT09IiwibWFjIjoiYTljYmMwMTc0Zjg0ZjhmNTFjNzFlMjBlMzg1ZjI2ZTBiZWQ5NjIyOWQyMTA0NmM2NjNlN2U0NTY0NzQxM2FkNSIsInRhZyI6IiJ9",
+        "identical": "ISO 642:1999"
+      },
+      {
+        "standardId": 31003,
+        "standardName": "Ski-poles for Alpine and Touring Skiing — Requirements and Methods of Test (Third Revision)",
+        "standardNumber": "IS 12259:2024",
+        "equivalent_is": "",
+        "identical_is": "ISO 7331",
+        "reviewOn": "2024-07-05",
+        "noOfReview": "03",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkhjakowUU9QbmU2MUoxZDdWY1ArWWc9PSIsInZhbHVlIjoiN3gvbDVTMFJlc2pteUFycVc0UW94QT09IiwibWFjIjoiMjI5MWFlOGM0NTExMmY0NmQ2ZTgyNmE3ZGQ3NjA2NDA2NzRkZGI2ODNlMGFhMDRkNjEyOTI5OWYzNTI1MzY1YyIsInRhZyI6IiJ9",
+        "identical": "ISO 7331"
+      }
+    ]
+  }
+}

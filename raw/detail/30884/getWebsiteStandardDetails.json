@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Mines",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6ImcrLzdNdXVLUkFpT1lRWDJLb1BNUVE9PSIsInZhbHVlIjoicjBoSksyYXdmbE5FS3RrZk9FeVYwUT09IiwibWFjIjoiMWQyNDE3ODJmMzg1OGFkMTY5N2ZiNjUyMjEyZmNiMDUxODI1ZTM4MzRiMDM2NzIzZDYxNmExNzZkNTMwYjk5OCIsInRhZyI6IiJ9",
+    "rowStandardId": 30695,
+    "pk_is_id": 30884,
+    "standardName": "Soft solder alloys - Chemical compositions and forms - Specification (Sixth Revison)",
+    "standardNumber": "IS 193:2024",
+    "publishedOn": "2024-04-29",
+    "committeeId": 32,
+    "departmentId": 70,
+    "groupName": "Metals, Alloys and Metal Products (including Steel Products)",
+    "subGroupName": "Non ferrous metals and their alloys",
+    "subSubGroupName": "Sn, Mo, W, etc",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "06",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "Soft solder - Specification",
+    "certificationName": "",
+    "equivalenceTypeName": "Identical under dual numbering",
+    "supersheed": "IS 193 : 2000",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 1,
+    "is_documents": "BisProd/bisProd/oldStandards/S10/S10V01/193.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": "ISO 9453:2020 ",
+    "identical_is": "ISO 9453:2020 ",
+    "reviewOn": "2024-05-02",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Varsha Karnani (SCIENTIST-C)",
+    "committeeName": "Ores and Feed Stock for Non-Ferrous (Excluding Aluminium and Copper) Industry, their Metals/ Alloys and Products Sectional Committee",
+    "departmentName": "METALLURGICAL ENGINEERING DEPARTMENT",
+    "deptAliasName": "MTD",
+    "committeePreparedName": "MTD 09 - Ores And Feed Stock For Non-ferrous (excluding Aluminium And Copper) Industry, Their Metals/ Alloys And Products Sectional Committee",
+    "deptPreparedName": "Metallurgical Engineering Department(MTD)",
+    "reviewList": [
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 193:2000"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 193:2024"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 193:2000"
+      }
+    ]
+  }
+}

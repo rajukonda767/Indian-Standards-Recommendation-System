@@ -1,0 +1,32 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "totalAmendments": 3,
+  "data": [
+    {
+      "standardId": 10950,
+      "standardNumber": "IS 432 (Part 2):1982",
+      "noOfAmendment": 1,
+      "amendmentYear": "2004",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/432_2A1.pdf",
+      "amendmentLabel": "First Amendment"
+    },
+    {
+      "standardId": 10950,
+      "standardNumber": "IS 432 (Part 2):1982",
+      "noOfAmendment": 1,
+      "amendmentYear": "2017",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/432_2A2.pdf",
+      "amendmentLabel": "Second Amendment"
+    },
+    {
+      "standardId": 10950,
+      "standardNumber": "IS 432 (Part 2):1982",
+      "noOfAmendment": 2,
+      "amendmentYear": "2019",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/432_2A3.pdf",
+      "amendmentLabel": "Third Amendment"
+    }
+  ]
+}

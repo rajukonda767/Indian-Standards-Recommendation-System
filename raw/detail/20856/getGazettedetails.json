@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 20856,
+      "So_No": "2205(E) ",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_242_20856_2205(E)+2206(E)+2207(E).pdf",
+      "pki_id": 3655,
+      "Amd_No": 0,
+      "standardNumber": "IS/IEC 62271 (Part 201):2014",
+      "standardId": 20852
+    }
+  ]
+}

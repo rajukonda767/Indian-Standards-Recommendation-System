@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 4400,
+      "So_No": "pub-014-2-2020-pub-bis (762b)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_248_4400_1293_A2.pdf",
+      "pki_id": 12039,
+      "Amd_No": 2,
+      "standardNumber": " Amendment 2 to IS 1293:2019",
+      "standardId": 25402
+    }
+  ]
+}

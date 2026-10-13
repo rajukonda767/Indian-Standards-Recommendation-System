@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 16784,
+      "So_No": "3135(E) ",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/CED/gf_220_16784_3131(E)+3132(E)+3133(E)+3134(E)+3135(E)+3136(E).pdf",
+      "pki_id": 805,
+      "Amd_No": 0,
+      "standardNumber": "IS 9417:2018",
+      "standardId": 16781
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 0,
+        "isType": 2,
+        "standardNumber": "IEC 60050 (Part-466):1990",
+        "standardName": "International Electrotechnical Vocabulary (IEV) – Chapter 466: Overhead lines",
+        "noOfReview": "00",
+        "identical_is": null,
+        "reviewOn": null,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6ImE5QVdoVjJPTnVnMEthR2hHdnZsTmc9PSIsInZhbHVlIjoib29NTXBsOGZ1ODg3VGk2RkN1bzM0dz09IiwibWFjIjoiZWVlYjFiZTMzM2IzYWE2Y2E3NDhjYzM0NmM5NTE3YTZjOTNiN2MyYmEzMDVmNDg5NGJhNjdiZWY0NTg3NjM1MSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 0,
+        "isType": 2,
+        "standardNumber": "IEC 60888:1987",
+        "standardName": "Zinc-coated steel wires for stranded conductors",
+        "noOfReview": "00",
+        "identical_is": null,
+        "reviewOn": null,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IldYOHU1eHloaVFQM0pCbXQwbmc0Mnc9PSIsInZhbHVlIjoiUTd6Q2wxNUdEcFkwUTY2TGkwd0k4Zz09IiwibWFjIjoiZDU5MzQ0YmZhNzA3ODJiZDA4OGMzYmIwNDU3YjdmZjQyYTMwODBmM2E3ZjNkNjk4NWY3Y2MwNzgzMWZmMTI3YyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 0,
+        "isType": 2,
+        "standardNumber": "IEC 61284:1997",
+        "standardName": "Overhead lines – Requirements and tests for fittings",
+        "noOfReview": "00",
+        "identical_is": null,
+        "reviewOn": null,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Imx6Wkt3aTZsTmFsSksybnk4b0Zienc9PSIsInZhbHVlIjoibGFiUEFRK2cxNnNqdWpEdnNiU0pKUT09IiwibWFjIjoiZWQ4Y2IzMzdkYWFkNjM2Njg4YjhkMDg2ZGNhYWIyODIxN2E4NjBlNTQzNmMxNzVhZmRiYTc2MTU5YmU3NWUyZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 0,
+        "isType": 2,
+        "standardNumber": "IEC 61854:1997",
+        "standardName": "Overhead lines – Requirements and tests for spacers",
+        "noOfReview": "00",
+        "identical_is": null,
+        "reviewOn": null,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6InJqNTFrNU1wVCt2YmZ2QWZMb3B2bUE9PSIsInZhbHVlIjoiaERrV1dxU3R0K2liTnVickZvK1Vodz09IiwibWFjIjoiODc1NGZkNTFmMzQwYTdkYmE3YTZhMzMwNzkyYTMzY2QxZDAwZTkxZWMyZTk1ODA1NzM2ZjMyZTBkZWEwMDQyNSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 0,
+        "isType": 2,
+        "standardNumber": "IEC 62567:2013",
+        "standardName": "Overhead lines – Methods for testing self-damping characteristics of Conductors",
+        "noOfReview": "00",
+        "identical_is": null,
+        "reviewOn": null,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6InJhc1dNeFBnaGllS3VPL1hvNnBNNUE9PSIsInZhbHVlIjoiT1JUMlF4YTdjT0ZtWVdaSWNTQzlJZz09IiwibWFjIjoiMmU0YzFiMTc0NDNhOWIwYTRjZDIwMGVkMzRkYmQxYTJmOTk0NGE0ZGUwZGU5N2IzNzcwZjg2YWRjMjE5MjE3MiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 0,
+        "isType": 2,
+        "standardNumber": "ISO 1461:2009",
+        "standardName": "Hot dip galvanized coatings on fabricated ferrous products iron and steel articles – Specifications and test methods 1)",
+        "noOfReview": "00",
+        "identical_is": null,
+        "reviewOn": null,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Ik5CUmxQdzY3SUVlUFdKcTNQSGRhSVE9PSIsInZhbHVlIjoiRVJVMWJCcEtsRy9LcExuQll2MmxRdz09IiwibWFjIjoiOWI2NDIzZDA5NTE3YWRiMjk5NWM4M2YyMTA1NTk4NDU0YWM1MzdhMjE0OTk5ZmFmNmNkZjk0NmQxZGFkZDlmMyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 0,
+        "isType": 2,
+        "standardNumber": "IEC 61897:2020",
+        "standardName": "Overhead lines — Requirements and tests for aeolian vibration dampers",
+        "noOfReview": "00",
+        "identical_is": null,
+        "reviewOn": null,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlBGaW9JM2huR3VRYzByYUg5VUNBY2c9PSIsInZhbHVlIjoiZ25IaWtORzdhZVRveXc1OXpaUCtQQT09IiwibWFjIjoiOWFhN2I2NzcxYmE4OGFjZjViMTg0OTg3NDMyYzU0ZTc1YmU3YzFkMGFhNjYxNTA1YmRkNmQzNzVjYTA2ZWJhZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 9007,
+        "isType": 1,
+        "standardNumber": "IS 2500 (Part 1):2000",
+        "standardName": "Sampling procedures for inspection by attributes: Part 1 sampling schemes indexed by acceptance quality limit (AQL) for lot - By - Lot inspection (Third Revision)",
+        "noOfReview": "03",
+        "identical_is": "ISO 2859-1:1999",
+        "reviewOn": "2026-03-23",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImxLMHVsUnFma204YktXamtoWlRrUEE9PSIsInZhbHVlIjoiclRldUZkeHFlWTM1NjAxNVNDVlpYUT09IiwibWFjIjoiNGNkMDJjY2M3YjFlMWI0MjIyOTk2Mjc3NzJjMmZmM2RlZTU3YjdiZmU4ZWZmMTMxYjJmOWY5ZjkzMmM4ZGQxZCIsInRhZyI6IiJ9",
+        "identical": "ISO 2859-1:1999"
+      },
+      {
+        "standardId": 9009,
+        "isType": 1,
+        "standardNumber": "IS 2500 (Part 3):1995",
+        "standardName": "Sampling inspection procedures: Part 3 attribute sampling plans indexed by limiting quality (LQ) for isolated lot inspection iso title sampling procedures for inspection by attributes: Part 2 sampling pians indexed by limiting quality (LQ) for isolated lot inspection",
+        "noOfReview": "00",
+        "identical_is": "ISO 2859-2:1985",
+        "reviewOn": null,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlFCdTJiOWQ1Sk9Xd1JrTkZTUlhISUE9PSIsInZhbHVlIjoiWEpxYWJJNDVsVUdCR0lnL3hxY3NHZz09IiwibWFjIjoiM2U1NzA1YzVlY2VkM2RkYTczNGZkNDhjNTY1MTAzOTMzMzRhYjA5ZjdmYzE4MTYxYmM4NGUyY2Y5YTczYzhiYyIsInRhZyI6IiJ9",
+        "identical": "ISO 2859-2:1985"
+      },
+      {
+        "standardId": 17651,
+        "isType": 1,
+        "standardNumber": "IS/ISO 9001:2015",
+        "standardName": "Quality management systems - Requirements (Fourth Revision)",
+        "noOfReview": "04",
+        "identical_is": "ISO 9001 : 2015",
+        "reviewOn": "2025-06-01",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ik54a3Q1MjNBekVCYXVxb2ViRy9Dc0E9PSIsInZhbHVlIjoiWGZTa1dtVGNIYUV1SXlDZHVDUm4vQT09IiwibWFjIjoiZjI4ZjJlMzI3NDI0YzBlMDRhNWQ2NzQ5M2I1MGNhOTJlY2U3MDljMjM2OWFkNWNlNjk3NDVmOTRmM2QyZmZkNiIsInRhZyI6IiJ9",
+        "identical": "ISO 9001 : 2015"
+      },
+      {
+        "standardId": 28314,
+        "isType": 1,
+        "standardNumber": "IS 3951 (Part 2):2023",
+        "standardName": "HOLLOW CLAY TILES FOR FLOORS AND ROOFS SPECIFICATION  PART 2 STRUCTURAL TYPE",
+        "noOfReview": "03",
+        "identical_is": "",
+        "reviewOn": "2023-03-09",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlhvdjRhRnVhZE1OM2xGeE1Cd3RoWHc9PSIsInZhbHVlIjoiZ21nQTkyOFp6MW5wcE1DZWZ1bDRlZz09IiwibWFjIjoiNTkxMjQzMTljZGUwZDM3ZDUwOWFjOTQyMTY2ODQ2YWUwM2U3MzVlZGZkOTIzZjQzZjM5NzI4YzI0MTVjNzRkMCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 28902,
+        "isType": 1,
+        "standardNumber": "IS/ISO 3951 (Part 1):2022",
+        "standardName": "Sampling procedures for inspection by variables  Part 1: Specification for single sampling plans indexed by acceptance quality limit AQL for lot-by-lot inspection for a single quality characteristic and a single AQL First Revision",
+        "noOfReview": "01",
+        "identical_is": "ISO 3951-1: 2022",
+        "reviewOn": null,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Im4wWWtyZmpnZHdTdWVSbDd2ZUgwSFE9PSIsInZhbHVlIjoiS2ZucjdUemcrSDI3aWlva0RiUnNiZz09IiwibWFjIjoiZjE5YTdkOGYwNDFjZmY1NGVhYjZkMmU3NmQ2OWU3MGFmYTA1NGFjNjkzMmYxOTRiOWFiZWQ1NzlmZDhlZWI3NCIsInRhZyI6IiJ9",
+        "identical": "ISO 3951-1: 2022"
+      }
+    ],
+    "crossFollowRefData": []
+  }
+}

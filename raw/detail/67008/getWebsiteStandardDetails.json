@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Agriculture - Department of Agriculture and Farmer Welfare",
+    "riskNameName": "Low",
+    "standardId": "eyJpdiI6InhPR05lWVpXSUY2Q2J3REdyeTlDcXc9PSIsInZhbHVlIjoiOXJkWEJKWk5tTWZiN1hlWjVjaXpWdz09IiwibWFjIjoiYzlkMWVmMWJlMTQ2NDQwYzdlZDUzZWU0MGI3MDU2MTQ0OWM0NTAxMDIwMGE0M2NhMTJhMTI4MWZiMDQxN2VkNiIsInRhZyI6IiJ9",
+    "rowStandardId": 67008,
+    "pk_is_id": 67008,
+    "standardName": "Winding wires for submersible motors - Specification: Part 4 specification for indmdual wires: Sec 1 HR PVC insulated wires (Second Revision)",
+    "standardNumber": "IS 8783 (Part 4/Sec 1):2026",
+    "publishedOn": "2026-06-09",
+    "committeeId": 266,
+    "departmentId": 65,
+    "groupName": "Electrical  Switchgear and Other Electrical Products/Accessories",
+    "subGroupName": "Motors, Winding Wires and Accessories",
+    "subSubGroupName": "Winding wires",
+    "sectorName": "Winding Wires",
+    "subSectorName": "Winding Wire",
+    "subSubSectorName": "",
+    "noOfRevision": "02",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 5,
+    "languageId": "English",
+    "icsCode": "29.060.10",
+    "shortTitle": null,
+    "certificationName": "",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "IS 8783 (Part 4/Sec 1):1995",
+    "orgTypeName": "",
+    "goalNames": "AFFORDABLE AND CLEAN ENERGY",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/projects/proof/2026/06/929_1782107884.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": null,
+    "source": 1,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Jatin Tiwari (SCIENTIST-C)",
+    "committeeName": "Winding Wire",
+    "departmentName": "ELECTROTECHNICAL DEPARTMENT",
+    "deptAliasName": "ETD",
+    "committeePreparedName": "ETD 33 - Winding Wire",
+    "deptPreparedName": "Electrotechnical Department(ETD)",
+    "reviewList": [
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 8783 (Part 4/Sec 1):1995"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 8783 (Part 4/Sec 1):1995"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 8783 (Part 4/Sec 1):1995"
+      }
+    ]
+  }
+}

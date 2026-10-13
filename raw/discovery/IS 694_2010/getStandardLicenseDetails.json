@@ -1,0 +1,67 @@
+{
+  "endpoint": "getStandardLicenseDetails",
+  "url": "https://standardsadmin.bis.gov.in/review-service//getStandardLicenseDetails",
+  "method": "POST",
+  "request_headers": {
+    "referer": "https://standards.bis.gov.in/",
+    "accept": "application/json, text/plain, */*",
+    "content-type": "application/json"
+  },
+  "request_body": {
+    "standardId": "eyJpdiI6IkZOdVdIUTgzc1ViOGVUb2xUelJEU1E9PSIsInZhbHVlIjoid1JxNmVSamtUelZrTll4bEVROE82QT09IiwibWFjIjoiZmQ1YjRmNGQ0NWRmNjNiZjMwZDQwYmY0N2Q5MTViYzMyYjBhNmEwMDA0MjkxOGI2MmQwOTM3ZDg5OGVmYjgyZiIsInRhZyI6IiJ9",
+    "status": "Operative",
+    "page": 1,
+    "limit": 1,
+    "searchText": "",
+    "token": null,
+    "refreshToken": null,
+    "clientId": null,
+    "clientSecret": null,
+    "sub": null
+  },
+  "response_status": 200,
+  "response_json": {
+    "status": "SUCCESS",
+    "statusCode": 200,
+    "msg": "License details fetched successfully.",
+    "data": [
+      {
+        "id": 1,
+        "data_id": 6828349,
+        "licenseNo": "7200193911",
+        "firmName": "WONDERFLEX CABLES PRIVATE LIMITED",
+        "firmAddress": "LS NO. 32/3 VILLAGE -SHERPURA ,SAVLI, VADODARA,VADODARA",
+        "district": "VADODARA",
+        "state": "GUJARAT",
+        "validityDate": "2026-11-04",
+        "status": "Operative",
+        "variety": "PVC Insulated, Unsheathed, Circular Cables with Flexible Copper (Bare) Conductor, Class 5, Insulation type D,  Category 01 for working voltages upto and including 1100 V,  Single Core Cable for sizes upto and including 04 sq mm(Variety)PVC Insulated, Unsheathed/Sheathed, Circular/Flat, Cables with Rigid/Flexible Copper (Bare)/Aluminium Conductor, Class 1/2/5, Insulation Type A/C/D, Sheath Type ST1/ST2/ST3, Category 01/02/FR/FR-LSH, for working Voltages up to and including 1100 V, for the following varieties:  a) Single Core, unsheathed, for Sizes up to and including 300 sq mm b) Single and Multi-core, sheathed, circular, up to and including 4 Cores, Sizes up to and including 50 sq mm c) Multi-core, flat, up to, and including 03 Cores, Sizes up to and including 50 sq mm",
+        "brandName": "WONDERFLEX",
+        "scale": "Small",
+        "region": "Surat Branch Office",
+        "branch": "SUBO",
+        "technicalDepartment": "--",
+        "standardNumber": "IS 694 : 2010",
+        "manorvol": "Mandatory",
+        "productName": "POLYVINYL CHLORIDE INSULATED UNSHEATHED AND SHEATHED CABLES CORDS WITH RIGID AND FLEXIBLE CONDUCTOR FOR RATED VOLTAGES UP TO AND INCLUDING 1100 V",
+        "licenseContactNo": "--",
+        "licenseEmail": "--",
+        "licenseGrantDate": "2020-11-05",
+        "statusDate": "--",
+        "branchOffice": "SUBO",
+        "certificationType": "--",
+        "availableSti": "--",
+        "contactPersonDetails": "--"
+      }
+    ],
+    "pagination": {
+      "totalRecord": 1304,
+      "totalPages": 1304,
+      "currentPage": 1,
+      "pageSize": 1,
+      "firstPage": true,
+      "lastPage": false,
+      "numberOfElements": 1
+    }
+  }
+}

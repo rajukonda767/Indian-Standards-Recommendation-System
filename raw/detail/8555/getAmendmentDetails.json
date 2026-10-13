@@ -1,0 +1,32 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "totalAmendments": 3,
+  "data": [
+    {
+      "standardId": 8555,
+      "standardNumber": "IS 2026 (Part 1):2011",
+      "noOfAmendment": 1,
+      "amendmentYear": "1981",
+      "is_documents": null,
+      "amendmentLabel": "First Amendment"
+    },
+    {
+      "standardId": 8555,
+      "standardNumber": "IS 2026 (Part 1):2011",
+      "noOfAmendment": 1,
+      "amendmentYear": "1983",
+      "is_documents": null,
+      "amendmentLabel": "Second Amendment"
+    },
+    {
+      "standardId": 8555,
+      "standardNumber": "IS 2026 (Part 1):2011",
+      "noOfAmendment": 2,
+      "amendmentYear": "1985",
+      "is_documents": null,
+      "amendmentLabel": "Third Amendment"
+    }
+  ]
+}

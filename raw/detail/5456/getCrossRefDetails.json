@@ -1,0 +1,50 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 32521,
+        "standardNumber": "IS 13730 (Part 0/Sec 4):2024",
+        "standardName": "Specification for particular types of winding wires Part 0 General requirements Sec 4 glass - Fibre wound resin or varnish impregnated bare or enamelled rectangular copper wire (Third Revision)",
+        "equivalent_is": "",
+        "identical_is": "IEC 60317-0-4:2020",
+        "reviewOn": null,
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InJzUmIxbUNReVR0RGJqeTIrUEJPZVE9PSIsInZhbHVlIjoiOHdHMllRVVoyWnNOZEhUYjh3bEppUT09IiwibWFjIjoiZjVmMWE2ZDIwZTlmZjc3ODU0YmMzYTRmYzkzNmJmMTM1NmNiZGYzMzkxZTIyN2Q4NWZhZjc4YWE4NzQ1OTgxZSIsInRhZyI6IiJ9",
+        "identical": "IEC 60317-0-4:2020"
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 26,
+        "standardName": "Electrical insulating materials - Thermal endurance properties: Part 2 determination of thermal endurance properties of electrical insulating materials - Choice of test criteria (First Revision)",
+        "standardNumber": "IS 8504 (Part 2):2013",
+        "equivalent_is": null,
+        "identical_is": "IEC 60216 - 2 : 2005",
+        "reviewOn": "2023-01-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjJNSFhtYmdLQlViYXhGOVNSTjc5WXc9PSIsInZhbHVlIjoiZmMrTzdxREF3ZW5oTVUrTmVHMUtEQT09IiwibWFjIjoiM2NkMzVjMzc4NDg0N2MzODAxZGZhMGFjOTAwMmRjNjhhZjJlZGFmNjA5ZGU2ZTczNjNiYmEwYTFlOWM2OTdjNSIsInRhZyI6IiJ9",
+        "identical": "IEC 60216 - 2 : 2005"
+      },
+      {
+        "standardId": 21351,
+        "standardName": "Safety of power transformers, power supplies reactors and similar products: Part 2 - 7 particular requirements and tests for transformers and power supplies for toys",
+        "standardNumber": "IS/IEC 61558 (Part 2/Sec 7):2007",
+        "equivalent_is": null,
+        "identical_is": "IEC 61558_2_7",
+        "reviewOn": "2021-08-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InhaQ0N5YlNJVEVJK0YzOU5JeWI5VVE9PSIsInZhbHVlIjoiaTBMdk9OTXpQS0ZhVzIyWGhvOHhjUT09IiwibWFjIjoiMjlkNjVkZGZiZjJjNzVkZjliMmQzODQzOTdiNDk5MDBmOGZkZmU1M2I0ZjQ4N2YxN2FmZjczMmU3YzczNTkxMiIsInRhZyI6IiJ9",
+        "identical": "IEC 61558_2_7"
+      }
+    ]
+  }
+}

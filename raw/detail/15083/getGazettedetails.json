@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 15083,
+      "So_No": "PUB015/1/2020-PUB-BIS (1186)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/CED/gf_195_15083_802_1_2_A1.pdf",
+      "pki_id": 16518,
+      "Amd_No": 1,
+      "standardNumber": " Amendment 1 to IS 802 (Part 1/Sec 2):2016",
+      "standardId": 15080
+    }
+  ]
+}

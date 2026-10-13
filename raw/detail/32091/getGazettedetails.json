@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 16725,
+      "So_No": "PUB013/1/2020-PUB-BIS (1043)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_271_16725_9385_1_2.pdf",
+      "pki_id": 15030,
+      "Amd_No": 0,
+      "standardNumber": "IS 9385 (Part 1):2024",
+      "standardId": 31902
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6IjZRUVdwK3lFemo4THRUbE1ERUJYWUE9PSIsInZhbHVlIjoicTBvNzRENTNCU1NYa1dQZ1lJRDdBQT09IiwibWFjIjoiYTFkMTNiOTgxYzUyOWVhMWViNzMyNTA4NTIxOTNlNjNmNDQxM2ZhNWFiNGI0YzJjNzcxOTUzNWRhMGY2MDQ4YSIsInRhZyI6IiJ9",
+    "rowStandardId": 25779,
+    "pk_is_id": 25898,
+    "standardName": "Unplasticized PVC Pipes for Potable Water Supplies - Specification (Fourth Revision)",
+    "standardNumber": "IS 4985:2021",
+    "publishedOn": "2021-06-30",
+    "committeeId": 217,
+    "departmentId": 63,
+    "groupName": "Chemicals, Plastics and their Products including packaging and Environment",
+    "subGroupName": "Plastic Films, Bottles, Jars, Pipes, Sockets and Other Products",
+    "subSubGroupName": "PVC Pipes, Fittings and their testing",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "04",
+    "noOfAmendment": "01",
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "Unplasticized PVC pipes for water Supplies — Specification",
+    "certificationName": "Voluntary",
+    "equivalenceTypeName": "Not Equivalent",
+    "supersheed": "IS 4985 : 2000",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "2026-02-11",
+    "commentCount": 2,
+    "equivalenceId": 4,
+    "is_documents": "BisProd/bisProd/oldStandards/S03/S03V01/4985.pdf",
+    "is_hindi_document": "BisProd/bisProd/projects/standardDocuments/2026/07/21_1784696326.pdf",
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2026-02-11",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Nishikant  Singh (SCIENTIST-D)",
+    "committeeName": "Plastic Piping System",
+    "departmentName": "CIVIL ENGINEERING DEPARTMENT",
+    "deptAliasName": "CED",
+    "committeePreparedName": "CED 50 - Plastic Piping System",
+    "deptPreparedName": "Civil Engineering Department(CED)",
+    "reviewList": [
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 4985:2000"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 4985:2021"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 4985:2021"
+      }
+    ]
+  }
+}

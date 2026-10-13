@@ -1,0 +1,128 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 2505,
+        "standardNumber": "IS 1141:1993",
+        "standardName": "Seasoning of Timber - Code of practice (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-04-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkRaSnJsbTE2L2t0dGlpRXpydHZ5UFE9PSIsInZhbHVlIjoiUU95RFRWVmZHWFRzZkFVSFdYd0R1QT09IiwibWFjIjoiNDdjMmIwMGE0MmYxYjQ2ZDU4MmJiNWU2YWRjZWIzMjA2NjVjZDc2MGVhMGNiYzI1YWU1YmViNzFkZTZiYzZmOSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 9955,
+        "standardNumber": "IS 3364 (Part 2):1976",
+        "standardName": "Methods of measurement and evaluation of defects in timber: Part 2 Converted timber",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-10-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlZDakxQblBXb25UTW5IV2hrWTlSWWc9PSIsInZhbHVlIjoiYTRieHAvamRCT1NCWjVYdDBmZ1NxQT09IiwibWFjIjoiYWJjNDA4OWMxMzJhNzRkOGNlOTQzODA5NTVmMTZjZTY0NWQ0YjRkZDM3NzI1YTI2ZTMyMDg0Y2EzYmVjMGE3MyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 10632,
+        "standardNumber": "IS 401:2001",
+        "standardName": "Preservation of Timber - Code of Practice (Fourth Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2021-10-01",
+        "noOfReview": "04",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Im5EaXZLTW13TzNsQzAxT2xicEtUQ0E9PSIsInZhbHVlIjoiUUdYSnRyVHBocTlCQ0JSUWU3bTF0dz09IiwibWFjIjoiZTI0NjgxYjFmZWFkM2Q2YzA3OGViZGZmMTNhM2M4NTAzYjM4NWY4ZTEwNGRkZWQ4MzQ4OTU5ZTUxNTk1M2QzOSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 13978,
+        "standardNumber": "IS 707:2011",
+        "standardName": "Timber Technology and Utilization of Wood, Bamboo and Cane - Glossary of Terms (Third Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2021-10-01",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImhVMzkrMnRraGV1eGhpTjBkS2RmSGc9PSIsInZhbHVlIjoiY1Z4VGtGMG51VmY5NmNXakZralRxQT09IiwibWFjIjoiYzEyNmViMGNhYzdhZDFkNWI0NTU2YWI4MjE3NThkMDM2ZGQ4NzNhY2NmOGIzYTM1MWQ5YmIzZmFlZDRjZGEzNSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 21757,
+        "standardName": "Dry Lining and Partitioning Using Gypsum Plasterboard - Code of Practice",
+        "standardNumber": "IS 16135:2014",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-05-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Imp5MzB2NDNmSGR2OVVkQk9Na3UyOXc9PSIsInZhbHVlIjoiSE01Mnd3aXVIVG5pZTZjM3IzMDd3dz09IiwibWFjIjoiYzkxMzBjYjhhYzM5ODY0MGQ0OTNhZTVhMDFhMDdhNjRkYTA3OWU0ODI5NDc3NDQ0MmRjZTY1ZDEyMjJmNzBmMiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 12009,
+        "standardName": "Specification for converted timber (Coniferous): Part 2 packing cases and crates",
+        "standardNumber": "IS 5247 (Part 2):1982",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-10-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Im51ME5RRWFocmRVN2pxZmZWRGpFVUE9PSIsInZhbHVlIjoiUmd2QXM3bXp0N2dyTHVZbFhpN1Z6QT09IiwibWFjIjoiZjdhYmQxZGU5YzJlOGQ0OWY3N2ZhY2QzYmYwNzg4OTQ3ZWI0OTliODAxOWYwY2ZlZjk2OGVkNWQyODc5YWNkMiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 17713,
+        "standardName": "Handbook on Timber Engineering",
+        "standardNumber": "SP 33:1986",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkdpNzRJSGZHbjRjbGxxUzd0R1kwV3c9PSIsInZhbHVlIjoiUXo1Y0E2ZlV2TjhtU0c2c1FDSmo0QT09IiwibWFjIjoiNDQwN2MxNmY3YjZmOGExNzBiNjUxMGFiYWY0OWY1ODUwNjk4ZDAxODdkYjIzZThhZDk0ZmMwOWY1MTNkMzBhMSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 28418,
+        "standardName": "METHOD FOR DETERMINATION OF PERFORMANCE RELATING TO SAFETY OF EXTERNAL BUILDING ENVELOPE IMPACTED BY WIND BORNE DEBRIS",
+        "standardNumber": "IS 17951:2023",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik1TdElpcnZncWtjWnA2THBZYm52NUE9PSIsInZhbHVlIjoibWtGY2dQcTJtTVNXaHpnNk5URlEwdz09IiwibWFjIjoiMjlkOWYxNzU5MTU2NWViYjJiODQ3YWVjZDViMmM0MDllODJhZGM5MjAwM2U3MWJiODQ3NjlhMDA2MjRmNzFhOSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 30361,
+        "standardName": "WOODEN PATTERN EQUIPMENT FOR FOUNDRIES - SPECIFICATION  - (Third Revision)",
+        "standardNumber": "IS 1513:2024",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2024-02-26",
+        "noOfReview": "03",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Im9xWW45a2kyazk1MUhYVlJtZGg0TFE9PSIsInZhbHVlIjoiMnZyL3hYZnpqZklXNUxDem9EUVg2dz09IiwibWFjIjoiYWNiMTIxODA0YjU1YTNiZjg2ZjVmOTM5ZjdjZGNlYTlhZWQxNTg0MGNmNzk3MDI2ODk3NWRmNzg2MjZkOWVmZSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

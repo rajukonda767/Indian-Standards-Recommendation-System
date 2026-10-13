@@ -1,0 +1,102 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 16406,
+        "standardNumber": "IS 9140:1996",
+        "standardName": "Methods for sampling of vitreous and fire clay sanitary appliances (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2022-03-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjVxVllrQ3lDT0d2NFhEclhMYVViMVE9PSIsInZhbHVlIjoiL2RhM1JOdkUxbWdDWG5PQnU3K054Zz09IiwibWFjIjoiYWMzMjRjOWFhNTMwNTU3MDM2ZmJiMWI5ZjkxMjcxZDgxZWQ3OTZjZTFjZDBjZWJlNjJhYmZkOGFlMTEyODJlMSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 28478,
+        "standardNumber": "IS 16595 (Part 302):2023",
+        "standardName": "Ergonomics of human-system Interaction  Part 302: Terminology for electronic visual displays ISO 9241-302",
+        "equivalent_is": "",
+        "identical_is": " ISO 9241-302:2008",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkFQZGs5UFpuWjM2eXZhQ1YyYmd0RkE9PSIsInZhbHVlIjoiMTc2M1ltSXQ4cWhCeWR2R1M1aTlkUT09IiwibWFjIjoiM2FjM2Y0MGRkNWNkNWU3Y2ZmZDE5YzA4Y2NiMzE2Y2ZlODcxYzU5ZTM2M2UzODQxZmY4ZTQ5YWM2YjczMzNiMCIsInRhZyI6IiJ9",
+        "identical": " ISO 9241-302:2008"
+      },
+      {
+        "standardId": 28495,
+        "standardNumber": "IS 18180 (Part 1):2023",
+        "standardName": "Geometrical product specifications (GPS) - General concepts: Part 1 Model for geometrical specification and verification",
+        "equivalent_is": "",
+        "identical_is": "ISO 17450-1:2011",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlB5M3dJZ3ZVemFqN213REd3SzB2NUE9PSIsInZhbHVlIjoiekljWmZqbWt5bmd2Wlp4RDNJSm0yUT09IiwibWFjIjoiMDlhY2VlZTlhNDU1OGY4NWQ0MzhiNGU0NmIzODg0OTQyNThjOTAwNDFkODgxMDg2Y2E3YjI0MmI3OWNhN2UyOCIsInRhZyI6IiJ9",
+        "identical": "ISO 17450-1:2011"
+      },
+      {
+        "standardId": 28496,
+        "standardNumber": "IS 18180 (Part 2):2023",
+        "standardName": "Geometrical product specifications (GPS) - General concepts: Part 2 Basic tenets, specifications, operators, uncertainties and ambiguities",
+        "equivalent_is": "",
+        "identical_is": "ISO 17450-2:2012",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImVwQnVsd3dJeWJkVmN0dUJNUWpVZ2c9PSIsInZhbHVlIjoiNXBtc053M2JZanNIUjNBYUI0V0lWZz09IiwibWFjIjoiNDUwNTdkMDYzODc3NGMzMzZmMTUwYWQ4MDk1NjNkZjBiZWY4M2QwOGZiMGZmOTQyOWQ1MTk4NDdiZWRmNjMzNiIsInRhZyI6IiJ9",
+        "identical": "ISO 17450-2:2012"
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 8606,
+        "standardName": "Selection, installation and maintenance of sanitary appliances - Code of practice (Second Revision)",
+        "standardNumber": "IS 2064:1993",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2022-11-01",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjcwWnBnajBtSUd6ZVl0cytUeHpENGc9PSIsInZhbHVlIjoibFNFcHhIaGxVUmxhZUEvMW9LVkgrQT09IiwibWFjIjoiODc1MDgyNjYxNmQxYTAyYjE3ZWYxMDBiNTdmZTgyYWEyNmEwMGEzZmU4MzBlM2UyMjRmMWRkMmJhNDg1Zjc3ZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 66889,
+        "standardName": "National Building Construction Standards 2026",
+        "standardNumber": "SP 7:2026",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "04",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InBSTjdXV2F4a0kybmF6K1ZSbVcvOGc9PSIsInZhbHVlIjoiOXpsR0o3VWxVVHY1a0hhRTBrSG5Kdz09IiwibWFjIjoiZWFhYmMwMjMwZjk4ZWI0ZDQxY2VmMzQzNGM1ZWJjZTUxODdiODk5ZTQ0ZmJjM2NiNDAyZjUzNTQ3MWM2Y2MxMCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 26701,
+        "standardName": "Water efficient plumbing products - Requirements: Part 1 Sanitaryware",
+        "standardNumber": "IS 17650 (Part 1):2021",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2026-02-27",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkQvZDdQY20zNXV3LzAxckgvM1JiVkE9PSIsInZhbHVlIjoiMlFNQkpCMDJmVE5wZUVXdmQzbm1uZz09IiwibWFjIjoiNjYyZDI1ODgzYzBiZTc2YTQ1NWU2NmMzNWM3ZDg2YWFlZDc3OTgwMWUxZjhmYzQ5MWQ1YmIzMDNmZGE2MjkyNiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

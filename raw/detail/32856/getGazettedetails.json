@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 20829,
+      "So_No": "PUB013/1/2020-PUB-BIS (1153)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_271_20829_IE60127_1_2.pdf",
+      "pki_id": 16039,
+      "Amd_No": 0,
+      "standardNumber": "IS/IEC 60127 (Part 1):2023",
+      "standardId": 32667
+    }
+  ]
+}

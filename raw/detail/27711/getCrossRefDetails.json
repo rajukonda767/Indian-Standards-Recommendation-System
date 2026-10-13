@@ -1,0 +1,142 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 26866,
+        "standardNumber": "IS 1828 (Part 1):2022",
+        "standardName": "METALLIC MATERIALS -  CALIBRATION AND VERIFICATION OF STATIC UNIAXIAL TESTING MACHINES - PART 1: TENSION/COMPRESSION TESTING MACHINES - CALIBRATION AND VERIFICATION OF THE FORCE-MEASURING SYSTEM",
+        "equivalent_is": "",
+        "identical_is": "ISO 7500-1 : 2018",
+        "reviewOn": "2022-02-16",
+        "noOfReview": "05",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjlBSHVEOUVLKzB3dytNR3JNYjA5S0E9PSIsInZhbHVlIjoiRVNpRXEwR3hWWnRldlhJL3hpZDRFQT09IiwibWFjIjoiZWYyYTM5YTY4MWI5MDA5OWEzNWM1NzJmM2NkOGMyMWUyMTU0NDg4ODQxMjliNWYyNDliMmQzNDY4OGI0MTQ2NiIsInRhZyI6IiJ9",
+        "identical": "ISO 7500-1 : 2018"
+      },
+      {
+        "standardId": 26864,
+        "standardNumber": "IS 1608 (Part 1):2022",
+        "standardName": "Metallic materials - Tensile testing - Part 1 : Method of test at room temperature ( Fifth Revision)",
+        "equivalent_is": "",
+        "identical_is": "ISO 6892-1 : 2019",
+        "reviewOn": "2022-02-16",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjUyc0xhbzNRQTlDbFg3LzEwTjM4TWc9PSIsInZhbHVlIjoibGpNZWpOeEkvbURRQmxjempHUTR1QT09IiwibWFjIjoiM2RiZjk1ZTVhYzE0OThkN2ZmNGIyNjQwNzJlY2Y3OTlhZGI1NGJiZWEzM2NjYzcwM2U3MTgwOTVjZGEyNDdmZCIsInRhZyI6IiJ9",
+        "identical": "ISO 6892-1 : 2019"
+      },
+      {
+        "standardId": 25877,
+        "standardNumber": "IS 17570 (Part 3):2021",
+        "standardName": "Air Filters for general ventilation   Part 3 Determination of the gravimetric efficiency and the air flow resistance  versus the mass of test dust captured",
+        "equivalent_is": "",
+        "identical_is": "ISO 16890-3:2016",
+        "reviewOn": "2025-12-22",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IldoeWpLM1ZEbkN1Vy9xRm11aGpzNnc9PSIsInZhbHVlIjoiNEZNQ1N3OTE4N1hSUGhvOXlKMlZudz09IiwibWFjIjoiNzljZDg0NDhhZjliNTcwNTU4ZDU1Yjc2N2Q0NTllY2IzOTFmYjViOWI2Nzk4NzA5YzcwODE0MWVhYTQ3Y2E4ZSIsInRhZyI6IiJ9",
+        "identical": "ISO 16890-3:2016"
+      },
+      {
+        "standardId": 28795,
+        "standardNumber": "IS 15503 (Part 3):2023",
+        "standardName": "Graphical symbols  Test methods  Part 3 : Method for testing symbol referent association",
+        "equivalent_is": "",
+        "identical_is": "ISO 9186-3 : 2014",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ikd4LzZNT1ZiME1CaGsyK3hpN0Flb2c9PSIsInZhbHVlIjoiTVFNemVWb0J5L1BTODZJUzZFUGt1Zz09IiwibWFjIjoiNjNkNGI5M2JmZGY1NmQ0NTUwZmJmYTkxZGZlMWY2ZjA2MjBjYzdhY2FmOWI1OGI4MzQ5NzIwZTVhNTNhYzUwNCIsInRhZyI6IiJ9",
+        "identical": "ISO 9186-3 : 2014"
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 6892:1984",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IjV0dXA5MnR5a1BhOEFDbis3TE5yc2c9PSIsInZhbHVlIjoidHZ1b3lZMG10Uk9VMUhYT3QyMHVUUT09IiwibWFjIjoiYzgwY2YxOTI2ZjY5Y2U4YWVhMmM1Mjk3Yzk3ODAxZDMwMGNiNDliMjE2NTc4YjQ1YTVjYzA1NTI0ZjNlN2U2NiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 7500 (Part 1):1988",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6InZuUC9jV241V1JXaVNXaG1ab3ZiM1E9PSIsInZhbHVlIjoiR2x6TVRMTGhDWWlyQ2dIVysvZlFPQT09IiwibWFjIjoiZDk4ZjU3YzBhMzI1YWQ2NmIyOTMxOWFiNzBmMzI3Y2M5ZWMwYTQ4YzAwYzRiZmUwNTMwMzc1OGI5MmUxMWRmZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 9513:1989",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IndUdkw5WDJhMXlac0tmVmpYY0lkc3c9PSIsInZhbHVlIjoiVWFjTjljakROYWZFeS9CdDc1R0puUT09IiwibWFjIjoiZmFlZTI5NWQ3YzI1OGEyYjJiM2FlMzRkZGEzMjNlYzRmMzgwODYzMGIxNDFjOGUxY2RlNDY1MzdlMjVmYTQyZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 10113:1991",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6ImJETDdBUm1oT1ZaT0p1MU05bCszYkE9PSIsInZhbHVlIjoiUUtKNmJoYWxEa2VRaEdJNEJkSFdvZz09IiwibWFjIjoiMjM4NzI2NDk2MjYxMWIxOTY1MzY4ZWQxYjUxYThlZjM4OTQwODViMzg5NWU1OWY0ZTMwYTAzNjNjYjFmYjdhZSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 22373,
+        "standardName": "Cold reduced carbon steel sheet and strip: Part 1 cold forming and drawing purpose (Sixth Revision)",
+        "standardNumber": "IS 513 (Part 1):2016",
+        "equivalent_is": " ",
+        "identical_is": " ",
+        "reviewOn": "2021-11-01",
+        "noOfReview": "06",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ikd4S2JVWnJsaUhTSWtDOCtUL2pSSEE9PSIsInZhbHVlIjoidG42NDR4akVBOFNrR0ZwOW0vTlRoQT09IiwibWFjIjoiNDNmZDRkNzRmMTk5MzVkNzg1MWI4NGY2ZWEzMDQwYjM5NTJmNDAwOWQxMGNiNmE3ZTg1NjYxN2IxYjUzMTgyMiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 22374,
+        "standardName": "Cold reduced carbon steel sheet and strip: Part 2 high tensile and multi - Phase steel (Sixth Revision)",
+        "standardNumber": "IS 513 (Part 2):2016",
+        "equivalent_is": " ",
+        "identical_is": " ",
+        "reviewOn": "2025-12-23",
+        "noOfReview": "06",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImU0ZlR1VjhUMEE4SVNxL1hTTFlYd3c9PSIsInZhbHVlIjoiaHU4UGlDdXN5WGMzS2hrY3hrTUZmUT09IiwibWFjIjoiODJhMWViZDBmNGEzYzE2OGY1NzBhNzJiMWQwZTMxMzExZWE2NTMyZjM5YjVjMzAzMzU1MzdhM2ExYjQ3OWI2OSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 24889,
+        "standardName": "Metallic Materials - Sheet and Strip - Biaxial Tensile Testing Method Using a Cruciform Test Piece",
+        "standardNumber": "IS 17418:2020",
+        "equivalent_is": " ",
+        "identical_is": "ISO 16842 : 2014 ",
+        "reviewOn": "2025-03-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImRUL0laZUlOWXR1Z1c1dHRtZ1VRQmc9PSIsInZhbHVlIjoiTDNjMDdmb1lPZ0tlUXRyUUMrM0tGUT09IiwibWFjIjoiNDJhOGM5NGM3YjU5NDEwZmEzOThhZTE3NjY4ODg5NDc1NWZmNzVkOTJkYmFiODJkZDY5ZTQ3ZjZkNzE1N2E2ZiIsInRhZyI6IiJ9",
+        "identical": "ISO 16842 : 2014 "
+      }
+    ]
+  }
+}

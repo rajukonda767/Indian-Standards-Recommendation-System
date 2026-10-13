@@ -1,0 +1,76 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 33271,
+        "standardNumber": "IS 2248:2025",
+        "standardName": "Clay Products for Buildings - Glossary of Terms",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2025-05-13",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ik0vVkRlb2lQYjJSRnNrYWp0aTVRWXc9PSIsInZhbHVlIjoiN2RxSFA5TU9MMm02TjZqVmsyZm42UT09IiwibWFjIjoiYzA5NjgzYWZiY2I2OWEyNDg1ODBjZWIzY2M0YzkzYzExYmYxNjk4YzBmMWMyNjM0ZTFjNDhkYThkODk0YzQyNCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 30464,
+        "standardNumber": "IS 5454:2024",
+        "standardName": "Burnt Clay Bricks and Burnt Clay Tiles - Methods of Sampling",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2024-03-22",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IklySFJIemhtQ2lyTjVNZ2tDNWRFSHc9PSIsInZhbHVlIjoicFRoM0VyWmJ5NUZ6OXQ0MDZqNU1NUT09IiwibWFjIjoiNDQ2ZGViMzdkMzA0MWYzOWU2MjIzYjQzNDVkMzA5ZjNiYzg3ZjhjOWNjNWU4NjQyYmQ4ZjE4ZjhkZjg5YmFiMCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 19244,
+        "standardNumber": "IS 3495 (Part 1 to 4):1992",
+        "standardName": "Methods of tests of burnt clay building bricks:  Part 1 : Determination of compressive strength; Part 2 : Determination of water absorption; Part 3 : Determination of efflorescence; Part 4 Determination of warpage",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2021-02-04",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkIvYytnMlc4ZDEzNEVEZDN4WFhoZVE9PSIsInZhbHVlIjoiOURoeFgybld1bWZEazJnYmVoUnFDZz09IiwibWFjIjoiOTM0MWNiMjliNDVjNjA3Y2ViMjVhZDlhNjRhODAyYWRiZDc5YzEwOGJhYWIzMmNkZTMyOTFkYTRhNmQwZTYzNCIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 10735,
+        "standardName": "Code of Practice for External Cladding - Part 3 : Wall Tiling and Mosaics",
+        "standardNumber": "IS 4101 (Part 3):1985",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-09-10",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik5BRUFiRFhxSm9CSlU5UEVXOEM3Rmc9PSIsInZhbHVlIjoiM0dXOCtJSnBnSkFjMnlFanlzSU8vUT09IiwibWFjIjoiN2NmNjVjNzZiZGRmMWU0MzVkYTZlODI3OGZmYjExYmEzNjYxNTYwYjA2ODI3NGVhM2MzNWVjYjY5ZDBhMzg4ZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 20937,
+        "standardName": "Handbook on causes and prevention of cracks in buildings",
+        "standardNumber": "SP 62:1997",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InU1dm5naUxuNkUyNlh5ZmVUbDB5OHc9PSIsInZhbHVlIjoiWmZTcERxdzduTGFpM1J6MnVOSE9aZz09IiwibWFjIjoiOWJhMjNiMjA0Y2Q3NTNjMjQ2NzFkNjQxYWY0MmYyMDhlMzlkMzI1OTgwODcxOTgzMjg2YzQzOGNiYzZkYThjZCIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

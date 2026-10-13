@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Housing and Urban Affairs",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6IjhWTEVJa1dWNFJhWE9tMDlUK2ZqelE9PSIsInZhbHVlIjoiYXZXOGJxZHB0Ym1MZmFtMUVXcHN0UT09IiwibWFjIjoiOWJkZTQ1NzQ0OWY5MzJlNjkzMzU4OWRlYjExNDkzYmY3NzI2OWZkMDY4Y2Q2OGYwNWYxNTNhYmYxZWUzYzNkMyIsInRhZyI6IiJ9",
+    "rowStandardId": 10424,
+    "pk_is_id": 10425,
+    "standardName": "Coarse and Fine Aggregate for Concrete - Specification (Third Revision)",
+    "standardNumber": "IS 383:2016",
+    "publishedOn": null,
+    "committeeId": 190,
+    "departmentId": 63,
+    "groupName": "Building Materials including Paints",
+    "subGroupName": "Cement, concrete  and Allied Products",
+    "subSubGroupName": "Concrete, Concrete admixrurers & additives and testing",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "03",
+    "noOfAmendment": "02",
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "Coarse and fine aggregate for concrete",
+    "certificationName": "Voluntary",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": " ",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "2025-07-12",
+    "commentCount": 3,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S03/S03V01/383.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2025-07-12",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Jitendra Kumar Chaudhary (SCIENTIST-C)",
+    "committeeName": "Cement And Concrete",
+    "departmentName": "CIVIL ENGINEERING DEPARTMENT",
+    "deptAliasName": "CED",
+    "committeePreparedName": "CED 02 - Cement And Concrete",
+    "deptPreparedName": "Civil Engineering Department(CED)",
+    "reviewList": [
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 383:2016"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 383:2016"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 383:2016"
+      }
+    ]
+  }
+}

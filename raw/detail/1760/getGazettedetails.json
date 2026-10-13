@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 1760,
+      "So_No": "PUB014/2/2020-PUB-BIS (951)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_243_1760_10810_60_A1.pdf",
+      "pki_id": 13698,
+      "Amd_No": 1,
+      "standardNumber": " Amendment 1 to IS 10810 (Part 60):1988",
+      "standardId": 1760
+    }
+  ]
+}

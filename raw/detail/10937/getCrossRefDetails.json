@@ -1,0 +1,88 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "No record found.",
+  "data": {
+    "crossRefData": [],
+    "crossFollowRefData": [
+      {
+        "standardId": 11703,
+        "standardName": "Multipurpose aqueous film forming foam liquid concentrate for extinguishing hydrocarbon and polar solvent fires - Specification",
+        "standardNumber": "IS 4989 (Part 4):2003",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IldRZU43eDlWRWtjUzJkY3VONENpNEE9PSIsInZhbHVlIjoiTTYwcU5kOVdJRmRSRWxTU1VxV0phUT09IiwibWFjIjoiNjI3MDAyMTRjNGE3Mjc1ZmJlNjU0MWE2ZDJiOGY4MzY0N2VlOTA0MmJhMTA5MDRkZTU5ZTFlYjUwODA0ZjUwZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 630,
+        "standardName": "Wheeled fire extinguishers - Performance and construction - Specification",
+        "standardNumber": "IS 16018:2012",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2022-04-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik5zc3dwZVI2amtaNDZXcFFvc1RLUHc9PSIsInZhbHVlIjoiNjBTQUtURXJLb0ZBNVQzQml1WkdIUT09IiwibWFjIjoiNDQyMzJmMTAwZGVlZWU4NzBkYzE1ZjhlNzNlNWFkYWM3Yjk0MDgyYjU1MTgzNjEzZTMzYWIwOTI5ZjA5ODY0NiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 16940,
+        "standardName": "Functional requirements for dry powder tender for fire brigade use (First Revision)",
+        "standardNumber": "IS 955:1980",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-08-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkRYWDZ6VHdQR0xyYytVWGpEQ29ibnc9PSIsInZhbHVlIjoieGl0eEFUVGZHdjlrbVZ6bWRsSmFaZz09IiwibWFjIjoiMDk4OGU3MzE2ZTIxNDhmNTZhZWMzY2U4OTA3YTMxZTMxYWZhZjdkYjBhOTU3MDdmYzEyZDVhYmU5ZDZlYTY2ZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 10536,
+        "standardName": "Shipbuilding - Testing, installation and maintenance of marine portable fire appliances - Code of practice (First Revision)",
+        "standardNumber": "IS 3947:1994",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-05-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Iis2TmZ2Mk5xQ2ZaR2pHLzNxZGJtSnc9PSIsInZhbHVlIjoiVS9EbTRsSUVyN0VMd2pqak0xWUZCQT09IiwibWFjIjoiZjQ4MmY0OWFiMmJkYjFmNTQ3YzY4ZWEwZTEzMTgwOGM2M2MyMTY5YjI1MjNmMWE1OWI1OTAwOWFjOWE4MGNmNyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 7857,
+        "standardName": "Portable Fire Extinguishers — Performance and Construction — Specification ( First Revision )",
+        "standardNumber": "IS 15683:2018",
+        "equivalent_is": " ",
+        "identical_is": " ",
+        "reviewOn": "2023-12-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ino1MjVPajk3Ym5PcUdheDZDMFk1bEE9PSIsInZhbHVlIjoibUhsMHpocjkzMnQzV0dJYnJKbFJ6QT09IiwibWFjIjoiZjg1M2M1N2U3MjY1MWMzNjZjZWFmZmQ0NDhjODZiN2EzMTVlZmE5MTkwZWNiYWQwODY3ZjcwMDUxYmFmOGM3MyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 32016,
+        "standardName": "Selection, Installation and Maintenance of First-aid Fire Extinguishers - Portable and Mobile - Code of Practice (fifth revision)",
+        "standardNumber": "IS 2190:2024",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "05",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InF5WE9GY2xtQVd0bGJ2bGlxaFEwSGc9PSIsInZhbHVlIjoiYjFEbzU3TTIzWlExa2tSd1plandWZz09IiwibWFjIjoiYTUwZWI0OTE1MWU3OWYxODQ0ZDdkZWVjOTU2Y2ZkODA5YTBmZWMxYjY4ZTRkYjhiYzUwODliM2NlODA0OTIzYSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

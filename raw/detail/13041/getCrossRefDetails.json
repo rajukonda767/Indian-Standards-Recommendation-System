@@ -1,0 +1,76 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 2505,
+        "standardNumber": "IS 1141:1993",
+        "standardName": "Seasoning of Timber - Code of practice (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-04-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkFRUlF5QTF4RXdPL3RDN1BWSTJRcFE9PSIsInZhbHVlIjoiTEE2bjlBaExzNkdodUdXWUJRZ1RVUT09IiwibWFjIjoiZTJhNGMyYzg1ZWY4OTA3ZTA5ZTgzZTM1NjBkY2UyYWI1MDcxYmNiMzg5NjcyZDZjZTU1YjljY2JiZmVhMDM0MyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 10632,
+        "standardNumber": "IS 401:2001",
+        "standardName": "Preservation of Timber - Code of Practice (Fourth Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2021-10-01",
+        "noOfReview": "04",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkJPRlIwdGl1VlYzNFhseTJWQUQyQXc9PSIsInZhbHVlIjoiU2Ixd0lSc1V2alUwZ3N5YmlrUHFaQT09IiwibWFjIjoiZGUzNmRlYmUxN2U3MWU5NTEwMWIxY2MzNmRlNzdiNzQ1NGNjYjU2ZTQ2ZGE2ZTM1NTUyZTQyYjhlNTFlNzQ2YSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 13978,
+        "standardNumber": "IS 707:2011",
+        "standardName": "Timber Technology and Utilization of Wood, Bamboo and Cane - Glossary of Terms (Third Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2021-10-01",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InoxV2lLWXpPSDdhQTRwdm84ZUhRQWc9PSIsInZhbHVlIjoiUFRkWDB5S25wTmZGVi9ndkZBaC9DUT09IiwibWFjIjoiNDg0OWUyN2NlOTJkOWQ1YTlkYmVkOWU2NDgwYzdhYWQzNDkwZTJjOTJlNDQ5OTk1NjdjNTk0YTdjYzJjYzMxYyIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 7427,
+        "standardName": "Installation of Frameless Door and Window Shutters - Code of Practice",
+        "standardNumber": "IS 15345:2003",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-05-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlJPUC9kczNxOGQ3a0d1a2wxMVVyckE9PSIsInZhbHVlIjoiZWFRR3hQM1IwYktLbVFsU1ZnYXVsUT09IiwibWFjIjoiM2M4NzhjNTFlZDc2NzBiMDFlZDRhNGE5YjY3YjQzMGY5MjM2NTgxNzU1OWQ0YjA3YWQ1Y2FjNjYwMzQxMzEzMCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 3335,
+        "standardName": "Recommendations for Modular Co-ordination: Co-ordinating Sizes for Doorsets and Windowsets",
+        "standardNumber": "IS 12073:1987",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-12-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Imxha05yM1FLaitQS2NZN29RaWd5bFE9PSIsInZhbHVlIjoiclVyOC9kN0hoZVhlSFpkM3FsMnN6UT09IiwibWFjIjoiNTUwOTQ5NDU4MzQ4YTM3NGNmMDg3YzBmNWYzY2E0ZjNlZGRhNDEwNDk0Y2FiNWU1N2M4ZjMwMDg3MTA5OWE3OCIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 9353,
+        "standardNumber": "IS 2824:2007",
+        "standardName": "Method for the determination of the proof and the comparative tracking indices of solid insulating materials (Second Revision)",
+        "equivalent_is": "NULL",
+        "identical_is": "IEC 60112 : 2003 ",
+        "reviewOn": "2025-12-19",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjFYaXZVWU9Ma3Evekc2M0syaWxtdVE9PSIsInZhbHVlIjoiRTVaRTM2cER1eVJLb3Y5ZU9lLysrQT09IiwibWFjIjoiNGFkZmZiMDc4YmVjY2E4NmQwMThjYjE1Njc2NmM2YzYyMTNmZDRmMmNlMTg3YWVhYzFmM2YzNWZlNWExOTkyMyIsInRhZyI6IiJ9",
+        "identical": "IEC 60112 : 2003 "
+      },
+      {
+        "standardId": 15266,
+        "standardNumber": "IS 8186:2020",
+        "standardName": "Marking Codes for Resistors and Capacitors ( First Revision )",
+        "equivalent_is": " ",
+        "identical_is": "IEC 60062 : 2016 ",
+        "reviewOn": "2026-02-23",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ik1VOTlYWXI1cEo2bWt3Rmd1V1A1SkE9PSIsInZhbHVlIjoidXRUU3d0bUZnV3NTR0MraVhadXF2UT09IiwibWFjIjoiNWIxYmQ4ZGNiYWY4OGI4MGIwMTJkYWJlMGQxYzhlZjFkMjNkMzNjY2RiNjFiMTJkMmI1MGIyNDFlMDE0YzQzNyIsInRhZyI6IiJ9",
+        "identical": "IEC 60062 : 2016 "
+      },
+      {
+        "standardId": 16228,
+        "standardNumber": "IS 9000 (Part 4):2020",
+        "standardName": "Environmental Testing Part 4 Tests - Test Cab: Damp Heat, Steady State ( Second Revision )",
+        "equivalent_is": " ",
+        "identical_is": "IEC 60068-2-78 : 2012 ",
+        "reviewOn": "2023-12-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImJCaDNuYU52eWRMYjlLMFZHYVNkYlE9PSIsInZhbHVlIjoieVVrV2FtOEgweHlGQ0dJdmxDR2o0dz09IiwibWFjIjoiNzE1N2M1Y2M5NGIwMzQzZjNjY2JiNTJmODI1MTkyYjcwOWFlYzljOTA2MDYyNjRjNDZlNGU0NWE0MjBhYTc0NiIsInRhZyI6IiJ9",
+        "identical": "IEC 60068-2-78 : 2012 "
+      },
+      {
+        "standardId": 30085,
+        "standardNumber": "IS/IEC 60309 (Part 1):2021",
+        "standardName": "Plugs fixed or portable socket-outlets and appliance inlets for industrial purposes Part 1: General requirements Second Revision",
+        "equivalent_is": "",
+        "identical_is": "60309-1:2021",
+        "reviewOn": null,
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IndEWlVxRHNvMC82Y1RTdzhDMENpOEE9PSIsInZhbHVlIjoiU1NQUUZScmx3MDJES0tDeDlYMWFQdz09IiwibWFjIjoiY2M1M2E3NzNiN2M1N2JmMjY2YTkwZmUzNzAwNzg3Mzk0OGYxMGJlZmVkOGEwYjhhYTI4OWQ3MjgxN2JjNjk3NSIsInRhZyI6IiJ9",
+        "identical": "60309-1:2021"
+      },
+      {
+        "standardId": 20967,
+        "standardNumber": "IS/IEC 60529:2001",
+        "standardName": "Degrees of protection provided by enclosures (IP Code)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-07-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjMxVjFKRVBYSGZ5QzVDZkhBelYrVWc9PSIsInZhbHVlIjoiL0RGekZGQUdQNVN3ZzI2bkNTSGdYdz09IiwibWFjIjoiZDJmZWIwMTgyMWY1NTRjNjEwNzJkMGVlM2UxNDM1OWY1ZDhmNjlmZGZlOWVmNmMyZTU0NWE5NzA2NmUwYjVlNiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 23241,
+        "standardNumber": "IS 326 (Part 30):2018",
+        "standardName": "Methods of sampling and test for natural and synthetic perfumery materials: Part 30 determination of peroxide value",
+        "equivalent_is": " ",
+        "identical_is": "ISO 18321 : 2015 ",
+        "reviewOn": "2022-07-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ikxqa3BZYy9FdjBGRS8xRlNaOTdsYXc9PSIsInZhbHVlIjoiVW5neUJrSmRCQU1hSzg2L1dTSXRvZz09IiwibWFjIjoiYmQwZTE2Mzc1MzEwMWUxY2ZlMDQ1ZDg1NWRjZjExMDllZjUzNzEzODRlNmIzNzZmYTU4NzAwNWI0MTA3MzU0ZiIsInRhZyI6IiJ9",
+        "identical": "ISO 18321 : 2015 "
+      },
+      {
+        "standardId": 29828,
+        "standardNumber": "IS 18341:2023",
+        "standardName": "Rigid Protective Covers for Live Working on A.C. Installation",
+        "equivalent_is": "",
+        "identical_is": "IEC 61229 : 2002  (Ed 1.2)",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ik9iYjNDclZJdThYL1hObjNsYjNGcFE9PSIsInZhbHVlIjoiRGUvZFEyNnZYK1ovWVRtSkd3QVpEQT09IiwibWFjIjoiODBhMmEzZDQ2NmYxMTY5MzUzN2M4YTM1ODYyNjc5MzAzZTViN2U1YzU2YjI3MDJmZDFlNWM1NTUwNzZiYzRjMCIsInRhZyI6IiJ9",
+        "identical": "IEC 61229 : 2002  (Ed 1.2)"
+      },
+      {
+        "standardId": 32880,
+        "standardNumber": "IS 19210:2025",
+        "standardName": "Pre-Painted Zinc-Aluminium-Magnesium Alloy Coated Steel Strip And Sheet",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImlnN1g2QVBHQW1BcWRtMnVGWlRjN2c9PSIsInZhbHVlIjoiRERWNHVXSEVjREpUVnJxcTAzeXRsdz09IiwibWFjIjoiZTJhZDQwNjBkNjNlMzg2YzJjNGRiNDc5YWFmNDJhZjA3YTZmYzQ4MDkyOWZjNTdlZDQxYjY4ZDU1YTE1NjllZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 32930,
+        "standardNumber": "IS 19206 (Part 8):2025",
+        "standardName": "Photography - Photographic Grade Chemicals - Test Methods -  Part 8 Determination of Volatile Matter",
+        "equivalent_is": "",
+        "identical_is": "ISO 10349-8: 2002",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Im1DSHM5SjFsZk8zbTRuRFpUL2UzblE9PSIsInZhbHVlIjoiNDBnVGpEZDJRL1NycUZ3N0tDSEFNQT09IiwibWFjIjoiZTlkZmE0ZWM0ODM4NzNlYjc2MDg1N2ZjY2M3ZjNiN2Y0MmE3YzFiMDUzOWViN2MyZThlNTU4OWE3N2Q4MzQwNiIsInRhZyI6IiJ9",
+        "identical": "ISO 10349-8: 2002"
+      },
+      {
+        "standardId": 32980,
+        "standardNumber": "IS 19193:2025",
+        "standardName": "Non-Active Surgical Implants - Joint Replacement Implants - Specific Requirements for Knee-Joint Replacement Implants",
+        "equivalent_is": "ISO 21536 : 2023",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlMxcWR2S2grU2ZHSHlrYWF5ZGhEK0E9PSIsInZhbHVlIjoiZEJqSFZVZkFRQTV2ditleWJxcHhzdz09IiwibWFjIjoiM2I4ZGYxNWQ2ZjJiOTRjZmVmYTkwYTQ5ZmU0MzE2OTlkOTQzNTk5YTZkNWM3MGU0OGM0NzI2MzMxYjgzMzAxMiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 4046:2002",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlB4SnEzRmJEY0FZZ2tDQkdmSGxXdHc9PSIsInZhbHVlIjoiWHNqUnJaVjR2MUw4Rk1Ja1hVVFZLZz09IiwibWFjIjoiNzIxMmRjMGFjNDQxZDc4MDBiZDc2NmYzNTc5NDM2MzFhMDcwNzUyMzI3NWYyYjBkMmFlNjUzMGFlMmM1OGFjOSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 9529,
+        "standardName": "Safety of household and similar electrical appliances: Part 2 particular requirements: Sec 32 massage appliances",
+        "standardNumber": "IS 302 (Part 2/Sec 32):1994",
+        "equivalent_is": null,
+        "identical_is": "IEC 60335-2-32",
+        "reviewOn": "2024-12-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik15TjNzNGhhajlUdVZyenViRlVURlE9PSIsInZhbHVlIjoiU1d5VlkydytkNklOR1N2T25PV2xjZz09IiwibWFjIjoiZGZkY2YyZDYwYmY2NTI1ZTdjMDk2ZTM3OTE3MTEwM2JjYTk0YmYxNGQ3MDRkMGY2OGIzZDcyYzQ0OTZhZmNmMCIsInRhZyI6IiJ9",
+        "identical": "IEC 60335-2-32"
+      },
+      {
+        "standardId": 13250,
+        "standardName": "Domestic electrical clothes washing machines - Specification: Part 2 requirements for tumbler dryers",
+        "standardNumber": "IS 6390 (Part 2):1992",
+        "equivalent_is": "IEC Pub 355-2-11 ( 1984 ) ",
+        "identical_is": "NULL",
+        "reviewOn": "2026-01-16",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjJYKytmR0dJSkxwUVJCWHJraXpQNWc9PSIsInZhbHVlIjoiQ09mMHI3V0txcFlrRmtjNzd4NklVQT09IiwibWFjIjoiYmFmYmU1ZDNiZjE3NGI4NmMzOWNmMjY5ODBiY2I3MDFhN2E4MDI4MTZmNzhhODg5MWQwZjczY2YwM2U3MmEzNyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 31799,
+        "standardName": "Household and Similar Electrical Appliances-Safety Part 2 Particular Requirements  Section 42 Commercial electric forced convection ovens, steam cookers and steam-convection ovens",
+        "standardNumber": "IS 302 (Part 2/Sec 42):2024",
+        "equivalent_is": "",
+        "identical_is": "60335-2-42:2021",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImYvR01YZXNTYi9iOTZJVForVk5wcnc9PSIsInZhbHVlIjoiZjFaUnpWcHVjYXV2MUZxSVFxSEVzQT09IiwibWFjIjoiMGZkMDZlMThlYTVhYzVkYjUxOTBlNmM3MzAyNTY1OTk5ZmE4MWVmMGVkYzEzMWI5MzZiMTU3YTFkYjY2OTYxNyIsInRhZyI6IiJ9",
+        "identical": "60335-2-42:2021"
+      },
+      {
+        "standardId": 33389,
+        "standardName": "SINGLE PHASE ac INDUCTION MOTORS FOR GENERAL PURPOSE (Fouth Revision)",
+        "standardNumber": "IS 996:2025",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2025-05-30",
+        "noOfReview": "04",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InU5eHZma21lRk1vTHNBTDY3QnlmNGc9PSIsInZhbHVlIjoiT2kvU0tQQ25YU0ZSclBCNFZia3loQT09IiwibWFjIjoiNTA1MWRhMmIwZWU1NDllZTI3ZGM0ZThkNThlYWZjNzk0MjdjZWYwN2E5MjRjY2Q2NGE0ZDEwMDMxMGFiMTFjYyIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

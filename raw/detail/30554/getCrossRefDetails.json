@@ -1,0 +1,180 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 339,
+        "standardNumber": "IS 1500 (Part 1):2019",
+        "standardName": "Metallic materials - Brinell hardness test: Part 1 test method (Fifth Revision)",
+        "equivalent_is": " ",
+        "identical_is": "ISO 6506-3 : 2014 ",
+        "reviewOn": "2024-01-01",
+        "noOfReview": "05",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Im5XQnl0YVBFeFhZaU1JWnduekJIVGc9PSIsInZhbHVlIjoiVkxLSHJPaU1OUk9jdmxtRVR2SnNidz09IiwibWFjIjoiM2VmMmMyMzlmZTcxMjhmYjliOWQ4NWYyZTczN2YxZTY4MjIyMmQ3MjYwZmIzNDliM2NkY2QyYmJkYjY1Njk1ZCIsInRhZyI6IiJ9",
+        "identical": "ISO 6506-3 : 2014 "
+      },
+      {
+        "standardId": 5659,
+        "standardNumber": "IS 1387:1993",
+        "standardName": "General requirements for the supply of metallurgical materials (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-03-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ik5vQ1FJd3hsczFXV3h0WXhKdldoR1E9PSIsInZhbHVlIjoiSDdhTndydldVTUJtdzdZRjNFcU1MUT09IiwibWFjIjoiZGEzOTgzYWMwOTVjZGVmOTFhMWE3OWYzOGI0Y2NjZjJjZmRkYjc5MTY1NGU1ZTRjNmU3OTE0YmNiMjczZDVjYSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 8644,
+        "standardNumber": "IS 210:2009",
+        "standardName": "Grey iron castings - Specification (Fifth Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-02-01",
+        "noOfReview": "05",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImZXeHdjN1haQVZLc0pwdXlWSEtJOEE9PSIsInZhbHVlIjoiWEFaOUVWek5pVWhnbUQ1aTJLb0pVdz09IiwibWFjIjoiZjVhYWM5ZGQ1NzE4YzZlMGZlYjEzZjIwZDUyZDZjOTg4ZTRlOTg4ZjY3MzEyZjE2ZWNmZDQzMzExZjBjNzVmYSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 12292,
+        "standardNumber": "IS 5519:1979",
+        "standardName": "Deviations for untoleranced dimensions and mass of grey iron castings (First Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-02-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlkwSktXbURScmxGeUZzNllRcFB4eVE9PSIsInZhbHVlIjoiVnBxQWxmcEVMejFLNk02Zk16MDNvUT09IiwibWFjIjoiNjlhYWM2ZjY5NDQyODc1OWNhZmVlOTk3OWM5NjQwZTNmYTAwZTgxZjZiYWVmNjNhY2FlZmNiNmE5ODExZmVlMyIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 12078,
+        "standardName": "Code of practice for sanitary pipe work above ground for buildings",
+        "standardNumber": "IS 5329:1983",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2022-02-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Imh6T3Y2aTFKdFZYbDdzeE1aaUF5cEE9PSIsInZhbHVlIjoiQ1pRVEdFcnYwTjdBUEdJMWVKeGp3Zz09IiwibWFjIjoiYjJlMWNmMWI4Y2Q1ZWUyODk5ODA2ZGQxNGI2YTIxOWZlMWE1OTc1YmMxM2I2YWM0ZTE5MmU3Mjg1ZjQ4N2MxZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 20929,
+        "standardName": "Handbook on Water Supply and Drainage (with Special Emphasis on Plumbing)",
+        "standardNumber": "SP 35 (S&T):1987",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ind2Vk9kd2haUW5DRm5YZTVNNkxreEE9PSIsInZhbHVlIjoiRE0wVVhLU1BSWlAwbG1rUkJXNWEyUT09IiwibWFjIjoiMThiMWQzMjI5ZDBmMWY0OTNhZGExNWQ2NjY4MzE1OWY4ODFiMmViNDkxZjE2MWE1OTUzZDAwYmNiOTAyNTEwYiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 66889,
+        "standardName": "National Building Construction Standards 2026",
+        "standardNumber": "SP 7:2026",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "04",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImRnZVhieWU1QlJIMVNDbmhtM0FIMFE9PSIsInZhbHVlIjoiRXFsSHZ5WTEzcWd4dENtYlY3TW45dz09IiwibWFjIjoiNzUyNDczNmE1ODI0YmM5M2E2OWJjMTY1NjNmZDQwMDM4Nzc5ZjQ5MWNkYTNhN2I0MzM1YWJhOWM0ODY2MzkyMiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 1117,
+        "standardName": "Specification for cast iron saddle pieces for service connection from asbestos cement pressure pipes",
+        "standardNumber": "IS 10299:1982",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-02-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IllCc1BHNElpMjBneVZ6MFk4dlZ6UWc9PSIsInZhbHVlIjoiZmtlb1JjY3NXOW4wRWRLcGdoSmRpdz09IiwibWFjIjoiOGI1OGYwZjg4MDVhYzdjYTdiMDczNGMwYzBmZmNjOTg1M2MyYzAyMzUyOGJkNjdlNjQ5NjMzZjUyODgwMGI3OSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 15511,
+        "standardName": "Deviations for untoleranced dimensions of spheroidal or nodular graphite iron castings",
+        "standardNumber": "IS 8350:1977",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-02-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ing4RFQyYUJUS242V2JDbkVyNHV1eGc9PSIsInZhbHVlIjoiSWJHT1Y0WkhOb29jMVJwdzBnS2FQdz09IiwibWFjIjoiZmM2ODU4ZGVkYWJmYTAxMDRiNDQ2MDE2YzVjMWQxMWNmMGQxM2U0NmI2MzIyYjM3MDdlMDIxN2UzMzA0ODdkYSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 14977,
+        "standardName": "Specification for low alloy types of abrasion - Resistant iron castings",
+        "standardNumber": "IS 7925:1976",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-03-31",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InNBeXpkcWhWWS92SGxCaW9Ya3pqeVE9PSIsInZhbHVlIjoiVHg3ZFZ2ajh4NzlOU3kwRHEzZEdkZz09IiwibWFjIjoiYzFkYmY4MjYzYmRjM2Y1ZWU3ZDM3ZjY0MGE3MjkyMGI0Y2I3NTM0YTgzM2NjMjBlYmJhOGQzNzUwNTNhNjE4MSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 19078,
+        "standardName": "Specification for grey cast iron ingot moulds, stools and slag ladles: Part 1 bottom stools for large size ingot moulds weighing 8 tonnes and higher (First Revision)",
+        "standardNumber": "IS 3005 (Part 1):1979",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2022-01-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImdPSFdWelFIa1p4c2NWOU05N1Jqb2c9PSIsInZhbHVlIjoiQ2prNWJBVDhxMGhiTkZjaXdTK1FOUT09IiwibWFjIjoiZWY2OTRjNmUyYzlkNDQzMzA4YjZmNjkzY2E1ZjgwYzdkMzgyOTg2YmFmMTcyNGIxMWU2NGRhMDFmODk2ZmNiMCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 19079,
+        "standardName": "Specification for grey cast iron ingot moulds, stools and slag ladles: Part 2 grey cast iron ingot moulds of mass more than eight tonnes (First Revision)",
+        "standardNumber": "IS 3005 (Part 2):1979",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-02-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkVISkw1bE1uN3R2Q0UzQ21qYW5SMnc9PSIsInZhbHVlIjoiOGxCdjNDOTZGbVl5Tyt6UTZOczFPdz09IiwibWFjIjoiNWMxY2ZmMWUzYTliZDg4YmRlNjg5YzY0YmQ0MzFiZjAwY2ZlZWFiNjRiZTdjOWU1M2UyNzRkYWI4OTBhODg0MCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 19080,
+        "standardName": "Specification for grey cast iron ingot moulds, stools and slag laddles: Part 3 grey cast iron ingot moulds of mass more than one tonne and up to eight tonnes (First Revision)",
+        "standardNumber": "IS 3005 (Part 3):1982",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-02-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InRjY3Jjd2xIb1hicFVOUTFBQWg2bFE9PSIsInZhbHVlIjoiQnNEa01KL1kremx5M1ZpV3ZNT3U1dz09IiwibWFjIjoiNDRjYzcyMjE2ZGNiYzMxNGVmZjZkOGE1MTM4NmU4ZTdkMjE1ZGRhYTRhZWI2MzFjZDZhN2U2YmJhMmQ4MzQ2ZCIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

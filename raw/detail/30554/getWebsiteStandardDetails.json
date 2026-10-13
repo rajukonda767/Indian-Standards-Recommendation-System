@@ -1,0 +1,81 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6IlJwZ2g1RUppYXNJWDB5VnpOZTRSV1E9PSIsInZhbHVlIjoiWmJ1QXdDNGZoa0ZrRmNxb1d3c2Nadz09IiwibWFjIjoiZGRhNDcyNWIyNGZhMjRkZDk2MzVkNDMzMDA1ZTgwMmMzM2JiODk5ZDY2ZDRmMzdlY2I1OTA0ODc5YjE2YTNhMCIsInRhZyI6IiJ9",
+    "rowStandardId": 30365,
+    "pk_is_id": 30554,
+    "standardName": "CENTRIFUGALLY CAST (SPUN) IRON SPIGOT AND SOCKET PIPES, FITTINGS AND ACCESSORIES - SPECIFICATION (Fourth Revision)",
+    "standardNumber": "IS 3989:2024",
+    "publishedOn": "2024-02-22",
+    "committeeId": 29,
+    "departmentId": 70,
+    "groupName": "Metals, Alloys and Metal Products (including Steel Products)",
+    "subGroupName": "Foundry and cast iron products",
+    "subSubGroupName": "Cast Iron Pipes & fittings",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "04",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": null,
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "IS 3989 : 2009",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S10/S10V01/3989.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2024-02-26",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Ajay Kumar Soni (SCIENTIST-C)",
+    "committeeName": "Pig iron and Cast iron Sectional Committee",
+    "departmentName": "METALLURGICAL ENGINEERING DEPARTMENT",
+    "deptAliasName": "MTD",
+    "committeePreparedName": "MTD 06 - Pig Iron And Cast Iron Sectional Committee",
+    "deptPreparedName": "Metallurgical Engineering Department(MTD)",
+    "reviewList": [
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 3989:2009"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 3989:2009"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 3989:2009"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 3989:2009"
+      },
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 3989:2009"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 3989:2024"
+      }
+    ]
+  }
+}

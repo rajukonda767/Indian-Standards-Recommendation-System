@@ -1,0 +1,34 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": "0",
+        "standardNumber": "0 0",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Ik1Cck9sQlZzMk5KZnd0azVxSXJsM3c9PSIsInZhbHVlIjoiemxrTHF1WUM2cWRTNmVqTGJNR3Fudz09IiwibWFjIjoiNDE0N2Y5MGMzZDRlNzMzMDIyNTU0M2FkMTcxODdkNzJlYTBmM2ExYzZmMTI3MTg2YzFkZDBjMzQzMzlkMDhmMyIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 30806,
+        "standardName": "Cryogenic Vessels - Transportable  Vacuum Insulated Vessels of not  More than 1 000 Litres Volume Part 1 Design, Fabrication, Inspection  and Tests",
+        "standardNumber": "IS 18719 (Part 1):2024",
+        "equivalent_is": "",
+        "identical_is": "IS 18719 (Part 1): 2024/ ISO 21029-1: 2018",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImlvZVI3eHh1ZkhxeXArdXpZR1ZaVmc9PSIsInZhbHVlIjoidGlUbllOK25lMVcwM0Ivak1xRWlQUT09IiwibWFjIjoiODA2ODc5ZDdjY2E4YmQ3MzNjMDE1YzY1MzU2NDJlY2YyODgzOWYwMTEwYzNkNmUzMDA2M2I2M2VlZjhkMDI2YSIsInRhZyI6IiJ9",
+        "identical": "IS 18719 (Part 1): 2024/ ISO 21029-1: 2018"
+      }
+    ]
+  }
+}

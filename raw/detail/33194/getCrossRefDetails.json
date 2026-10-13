@@ -1,0 +1,86 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 31712,
+        "standardNumber": "IS 302 (Part 1):2024",
+        "standardName": "Household and Similar Electrical Appliances —  Safety  Part 1 General Requirements (Seventh Revision)",
+        "equivalent_is": "",
+        "identical_is": "IEC 60335-1: 2020",
+        "reviewOn": "2024-09-09",
+        "noOfReview": "07",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImZvRnZyajNubmdLT1ViYlJMYzVyOWc9PSIsInZhbHVlIjoiNDJ6N0RpVjEwbzB6WkhCaHZsWGFkZz09IiwibWFjIjoiM2M2MDRlNTJmOTIzNGViZTQxZmY3ZTMzZjU5ZThmNGU3ZDZkYTc0MjFjZDkwNDM2NjljNDM0ZTVhZDkzYzQyMCIsInRhZyI6IiJ9",
+        "identical": "IEC 60335-1: 2020"
+      },
+      {
+        "standardId": 9517,
+        "standardNumber": "IS 302 (Part 2/Sec 14):2009",
+        "standardName": "Safety of household and similar electrical appliances: Part 2 particular requirements: Sec 14 electric kitchen machines (First Revision)",
+        "equivalent_is": null,
+        "identical_is": "IEC 60335-2-14",
+        "reviewOn": "2024-12-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImNvMzFVNHRmYmJPK1NGbHo3TU5WQUE9PSIsInZhbHVlIjoiUlpObG1zWG1oQUFQVEVjYkZCa3UwZz09IiwibWFjIjoiNmJjZDhkODk5M2JiN2RkYTc1MmUxODE2Y2E4NTJlMTQwZWVjYjkzNWM2NjhjN2ViNGNlNzQyYjU5ZDMzMTUwMSIsInRhZyI6IiJ9",
+        "identical": "IEC 60335-2-14"
+      },
+      {
+        "standardId": 11323,
+        "standardNumber": "IS 460 (Part 1):2020",
+        "standardName": "Test Sieves — Specification Part 1 Wire Cloth Test Sieves ( Fourth Revision )",
+        "equivalent_is": " ",
+        "identical_is": " ",
+        "reviewOn": "2026-01-12",
+        "noOfReview": "04",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImFVSVdQYkF6Z01oMnJrTXMrOEJ3cVE9PSIsInZhbHVlIjoiT0ZXS2RJWE9sMFZJSCtIZHFOWjJidz09IiwibWFjIjoiZGJlMjdmOTE0OWIwNTJmZDljMmU3MjU4NTBhNWY3YWJjMTE1ODUwMTg5Zjg3OTcxMWZjNzkzZWI5ODcwNjc1ZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 28892,
+        "standardNumber": "IS 18069 (Part 1):2023",
+        "standardName": "Neutron reference radiations fields : Part 1 Characteristics and methods of production",
+        "equivalent_is": "",
+        "identical_is": "ISO 8529-1 : 2021",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImU2Z0RvTGRibkNlY3Q1cFRVUmthaUE9PSIsInZhbHVlIjoiWlpNSXd1bW5YbGxNUU1rTml2NHgzdz09IiwibWFjIjoiMzRjNjk5MWFmYTc5NDJjMjk3NTE0NTM1NDE0OGEyMmQwNjdiYTJmMjVmZGVmMzNjNmVmMzgyNWNlYjExMjZlNCIsInRhZyI6IiJ9",
+        "identical": "ISO 8529-1 : 2021"
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60335 (Part 14)",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IkxJS3hJOEhpdDF0emQ3aFlxeExkVVE9PSIsInZhbHVlIjoiRzVHa2llUEJZd0ZRbEJHRmNEblExUT09IiwibWFjIjoiMDFkY2IyNjU2YWRjMjkwNWM4ODlmNGRmNTBmNTYwYmU0ODJlYWFkZGYyNGNiNzA2NTkyZmEzMGYzODE4NjllOSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 11382,
+        "standardName": "Guide for electrical layout in residential buildings",
+        "standardNumber": "IS 4648:1968",
+        "equivalent_is": "NULL",
+        "identical_is": "NULL",
+        "reviewOn": "2025-06-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InZJbFdRb1lrUzYzZmdpb0t0b2JJUHc9PSIsInZhbHVlIjoiL0JoNDlRb0hNT09yd01xbWRXZDRzZz09IiwibWFjIjoiZDBiNzAwZGI0Mjg2NmViY2Y4ZWMxZjFjOWFmZTcyNmUyYjY1N2I4ZmVjZjliZGE1ODIyZDcxNTdhMWM3ZmMzYSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6InBEQzZhejZ1MU0xbklqd3VTelMvSGc9PSIsInZhbHVlIjoiUDU2UjdlUmRvQnE4ZmtuV3hxTUtaZz09IiwibWFjIjoiZGFiNTFiMjgzNWM1MjQyM2QyZTk1MzhmYzJmMjA5N2FlZDdhODUyYmU5NTljNmU3OTNiMmNjODg0NzIyNGIxMyIsInRhZyI6IiJ9",
+    "rowStandardId": 7823,
+    "pk_is_id": 7823,
+    "standardName": "Specification for Hard - Drawn Steel Wire Fabric for Concrete Reinforcement (Second Revision)",
+    "standardNumber": "IS 1566:1982",
+    "publishedOn": "1982-06-30",
+    "committeeId": 220,
+    "departmentId": 63,
+    "groupName": "Metals, Alloys and Metal Products (including Steel Products)",
+    "subGroupName": "Steel Products for Concrete Reinforcement",
+    "subSubGroupName": "Steel Reinforcement for Reinforced and  Prestressed Concrete Constructions",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "02",
+    "noOfAmendment": "04",
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "Hard-drawn Steel Wire Fabric",
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Not Equivalent",
+    "supersheed": "",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "2025-05-01",
+    "commentCount": 0,
+    "equivalenceId": 4,
+    "is_documents": "BisProd/bisProd/oldStandards/S03/S03V01/1566.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2025-05-01",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Nishikant  Singh (SCIENTIST-D)",
+    "committeeName": "Concrete Reinforcement",
+    "departmentName": "CIVIL ENGINEERING DEPARTMENT",
+    "deptAliasName": "CED",
+    "committeePreparedName": "CED 54 - Concrete Reinforcement",
+    "deptPreparedName": "Civil Engineering Department(CED)",
+    "reviewList": [
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 1566:1982"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1566:1982"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1566:1982"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1566:1982"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1566:1982"
+      }
+    ]
+  }
+}

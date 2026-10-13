@@ -1,0 +1,63 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 9268,
+        "standardNumber": "IS 273:1990",
+        "standardName": "Picks and beaters - specification (Fourth Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-04-01",
+        "noOfReview": "04",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjhtcjVSSytxcXhjV0dlT2dQRm8vT0E9PSIsInZhbHVlIjoiSEtrYm5XY2xVcXhVNEU2R3F4SlpOdz09IiwibWFjIjoiMzhhMmM3MWEzMjVlYzNlMGVmZGQwMmQyNjZkMzUwMTQwZDg1MDYwYzUxNGYzZGExMmIyYWQxMmUwNGIxYmM5ZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 13040,
+        "standardNumber": "IS 620:1985",
+        "standardName": "Specification for Wooden Tool Handles General Requirements (Fourth Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-10-01",
+        "noOfReview": "04",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImpYTldHSzZrWTl1aVMvdkJOTjZFalE9PSIsInZhbHVlIjoiV0NCMW10TkZIWXp5ajN0QTJrbkVqdz09IiwibWFjIjoiZTE0M2FlMGE5MTNkMzFiNzQ2MzZiZmQyNGNmMjU3M2Q5YTNlZWMxODI2OTQ2YWIxMzU2YTIyZWIzMDQ4MjU3YSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 4312,
+        "standardName": "Specification pulaski tool for forest fire",
+        "standardNumber": "IS 12853:1989",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-06-20",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Inl2dElRYVhlbXN3RnVNY1N1NEplWFE9PSIsInZhbHVlIjoiaHQ3enJ1RXNiQzhaSEZjdDBmeDMvQT09IiwibWFjIjoiNWQzOTE5NDNiM2FiZmM1Yjc5YmNhMWYxMWVmMmNjZWM0NWRkNzRmMTJlMjQ0Mzc4ZDdhMTkyNmQwM2JlZDMwYiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 4247,
+        "standardName": "Fire rake - Specification",
+        "standardNumber": "IS 12796:1989",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-06-20",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkpVeEk1VEEzWktDWHVkRWE0T0J6NkE9PSIsInZhbHVlIjoiMmNuVmxweWNZcXROalhaTUd0VnN5QT09IiwibWFjIjoiMGQxMGM0ZDYzYjllOGEzOGIxYWQzOTZjNjI5NTFiNmZiMzhkMjljNzE1N2U1MTY4YTkyNDNhMjQ4YTlmYWY1MSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

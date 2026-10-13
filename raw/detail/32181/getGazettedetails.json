@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 20820,
+      "So_No": "PUB013/1/2020-PUB-BIS (1053)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_256_20820_IE60079_11_2.pdf",
+      "pki_id": 15125,
+      "Amd_No": 0,
+      "standardNumber": "IS/IEC 60079 (Part 11):2023",
+      "standardId": 31992
+    }
+  ]
+}

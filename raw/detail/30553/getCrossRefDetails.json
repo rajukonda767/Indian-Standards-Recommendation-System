@@ -1,0 +1,76 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 5659,
+        "standardNumber": "IS 1387:1993",
+        "standardName": "General requirements for the supply of metallurgical materials (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-03-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkdYR1FHUEpDcDc1S29sM1pjN0VrOWc9PSIsInZhbHVlIjoiNkIwMDhoZjg5RkJNOG94a0tJYVVDdz09IiwibWFjIjoiYjIxY2I2ZWY4MTM5MmJhNzIyMTMyZDg0MzM5ZTMxY2Y0OTVmYjExYTY3YWMwYjI2ZTcwM2RlNDBkZDU3ZTA0OCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 10660,
+        "standardNumber": "IS 403:1964",
+        "standardName": "Methqds of chemical analysis of lead and antimonial lead (Revised)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-01-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ill6aE1SYXJ4TWQ2V2xWNWN3dkRBWFE9PSIsInZhbHVlIjoicUk0cExyREFWU3RRZ0RwN0E1SzNxdz09IiwibWFjIjoiY2VhNTBjMzhkMGQwMmUyZjg3YWI2YTdjMDk5NDJiN2E4YmY1NzBiOGNjNjdiZmMxOTViMzg2OGY0NTI2MzE2ZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 15609,
+        "standardNumber": "IS 8439:1977",
+        "standardName": "Methods for sampling of lead and lead alloys",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-02-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlVBaGs4ZStOOHEvRzYwOStya2FCS3c9PSIsInZhbHVlIjoiS2hXeHZoNk90RGFIZ3FISWxkVkxDdz09IiwibWFjIjoiODBjMmYxMWNlOGUzN2EzNzIxYmM3OGRlZDY4ZWNiZTg2NjQ5NTFmMTY3OTQ1ZDI5ZTdiMTA5ZDEwMmQxODUwZSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 29625,
+        "standardName": "Lead Seal - Specification (First revision)",
+        "standardNumber": "IS 13923:2023",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2023-10-18",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImVuTXQ4M1NFYW5kWmNlbVNsSFA4dlE9PSIsInZhbHVlIjoiTU5FczJmZDROem1jdHRXcVc0UWEyUT09IiwibWFjIjoiNzI3ZmQ4YTVlNWIxMTgzYTdhMjhiYmVlMDViM2JiZDRhYmFjMjE0YzVmYjMyZDI4OTlmMDE4OWY5MWQ5N2IxZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 29683,
+        "standardName": "Primary Lead - Specification (Fifth Revision).",
+        "standardNumber": "IS 27:2023",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2023-10-31",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InlPZjdXakRRNmJVZVUvT1FCRXVrZUE9PSIsInZhbHVlIjoiejJ1Sjc5OEFNa2JUcCtHNldWV2tOQT09IiwibWFjIjoiY2FhODc3ODRkNzg3ZDU5MWM0ZDkxNmY1ZTk4M2YyYjkwYmIzYWY5ZTQzNTNkNTJiM2U5MzIxNGE0ZmE0YjAzNSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

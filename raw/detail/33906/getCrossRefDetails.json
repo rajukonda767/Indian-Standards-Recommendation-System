@@ -1,0 +1,203 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 5836,
+        "standardNumber": "IS 1401:2008",
+        "standardName": "Protection of persons and equipment by enclosures - Probes for verification (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": "IEC 61032",
+        "reviewOn": "2024-10-03",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InNwK05nOFB2Yyt1N24vbjE4ZWdEQmc9PSIsInZhbHVlIjoiSmZYWXp2S3hpa3YzUzVkL0JiSjZUQT09IiwibWFjIjoiNGVkZDAyM2Y4OWIxOGFhNjliNzczNzJiYzA1YTg2YmQxNjdlM2EzMDBlODBjMmQwZDEzMDMzNDhhYmI1YzVjMiIsInRhZyI6IiJ9",
+        "identical": "IEC 61032"
+      },
+      {
+        "standardId": 21219,
+        "standardNumber": "IS 15885 (Part 1):2011",
+        "standardName": "Safety of lamp controlgear: Part 1 general requirements",
+        "equivalent_is": "NULL",
+        "identical_is": "NULL",
+        "reviewOn": "2021-05-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IklENERvV1RmWVpUZTVRbXJVL09CWmc9PSIsInZhbHVlIjoielpMeXMxVEJNTk9MYTZ5QXM3V29LQT09IiwibWFjIjoiODVlMDEzMDFlY2JkMmY0NWQzODEwNjFiODJlNjg1YjljN2I2MjNhZjg5YmI3NDIyODZlNDI1NTFlZjg1MmI0MyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 21446,
+        "standardNumber": "IS 16101:2012",
+        "standardName": "General lighting - Leds and led modules - Terms and definitions",
+        "equivalent_is": null,
+        "identical_is": "IEC/TS 62504 :2011",
+        "reviewOn": "2024-12-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImNPY3oxTllqTFhGNjE5ZjdzWGVEUFE9PSIsInZhbHVlIjoiTU5BeDZTSDRvdVBJdW5oZjdZOTJFUT09IiwibWFjIjoiZjNiOWRlYjc5MDkyMGFkMTczMjQ4OTAyYTA3YmE5MDNmZGU1OTJhOTYzNDllMDM2Y2I0ZDM0MDEwZjZjM2U0MSIsInRhZyI6IiJ9",
+        "identical": "IEC/TS 62504 :2011"
+      },
+      {
+        "standardId": 21452,
+        "standardNumber": "IS 16108:2012",
+        "standardName": "Photobiological safety of lamps and lamp systems",
+        "equivalent_is": null,
+        "identical_is": "IEC 62471 :2006",
+        "reviewOn": "2024-05-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImRBcEZtTG9pZjBWTGtZV0ZDSTZSM3c9PSIsInZhbHVlIjoiUG41dlMrSmZyZXJxN09RNzJMZXpnZz09IiwibWFjIjoiZjQ4YzBlODk5MDk1YWEyYjVlM2M0ZTIxYzExZDBlOGNiNWM5MzNjMTQ4YjY2NmZiZDg2NGEzMjY2M2IxN2Y4MiIsInRhZyI6IiJ9",
+        "identical": "IEC 62471 :2006"
+      },
+      {
+        "standardId": 23929,
+        "standardNumber": "IS 16661:2019",
+        "standardName": "Application of IS 16108/IEC 62471 for the assessment of blue light hazard to light sources and luminaires",
+        "equivalent_is": " ",
+        "identical_is": "IEC/TR 62778 : 2014 ",
+        "reviewOn": "2024-12-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkV0SmFWdE0rQ2lpY0h5eW5CQ2daemc9PSIsInZhbHVlIjoiUkR2eVBla01HYTNTMmNsK3k1Vmg0UT09IiwibWFjIjoiMzE5ZTg5NjZhM2M0MTY2NmM1MDRmMzFiMDUxZDM1NzUyNGYzMWU5Y2NmYmFjNDJiOThiMjAyOWQ5NTljNjRhYSIsInRhZyI6IiJ9",
+        "identical": "IEC/TR 62778 : 2014 "
+      },
+      {
+        "standardId": 32252,
+        "standardNumber": "IS 17550 (Part 1):2024",
+        "standardName": "Household Refrigerating Appliances - Characteristics and Test Methods Part 1 General Requirements (First Revision)",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2024-11-25",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjI0U2lBRmV3WnlUM0NkcS9NTUtOL2c9PSIsInZhbHVlIjoidVdSb1VJdUN4WVhLbHJiTnQwcVp3dz09IiwibWFjIjoiMGY5ODRkODAwMWZjZDA5YzAzYjdhM2Q0MTQ3ZjAyNjEzNmNkZDk2MWJmZDk3NjdiMTNhZjc4NDZjNzhkYmE0MyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 30341,
+        "standardNumber": "IS 18542:2024",
+        "standardName": "Textiles  Quantitative chemical analysis  - Mixtures of cellulose fibres and asbestos method by heating",
+        "equivalent_is": "",
+        "identical_is": "1833-19:2006 ",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImtmYUQxM2luNTljQkt1NDNoV0RlVlE9PSIsInZhbHVlIjoiR3hCMXlsTUFEV282cDZMTDJURW5FQT09IiwibWFjIjoiZDkyYTI1ZWRmYTE4MGU0ZDk0YjUzN2Q2Njc0ZmVlY2JjMGEyZTRjOTk3ZmQ3NzZjMjc5YjA0NTIzOGNmNGIwYSIsInRhZyI6IiJ9",
+        "identical": "1833-19:2006 "
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 7089:2000",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlNCdm5mK2c5TnpJRS9RUlUrVHNsQ3c9PSIsInZhbHVlIjoick1QQVBmUG9LbmpRaTEvK0lNeG1FZz09IiwibWFjIjoiMDMxZTg0MjY0MWIxNjE3OGU5MDU3YmY1MWM4ZDI4ZGZkMWQxOTM4ZGU5ZmU0MTE3NzgxMGExZjY0ZmNjZWE3ZiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 21447,
+        "standardName": "Self - Ballasted led lamps for general lighting services: Part 1 safety requirements",
+        "standardNumber": "IS 16102 (Part 1):2012",
+        "equivalent_is": " IEC 62560 : 2011 ",
+        "identical_is": "NULL",
+        "reviewOn": "2024-05-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkpheC9hZEFUN0dqcGdvUGVkVE15Q1E9PSIsInZhbHVlIjoiOExwT3hUekdmK3N0VlkzKy9qVG9Sdz09IiwibWFjIjoiYzA0ZTE4ZDNkY2ZjZGViMmJkN2UzODFiMDU0ZTg1OTkyOGY4MjM1MGM3MDY1MTNhYWZhZjQ1ZTFjZTA0N2U2MyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 65893,
+        "standardName": "Self-Ballasted LED Lamps for General Lighting Services Part 1 Safety Requirements (First Revision)",
+        "standardNumber": "IS 16102 (Part 1):2026",
+        "equivalent_is": null,
+        "identical_is": "IEC 62560:2015",
+        "reviewOn": null,
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkVGcnZsUWx2RXdySStlQU1aem9iTHc9PSIsInZhbHVlIjoiWWpYbDJJOWc2RG5vY1k2YzBHSFA0Zz09IiwibWFjIjoiMTJiNjljOWIzYTIxNTE2NDAwODU2YWE1ZGQ1NzEzYjBiYmM5MzkyZDRkY2NjMWNhNzI3NGNkMjJjNGM5YjBiYiIsInRhZyI6IiJ9",
+        "identical": "IEC 62560:2015"
+      },
+      {
+        "standardId": 21494,
+        "standardName": "Luminaires performance: Part 2 particular requirements: Sec 1 led luminaire",
+        "standardNumber": "IS 16107 (Part 2/Sec 1):2012",
+        "equivalent_is": "IEC 62722-2-1 : 2011",
+        "identical_is": null,
+        "reviewOn": "2024-05-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IndPcmJsYU1xM3MwMXZjbGtrSHVDVVE9PSIsInZhbHVlIjoiU2NqTnRJTnVnR05FVm1Wd2xnbzJ5Zz09IiwibWFjIjoiOTNmNTJiNzM5NWVlNDAyZmU3NmMxNjNlMTVlZGFlNTI2NjU4OTE4YTcyNzY3MmZhOGExMDNjMWIyMDE3ZDZmNyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 6638,
+        "standardName": "Electromagnetic compatibility (EMC): Part 4 testing and measurement techniques: Sec 1 overview of the IEC 61000 - 4 series (Second Revision)",
+        "standardNumber": "IS 14700 (Part 4/Sec 1):2019",
+        "equivalent_is": " ",
+        "identical_is": "IEC 61000-4-1 : 2016 ",
+        "reviewOn": "2026-02-23",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IndPUnNzL1JWbnhLQkJLUlVHUWxFenc9PSIsInZhbHVlIjoiS3YrQWVibjNweENTMXowV3JjaEs2Zz09IiwibWFjIjoiMDJmZjEyYzY2NmU4OWJmZTdmODg4NmVjYWI2MDc3ODZiOGZmOGNiOTRhYzhkNGQ3ZmZkZTI3M2JlY2VjNGUxOSIsInRhZyI6IiJ9",
+        "identical": "IEC 61000-4-1 : 2016 "
+      },
+      {
+        "standardId": 65895,
+        "standardName": "Double-Capped LED Linear Lamps   Part 1 Safety Requirements  (First Revision)",
+        "standardNumber": "IS 16614 (Part 1):2026",
+        "equivalent_is": null,
+        "identical_is": "IEC 62776:2014",
+        "reviewOn": null,
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Inl2OU42c09lWkV0Um5PZDlDSVRic2c9PSIsInZhbHVlIjoibnV2ZkR3MkRlaGVGQ01zOUhydUtjdz09IiwibWFjIjoiNGExZjNhMTM3ZjYxYzlmZmI3MzdiN2U5YjNlYzYxYTNhYzMyYmI1Njg3YWZkZDI5ZWZjNWY3YjAyMTA3NDFhNiIsInRhZyI6IiJ9",
+        "identical": "IEC 62776:2014"
+      },
+      {
+        "standardId": 31118,
+        "standardName": "FLASHLIGHT- SPECIFICATION (Third Revision)",
+        "standardNumber": "IS 2083:2024",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2024-07-22",
+        "noOfReview": "03",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkVhdlJjRHRxUkRkTjUzMnVweVM5YlE9PSIsInZhbHVlIjoiYVNrT05QekJPckVWNUVjRENIVU9XZz09IiwibWFjIjoiNWY2YTUyYjQ0NWZhYmYyMmUwYmZhZWUyZDAyZTMyM2MzOTM4MWE1MWNiOGY1NjczMTg0Y2I3MzlhZWE4NjhhYiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 33718,
+        "standardName": "LED Modules for General Lighting Part 2 Performance Requirements (First Revision)",
+        "standardNumber": "IS 16103 (Part 2):2025",
+        "equivalent_is": "",
+        "identical_is": "IEC 62717: 2019 CSV",
+        "reviewOn": "2025-08-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik9SQmYrZXBhYnA5cjNXMnZHSVJMOVE9PSIsInZhbHVlIjoicm5yWXlSOFNkMzhjRU04RXptSzlxUT09IiwibWFjIjoiNjkxYzlkMzZmMjY3NTk5NmIyZWU4YTM5MTM5MWQ5OTY0ODlmZDUxNzEwYmY4NzhkYzBjNmY4M2Y2MDhlMGE1MyIsInRhZyI6IiJ9",
+        "identical": "IEC 62717: 2019 CSV"
+      }
+    ]
+  }
+}

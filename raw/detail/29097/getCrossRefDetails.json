@@ -1,0 +1,141 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 1078,
+        "standardNumber": "IS 10259:1982",
+        "standardName": "General condition of delivery and inspection of aluminium and aluminium alloy products",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-03-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkhFdERXYVUvM3Bac3N6Z3hKekxzT2c9PSIsInZhbHVlIjoiVElLUXpPYVl5VjFUZVdkMXdkOXhWdz09IiwibWFjIjoiYWYxMjEzNjBmMGEzZWE4MzMwODhlNGY2ODQ0ZmFjODRhNjJmNGRmZjhhZThlNTg5NzhkNjFmNDhmNTQyYjM3MyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 10221,
+        "standardNumber": "IS 3635:1966",
+        "standardName": "Methods of test for resistance of metallic electrical resistance material",
+        "equivalent_is": " BS. 3466 : 1962",
+        "identical_is": "NULL",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImljV0xJVDFZMTBPSHhUUWltUnd3VVE9PSIsInZhbHVlIjoibjVvTzA2cllrTU1oNHg4ZVo0ODU3dz09IiwibWFjIjoiNjMwNjg0N2E4NjllZjJiM2Y3ODlhZDRjN2YyNGFiYTFmZGUzYmQ2ZTVlNTczOTFlZDc2YWIxY2YyOThkNjc2ZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 11792,
+        "standardNumber": "IS 504 (Part 13 to 16):2003",
+        "standardName": "Chemical analysis of aluminium and its alloys parts 13 to 16 (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-03-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImlhMTYxUXA2M2QrWnQ1UUJEeEhpVkE9PSIsInZhbHVlIjoicWRqOFpXbThIdWZhcmR6RjAxWU1QQT09IiwibWFjIjoiYTJmNDRhYWJjOGI1ZGFlZTJmYjhiOTFjOWY4YjE5NTQ4ZmM0NzYwYmU3ODIzODE2NTVkNjkyZWFlNzNiY2YwYSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 11793,
+        "standardNumber": "IS 504 (Part 1 To 12):2002",
+        "standardName": "Chemical analysis of aluminium and its alloys parts 1 to 12 (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-03-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ik44SUZEOGc4eGd0THNvMEphb0RLWFE9PSIsInZhbHVlIjoiVlZjTSs4TnI3VDcwRldhV2VWWHlaQT09IiwibWFjIjoiMzY1ZTI0NDhhMWMzNGY5ODdjMWIyMTFiYTQ5ZmM0NGM0MDlkN2ZhODJkNTFmMmZhMDAzNWFkMDY3OTRiMzU3OSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 11800,
+        "standardNumber": "IS 5047 (Part 1):1986",
+        "standardName": "Glossary of terms relating to aluminium and aluminium alloys: Part 1 unwrought and wrought metals (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2022-01-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImUxMk9ndEJaR3BGejJJMUFGYU5ueWc9PSIsInZhbHVlIjoiL1AyUXBBQU83bnlJQjdSb0V6SituZz09IiwibWFjIjoiZTkwMGQ4MTlkZTAwODk4ZThlNmY1YWY0OGE0M2M0Nzc5NzgwOTNjNWJkNDc4M2M3NmY5NTU4MjExZTAyNTA0YiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 32790,
+        "standardNumber": "IS 5052:2025",
+        "standardName": "Aluminium and its Alloys - Temper Designations (Second Revision)",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2026-03-17",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Im9YUC9LRDFhY3l6Y0F1dDZMbFJnUGc9PSIsInZhbHVlIjoib2NiMFV5L2wxR0FKZUM4UlowK0hQQT09IiwibWFjIjoiZTVjYWYwMzRjYmRkYjY4YjM1MDUzYmY5NGQwNGU3OTIyN2FlM2QwYjRhZmRkZWUyNTZhMTgxMWI5ZmEyZmIzMSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 19715,
+        "standardNumber": "IS 5047 (Part 2):1979",
+        "standardName": "Glossary of terms relating to aluminium aluminium alloys and: Part 2 plant and operations, thermal treatment, control and testing, finishing",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ik1kQk45V0dRcTRMelQxamZObTEyN1E9PSIsInZhbHVlIjoidXBIQU90bzE3dWhxTFlTaGJvQ2hwQT09IiwibWFjIjoiZGFkNzhkOTJlYjIzZjllNDRiZTEwZWU3MTBhM2ZmNzc1ZmNjNTc5ZTk0MjRiNzBiNDlmZGI2NTU3NTgxMDQwYSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 19716,
+        "standardNumber": "IS 5047 (Part 3):1979",
+        "standardName": "Glossary of terms relating to aluminium and aluminium alloys: Part 3 geometrical properties and tolerance, structural and surface defects",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ik5JMVM5OUZDamJzTk8rTm1XUXFIUUE9PSIsInZhbHVlIjoiY3A0SzFjTUZIQk9uY09UOW0zN0FEUT09IiwibWFjIjoiMjI1ZGI2MmZhNTYzYTc5OWQxMGIwYjBmMzk2ZDc1MGU0MmIyNDdhMmRmYmQzMjBiMTkxOTUyNTU0MTcyMzBiNSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 28783,
+        "standardNumber": "IS 18215:2023",
+        "standardName": "Stainless Steel Neti Pot Specification",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjlXRjJ1eFBTOVRhQzVVQS9JWGJJUFE9PSIsInZhbHVlIjoiMHNBTVIzUUJ0b0NGdjMyK3hwdEFGQT09IiwibWFjIjoiZjMyYmUyMGQzM2NhMjUyZWQwMGRlNjQ4MjY1MGY3ZDU5YTA1ZTU0ZTQ4N2E4NDdkNWRhZWViMmEzMjdmOGJjMyIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 10589,
+        "standardName": "Aluminium conductors for overhead transmission purposes: Part 4 aluminium alloy stranded conductors (Aluminium - Magnesium - Silicon Type) - Specification (Third Revision)",
+        "standardNumber": "IS 398 (Part 4):1994",
+        "equivalent_is": "IEC Pub 208 (1966), BS 3242 : 1970, ASTM%u2014B 398M-86 ,ASTM%u2014B 398M-86  ",
+        "identical_is": "NULL",
+        "reviewOn": "2026-01-10",
+        "noOfReview": "03",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IndnRjlzWEdPdkcyUEd1UmZQSm56eUE9PSIsInZhbHVlIjoiUFkxTm9JZGx5ZlhCalVlSVh2VzBlZz09IiwibWFjIjoiODkxMzhhNTVmZTk4Y2YzZDg3MmNlMmRjNGFiODk5MGEyYmUwZDYxODdkZjY4NzY3ODExMTgwMDExMmFkYzUxZSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

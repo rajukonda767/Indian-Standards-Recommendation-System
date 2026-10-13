@@ -1,0 +1,18 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Data Found",
+  "data": {
+    "status": "success",
+    "message": "Data Found",
+    "product_manuals_details": [
+      {
+        "pk_is_id": "67008",
+        "is_number": "IS 8783 (Part 4/Sec 1) : 2026",
+        "file_path": "BisProd/bisProd/Standard_Review/Standard_Product_Manual/product_manual_6a4f6400493e71783587840_09072026143400_6a4f6400493e71783587840.pdf",
+        "file_name": "product_manual_6a4f6400493e71783587840_09072026143400_6a4f6400493e71783587840.pdf"
+      }
+    ],
+    "total_count": 1
+  }
+}

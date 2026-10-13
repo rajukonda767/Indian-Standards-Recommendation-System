@@ -1,0 +1,77 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Steel",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6ImJDRG5VeWtzVEFOelNmc0hZeWpxM3c9PSIsInZhbHVlIjoibGUvNEdhQm9PYlVPai9QVjdtMTRYdz09IiwibWFjIjoiMmI5YzBhMjQ2MDE5MDdiMmViMzRkODgyZWEyZjA1YWMyNWI1ZTUxYjBjODBhYWY2ZWFlZjA0NDIyMzEzMjk1NiIsInRhZyI6IiJ9",
+    "rowStandardId": 8280,
+    "pk_is_id": 8280,
+    "standardName": "Malleable cast iron pipe fittings - Specification (Third Revision)",
+    "standardNumber": "IS 1879:2010",
+    "publishedOn": "2010-03-31",
+    "committeeId": 29,
+    "departmentId": 70,
+    "groupName": "Metals, Alloys and Metal Products (including Steel Products)",
+    "subGroupName": "Foundry and cast iron products",
+    "subSubGroupName": "Cast Iron Pipes & fittings",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "03",
+    "noOfAmendment": "05",
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "Malleable cast iron pipe fittings _ Specification",
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "2025-10-06",
+    "commentCount": 5,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S10/S10V01/1879.pdf",
+    "is_hindi_document": "BisProd/bisProd/projects/standardDocuments/2026/06/611_1780293897.pdf",
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2025-10-06",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Ajay Kumar Soni (SCIENTIST-C)",
+    "committeeName": "Pig iron and Cast iron Sectional Committee",
+    "departmentName": "METALLURGICAL ENGINEERING DEPARTMENT",
+    "deptAliasName": "MTD",
+    "committeePreparedName": "MTD 06 - Pig Iron And Cast Iron Sectional Committee",
+    "deptPreparedName": "Metallurgical Engineering Department(MTD)",
+    "reviewList": [
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1879:2010"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1879:2010"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1879:2010"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 1879:2010"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1879:2010"
+      }
+    ]
+  }
+}

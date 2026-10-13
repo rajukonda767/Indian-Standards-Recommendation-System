@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Steel",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6IjV5dklzOWswOXpLOUVJZENsNldPNVE9PSIsInZhbHVlIjoiL3VESXJ5Nlh4a0tpK080QlhUdkl6dz09IiwibWFjIjoiZWNmNTQ0MmUwOWE4NTkyNzJiM2NlZjk2NzVhNzYzMjE5ZDkyY2Y3ZTU0YzkyYzM4MTUzMTdjZDM4ZjRhYzRjMCIsInRhZyI6IiJ9",
+    "rowStandardId": 65589,
+    "pk_is_id": 65589,
+    "standardName": "Silicomanganese — Specification   ( Fifth Revision )",
+    "standardNumber": "IS 1470:2025",
+    "publishedOn": "2025-11-12",
+    "committeeId": 28,
+    "departmentId": 70,
+    "groupName": "Metals, Alloys and Metal Products (including Steel Products)",
+    "subGroupName": "Ores and sponge iron, ferro alloys and other metallic additions",
+    "subSubGroupName": "Ferro Alloys",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "05",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 5,
+    "languageId": "English",
+    "icsCode": "77.100",
+    "shortTitle": null,
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/projects/proof/2025/11/281_1762929838.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": null,
+    "source": 1,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Vipul Bohara (SCIENTIST-C)",
+    "committeeName": "Ferro Alloys",
+    "departmentName": "METALLURGICAL ENGINEERING DEPARTMENT",
+    "deptAliasName": "MTD",
+    "committeePreparedName": "MTD 05 - Ferro Alloys",
+    "deptPreparedName": "Metallurgical Engineering Department(MTD)",
+    "reviewList": [
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 1470:2013"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 1470:2013"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1470:2013"
+      }
+    ]
+  }
+}

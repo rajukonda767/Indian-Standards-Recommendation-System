@@ -1,0 +1,77 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Consumer Affairs",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6IjJsVXI0bnFFK3R5MnNlUWQwU3E5a0E9PSIsInZhbHVlIjoiWVEvYkVVTEx2YUV5bHNDZVVoOENiUT09IiwibWFjIjoiNTgwZmVhMzc3OWM1MzI4ZWZkOTZkYjI2ZGNmMGM3YmYwMTgxMzU1ZGY3NGJmY2YyOGI3NjM0ODJiNTM0MzFkMSIsInRhZyI6IiJ9",
+    "rowStandardId": 28749,
+    "pk_is_id": 28884,
+    "standardName": "EC GRADE ALUMINIUM ROD PRODUCED BY CONTINUOUS CASTING AND ROLLING - SPECIFICATION",
+    "standardNumber": "IS 5484:2023",
+    "publishedOn": "2023-05-30",
+    "committeeId": 30,
+    "departmentId": 70,
+    "groupName": "Metals, Alloys and Metal Products (including Steel Products)",
+    "subGroupName": "Non ferrous metals and their alloys",
+    "subSubGroupName": "Wrought Aluminium & Aluminium alloys",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "03",
+    "noOfAmendment": "01",
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": null,
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "IS 5484 : 1997",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S10/S10V01/5484.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2023-05-30",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Vipul Bohara (SCIENTIST-C)",
+    "committeeName": "Ores and Feed Stock for Aluminium Industry, its Metals/ Alloys and Products Sectional Committee",
+    "departmentName": "METALLURGICAL ENGINEERING DEPARTMENT",
+    "deptAliasName": "MTD",
+    "committeePreparedName": "MTD 07 - Ores And Feed Stock For Aluminium Industry, Its Metals/ Alloys And Products Sectional Committee",
+    "deptPreparedName": "Metallurgical Engineering Department(MTD)",
+    "reviewList": [
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 5484:1997"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 5484:1997"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 5484:2023"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 5484:2023"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 5484:1997"
+      }
+    ]
+  }
+}

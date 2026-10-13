@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 3852,
+      "So_No": "PUB_013_1_2020",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_246_3852_1248_7_4.pdf",
+      "pki_id": 5268,
+      "Amd_No": 0,
+      "standardNumber": "IS 1248 (Part 7):2021",
+      "standardId": 26317
+    }
+  ]
+}

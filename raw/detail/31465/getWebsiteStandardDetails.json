@@ -1,0 +1,81 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Power",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6Ii9JazBjbmFDMFBCSGhqMWsvZkJ4THc9PSIsInZhbHVlIjoiWjJLSHlJMjlYdXpXZVdZbmhWdW1UQT09IiwibWFjIjoiMDI0Y2U2ZGY4NzBjMWFkMTFkNzc4ZGNiMzk1MmRkYjE5MGE1NDZhOGYxMDg5MDliNTIxMjFiOGE2MmNiMDViZSIsInRhZyI6IiJ9",
+    "rowStandardId": 31276,
+    "pk_is_id": 31465,
+    "standardName": "Residual current operated circuitBreakers without integral overcurrent protection for household and similar uses Rccbs: Part 1 general rules (Third Revision)",
+    "standardNumber": "IS 12640 (Part 1):2024",
+    "publishedOn": "2024-08-01",
+    "committeeId": 241,
+    "departmentId": 65,
+    "groupName": "Electrical  Switchgear and Other Electrical Products/Accessories",
+    "subGroupName": "Switchgear, Metering and Accessories",
+    "subSubGroupName": "Circuit breakers, switches and disconnectors",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "03",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": null,
+    "certificationName": "Voluntary",
+    "equivalenceTypeName": "Identical under dual numbering",
+    "supersheed": "IS 12640 : Part 1 : 2016",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 1,
+    "is_documents": "BisProd/bisProd/oldStandards/S05/S05V01/12640_1.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": "IEC 61008-1: 2013",
+    "identical_is": "IEC 61008-1: 2013",
+    "reviewOn": "2024-08-02",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Singaraju Venkatesh (SCIENTIST-D)",
+    "committeeName": "Low Voltage Switchgear And Controlgear",
+    "departmentName": "ELECTROTECHNICAL DEPARTMENT",
+    "deptAliasName": "ETD",
+    "committeePreparedName": "ETD 07 - Low Voltage Switchgear And Controlgear",
+    "deptPreparedName": "Electrotechnical Department(ETD)",
+    "reviewList": [
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 12640 (Part 1):2016"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 12640 (Part 1):2016"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 12640 (Part 1):2016"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 12640 (Part 1):2016"
+      },
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 12640 (Part 1):2016"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 12640 (Part 1):2024"
+      }
+    ]
+  }
+}

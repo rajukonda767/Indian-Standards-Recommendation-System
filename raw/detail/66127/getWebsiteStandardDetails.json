@@ -1,0 +1,73 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Steel",
+    "riskNameName": "Low",
+    "standardId": "eyJpdiI6Ik1sRk81dG1JQ2ZsQTZrdmlBbmJOOFE9PSIsInZhbHVlIjoiMDYyTWJlRmdRRVFJcU9ST1lZTjlJQT09IiwibWFjIjoiMjBiODNjNGViMmExNTkwODRkNjcxMjY1NWQ1OWNiZjg2M2FjNmJmZTBlOTY4NjcwOThmMzhiNDdiY2FmYjY1YSIsInRhZyI6IiJ9",
+    "rowStandardId": 66127,
+    "pk_is_id": 66127,
+    "standardName": "Cold-reduced carbon and alloy steel sheets and strips - Specification",
+    "standardNumber": "IS 2507:2026",
+    "publishedOn": "2026-02-23",
+    "committeeId": 27,
+    "departmentId": 70,
+    "groupName": "Metals, Alloys and Metal Products (including Steel Products)",
+    "subGroupName": "Steel and Steel Castings, Wires, Ropes, Pipes , Tubes and other products",
+    "subSubGroupName": "Cold rolled sheet & plates",
+    "sectorName": "Wrought Steel Products",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "02",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 5,
+    "languageId": "English",
+    "icsCode": "77.140.50",
+    "shortTitle": null,
+    "certificationName": "",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "IS 2507:1975,IS 7226:1974",
+    "orgTypeName": "",
+    "goalNames": "INDURSTRY ,INNOVATION AND INFRASTUCTURE",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/projects/proof/2026/03/109_1772532399.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": null,
+    "source": 1,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Ram Sai Kumar Gedela (SCIENTIST-C)",
+    "committeeName": "Wrought Steel Products Sectional Committee",
+    "departmentName": "METALLURGICAL ENGINEERING DEPARTMENT",
+    "deptAliasName": "MTD",
+    "committeePreparedName": "MTD 04 - Wrought Steel Products Sectional Committee",
+    "deptPreparedName": "Metallurgical Engineering Department(MTD)",
+    "reviewList": [
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 2507:1975"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 2507:1975"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 2507:1975"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 2507:1975"
+      }
+    ]
+  }
+}

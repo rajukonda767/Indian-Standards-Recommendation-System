@@ -1,0 +1,40 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "totalAmendments": 4,
+  "data": [
+    {
+      "standardId": 18586,
+      "standardNumber": "IS 1785 (Part 1):1983",
+      "noOfAmendment": 1,
+      "amendmentYear": "1989",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/1785_1A1.pdf",
+      "amendmentLabel": "First Amendment"
+    },
+    {
+      "standardId": 18586,
+      "standardNumber": "IS 1785 (Part 1):1983",
+      "noOfAmendment": 1,
+      "amendmentYear": "1993",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/1785_1A2.pdf",
+      "amendmentLabel": "Second Amendment"
+    },
+    {
+      "standardId": 18586,
+      "standardNumber": "IS 1785 (Part 1):1983",
+      "noOfAmendment": 2,
+      "amendmentYear": "1997",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/1785_1A3.pdf",
+      "amendmentLabel": "Third Amendment"
+    },
+    {
+      "standardId": 18586,
+      "standardNumber": "IS 1785 (Part 1):1983",
+      "noOfAmendment": 3,
+      "amendmentYear": "2007",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/1785_1A4.pdf",
+      "amendmentLabel": "Fourth Amendment"
+    }
+  ]
+}

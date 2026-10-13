@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 14746,
+      "So_No": "PUB_013_1_2020",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/CED/gf_191_14746_774_6.pdf",
+      "pki_id": 5725,
+      "Amd_No": 0,
+      "standardNumber": "IS 774:2021",
+      "standardId": 26707
+    }
+  ]
+}

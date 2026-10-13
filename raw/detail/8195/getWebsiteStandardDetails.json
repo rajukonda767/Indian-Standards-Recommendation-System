@@ -1,0 +1,77 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6InhYRHBJMFNySVk4LzVrOUIwYUVrSEE9PSIsInZhbHVlIjoiQlRrVzJmWVJET0RmL3dlUE5lc1psZz09IiwibWFjIjoiN2NiMmM3ZTQ4MGM1Y2Q4NzQ1MjEyMzc3ZmIyNjZjOTAzNDI1MDYxYWVkOGI5YmEyMzZmYzI4OGY4NjE2Yjg3YSIsInRhZyI6IiJ9",
+    "rowStandardId": 8195,
+    "pk_is_id": 8195,
+    "standardName": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification (Fourth Revision)",
+    "standardNumber": "IS 1786:2008",
+    "publishedOn": "2008-05-31",
+    "committeeId": 220,
+    "departmentId": 63,
+    "groupName": "Civil Engineering Design and Construction",
+    "subGroupName": "Steel and Aluminium Structures",
+    "subSubGroupName": "Structural sections in steel",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "04",
+    "noOfAmendment": "04",
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "High strength deformed steel bars and wires for concrete reinforcement-",
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Not Equivalent",
+    "supersheed": "IS 1139 : 1966",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "2023-01-01",
+    "commentCount": 5,
+    "equivalenceId": 4,
+    "is_documents": "BisProd/bisProd/oldStandards/S03/S03V01/1786.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2023-01-01",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Nishikant  Singh (SCIENTIST-D)",
+    "committeeName": "Concrete Reinforcement",
+    "departmentName": "CIVIL ENGINEERING DEPARTMENT",
+    "deptAliasName": "CED",
+    "committeePreparedName": "CED 54 - Concrete Reinforcement",
+    "deptPreparedName": "Civil Engineering Department(CED)",
+    "reviewList": [
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1786:2008"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1786:2008"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1786:2008"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1786:2008"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 1786:2008"
+      }
+    ]
+  }
+}

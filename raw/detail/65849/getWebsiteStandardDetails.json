@@ -1,0 +1,73 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Power",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6IlFhcDdyU1BVaEZQaXVMMVd5YzF1S3c9PSIsInZhbHVlIjoiWFpWcUUvcSt6QTF1VGkrbmFiQTVjQT09IiwibWFjIjoiZGNkZDNhZTFjNmQ5MjFlODgyZDYyMWMzZThkZjMyZGE1OWI2ZGY4N2QxNGNiNGY1YTZlNTYxN2M2MjMzYTU4NCIsInRhZyI6IiJ9",
+    "rowStandardId": 65849,
+    "pk_is_id": 65849,
+    "standardName": "SHUNT CAPACITORS FOR AC POWER SYSTEMS HAVING A RATED VOLTAGE  ABOVE 1 000 V  PART 1: GENERAL   Second Revision",
+    "standardNumber": "IS 13925 (Part 1):2025",
+    "publishedOn": "2025-12-09",
+    "committeeId": 262,
+    "departmentId": 65,
+    "groupName": "Electrical  Switchgear and Other Electrical Products/Accessories",
+    "subGroupName": "Switchgear, Metering and Accessories",
+    "subSubGroupName": "Power capacitors",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "02",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 1,
+    "languageId": "English",
+    "icsCode": "29.240.99; 31.060.70",
+    "shortTitle": null,
+    "certificationName": "",
+    "equivalenceTypeName": "Identical under dual numbering",
+    "supersheed": "IS 13925 (Part 1):2012",
+    "orgTypeName": "Others",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 1,
+    "is_documents": "BisProd/bisProd/projects/proof/2026/02/559_1770271383.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": "IEC 60871 (Part 1):2014",
+    "identical_is": "IEC 60871 (Part 1):2014",
+    "reviewOn": null,
+    "source": 1,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Nitish Kumar Jain (SCIENTIST-C)",
+    "committeeName": "Power Capacitors",
+    "departmentName": "ELECTROTECHNICAL DEPARTMENT",
+    "deptAliasName": "ETD",
+    "committeePreparedName": "ETD 29 - Power Capacitors",
+    "deptPreparedName": "Electrotechnical Department(ETD)",
+    "reviewList": [
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 13925 (Part 1):2012"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 13925 (Part 1):2012"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 13925 (Part 1):2012"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 13925 (Part 1):2012"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Power",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6IlJyNFlSNFkxdU9kTlZ1L0svY0xsekE9PSIsInZhbHVlIjoiY3IvcGk0V1hOVDNQS3I1NUxIMHhvQT09IiwibWFjIjoiNTAzNTEwYmY0OWJmNjA5MzdlNmFjNjYxMWM4YWUyNGQxZmY0MDg2ZjU2MzViNjdlNTY3N2EwZjY5YWQ5NDU3YyIsInRhZyI6IiJ9",
+    "rowStandardId": 30101,
+    "pk_is_id": 30289,
+    "standardName": "Secondary cells and batteries for solar photovoltaic application - General requirements and methods of test",
+    "standardNumber": "IS 16270:2023",
+    "publishedOn": "2024-01-02",
+    "committeeId": 245,
+    "departmentId": 65,
+    "groupName": "Electrical  Switchgear and Other Electrical Products/Accessories",
+    "subGroupName": "Electrical installations and general electricals",
+    "subSubGroupName": "Batteries and cells",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "01",
+    "noOfAmendment": "01",
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "Solar cells  batteries",
+    "certificationName": "",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S05/S05V01/16270.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": null,
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Neeraj Kushwaha (SCIENTIST-C)",
+    "committeeName": "Secondary Cells And Batteries",
+    "departmentName": "ELECTROTECHNICAL DEPARTMENT",
+    "deptAliasName": "ETD",
+    "committeePreparedName": "ETD 11 - Secondary Cells And Batteries",
+    "deptPreparedName": "Electrotechnical Department(ETD)",
+    "reviewList": [
+      {
+        "isStatus": 1,
+        "standardNumber": "IS 16270:2014"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 16270:2023"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 16270:2023"
+      }
+    ]
+  }
+}

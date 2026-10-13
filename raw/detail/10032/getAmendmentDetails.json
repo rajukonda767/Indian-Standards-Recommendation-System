@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "totalAmendments": 1,
+  "data": [
+    {
+      "standardId": 10031,
+      "standardNumber": "IS 3436:1978",
+      "noOfAmendment": 1,
+      "amendmentYear": "1983",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/3436A1.pdf",
+      "amendmentLabel": "First Amendment"
+    }
+  ]
+}

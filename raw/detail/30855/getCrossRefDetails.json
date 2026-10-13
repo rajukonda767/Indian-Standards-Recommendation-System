@@ -1,0 +1,89 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 5659,
+        "standardNumber": "IS 1387:1993",
+        "standardName": "General requirements for the supply of metallurgical materials (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-03-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImpTQXpqcmlXSVg4dUdZU1g3Vk9zQ0E9PSIsInZhbHVlIjoia2l6OVlhUUQ0bExGazBnclJmNGVDQT09IiwibWFjIjoiNjBiMWY5NDhkOGMzZTEyZjVmMjA0NzFmMzVmMjAxNjYyNzEyYWE4YTdkYjJjZWFiZjM3NDRjNzllZTBiNjFmNSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 8222,
+        "standardNumber": "IS 1817:1961",
+        "standardName": "Methods of sampling non - Ferrous metals for chemical analysis",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-03-30",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkZzSWtKMG1hVkhlNGJPVWJPYy9VYXc9PSIsInZhbHVlIjoiS3NtK1NFSm0xYjl2cTVEbnNSN1dTQT09IiwibWFjIjoiZWFhNmM2NzQyZjQxZWFkYTc5YzU1MzRmMTZlZGVjNWRmYmM0ZDU2MzQ1MTk3M2RkZDdjZmI1YzQzZjRkYzQxZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 32949,
+        "standardNumber": "IS 8097:2025",
+        "standardName": "Methods of chemical analysis of soft solders for jointing aluminium and aluminium alloys (First Revision)",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2025-03-26",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ilo5Y0RBS0FpTDZTVmFCcjNmVlcrdHc9PSIsInZhbHVlIjoieFdEc3JVb25MTld6RXR2MjRKazFWUT09IiwibWFjIjoiMjk4MWYyYmZmY2ExNjg5MGY0MWU3YjNjNTQ0OTc1YWZmOWY0MTM5NTFhMWY1OTJjMjc1NTdhNzk3NmJkMjkwZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 16002,
+        "standardNumber": "IS 8812 (Part 1):1978",
+        "standardName": "Methods of chemical analysis of hard solders for jointing aluminium and aluminium alloys: Part 1 determination of silver, copper, zinc, antimony, arsenic, iron and bismuth",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-07-29",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InFDcFZ5aWRHUjFVb240dis5UTY4Z0E9PSIsInZhbHVlIjoiVkFXUTkwdkNwVVE4MXRiTjAvU3RYdz09IiwibWFjIjoiNWYwNzU3YWY2NDVjMjA2MjQyZjU4NmI3MWI4MjZhMTU0ZGQxZmMxMjBkYTU2NzEzYzMyOGMwYzAwMDI4MTFhNCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 16003,
+        "standardNumber": "IS 8812 (Part 2):1982",
+        "standardName": "Methods of chemical analysis of hard solders for jointing aluminium and aluminium alloys: Part 2 determination of aluminium",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-07-29",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ikl4cmZDSnhxQ3IwaHhEcjNTVHcrK3c9PSIsInZhbHVlIjoiM1hseHpLbHBuWU5zc1pJVzFVeFkrdz09IiwibWFjIjoiOTViMDc5YWRmZDM3NGNmZjY0ZjQxMTUyMDc2NWFiM2I1ZTEyZThiNmUwNzY1NGM1MjViMjQ5NmMwYzljOGJjMCIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 16002,
+        "standardName": "Methods of chemical analysis of hard solders for jointing aluminium and aluminium alloys: Part 1 determination of silver, copper, zinc, antimony, arsenic, iron and bismuth",
+        "standardNumber": "IS 8812 (Part 1):1978",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-07-29",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik1aZXdWbGJ1d0pFSWF5S0pjaW90aHc9PSIsInZhbHVlIjoiMmVlRFJNRFlodGtKU1ZzeUppbGJ3dz09IiwibWFjIjoiZjJlODE2ZjE3MzFiZTNlYzU4MmQwY2RiMWRmMGNhYTk4ODQ5ODFmNTkzOTFhODNmZmU1MWZiM2MzMmRjMzM2NyIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

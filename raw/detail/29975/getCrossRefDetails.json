@@ -1,0 +1,89 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 33271,
+        "standardNumber": "IS 2248:2025",
+        "standardName": "Clay Products for Buildings - Glossary of Terms",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2025-05-13",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IldqelM3dGpKaWJWMm5MZzRjTVF6Rnc9PSIsInZhbHVlIjoiL1FINVVVZW42cEQrWjdSNm5BdXd2QT09IiwibWFjIjoiNGMxY2VjYThjYmM0YzM2ODE0MmQ3M2E2N2FhNmRlMzFjZTI5N2UwMDgwNDE1ZTU0OTkwMTY4MzE5ZDVkZTI2MyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 31094,
+        "standardNumber": "IS 6873 (Part 2/Sec 1):2024",
+        "standardName": "Limits and Methods of Measurement of Radio Disturbance Characteristics PART 2 Electromagnetic Compatibility (EMC) - Requirements for Household Appliances, Electric Tools and Similar Apparatus Section 1 Emission ( Fourth Revision)",
+        "equivalent_is": "",
+        "identical_is": "CISPR 14-1:  2020",
+        "reviewOn": "2024-07-20",
+        "noOfReview": "04",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImtoTkJ2amdSZi80NGdqbjVXWVRHd3c9PSIsInZhbHVlIjoiVmxydnFLWFd2MnNqK2hieWRSQTlUUT09IiwibWFjIjoiOTlkZTExYjE5MzA0MzFjODBiMmQ3MDg5ZjNmMDIxMzBkNTZkNjZlM2E4OGI5ODZiZDMwOWViY2Q0ZmIyMmJjOCIsInRhZyI6IiJ9",
+        "identical": "CISPR 14-1:  2020"
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 12856,
+        "standardName": "Recommendations for Farm Cattle Housing for Large Dairy Farms",
+        "standardNumber": "IS 6027:1970",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-02-17",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImdWcGdNSGhNNVA0VlFSZlRuZXRaOGc9PSIsInZhbHVlIjoieVkydmFvNnE0Tk55ZWM2YkszY2lpUT09IiwibWFjIjoiOGRlMGFmMWVhMDczZTNiZWQ0YTc3NTBmMTJjM2QyYTUxNDA2MzZlM2EyM2YxMWJmOWQxNWUzYWNlZjJhMjM0OSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 9383,
+        "standardName": "Code of practice for roofing with mangalore tiles (First Revision)",
+        "standardNumber": "IS 2858:1984",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-09-17",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Img5cHFBMHdCZml6bklLS2dRcDlRS2c9PSIsInZhbHVlIjoiZVVyaERtRmxIVmJjNXUwMmUrZzhLdz09IiwibWFjIjoiNjM4NzY0MWM0ZDFhOTgyYWVmNmJjNGJiN2RkZjI4OGM1MTQ3MTZmOGQ0NDA1NGZjYWY4YjAzMGQwMjRiNmY5MyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 10584,
+        "standardName": "Manufacture of burnt clay Mangalore pattern roofing tiles- Code of practice",
+        "standardNumber": "IS 3978:1967",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2021-09-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImVhYkZSM1FENWN5TERndmhTbzkwbEE9PSIsInZhbHVlIjoiREdtNDUvdHQvK0ozeGlNTEVjM3Jldz09IiwibWFjIjoiZWIzNDVlZjEyZGI0ZWY4M2IyYTE1MGNmNDNkZTg0ZTRiMjEwNjY4YTcxYzRhYjIzN2EyNzUzYzlhYWU3NmYwMCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 20937,
+        "standardName": "Handbook on causes and prevention of cracks in buildings",
+        "standardNumber": "SP 62:1997",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImNtQkZwci9CZWtmdlVaQUJHU1c3YXc9PSIsInZhbHVlIjoia0o5YXhyaVFCVHN3TTZMWXp0WDZJZz09IiwibWFjIjoiNDg5NmEwNTYxZDVjZGIxMjkwMzBlMmViNTBiZDkyYTg3MjNjMmMyYmM1M2ZiMWE4MTgyNDcxNTdkNmE3ZmNiMiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

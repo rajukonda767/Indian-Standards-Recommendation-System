@@ -1,0 +1,181 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 6636,
+        "standardNumber": "IS 14700 (Part 3/Sec 2):2020",
+        "standardName": "Electromagnetic Compatibility (EMC) Part 3 Limits Section 2 Limits for harmonic current emissions ( equipment input current ? 16 A per phase ) ( Third Revision )",
+        "equivalent_is": "  ",
+        "identical_is": "IEC 61000-3-2 : 2018 ",
+        "reviewOn": "2026-08-20",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Im5ZMnRDQ1YrMXJzQUVJS3VwckpROEE9PSIsInZhbHVlIjoiclQxcHlxdGt4ZytDOE11ejl1ajd3dz09IiwibWFjIjoiNTBjMGFhMWJhYTZiMzAwODIzYmE5OGUwYTBjMzFkMzllMzUwYjQ3NmYzNzhlOTIyYjE0ZTIxNGQ1Zjc5ZDZmOCIsInRhZyI6IiJ9",
+        "identical": "IEC 61000-3-2 : 2018 "
+      },
+      {
+        "standardId": 6647,
+        "standardNumber": "IS 14700 (Part 4/Sec 7):2017",
+        "standardName": "Electromagnetic compatibility (EMC): Part 4 testing and measurement techniques: Sec 7 general guide on harmonic and interharmonics measurements and instrumentation, for power supply systems and equipment eonnected thereto (First Revision)",
+        "equivalent_is": " ",
+        "identical_is": "IEC 61000-4-7 : 2009 ",
+        "reviewOn": "2026-08-20",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ijl6ZUxuMXdZVzJmMmM3aXQ5UGk2WlE9PSIsInZhbHVlIjoiWlJvRHFVQ2xjYXJ1c21oNlZUYVVWdz09IiwibWFjIjoiMTE0ZDgyOGQ3MTY3NTI3ZWE5MjY0ZmNjZjFiYTgyZmNkYzViNTk5ZWQ4MTBjMjdmNDllOTFhMmM0OTJiZDhlZCIsInRhZyI6IiJ9",
+        "identical": "IEC 61000-4-7 : 2009 "
+      },
+      {
+        "standardId": 21445,
+        "standardNumber": "IS 15885 (Part 2/Sec 13):2012",
+        "standardName": "Safety of lamp controlgear: Part 2 particular requirements: Sec 13 d.c. or a.c. supplied electronic controlgear for led modules",
+        "equivalent_is": " IEC 61347-2-13",
+        "identical_is": "NULL",
+        "reviewOn": "2024-12-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImlTUG5IY2wrbVlHaHhCSVBDeFFYUXc9PSIsInZhbHVlIjoiKzRHK3NjcmoyWGFpQ2NaRkNyUDNxZz09IiwibWFjIjoiYmEwMjIxZjQ2M2ZhOThiYzYzMDE4ZTM4MzNmZmU4NzkzYTk5ZTE2YjU4NjBiY2EyNzkwODRlNjk0NzllMzE3OCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 21446,
+        "standardNumber": "IS 16101:2012",
+        "standardName": "General lighting - Leds and led modules - Terms and definitions",
+        "equivalent_is": null,
+        "identical_is": "IEC/TS 62504 :2011",
+        "reviewOn": "2024-12-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlJ1N0duUG5IWUZKTUJ2SGs3ZUU2ZEE9PSIsInZhbHVlIjoiUWVlUklQQndqR0dXNkNsNXpyQ3lHZz09IiwibWFjIjoiZDFmYzZhYzVkYTBkNzJhYmM4ZDE5YjI5YTMzZWY2ZTA0ZjMxYTc1ZWQzNWM4MDhlOTA0MjY5ZWI3NTMxMmQ5NiIsInRhZyI6IiJ9",
+        "identical": "IEC/TS 62504 :2011"
+      },
+      {
+        "standardId": 33717,
+        "standardNumber": "IS 16103 (Part 1):2025",
+        "standardName": "LED Modules for General Lighting Part 1 Safety Specifications (First Revision)",
+        "equivalent_is": "",
+        "identical_is": "IEC 62031: 2018",
+        "reviewOn": "2025-08-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IndIQUdEYXFpT25BR1l2S0dnNUVVcVE9PSIsInZhbHVlIjoiQXJBa29XMDZrZllPL0UyTDRuaDRrUT09IiwibWFjIjoiYjUyNDI1YjNlNTRjMjQ3NTJlYjExY2Y1MTVkMWI5MTUxMTE4MTBhNjg1MDVlY2YxODExNzMyOTdkM2VkNzQ4OCIsInRhZyI6IiJ9",
+        "identical": "IEC 62031: 2018"
+      },
+      {
+        "standardId": 24949,
+        "standardNumber": "IS/IEC/TR 61341:2010",
+        "standardName": "Method of Measurement of Centre Beam Intensity and Beam Angle(S) of Reflector Lamps",
+        "equivalent_is": " ",
+        "identical_is": "IEC/TR 61341 : 2010 ",
+        "reviewOn": "2024-05-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlFBMGNyQVdyTTJKL3BJb2V6KyttUlE9PSIsInZhbHVlIjoiMjZjcUNYM3hPSlo1T0hlUnFGTS9uQT09IiwibWFjIjoiYjc4MzRjOWZiODNmNzg0MmMyODI2OTk2YzNiY2YyZDBmYTIwMDZjYWFjYjZhMzQ1OWM1YzVkYjRlZWRmODY4NSIsInRhZyI6IiJ9",
+        "identical": "IEC/TR 61341 : 2010 "
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60050 (Part 845):1987",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6InRya00xc1BQWDRkdVBUaVQvbEJvbHc9PSIsInZhbHVlIjoiVVVkcnZpYk15UVlMN05vMkhrK1Fidz09IiwibWFjIjoiMDhkYTE4Njc4YmY3NGNlMWI2ODZhMTVjMDBiYWEzZWNjNmZmM2VlMDEyMGM1ZGQ2ZmRiZTUwNmE3ZTg0ZDVhMSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60081",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Ii83RTFsOVlURU9qbklPZ0I1T25tYWc9PSIsInZhbHVlIjoiK2l2QkI5cTBSWTRXVmkvZnErL05jQT09IiwibWFjIjoiY2E1ZjhmOWM1YmE2ZWMyYzA0NThjMDM3NWZkYmIxN2UzY2I1MDBlZGFjNTUwYjU2NjhkYWI4Y2RiNWYzOTU4NCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "CIE 13 (Part 3):1995",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlpyTVVsZ0VMZ1F6dml0L3VHZS9zb2c9PSIsInZhbHVlIjoiak9ia0M0UTZiNE1DaWxDSVFsM0IrUT09IiwibWFjIjoiNjQ3M2U3NjkwYjE1NzYxMzFhMjAyN2NmNGM3MjYzNmE2ZmQwNzQ1OWM5OTM5N2JjMjZiYzVhODIxYTdiOTdlNSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "CIE 177:2007",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Ii9xelR3WGgzS0RYRW50ZUNZaHVtWXc9PSIsInZhbHVlIjoieGFPNldmNXRkQkFMbnBVOTV6QkkvZz09IiwibWFjIjoiMTc3ZDM2ZDc2NDIzOTc5NTFhODQxYWQzOWZkNTQ1OWE0MzM4NzU3YzUyOTZjNjhjMDU4ZGQ3NzQyZDQ3MzM1MiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 21494,
+        "standardName": "Luminaires performance: Part 2 particular requirements: Sec 1 led luminaire",
+        "standardNumber": "IS 16107 (Part 2/Sec 1):2012",
+        "equivalent_is": "IEC 62722-2-1 : 2011",
+        "identical_is": null,
+        "reviewOn": "2024-05-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlVxWTkxY0srNzk3OGtpTUNFckZXS0E9PSIsInZhbHVlIjoiaG50bUt4NHlFV2luYlY5Q3NqTFVrdz09IiwibWFjIjoiY2EwOWI4MDk5OTQ1ZDY4NmQ1MmRmMzU2YWM3NjRkNDJkZTUxOWZkNDJlNTZkN2MxYjViMDU5OGVkYTMyNWYwNSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 6638,
+        "standardName": "Electromagnetic compatibility (EMC): Part 4 testing and measurement techniques: Sec 1 overview of the IEC 61000 - 4 series (Second Revision)",
+        "standardNumber": "IS 14700 (Part 4/Sec 1):2019",
+        "equivalent_is": " ",
+        "identical_is": "IEC 61000-4-1 : 2016 ",
+        "reviewOn": "2026-02-23",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Im5NY2JQK0xOTFkwbENDWVRwNjlrOVE9PSIsInZhbHVlIjoiV3J2RFplYi9Wdmt2Y1RCTXBVM0dGZz09IiwibWFjIjoiMDZkN2YzOWQ4NmM4MjFhYmFlNTI5N2I3MTEzNGFmYWRkMThjZGY0ZDg2ZWY4MjAwYWY1MWJiN2E4YjA4ZTM5NCIsInRhZyI6IiJ9",
+        "identical": "IEC 61000-4-1 : 2016 "
+      },
+      {
+        "standardId": 27427,
+        "standardName": "Double-Capped LED Linear Lamps  Part 2 Performance Specification",
+        "standardNumber": "IS 16614 (Part 2):2022",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ii9VT0pPbnFkUDVPaGxlTktCbFZuL3c9PSIsInZhbHVlIjoiMmN0aDBuVTJPby9pMFZ3WjNuMkt4dz09IiwibWFjIjoiYzMzMmYyYTY5ZTUwZWExYmRmYTc3YzdmYzNjOTFkODk1OTIyOTg1ZDk5Mzc1N2M0MmU1NmJmODU0NzNhY2QwMCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 31118,
+        "standardName": "FLASHLIGHT- SPECIFICATION (Third Revision)",
+        "standardNumber": "IS 2083:2024",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2024-07-22",
+        "noOfReview": "03",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Im1IQmtmU1NGazJPUnVGaFcvNFUwOFE9PSIsInZhbHVlIjoiQVcxN0h0VVpONzFiVEtiQXNDTjIvZz09IiwibWFjIjoiZGM1ZjMyMjZhY2U0YWRhMzVlYmVkNjJkZWIzYzlkOTExYjVmNWI5NmIwMThiZDY4ZWNmMTExYmFiYjJkYmI2NSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

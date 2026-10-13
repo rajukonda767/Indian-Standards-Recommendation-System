@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Power",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6IjVkdzJPOFQ2ZUp0UGhpK3JBMnFpR0E9PSIsInZhbHVlIjoiY1Y4c05kY1VZYVk3VWRXUkNCRFdvdz09IiwibWFjIjoiMTYzMGQyNTVhODQ0ZmM1ZWIyNDEwNGI0M2U3OWJjYmQzNjk1YWNkZDljYjJhYmFjOWNiNDgxMzcyZWY2OTQxNSIsInRhZyI6IiJ9",
+    "rowStandardId": 1760,
+    "pk_is_id": 1760,
+    "standardName": "Methods of test for cables: Part 60 thermal stability of PVC insulation and sheath",
+    "standardNumber": "IS 10810 (Part 60):1988",
+    "publishedOn": "1988-05-31",
+    "committeeId": 243,
+    "departmentId": 65,
+    "groupName": "Electrical  Switchgear and Other Electrical Products/Accessories",
+    "subGroupName": "Cables, Conductors, Wires and Accessories",
+    "subSubGroupName": "Cable ratings and test methods for cables",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": 0,
+    "noOfAmendment": "01",
+    "typeOfStandardId": "Methods of tests",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "Methods of test for cables: Part 60 Thermal stability of PVC insulation and sheath",
+    "certificationName": "",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "2026-05-29",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S05/S05V01/10810_60.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2026-05-29",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 1,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Emmanuel Abhishek Murmu (SCIENTIST-D)",
+    "committeeName": "Power Cables",
+    "departmentName": "ELECTROTECHNICAL DEPARTMENT",
+    "deptAliasName": "ETD",
+    "committeePreparedName": "ETD 09 - Power Cables",
+    "deptPreparedName": "Electrotechnical Department(ETD)",
+    "reviewList": [
+      {
+        "isStatus": 1,
+        "standardNumber": "IS 10810 (Part 60):1988"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 10810 (Part 60):1988"
+      },
+      {
+        "isStatus": 6,
+        "standardNumber": "IS 10810 (Part 60):1988"
+      }
+    ]
+  }
+}

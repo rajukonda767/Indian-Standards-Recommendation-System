@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Housing and Urban Affairs",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6InFYcHd2ZGtLRlV1ZmxZTkM3aHNaVlE9PSIsInZhbHVlIjoiNmx3OCs1OVhSb2IyMGMwcUQ1OHhQUT09IiwibWFjIjoiMjdiYWY3YTZkZDM2MDNhN2ZjMDY4YzIxMDk1YTdhZjg3MmJkZGRmZDI3MDhhZmFiZjc5MGQ2M2JlYmNkNTFhMCIsInRhZyI6IiJ9",
+    "rowStandardId": 17753,
+    "pk_is_id": 17756,
+    "standardName": "Bitumen Felts for Water Proofing and Damp-proofing - Specification (Fourth Revision)",
+    "standardNumber": "IS 1322:1993",
+    "publishedOn": "1993-12-31",
+    "committeeId": 211,
+    "departmentId": 63,
+    "groupName": "Civil Engineering Design and Construction",
+    "subGroupName": "Construction practices, measurement and management",
+    "subSubGroupName": "Water proofing & Damp proofing",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "04",
+    "noOfAmendment": "02",
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "Water Proofing / Damp-proofing of buildings using Bitumen Felts",
+    "certificationName": "Voluntary",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "2022-12-01",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S03/S03V01/1322.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2022-12-01",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Shwetank Kumar (SCIENTIST-B)",
+    "committeeName": "Waterproofing And Damp-proofing",
+    "departmentName": "CIVIL ENGINEERING DEPARTMENT",
+    "deptAliasName": "CED",
+    "committeePreparedName": "CED 41 - Waterproofing And Damp-proofing",
+    "deptPreparedName": "Civil Engineering Department(CED)",
+    "reviewList": [
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 1322:1993"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1322:1993"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1322:1993"
+      }
+    ]
+  }
+}

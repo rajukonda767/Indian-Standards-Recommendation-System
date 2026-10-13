@@ -1,0 +1,180 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 9311,
+        "standardNumber": "IS 2781:2020",
+        "standardName": "Glossary of Terms Relating to Ceramicware ( Third Revision )",
+        "equivalent_is": " ",
+        "identical_is": " ",
+        "reviewOn": "2025-03-01",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Inl6bU1RUUJINmhGMkY2UXdpT1pLaFE9PSIsInZhbHVlIjoiRXZhSTRkNkpLVUJsSTE3M0lveXpkZz09IiwibWFjIjoiZjk5NDEzM2VhOTRlYTE1N2Y4YjVlMGU1NWMzNTUxZTRkYzE4ZTNmZDIwZmZhM2MwZWRkOGI2YjYwMjRjNjkyOSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 9479,
+        "standardName": "Layout plan for dairy laboratories",
+        "standardNumber": "IS 2981:1964",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-02-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlNhdFBhZ1FiZTVJNTBzeGxEVTYxeWc9PSIsInZhbHVlIjoiZjI4eEJrTTliMWU0VE5ZV1hnQWVqQT09IiwibWFjIjoiOTMzNmFmMTE5YjA4ZDA3OWIxYTU5NTI3MjEzYWI4OTMyMDY5NWVmZDdhNTQwMGYyNDJhYzUwYjFhMmQzNTRkNiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 8606,
+        "standardName": "Selection, installation and maintenance of sanitary appliances - Code of practice (Second Revision)",
+        "standardNumber": "IS 2064:1993",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2022-11-01",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImZ1cGNUdkl0bWhoYXF0SmwxOHAyQ2c9PSIsInZhbHVlIjoiWVFEa3IrekR6b1lBV0FUTXVmNzVEdz09IiwibWFjIjoiMzgxOTY0ZTRmZThkMGQyZjlkYTY2YWE0NTRhMmYzZTUzYTdhMmI0ZmIyM2I2MjllMTE5YzA1NzY0OTFjMjI4YiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 9072,
+        "standardName": "Vitreous sanitary appliances (Vitreous China) - Specification: Part 17 Specific requirements of wall mounted bidets",
+        "standardNumber": "IS 2556 (Part 17):2001",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2022-03-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ijg0UzRtRDJ6WkxtLzZjam1CWjE1SlE9PSIsInZhbHVlIjoidmNYOGhZL1NhdlhBVU8zUGRwbTJPQT09IiwibWFjIjoiNDZlNjZkZjBkNDI2NDk0YzVmMjQxNTkzYmVlYTUxN2NjZjgyNzU0N2UyNWRmYzgyNDkxZTMzMjdiOTAyMTJlOCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 9075,
+        "standardName": "Vitreous sanitary appliances (Vitreous China) - specification: Part 4 Specific requirements of wash basins (fourth revision)",
+        "standardNumber": "IS 2556 (Part 4):2004",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-02-27",
+        "noOfReview": "04",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImhKaC9qbkRWdHAveDYrWjM2c2tEMXc9PSIsInZhbHVlIjoiRU93QmM1QVREU3lXQkVJWVZoeHBmdz09IiwibWFjIjoiZDRjZjNjMTRmNGNjMTNiMTU3NjNkM2ZlZTc0NTkxNmM5ZTU3Y2JmZWM0MjJmMjM3MDU1MzVkZGRjMTk5MWRkYSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 9076,
+        "standardName": "Vitreous sanitary appliances (Vitreous China) - Specification: Part 5 Specific requirements of laboratory sinks (third revision)",
+        "standardNumber": "IS 2556 (Part 5):1994",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-02-27",
+        "noOfReview": "03",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjZiT1U5cEJ2RHdnYXN3U2VZTEZGVWc9PSIsInZhbHVlIjoiaVFhYnVQOXNDWEhmZElZa1RaTFhHUT09IiwibWFjIjoiZWU3MDlkYTkwZjM4ZTdmNTllODg3OWZlM2MzYWM5NGY4MjM2MGIwNWFkNjNiZWM5ZjU0YzliYTczMTQ0YmFmZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 9078,
+        "standardName": "Vitreous sanitary appliances (Vitreous China) - Specification: Part 7 Specific requirements of accessories for sanitary appliances (third revision)",
+        "standardNumber": "IS 2556 (Part 7):1995",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-09-01",
+        "noOfReview": "03",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImFaOFkrMnkvbWlLZkRZTzN4YXhKU0E9PSIsInZhbHVlIjoiUEQyc0xhUmZZdytHczU1MHhpYjlNZz09IiwibWFjIjoiZmU3MGVlNDZjYmQzY2YyMzFmOWE3ZTFkNWJiNjJlOGI2MjBlN2U1ZDcyOTYwM2I0NjFiOWZiMzZiYjQ3YmRmNSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 9080,
+        "standardName": "Vitreous sanitary appliances (Vitreous China) - Specification: Part 9 specific requirements of pedestal type bidets (Fifth Revision)",
+        "standardNumber": "IS 2556 (Part 9):2004",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-02-27",
+        "noOfReview": "05",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImQrRzVzZm9SWmpPWld1OHYzeUlaaHc9PSIsInZhbHVlIjoiQlU1Lzd6c3pZc2ZId1VPeFpyQXJwQT09IiwibWFjIjoiMTFkZDI2NTU1MDE0ZWY3NzQ1MzA2ZWQyNWI4OTNiYzIzY2Y2ZDk3NDA3YTBhZTEzNGE5YTNjMWE0N2ExNWM2MSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 66889,
+        "standardName": "National Building Construction Standards 2026",
+        "standardNumber": "SP 7:2026",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "04",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlZPSVFscVNvTzd3ajBRNmFhaFpkMnc9PSIsInZhbHVlIjoiQ2U2ZUlRd0IyWlJwL0dKalBGTCtadz09IiwibWFjIjoiYmIyMmFmN2M0MjgwYzc2MzU2ZGE0OWUxNWRmODM3MTQ1N2U0NGZhYjE2MDQ2NjkwMDBjN2ZiYzZmOTlhZTgzYyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 26701,
+        "standardName": "Water efficient plumbing products - Requirements: Part 1 Sanitaryware",
+        "standardNumber": "IS 17650 (Part 1):2021",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2026-02-27",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InB3MmRGcEgyNDBzbkVQc1djbWZZM3c9PSIsInZhbHVlIjoicnhwT2FYSFZxMEVNSjFTeW5QY1FzUT09IiwibWFjIjoiMGZlNmI1NjRlMzZlNTFmZTMxMmM5NDg1MzJjMjgwMmQ0NTk1M2EzNzQ0YjllYzM4YzM5MjUzMzVlNWM1YWU2MSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 26704,
+        "standardName": "Vitreous China sanitary appliances - Specification: Part 8 Specific requirements of close coupled and one-piece, pedestal washdown and syphonic water closets (sixth revision)",
+        "standardNumber": "IS 2556 (Part 8):2021",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "06",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IitzN25zbTh2RTYweUk5Sk14dHIwdVE9PSIsInZhbHVlIjoiMWpkRFB3Yks0ZUp2VHJ4ZlFhTkZyUT09IiwibWFjIjoiYjdlY2M1ZGNlNmU2NDUzMzEwZjM4ZmVjYmNlNzRhNzJhNzIyOGJlMjU5NzIzY2VlMDcyOGVlOTVjMmQ0NWI0NCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 26707,
+        "standardName": "Ceramic (Vitreous China) flushing cisterns for water closets and urinals - Specification (sixth revision)",
+        "standardNumber": "IS 774:2021",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "06",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlhuUlpZakZ6MkE1VmVwUVg0VW9XTmc9PSIsInZhbHVlIjoibmZVN25LV0NGekJQenFUSzZDZ0xWZz09IiwibWFjIjoiMzQwNDJmYjkwYWUzMjQ0ZDBhYTVmMTEzNDEyZDllN2QyMTRiZjIzNTI2ZTUyZjhkMGM2NTg0MjVlNTE4MWQyZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 26717,
+        "standardName": "Vitreous China sanitary appliances - Specification: Part 6 Specific requirements of urinal and partition plates (fifth revision)",
+        "standardNumber": "IS 2556 (Part 6):2021",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "05",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Imd0UXhnNXBQTjNLMjJ2OExDMGowMVE9PSIsInZhbHVlIjoib3htOVRBNnVaR1hHeldiTkd6MlRUZz09IiwibWFjIjoiNjQ1OWIwYjc0YzE5OTk5NGE0NTMxZGZhOGU1MjMxYTIyNzE0YWU3NjQ0OTEyYTZhMjAzZmIxNDkxYmMzNTM5MiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

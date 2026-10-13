@@ -1,0 +1,128 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 5659,
+        "standardNumber": "IS 1387:1993",
+        "standardName": "General requirements for the supply of metallurgical materials (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-03-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjdxRHM2eStsZ0hvNUdDUU16R3lSUVE9PSIsInZhbHVlIjoiTmNaOFRKcVdNZ2pJRUgyckxsU3RxQT09IiwibWFjIjoiY2M2OTkzNTM1MjRmZDBlNzI2MDEyNDRmNTdhYmYzZDZhMGIwYWFhZTFhNjI2OTQ1ZjQ3ZGVkN2I4Njk3MjRhMCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 8463,
+        "standardNumber": "IS 1956 (Part 1):1976",
+        "standardName": "Glossary of terms relating to iron and steel: Part 1 general metallurgy, heat treatment and testing (First Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-03-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Imp1KzZLMFRjbklKNHFmODlENlZsb2c9PSIsInZhbHVlIjoiOFJ2MXN6bnQwQk5JaGd4MFB6VkR6UT09IiwibWFjIjoiNTYyMjEwN2VmNTJjYjRkYmIwMjkyNzdjZTUzZGFkNDhiMWQ5NGQ0OGFjZTU0MTJjZjc2MTk1NDQwY2EyZmIyMCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 8464,
+        "standardNumber": "IS 1956 (Part 2):2018",
+        "standardName": "Glossary of terms relating to iron and steel: Part 2 steel making (Second Revision)",
+        "equivalent_is": " ",
+        "identical_is": " ",
+        "reviewOn": "2023-11-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Im5qWFg2ZlpiT01obkQvUWVhQnJER1E9PSIsInZhbHVlIjoiOEJoM0dqQmJxV3JyWEhiWnhxT3hRZz09IiwibWFjIjoiZmJiMjI0ZTcxNTUwMzZhMTI3OTIxNWZiOTUzNTAwMmEwYmIxMGRmNjBiZjlkYWQ1NDcyNGJjYmZjNmJiZjk3MCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 8465,
+        "standardNumber": "IS 1956 (Part 5):1976",
+        "standardName": "Glossary of terms relating to iron and steel: Part V bright steel bar and steel wire (First Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlRnY1lXYVpWUlNFRkhOOXhoRXJWR1E9PSIsInZhbHVlIjoiZkJUQTQrVVJOdkxnd3RFZXVqZjN2UT09IiwibWFjIjoiNjdiODM3ZjE5NzlkY2Q3NjFkOGRkNzMwMDg0MzRkMzY4OGRhYmRjM2RmZjc4OTFmYzBmOTE2M2MxN2U0NGJkNCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 27122,
+        "standardNumber": "IS 2:2022",
+        "standardName": "RULES FOR ROUNDING OFF NUMERICAL VALUES (Second Revision)",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlgyRXVNaVZMV2l2b200NFZ0ZTJVTXc9PSIsInZhbHVlIjoiOFd2djhTZkszUG12UXh5UWw5b1lIQT09IiwibWFjIjoiYTQ5NDlmNDM3NzQzMDZmMjhiMDU4NWUwNDNmMGJlYjBkMWE2OTNjY2UxZTI2NDkwMjc2MGUyYjhlN2Y0OGZhYiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 25432,
+        "standardNumber": "IS 7904:1995",
+        "standardName": "High Carbon Steel Wire Rods",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2021-02-25",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Im1Ia1Zja241N0FBQU0rOGR6NWdzWlE9PSIsInZhbHVlIjoiTURnVEJNZGtkUHFRczJPcGdFVWh3UT09IiwibWFjIjoiODZlNTYxNjlhMmI3MjlhNDRjMzFkYzljYzNjY2YwNDViOTAxNjJkMjExMGQxMmZkNWQxODAxZjM5MDk1NTU1MyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 18663,
+        "standardNumber": "IS 1956 (Part 3):2019",
+        "standardName": "Glossary of terms relating to iron and steel: Part 3 long products (Including Bars, Rods, Sections And Wires) (Second Revision)",
+        "equivalent_is": " ",
+        "identical_is": " ",
+        "reviewOn": "2024-01-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImlVMmI0QlBPSHZrVnpPWk84bHZJSHc9PSIsInZhbHVlIjoiODdxb1RNbk1STmIvVXpPcnRqSGxHdz09IiwibWFjIjoiMzFkYTM0MDkwMmQwNDI3ZTFiY2E2N2RjMTliZmFmNDQ5NjI1OTc5YjMwZWVhMTI1Zjg5MjNjNDQ2OGQ3YzhhYiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 26864,
+        "standardNumber": "IS 1608 (Part 1):2022",
+        "standardName": "Metallic materials - Tensile testing - Part 1 : Method of test at room temperature ( Fifth Revision)",
+        "equivalent_is": "",
+        "identical_is": "ISO 6892-1 : 2019",
+        "reviewOn": "2022-02-16",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlpmV1FUTGlVUXIwd3FTZitDYnJXR1E9PSIsInZhbHVlIjoiY1RmRlB0bi9mQThVNmVzMUFWdWozZz09IiwibWFjIjoiNmQzMDliZmViYTgxYjEwZjdhNTMwOTJlMjYzODJkZWM4ZWQ5ZjIyYjYxYzc4NGQ5MDhiMjU1MTU1MDk5ZmM1NCIsInRhZyI6IiJ9",
+        "identical": "ISO 6892-1 : 2019"
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 5064,
+        "standardName": "Prestressed Concrete - Code of Practice (Second Revision)",
+        "standardNumber": "IS 1343:2012",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2022-11-01",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlFVWVN0OTBVejlOVzQvL1ZzTmpOaGc9PSIsInZhbHVlIjoiNnlySXU0TllYS2tuaTB2S0tFaEM5Zz09IiwibWFjIjoiZjg2ZmNhYTg1N2UwNjg0MzE1ODAxOWI5YTBmMjFkNDM5MjQwYmNlZDlmZjQwMjQzZDgzOTkxNDBjY2ExNTUzZCIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

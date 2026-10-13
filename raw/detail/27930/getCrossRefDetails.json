@@ -1,0 +1,207 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 148 (Part 1):2016",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlY3a2VwY1laaXFWNmgxSC8yNDNZV0E9PSIsInZhbHVlIjoiTHRZbDQ5SjNnOFprM1VLSEpjK1NxUT09IiwibWFjIjoiMDIwZjdkODcyMjcxNmFhYTI1YTFhYzE0MmM5M2JjMGQ2NDYzOTIyOTZjMWFmOTMyNGIzNWE4NzBkMWJlMTc5YiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 2566 (Part 1):2021",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IkhmUHNCMndNdlIyeTJwYVRIcHloZWc9PSIsInZhbHVlIjoiNis3YkdRNUFxamovYU1HSzdYRkZIZz09IiwibWFjIjoiNTYwOTJlY2M0ZDUyYWI0MTkzOTdjMmZhYTI1NzJmZmZjMTQ4MTRhYzI2NzM4YzQwMjA3NWE3ZjgxYzAyMWZlZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 5173 (Part 5):2009",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlVUdk8yOTZGbjdzNElaTGltd1VuVmc9PSIsInZhbHVlIjoidnpJUER1aDlJck5hV0p4WVQ5L2lvdz09IiwibWFjIjoiZjY2YmMzOGU1YzlmN2ZkYjQ2ODY4NGY0ZTMyZDQzOTc4OGRjMWI2MzhhMjMzNDU5Mjk3NDEzMWI3NjM5NGZhOCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 6892 (Part 1):2019",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Im9ZR091WFMyZFNlYzJKZ0RLaFRGTEE9PSIsInZhbHVlIjoiUzY4YkhJZ3Q5TzlpYWVxZWx6SEU3dz09IiwibWFjIjoiZWUzNjNhOWY1ZjJlNTg5ODAzYWY5NTU4ZTQ1N2MzODhiMDg1Y2QzMjc3MTRkNWMzMjAyNjYwNjNjOGQxMzg2ZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 10893 (Part 2):2011",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6InplVXpwdU8zWTFiTDhCQWhkVzJNYWc9PSIsInZhbHVlIjoiSnRKWldoSmt6czdTRUR4c3FRbDFJdz09IiwibWFjIjoiMGM5MjJmN2IxOWMzMjU1Mzc5OGVmMDhkYzNkZjZlZTgzNDlkZDAyOTQ0NTFmZDg5MGMwZTZlYjA0NTI5YTZhMCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 9712:2021",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6ImJNYUJwWFNmdTFma2FLRFAxRERqOWc9PSIsInZhbHVlIjoic2dxNHdUQUVCMm5DYjB6WHpaWTJPUT09IiwibWFjIjoiZGM4ZDhmMDJlNTYzYzE0NDdmZTE3MzMxYzlhNGVjMGIxZjkxNjliYzRlNjRiMDcxMTcyYTBmMDcxNmVhMWVmNCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 10893 (Part 3):2011",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlV3OE5yOGZ3VVNtVHpqWldSRVVpb3c9PSIsInZhbHVlIjoidEk1R2UwUWdUdVJpSEh2eU5IeTNyQT09IiwibWFjIjoiMjQxOTc2NmU0Mzg4YTY5N2NkYzg1YzBhNzQyMDA4MzRkNmE2ZDdjMDc0N2ViZmI0MTdkM2IwNjk1MjQxMGQ4MiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 10893 (Part 6):2019",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6ImFHbHA5QklSSjZGSHoxME9KOHNacHc9PSIsInZhbHVlIjoiYnRJVk9zSXNGUE9Ka1dUVzc3QXpEdz09IiwibWFjIjoiMzI2OTA4NmZmNjVjZjIxZTVhNGZiNzk5ZmFlMzRhNjIwY2QxMGFmZWQwODg2YTBjNzUwMjM2OTlhM2U2MmZhZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 10893 (Part 7):2019",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IjFkUVlNSDJJMzJxVklqRUx2dnh2Wmc9PSIsInZhbHVlIjoiN210L0MxNTA3clAyUmREajlXaW1EUT09IiwibWFjIjoiYTAwYmY5NWVlYWFlYmUxOTVjMDVmOTQ2ZTdhY2E2NWNkODdlYzFhM2U3NzcyNDU0YWY2MWU4NGFmYjQyZWM5YiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 10893 (Part 8):2011",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IjZLRU85ay80TWxES0JZa0JpbENYdHc9PSIsInZhbHVlIjoib0FJMGVKYis3M0k3SWlrM0RJZENKZz09IiwibWFjIjoiOGZkMjg5YWIwNTdmNTBlZWFmMThmYWUxZDIzMzYwYTQ2ZmI2MTY4YWZhOTU5MGRmNzI4NzVjOTc4YjE1YzlkMCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 10893 (Part 9):2011",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6ImV3Qm1Rc0FpTWIrRytQME1mZWdScGc9PSIsInZhbHVlIjoiQWR1M1RFbnBqOUs2Wjg3L2FDVFNoQT09IiwibWFjIjoiNDNlYTJkNmZhZGY5YzcwZDZkYzJiMTQzNTYyNmM4NDgwY2NiMGNlZjRhYjFiZDkzZDMyYTJlYTkyMWQyOGNlOSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 10893 (Part 10):2011",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IjVmTExCQkpSaDRUT2t3S20rQXRJNGc9PSIsInZhbHVlIjoidi8vWkFWYm0vcE1odXZIU3lUbzdoQT09IiwibWFjIjoiN2YyMTU1MWZmNGY4MzdjZTcyMTkxYTY4NWNlNTllYjhlNmRhMDdiYzk0MjkzZDFmZGI2MTg1NTY0MWVhNTBjYiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 10893 (Part 11):2011",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6InRPTk9zektGeTJYMmNMeWlEeHpGN1E9PSIsInZhbHVlIjoiUlV2VVZOMmxuUjVxUjZnMVdwa0pCQT09IiwibWFjIjoiZjVmOTk5YzBkM2FjZTdkOTg2ODdhYWI2NTcxNmMyMmQyMzRlMzc2N2JhMmUzMTAwMjA5MjYxMDQzZGMyMmZmMCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 11484:2019",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6InBQT1YzV3BiNXpFQ0R2cEZJUW1MNkE9PSIsInZhbHVlIjoiSmJEOE9DMnU4ZTRGek9Ed2V5R09CQT09IiwibWFjIjoiMzAzNGFhMzNhNzJhZGViZjYyZWMzMGZhNTYwNGRhNWViYjdlM2VjOGE0NmM5ZjIzMmQzZmQ0NmE2MjBiNmVkNyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 19232 (Part 1):2013",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6ImhuRi9XNU5tQ05ScXl2Z09VbkI4ZGc9PSIsInZhbHVlIjoiVnZkdFQzWThQTlEyM1prWWU3Rmwzdz09IiwibWFjIjoiMzE0ODI4NWJjY2QwNDJjODNjODQzMGYyYjJiMGE2ZDU5MmRmNjEyZjEzM2UyMmRhOTZlYzNhOTk3MzY3MmNjMSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "EN 10204:2004",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IjhGaFB1Q25PUWErQ2tNWUxTN3VZZmc9PSIsInZhbHVlIjoiSVhkZVVvS3Nvek5iMlpjd014M3NUQT09IiwibWFjIjoiMWQ4NDNkNWZjYjdhZDMxYjlmNmNjZWQxMGQyNTE3YmQ3N2FmZjNhMDJmOTdkN2YzMDM4NTA4Y2E5MjI1MWNjYSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "EN 10168:2008",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlFQZzJnUDZNWEZSZi9GU3lHZ2ZUeUE9PSIsInZhbHVlIjoiT1FXNW5mcElTMG9tVnp3NTM3SDR3UT09IiwibWFjIjoiNDE0ZWM3NzVmM2E2YzQ0MzhkNDFhZDQzZmIyMzc5YjgwYmYzMTYyYjUwNDIxMWQwNjExZTNhNTJhYWEyZjgwZSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 25492,
+        "standardName": "LIQUEFIED PETROLEUM GAS STORAGE INSTALLATIONS  CODE OF PRACTICE PART 2 COMMERCIAL INDUSTRIAL AND DOMESTIC BULK STORAGE INSTALLATIONS",
+        "standardNumber": "IS 6044 (Part 2):2021",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2026-03-31",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkdtaEdzQTZrWHAwOGc5V215L2k5eEE9PSIsInZhbHVlIjoiQnlrdHFaMHowdDV3TVM2cmIvaXlqQT09IiwibWFjIjoiZWQ3Y2E1ZDYzMWQzYTg0ZTM4ZWM2NzI3NWM5NTYyN2EwOTVlMTExZGI2M2ZkYTgyMjhmZGJiNDIzNTNiODFiNCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 25911,
+        "standardName": "Design and Installation of Fixed Automatic Sprinkler Fire Extinguishing Systems  - Code of Practice (first revision)",
+        "standardNumber": "IS 15105:2021",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InZtU3FkTjdUdElMbDNJNkFiWXh3QVE9PSIsInZhbHVlIjoiTXR0SmVjNWx4SXBCNllCOEZ1dHhYQT09IiwibWFjIjoiMjc0ZWU4ZTFjODdiZmYwYWYyZWYwZjVkODliMzMzMjQ1YTQxMzRiZGNkMTRjMWNmN2I1NmJmOTRkZGI0YzI1YiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "No record found.",
+  "data": {
+    "crossRefData": [],
+    "crossFollowRefData": [
+      {
+        "standardId": 2835,
+        "standardName": "Specification for electric pedestal type fans and regulators (First Revision)",
+        "standardNumber": "IS 1169:1967",
+        "equivalent_is": "NULL",
+        "identical_is": "NULL",
+        "reviewOn": "2026-01-16",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjZDSHJKVEN4WnQreElGd3hhUzY2Z0E9PSIsInZhbHVlIjoiTnc4cUFrMWNRYzUvc0llaFhrVVNKZz09IiwibWFjIjoiMWE5ZjhkMmM1MGVjZTczYTI1ODA2YmRiYzcwMjUwODliNDI0NDc2YWI5NjJmOWQ3NTk5MGVjNGE1MTM4MDA1MyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 8843,
+        "standardName": "Specification for propeller type AC ventilating fans (First Revision)",
+        "standardNumber": "IS 2312:1967",
+        "equivalent_is": "NULL",
+        "identical_is": "NULL",
+        "reviewOn": "2024-06-04",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ilp2WHZJYWVPVDhLOFFmbU16MFZTRWc9PSIsInZhbHVlIjoiUmpPZkFMd0xQaWtGcFU1dXdTS3Qwdz09IiwibWFjIjoiZTNhNWRlMGVmYTRlNGMyOGUzZTkwODc2ZjczMzQ4MTVlYmY0YWM4YzJlMGExMTQxY2FiNDIxMzk0YWYzMDc5YiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 9493,
+        "standardName": "Specification for air circulator type electric fans and regulators",
+        "standardNumber": "IS 2997:1964",
+        "equivalent_is": "NULL",
+        "identical_is": "NULL",
+        "reviewOn": "2026-01-16",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImNXVERIWjdxUmFyQTVjM2IxOVlMeFE9PSIsInZhbHVlIjoiS21EYW8xUWUyOHZZdnkxUmRNNzg5QT09IiwibWFjIjoiYmMwNzhmNmMxMDZmMDY4Yjg1Y2VhNDIyODE4OGRlOGRlYjY1YzFjYTFlNTczOTA1MGY2MmZmMmU5NGJkNWFjYiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 10956,
+        "standardName": "Specification for electric fans and regulators for use in ships",
+        "standardNumber": "IS 4327:1967",
+        "equivalent_is": "NULL",
+        "identical_is": "NULL",
+        "reviewOn": "2026-01-16",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjZaTTN5ZkNYbWk0Y1FuS25GUi81TUE9PSIsInZhbHVlIjoiSjJLZVVaSVlTQUxaSFNsaWJoZFMrQT09IiwibWFjIjoiNjBhODVhMGU0OTc1OGVhY2NhM2RlZjIwZDZhOTJmNTc2YmMyNDU1NGY5MDIyMDJhYmMxMzk5MWQ1OWJmMDdjNCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 32702,
+        "standardName": "Hand tools for footwear industry - Specification Part 5 Straight Hacking Knife (First Revision)",
+        "standardNumber": "IS 6053 (Part 5):2025",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2025-02-13",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkVxcWNGK0RBUHR5QjUwN1p2TEh3VGc9PSIsInZhbHVlIjoicDJ2M0FJSnBaVVpHTG9zVGlMY2t5UT09IiwibWFjIjoiODNhYzkyMzNhNDBjMjc1Njg2MzU4OTEzZTYyMDdmMWIzZDkwOTQyNmEwODIxYWZmZTQ5YmZhZDM2OGE0MzUwMiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 11382,
+        "standardName": "Guide for electrical layout in residential buildings",
+        "standardNumber": "IS 4648:1968",
+        "equivalent_is": "NULL",
+        "identical_is": "NULL",
+        "reviewOn": "2025-06-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik5rZVdjQ3JTOUI0SXVsZkpveWdKQ0E9PSIsInZhbHVlIjoiUlNyRTArSm1vcGx2aElNSHBudDZ1QT09IiwibWFjIjoiZWNmNTU4MDExYTE4MWM3YjQ3MjAzNmJmZWE4ZDM0MjMwMDk0Zjg1NjU0NjI4MWIxM2NjOTk2ZmM4NGQwODBjYSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

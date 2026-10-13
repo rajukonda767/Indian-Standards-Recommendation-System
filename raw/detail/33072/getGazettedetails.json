@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 8810,
+      "So_No": "pub-013-1-2020-pub-bis (1177)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/MTD/gf_345_8810_228_7_4.pdf",
+      "pki_id": 16522,
+      "Amd_No": 0,
+      "standardNumber": "IS 228 (Part 7):2025",
+      "standardId": 32883
+    }
+  ]
+}

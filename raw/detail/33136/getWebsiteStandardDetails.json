@@ -1,0 +1,89 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6IjZ3bHZXMVZYRGdzYzdQNlRsN1B6aUE9PSIsInZhbHVlIjoibmdFcS9Ra0I4dFJub1MwWlZiWkt5QT09IiwibWFjIjoiNDdhMjZhYzBkNTQ4ZDQ5ZDliZmUzYTU4ZGVjMGZmNmM5Y2Y1ZjBjNzhiZWIxNjdkZDM1ODRiOTE0MzAxNzMwOCIsInRhZyI6IiJ9",
+    "rowStandardId": 32947,
+    "pk_is_id": 33136,
+    "standardName": "Landing Valves - Specification (Fourth Revision)",
+    "standardNumber": "IS 5290:2025",
+    "publishedOn": "2025-03-19",
+    "committeeId": 202,
+    "departmentId": 63,
+    "groupName": "Fire Fighting Equipments and Accessories",
+    "subGroupName": "Fire Extinguishers, equipments , units and accessories",
+    "subSubGroupName": "Fire Fighting Extinguishers & Equipment",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "04",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": null,
+    "certificationName": "Voluntary",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "IS 5290 : 1993",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 1,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S03/S03V01/5290.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2025-03-26",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Rajesh Choudhary (SCIENTIST-C)",
+    "committeeName": "Fire Fighting",
+    "departmentName": "CIVIL ENGINEERING DEPARTMENT",
+    "deptAliasName": "CED",
+    "committeePreparedName": "CED 22 - Fire Fighting",
+    "deptPreparedName": "Civil Engineering Department(CED)",
+    "reviewList": [
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 5290:1993"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 5290:2025"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 5290:1993"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 5290:1993"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 5290:1993"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 5290:1993"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 5290:1993"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 5290:1993"
+      }
+    ]
+  }
+}

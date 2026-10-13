@@ -1,0 +1,362 @@
+[
+  {
+    "standardNumber": "IS 15086 (Part 10):2026",
+    "url": "https://standards.bis.gov.in/website/standard-details?encryptedId=eyJpdiI6IlBuVlErMjdsellIc0w3WmxVeW9raFE9PSIsInZhbHVlIjoiWWZqeTlzSS9abytkd3hJVUR2QW1BUT09IiwibWFjIjoiODk1YzdlNDQxMDc0NzJjOTM3ZjQ5YWZkZTEzNjMxZTM5ODI5Yjc0Y2YwZGYwMmI2OGZlODZhY2FlNTQ0ZWMzNyIsInRhZyI6IiJ9",
+    "fields": [
+      {
+        "field": "Standard Number",
+        "api_value": "IS 15086 (Part 10):2026",
+        "dom_found": true,
+        "match": true
+      },
+      {
+        "field": "Department",
+        "api_value": "Electrotechnical Department(ETD)",
+        "dom_value": "Electrotechnical Department(ETD)",
+        "match": true
+      },
+      {
+        "field": "Technical Committee",
+        "api_value": "ETD 30 - Surge Arresters",
+        "dom_value": "ETD 30 - Surge Arresters",
+        "match": true
+      },
+      {
+        "field": "Equivalent Standard",
+        "api_value": "IEC 60099 (Part 10):2024",
+        "dom_value": "IEC 60099 (Part 10):2024",
+        "match": true
+      },
+      {
+        "field": "Certification Type",
+        "api_value": "Voluntary",
+        "dom_value": "Voluntary Certification",
+        "match": true
+      }
+    ]
+  },
+  {
+    "standardNumber": "IS 694:2010",
+    "url": "https://standards.bis.gov.in/website/standard-details?encryptedId=eyJpdiI6IkZOdVdIUTgzc1ViOGVUb2xUelJEU1E9PSIsInZhbHVlIjoid1JxNmVSamtUelZrTll4bEVROE82QT09IiwibWFjIjoiZmQ1YjRmNGQ0NWRmNjNiZjMwZDQwYmY0N2Q5MTViYzMyYjBhNmEwMDA0MjkxOGI2MmQwOTM3ZDg5OGVmYjgyZiIsInRhZyI6IiJ9",
+    "fields": [
+      {
+        "field": "Standard Number",
+        "api_value": "IS 694:2010",
+        "dom_found": true,
+        "match": true
+      },
+      {
+        "field": "Department",
+        "api_value": "Electrotechnical Department(ETD)",
+        "dom_value": "Electrotechnical Department(ETD)",
+        "match": true
+      },
+      {
+        "field": "Technical Committee",
+        "api_value": "ETD 09 - Power Cables",
+        "dom_value": "ETD 09 - Power Cables",
+        "match": true
+      },
+      {
+        "field": "Equivalent Standard",
+        "api_value": null,
+        "dom_value": null,
+        "match": true
+      },
+      {
+        "field": "Certification Type",
+        "api_value": "Mandatory",
+        "dom_value": "Mandatory",
+        "match": true
+      }
+    ]
+  },
+  {
+    "standardNumber": "IS 8130:2013",
+    "url": "https://standards.bis.gov.in/website/standard-details?encryptedId=eyJpdiI6IlVaNDNuYUJ2QTBVS3pkR3ZxaVZvaXc9PSIsInZhbHVlIjoiQjlEMXFrWXZ1SkJoSGJPU1lvbnQxUT09IiwibWFjIjoiYjhhYWNiMjQ2MjMzNjc4ODRiMmI4ODJhZTZjZTQ4NzE5YWE3NWEzMTYxMGY4MjcyMDExOTRjODY0NDE5NTVhOCIsInRhZyI6IiJ9",
+    "fields": [
+      {
+        "field": "Standard Number",
+        "api_value": "IS 8130:2013",
+        "dom_found": true,
+        "match": true
+      },
+      {
+        "field": "Department",
+        "api_value": "Electrotechnical Department(ETD)",
+        "dom_value": "Electrotechnical Department(ETD)",
+        "match": true
+      },
+      {
+        "field": "Technical Committee",
+        "api_value": "ETD 09 - Power Cables",
+        "dom_value": "ETD 09 - Power Cables",
+        "match": true
+      },
+      {
+        "field": "Equivalent Standard",
+        "api_value": null,
+        "dom_value": null,
+        "match": true
+      },
+      {
+        "field": "Certification Type",
+        "api_value": null,
+        "dom_value": null,
+        "match": true
+      }
+    ]
+  },
+  {
+    "standardNumber": "IS 1554 (Part 1):1988",
+    "url": "https://standards.bis.gov.in/website/standard-details?encryptedId=eyJpdiI6ImthcW9HRVo2T2h6dFR0dXNwblRpcUE9PSIsInZhbHVlIjoiUkxFTmY1ZVpPcG1NcG9VZGVicmphUT09IiwibWFjIjoiNGUyODNkMjI1ZGI0MjIwNzc2YzBmOGM1NTFhZTkyNjQxM2U4YWE5NWVmYzllMzg0MDZiZjY4OWRjY2I5OThmMiIsInRhZyI6IiJ9",
+    "fields": [
+      {
+        "field": "Standard Number",
+        "api_value": "IS 1554 (Part 1):1988",
+        "dom_found": true,
+        "match": true
+      },
+      {
+        "field": "Department",
+        "api_value": "Electrotechnical Department(ETD)",
+        "dom_value": "Electrotechnical Department(ETD)",
+        "match": true
+      },
+      {
+        "field": "Technical Committee",
+        "api_value": "ETD 09 - Power Cables",
+        "dom_value": "ETD 09 - Power Cables",
+        "match": true
+      },
+      {
+        "field": "Equivalent Standard",
+        "api_value": null,
+        "dom_value": null,
+        "match": true
+      },
+      {
+        "field": "Certification Type",
+        "api_value": "Mandatory",
+        "dom_value": "Mandatory",
+        "match": true
+      }
+    ]
+  },
+  {
+    "standardNumber": "IS 4289 (Part 1):2026",
+    "url": "https://standards.bis.gov.in/website/standard-details?encryptedId=eyJpdiI6IlRTN1V4SW1JVjRRU2xQdzBveGowcnc9PSIsInZhbHVlIjoiYWtocE96a3JPL0VqNUlUcUFyR25tQT09IiwibWFjIjoiYjQzOTFjNzNlZDY5NzgwOGMzMDliYzRmMzMwYThkMzgxMmIzYTgxNWQxNTlhNzE1MzJkNzk5MWEwMGMwYzFiZiIsInRhZyI6IiJ9",
+    "fields": [
+      {
+        "field": "Standard Number",
+        "api_value": "IS 4289 (Part 1):2026",
+        "dom_found": true,
+        "match": true
+      },
+      {
+        "field": "Department",
+        "api_value": "Electrotechnical Department(ETD)",
+        "dom_value": "Electrotechnical Department(ETD)",
+        "match": true
+      },
+      {
+        "field": "Technical Committee",
+        "api_value": "ETD 09 - Power Cables",
+        "dom_value": "ETD 09 - Power Cables",
+        "match": true
+      },
+      {
+        "field": "Equivalent Standard",
+        "api_value": null,
+        "dom_value": null,
+        "match": true
+      },
+      {
+        "field": "Certification Type",
+        "api_value": null,
+        "dom_value": null,
+        "match": true
+      }
+    ]
+  },
+  {
+    "standardNumber": "IS 8783 (Part 4/Sec 1):2026",
+    "url": "https://standards.bis.gov.in/website/standard-details?encryptedId=eyJpdiI6Ii8yY2l5K2tmbXpjNCt0UGpkUmxVWlE9PSIsInZhbHVlIjoid3c1ODNkODF6eFVMUEwxSEZPTW84Zz09IiwibWFjIjoiMzJjODFiMjJjYjA3OTRlYjljNmM4OTIzMWU0ZTBjNzVlYzBkY2QxM2U4NmMxMDQwYmVhNjZiYzYxYjYxMGI0MCIsInRhZyI6IiJ9",
+    "fields": [
+      {
+        "field": "Standard Number",
+        "api_value": "IS 8783 (Part 4/Sec 1):2026",
+        "dom_found": true,
+        "match": true
+      },
+      {
+        "field": "Department",
+        "api_value": "Electrotechnical Department(ETD)",
+        "dom_value": "Electrotechnical Department(ETD)",
+        "match": true
+      },
+      {
+        "field": "Technical Committee",
+        "api_value": "ETD 33 - Winding Wire",
+        "dom_value": "ETD 33 - Winding Wire",
+        "match": true
+      },
+      {
+        "field": "Equivalent Standard",
+        "api_value": null,
+        "dom_value": null,
+        "match": true
+      },
+      {
+        "field": "Certification Type",
+        "api_value": null,
+        "dom_value": null,
+        "match": true
+      }
+    ]
+  },
+  {
+    "standardNumber": "IS 10810 (Part 60):1988",
+    "url": "https://standards.bis.gov.in/website/standard-details?encryptedId=eyJpdiI6IlJrelFQYWExWGFUM0tTS3E0cUhaeWc9PSIsInZhbHVlIjoiSGQ1ZkV6a3hCakxSZFBvcHA4ZlJyZz09IiwibWFjIjoiMGI3NzJhNGUyZjM3ZmM5NDFlM2RkODI1YWNhMzI4MjZkYWI5MDI5YjY5MTY2MWE1Yjg4Mzk3ZWUxOTcyNTlkNSIsInRhZyI6IiJ9",
+    "fields": [
+      {
+        "field": "Standard Number",
+        "api_value": "IS 10810 (Part 60):1988",
+        "dom_found": true,
+        "match": true
+      },
+      {
+        "field": "Department",
+        "api_value": "Electrotechnical Department(ETD)",
+        "dom_value": "Electrotechnical Department(ETD)",
+        "match": true
+      },
+      {
+        "field": "Technical Committee",
+        "api_value": "ETD 09 - Power Cables",
+        "dom_value": "ETD 09 - Power Cables",
+        "match": true
+      },
+      {
+        "field": "Equivalent Standard",
+        "api_value": null,
+        "dom_value": null,
+        "match": true
+      },
+      {
+        "field": "Certification Type",
+        "api_value": null,
+        "dom_value": null,
+        "match": true
+      }
+    ]
+  },
+  {
+    "standardNumber": "IS/IEC 60136:2024",
+    "url": "https://standards.bis.gov.in/website/standard-details?encryptedId=eyJpdiI6ImdXdDYzdStuZXc0Vk5nMitDTUxuYlE9PSIsInZhbHVlIjoiSEw3RytwekxMS1g0TnMrSWh2M0VhQT09IiwibWFjIjoiYmJhODc2YzQwNDc4ZDc5YzRkYjI2OGE1YzUzYjQ2ODBhNzNiMDg2M2QyNTdkZWQ5OWZjYTNiMDQ4ZWRiNTgxZSIsInRhZyI6IiJ9",
+    "fields": [
+      {
+        "field": "Standard Number",
+        "api_value": "IS/IEC 60136:2024",
+        "dom_found": true,
+        "match": true
+      },
+      {
+        "field": "Department",
+        "api_value": "Electrotechnical Department(ETD)",
+        "dom_value": "Electrotechnical Department(ETD)",
+        "match": true
+      },
+      {
+        "field": "Technical Committee",
+        "api_value": "ETD 15 - Rotating Machinery",
+        "dom_value": "ETD 15 - Rotating Machinery",
+        "match": true
+      },
+      {
+        "field": "Equivalent Standard",
+        "api_value": "IEC 60136:2024",
+        "dom_value": "IEC 60136:2024",
+        "match": true
+      },
+      {
+        "field": "Certification Type",
+        "api_value": null,
+        "dom_value": null,
+        "match": true
+      }
+    ]
+  },
+  {
+    "standardNumber": "IS 2026 (Part 1):2011",
+    "url": "https://standards.bis.gov.in/website/standard-details?encryptedId=eyJpdiI6Im5qZi9YdHprR2hiTGRFOXhOVkU5d3c9PSIsInZhbHVlIjoiMjBIZCtlNGtITWR2c01ScXNFNGpZUT09IiwibWFjIjoiYTVhMzFiNTRkMGM4NzY1NzNlNjVjNmFlNDMyNzMxYWY4MWNiODMxNTNiMGZhOGYxMGNiMGFmZGEwMzgxYWE1ZCIsInRhZyI6IiJ9",
+    "fields": [
+      {
+        "field": "Standard Number",
+        "api_value": "IS 2026 (Part 1):2011",
+        "dom_found": true,
+        "match": true
+      },
+      {
+        "field": "Department",
+        "api_value": "Electrotechnical Department(ETD)",
+        "dom_value": "Electrotechnical Department(ETD)",
+        "match": true
+      },
+      {
+        "field": "Technical Committee",
+        "api_value": "ETD 16 - Transformers",
+        "dom_value": "ETD 16 - Transformers",
+        "match": true
+      },
+      {
+        "field": "Equivalent Standard",
+        "api_value": "IEC 60076-1 : 2000, IEC 76 : 1967",
+        "dom_value": null,
+        "match": false
+      },
+      {
+        "field": "Certification Type",
+        "api_value": null,
+        "dom_value": null,
+        "match": true
+      }
+    ]
+  },
+  {
+    "standardNumber": "IS 1293:2019",
+    "url": "https://standards.bis.gov.in/website/standard-details?encryptedId=eyJpdiI6IjZsd3gxYzd6TDl3dzZNR3pSdWoxeGc9PSIsInZhbHVlIjoiSjhDMU9BaXUxdHRJSGk1eGJjd3FWUT09IiwibWFjIjoiMGQ4OTM1MmZmZTU0MzYxOTcwZjdkNmY0MjcxM2MwMTFkZGExODhhMTNjZDBkNzExNmU1M2E3ZjVjYjljNWRhZSIsInRhZyI6IiJ9",
+    "fields": [
+      {
+        "field": "Standard Number",
+        "api_value": "IS 1293:2019",
+        "dom_found": true,
+        "match": true
+      },
+      {
+        "field": "Department",
+        "api_value": "Electrotechnical Department(ETD)",
+        "dom_value": "Electrotechnical Department(ETD)",
+        "match": true
+      },
+      {
+        "field": "Technical Committee",
+        "api_value": "ETD 14 - Electrical Wiring Accessories",
+        "dom_value": "ETD 14 - Electrical Wiring Accessories",
+        "match": true
+      },
+      {
+        "field": "Equivalent Standard",
+        "api_value": "IEC  60884-1",
+        "dom_value": "IEC 60884-1",
+        "match": false
+      },
+      {
+        "field": "Certification Type",
+        "api_value": "Mandatory",
+        "dom_value": "Mandatory",
+        "match": true
+      }
+    ]
+  }
+]

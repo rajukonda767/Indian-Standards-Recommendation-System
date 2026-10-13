@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 11694,
+      "So_No": "pub-14-1-2020",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/CED/gf_217_11694_4984_A2.pdf",
+      "pki_id": 6569,
+      "Amd_No": 2,
+      "standardNumber": " Amendment 2 to IS 4984:2016",
+      "standardId": 11693
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Commerce and Industry - Department for Promotion of Industry and Internal Trade (DPIIT)",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6Ino3c25Dbng2THZRUmp5dE55UG5TSXc9PSIsInZhbHVlIjoiN3h6ejJWZW5KYnIxV1psL0Q2NjdsZz09IiwibWFjIjoiYzRlZDRhOWNkMDgwMDExMTFkMzkwODczY2MwMTUwNDM0OWJmOTYwZjlmZjEyOGE1NGVlYjRjYWU4ODA2N2FhYiIsInRhZyI6IiJ9",
+    "rowStandardId": 30068,
+    "pk_is_id": 30256,
+    "standardName": "Flexible Cables for Miners' Cap Lamps - Specification   (Second Revision)",
+    "standardNumber": "IS 2593:2023",
+    "publishedOn": "2024-01-02",
+    "committeeId": 243,
+    "departmentId": 65,
+    "groupName": "Electrical  Switchgear and Other Electrical Products/Accessories",
+    "subGroupName": "Cables, Conductors, Wires and Accessories",
+    "subSubGroupName": "Power cables",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "02",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": null,
+    "certificationName": "",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "IS 2593 : 1984",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S05/S05V01/2593.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": null,
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Emmanuel Abhishek Murmu (SCIENTIST-D)",
+    "committeeName": "Power Cables",
+    "departmentName": "ELECTROTECHNICAL DEPARTMENT",
+    "deptAliasName": "ETD",
+    "committeePreparedName": "ETD 09 - Power Cables",
+    "deptPreparedName": "Electrotechnical Department(ETD)",
+    "reviewList": [
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 2593:1984"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 2593:2023"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 2593:1984"
+      }
+    ]
+  }
+}

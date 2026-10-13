@@ -1,0 +1,77 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6InpuemRic1BKQThxc2drVi9kbkgrZXc9PSIsInZhbHVlIjoicFVxN2txWU9lN0FiU2JzUytxdWpvZz09IiwibWFjIjoiNzZlYTJjMmM1YTMyYmM1M2QzOGRkM2JjZTZkYWUzMmMzYjYwMTU5OTYwNWFlOTc1YzM0Yzc2NWNhNjIxY2M2MyIsInRhZyI6IiJ9",
+    "rowStandardId": 162,
+    "pk_is_id": 162,
+    "standardName": "Chequered Cement Concrete Tiles - Specification (First Revision)",
+    "standardNumber": "IS 13801:2013",
+    "publishedOn": "2013-05-31",
+    "committeeId": 193,
+    "departmentId": 63,
+    "groupName": "Building Materials including Paints",
+    "subGroupName": "Flooring, Roofing and Wall Finishing Products",
+    "subSubGroupName": "Flooring and  Roofing Standards",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "01",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "Chequered Cement Concrete Tiles -",
+    "certificationName": "Voluntary",
+    "equivalenceTypeName": "",
+    "supersheed": "",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "2023-05-01",
+    "commentCount": 4,
+    "equivalenceId": 0,
+    "is_documents": "BisProd/bisProd/oldStandards/S03/S03V01/13801.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2023-05-01",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Abhishek Pal (SCIENTIST-D)",
+    "committeeName": "Flooring, Wall Finishing And Roofing",
+    "departmentName": "CIVIL ENGINEERING DEPARTMENT",
+    "deptAliasName": "CED",
+    "committeePreparedName": "CED 05 - Flooring, Wall Finishing And Roofing",
+    "deptPreparedName": "Civil Engineering Department(CED)",
+    "reviewList": [
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 13801:2013"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 13801:2013"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 13801:2013"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 13801:2013"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 13801:2013"
+      }
+    ]
+  }
+}

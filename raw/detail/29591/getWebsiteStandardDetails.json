@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Steel",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6Ijd3V09yKzNhK2huU0NLVEhYbnBRb3c9PSIsInZhbHVlIjoiVVpoQ0JQeFNObE00T0d4SlBpUEJOZz09IiwibWFjIjoiYjJlYzdjZTkyMThlNzU1ODE4YmNiNTU4ODI2NTg0Njg3NDBlZDU2M2I1NjM0M2ZhMWM0YTgwNTVjYWY4ODcxMCIsInRhZyI6IiJ9",
+    "rowStandardId": 29405,
+    "pk_is_id": 29591,
+    "standardName": "TECHNICAL DELIVERY CONDITIONS FOR STEEL CASTINGS   EXCLUDING INVESTMENT CASTINGS",
+    "standardNumber": "IS 8800:2023",
+    "publishedOn": "2023-09-01",
+    "committeeId": 37,
+    "departmentId": 70,
+    "groupName": "Metals, Alloys and Metal Products (including Steel Products)",
+    "subGroupName": "Steel and Steel Castings, Wires, Ropes, Pipes , Tubes and other products",
+    "subSubGroupName": "Steel Casting",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "04",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": null,
+    "certificationName": "",
+    "equivalenceTypeName": "Not Equivalent",
+    "supersheed": "IS 8800 : 1997",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 4,
+    "is_documents": "BisProd/bisProd/oldStandards/S10/S10V01/8800.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": "ISO 4990",
+    "identical_is": null,
+    "reviewOn": "2023-09-06",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Nishant Parasar (SCIENTIST-D)",
+    "committeeName": "Foundry and Steel Castings Sectional Committee",
+    "departmentName": "METALLURGICAL ENGINEERING DEPARTMENT",
+    "deptAliasName": "MTD",
+    "committeePreparedName": "MTD 14 - Foundry And Steel Castings Sectional Committee",
+    "deptPreparedName": "Metallurgical Engineering Department(MTD)",
+    "reviewList": [
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 8800:1997"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 8800:2023"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 8800:1997"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 11626,
+        "isType": 1,
+        "standardNumber": "IS 4905:2015",
+        "standardName": "Random sampling and randomization procedures (First Revision)",
+        "noOfReview": "01",
+        "identical_is": "ISO 24153 : 2009  ",
+        "reviewOn": "2025-03-01",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjJGa21nWDhNRXFLQjFONnNVWk40VVE9PSIsInZhbHVlIjoiL2NxWkZOSEt4YWxhaGZLUDl3WDRtUT09IiwibWFjIjoiYjBjMzgzNmJkNWYyYjA1Yzk4ZWNkNzMyMWUzNjE2MTI4NGViMGFjZjczNTU2Zjk4NDkzZjEyOWIzN2E5Yzc2MSIsInRhZyI6IiJ9",
+        "identical": "ISO 24153 : 2009  "
+      },
+      {
+        "standardId": 25686,
+        "isType": 1,
+        "standardNumber": "IS 3614:2021",
+        "standardName": "Fire Doors and Doorsets - Specification (first revision)",
+        "noOfReview": "00",
+        "identical_is": "",
+        "reviewOn": "2024-05-24",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImRueXU5ejdHZ3NDSmZBeTRvUXdUaWc9PSIsInZhbHVlIjoicWF3VGF6WnZSaUE1TnFNL0ZvZ2F2UT09IiwibWFjIjoiYzZmMWUxYmFkZTNlZmY0ZDVmOTc3MzM4NWY4NDk3NGZiNjY4YTIyNWZmZDUxN2M5YjU4MzZjY2E1NzFhZDU4OCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 31079,
+        "isType": 1,
+        "standardNumber": "IS 5528:2024",
+        "standardName": "Corrosion Tests in Artificial Atmospheres - Salt Spray Tests  (second revision)",
+        "noOfReview": "02",
+        "identical_is": "ISO 9227 : 2022",
+        "reviewOn": "2024-07-18",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InU4V3NDZTVKV0t6bHhoOEZNOFZRbkE9PSIsInZhbHVlIjoiTjZjc0RkaUVCTUFUeDhpdmhkNUQvZz09IiwibWFjIjoiZjAxZjZjN2Q0MTg1YWIxNjllZjllYzNkMWM5NDc3NjY4YTE4N2VjYmQyZjVlYTVkODM4ZjM1ZGZjYWJkZDU0NSIsInRhZyI6IiJ9",
+        "identical": "ISO 9227 : 2022"
+      }
+    ],
+    "crossFollowRefData": []
+  }
+}

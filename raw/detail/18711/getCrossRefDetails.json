@@ -1,0 +1,76 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 31712,
+        "standardNumber": "IS 302 (Part 1):2024",
+        "standardName": "Household and Similar Electrical Appliances —  Safety  Part 1 General Requirements (Seventh Revision)",
+        "equivalent_is": "",
+        "identical_is": "IEC 60335-1: 2020",
+        "reviewOn": "2024-09-09",
+        "noOfReview": "07",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlBNV21hdDVYcHZhYVBjUGIwSGNsMFE9PSIsInZhbHVlIjoiZXNqbS9WWDV6dXpMTlF3bjROejVjUT09IiwibWFjIjoiNmQ0ZTA5YzgxMDE0OTYzZWZmZTM1ODZkZTQwZTg0ZmZiMjEyYjZiMmVlMzE5ZWYzNGEyZTMzMTgzYzM5ODg4ZiIsInRhZyI6IiJ9",
+        "identical": "IEC 60335-1: 2020"
+      },
+      {
+        "standardId": 31649,
+        "standardNumber": "IS 302 (Part 2/Sec 21):2024",
+        "standardName": "Household and Similar Electrical Appliances-Safety Part 2 Particular Requirements  Section 21 Storage Water Heaters",
+        "equivalent_is": "",
+        "identical_is": "IEC 60335-2-21:2022",
+        "reviewOn": "2024-08-27",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkcwNkM3cmg4bDFpcU5WQ2U2d3JUYWc9PSIsInZhbHVlIjoiNkRrYW41T0hWd1pMcVlnMnkwRXBhZz09IiwibWFjIjoiODMwZmZkMzg4ZmI0N2FlZmMzYjk2NTMzMzk4YzgxZTJmZDgxMjE0NGRlM2M2Y2VjMDdlNzE2NDc3ZTM4NDBiOSIsInRhZyI6IiJ9",
+        "identical": "IEC 60335-2-21:2022"
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 14525,
+        "standardName": "Code of practice for domestic hot water installations",
+        "standardNumber": "IS 7558:1974",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2022-02-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImllcDE2OThNVGhGdnZFNWFqMHlrK0E9PSIsInZhbHVlIjoiaFYxSXZmMXo5cUJ6QUJNNTRyc2l2QT09IiwibWFjIjoiZTNhMzFkZGYzM2NlMDc3ZTIxM2U0YjE4MjY1ZjI5NWZkYzc5OThlN2Y4ZjMzZWFjNmU2MmI3OWMzYmU1YWYwNSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 31762,
+        "standardName": "Vitreous Enamelled Inner Tanks for Storage Water Heater - Specification  (First Revision)",
+        "standardNumber": "IS 13273:2024",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2024-09-11",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkZyR0EyZ0dMa1h3Zmo3a0x4UWFLMnc9PSIsInZhbHVlIjoiVlZmM2VjaFhDWDAvVWh0TVZJVEc0UT09IiwibWFjIjoiMDI1ZWM0MzBkMTc2NmMxOTU0MDRiMDJlZmRjMmE4NjA5OTI5YjI0MGJjZWJlZjE0NDllM2U3M2M5NzNkYTNhYiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 11382,
+        "standardName": "Guide for electrical layout in residential buildings",
+        "standardNumber": "IS 4648:1968",
+        "equivalent_is": "NULL",
+        "identical_is": "NULL",
+        "reviewOn": "2025-06-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ink5YzNEM2JmYmxJUzNqb1VQb3ZEaUE9PSIsInZhbHVlIjoiRHRsL1d5Z05pbFZhdWNkZ3ErSWphdz09IiwibWFjIjoiYTc4Nzg0OWNkOTRmY2I4YTJjMjMwZjVlOGM5MmRkMDMzYTlmOWJjY2ZiMmIyMmJmMTc4Y2ZkNjQzNjg1MThlYSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

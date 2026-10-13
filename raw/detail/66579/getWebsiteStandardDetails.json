@@ -1,0 +1,85 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Consumer Affairs, Food and Public Distribution - Department of Consumer Affairs",
+    "riskNameName": "Low",
+    "standardId": "eyJpdiI6InNIMmFtVVNCd0p2THNOTXc2T0sySXc9PSIsInZhbHVlIjoiWHNtcy9WRUI4aWZFVmJKU1BENnZkQT09IiwibWFjIjoiYmFlZTVjNTRkMjdmYzI3NTM0NmY2MGJjZjJmZWI1MjMwYzljZWJlYWIxM2YxN2E1YmNkOTQxZTZlMGUxZTc0NCIsInRhZyI6IiJ9",
+    "rowStandardId": 66579,
+    "pk_is_id": 66579,
+    "standardName": "Supersulphated Cement - Specification (Second Revision of IS 6909)",
+    "standardNumber": "IS 6909:2026",
+    "publishedOn": "2026-03-23",
+    "committeeId": 190,
+    "departmentId": 63,
+    "groupName": "Civil Engineering Design and Construction",
+    "subGroupName": "Concrete structures",
+    "subSubGroupName": "Special Structures",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "02",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 5,
+    "languageId": "English",
+    "icsCode": "01.040.91",
+    "shortTitle": null,
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "IS 6909:1990",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/projects/proof/2026/04/347_1775041377.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": null,
+    "source": 1,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Jitendra Kumar Chaudhary (SCIENTIST-C)",
+    "committeeName": "Cement And Concrete",
+    "departmentName": "CIVIL ENGINEERING DEPARTMENT",
+    "deptAliasName": "CED",
+    "committeePreparedName": "CED 02 - Cement And Concrete",
+    "deptPreparedName": "Civil Engineering Department(CED)",
+    "reviewList": [
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 6909:1990"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 6909:1990"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 6909:1990"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 6909:1990"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 6909:1990"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 6909:1990"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 6909:1990"
+      }
+    ]
+  }
+}

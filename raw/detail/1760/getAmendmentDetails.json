@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "totalAmendments": 1,
+  "data": [
+    {
+      "standardId": 1760,
+      "standardNumber": "IS 10810 (Part 60):1988",
+      "noOfAmendment": 1,
+      "amendmentYear": "2024",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/10810_60A1.pdf",
+      "amendmentLabel": "First Amendment"
+    }
+  ]
+}

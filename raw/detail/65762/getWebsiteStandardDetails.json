@@ -1,0 +1,73 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Commerce and Industry - Department for Promotion of Industry and Internal Trade (DPIIT)",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6InBSZGZHaWNtZUs1L2xPTXB6dmw0UUE9PSIsInZhbHVlIjoiV3E3ZEh3ZnNYakdQSUJhWTNyZzdaZz09IiwibWFjIjoiZDRmZWQ0OTFmMzFkYjRhOTQ1OTU3M2YxMWJjNjdlY2YyOTI4MDcxZDEzODUwMzg1NGMwMGFkYWNlYjViMzBhZCIsInRhZyI6IiJ9",
+    "rowStandardId": 65762,
+    "pk_is_id": 65762,
+    "standardName": "Wrought Aluminium and  Aluminium Alloy Bars, Rods, Sections, Extruded Tube,  Hollow Sections  and Profiles for  General Engineering Purposes ― Specification (Fourth Revision)",
+    "standardNumber": "IS 733:2025",
+    "publishedOn": "2025-12-29",
+    "committeeId": 30,
+    "departmentId": 70,
+    "groupName": "Metals, Alloys and Metal Products (including Steel Products)",
+    "subGroupName": "Non ferrous metals and their alloys",
+    "subSubGroupName": "Wrought Aluminium & Aluminium alloys",
+    "sectorName": "Aluminium and Aluminium alloys , Titanium, Magnesium",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "04",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 5,
+    "languageId": "English",
+    "icsCode": "77.150.10",
+    "shortTitle": null,
+    "certificationName": "Voluntary",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "IS: IS 733 : 1983 , IS 1285 : 2023",
+    "orgTypeName": "",
+    "goalNames": "RESPONSIBLE CONSUMTION AND PRODUCTION",
+    "reAffirmationYear": "",
+    "commentCount": 3,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/projects/proofStage/2026/01/581_1767962655.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": null,
+    "source": 1,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Vipul Bohara (SCIENTIST-C)",
+    "committeeName": "Ores and Feed Stock for Aluminium Industry, its Metals/ Alloys and Products Sectional Committee",
+    "departmentName": "METALLURGICAL ENGINEERING DEPARTMENT",
+    "deptAliasName": "MTD",
+    "committeePreparedName": "MTD 07 - Ores And Feed Stock For Aluminium Industry, Its Metals/ Alloys And Products Sectional Committee",
+    "deptPreparedName": "Metallurgical Engineering Department(MTD)",
+    "reviewList": [
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 733:1983"
+      },
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 733:1983"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 733:1983"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 733:1983"
+      }
+    ]
+  }
+}

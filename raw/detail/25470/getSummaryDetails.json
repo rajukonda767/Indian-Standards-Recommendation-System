@@ -1,0 +1,10 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Data Found",
+  "data": {
+    "pk_is_id": "25470",
+    "file_path": "BisProd/bisProd/Standard_Review/Standard_Summary/tbl5_2024-12-02-11-19.pdf",
+    "file_name": "tbl5_2024-12-02-11-19.pdf"
+  }
+}

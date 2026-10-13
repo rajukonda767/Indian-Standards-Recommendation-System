@@ -1,0 +1,46 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 8290,
+        "isType": 1,
+        "standardNumber": "IS 1885 (Part 15):2008",
+        "standardName": "Electrotechnical vocabulary: Part 15 primary and secondary cells and batteries (Second Revision)",
+        "noOfReview": "02",
+        "identical_is": "IEC 60050-482 : 2004",
+        "reviewOn": "2025-01-01",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlpiaHNFQzU4Y0trTWFONWxjbG01d3c9PSIsInZhbHVlIjoiTktDTnBrNlJrZlFkeXFmYlM2QnJudz09IiwibWFjIjoiMGZlYTFiMGYyZTdmZDY3ZWM2MDBjY2U2ZWM1Y2M4YTc1ZGI2YjMzMTI1YTE1NzU4OTE5MDVhNzRmMTY0MDMyYSIsInRhZyI6IiJ9",
+        "identical": "IEC 60050-482 : 2004"
+      },
+      {
+        "standardId": 27122,
+        "isType": 1,
+        "standardNumber": "IS 2:2022",
+        "standardName": "RULES FOR ROUNDING OFF NUMERICAL VALUES (Second Revision)",
+        "noOfReview": "01",
+        "identical_is": "",
+        "reviewOn": null,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InJsY09URWZMYlhpQWRBeFBabWdqMmc9PSIsInZhbHVlIjoidEMzUk01MVNDTHc1Y3RJZkR1Z0tKQT09IiwibWFjIjoiNTUxMDhmZGYwODI1MGQxODlmNzc3MjhkNTNhMWYzNTBhNmM1YWE4YWQzOTRlZTQyZDRkOGFiNzQ0Mjc0ZmE2NCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 33760,
+        "isType": 1,
+        "standardNumber": "IS 266:2025",
+        "standardName": "Sulphuric Acid - Specification (Fifth Revision)",
+        "noOfReview": "05",
+        "identical_is": "",
+        "reviewOn": "2025-08-11",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InowY2NNcGdjcWxsMVZ3ZVhRc3hXTUE9PSIsInZhbHVlIjoiRFVKVnZkT1NTZjNRcTU1bXZmV283QT09IiwibWFjIjoiNWQ2ZWE3MTc0ODllZWYwYjM2OWE2YmM5NGE3MTY3OGVmZDdiMmU3M2YwMWFhZGUwY2U5NTA5YWQ1ODExM2Q3MyIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": []
+  }
+}

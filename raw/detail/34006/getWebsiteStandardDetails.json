@@ -1,0 +1,85 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6IjJGSU84cVFWRVRXYk02SUZ6SmxsYmc9PSIsInZhbHVlIjoiMnNNSlgzeFFKUGRDSEYvR0xEVTNlZz09IiwibWFjIjoiOWQyMWYxNjlmN2Y2NjM0OGNjOTVkYjczNDFkMWJiM2NmMTNmYzZhMDk3NDkyMzNjOTcyNDBjNmY5YzYwZmRkNCIsInRhZyI6IiJ9",
+    "rowStandardId": 33817,
+    "pk_is_id": 34006,
+    "standardName": "Medium Density Particle Boards of Wood and other Lignocellulosic Materials for General Purpose - Specification  ( Third Revision )",
+    "standardNumber": "IS 3087:2025",
+    "publishedOn": "2025-08-19",
+    "committeeId": 201,
+    "departmentId": 63,
+    "groupName": "Building Materials including Paints",
+    "subGroupName": "Timber, Wood and Wood Products",
+    "subSubGroupName": "Boards & wood composite products",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "03",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": null,
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "",
+    "supersheed": "",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "2026-05-21",
+    "commentCount": 2,
+    "equivalenceId": 0,
+    "is_documents": "BisProd/bisProd/oldStandards/S03/S03V01/3087.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2026-05-21",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Nishikant  Singh (SCIENTIST-D)",
+    "committeeName": "Wood And Other Lignocellulosic Products",
+    "departmentName": "CIVIL ENGINEERING DEPARTMENT",
+    "deptAliasName": "CED",
+    "committeePreparedName": "CED 20 - Wood And Other Lignocellulosic Products",
+    "deptPreparedName": "Civil Engineering Department(CED)",
+    "reviewList": [
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 3087:2005"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 3087:2005"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 3087:2005"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 3087:2005"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 3087:2025"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 3087:2005"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 3087:2005"
+      }
+    ]
+  }
+}

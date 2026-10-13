@@ -1,0 +1,48 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "totalAmendments": 5,
+  "data": [
+    {
+      "standardId": 10820,
+      "standardNumber": "IS 418:2004",
+      "noOfAmendment": 1,
+      "amendmentYear": "2006",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/418A1.pdf",
+      "amendmentLabel": "First Amendment"
+    },
+    {
+      "standardId": 10820,
+      "standardNumber": "IS 418:2004",
+      "noOfAmendment": 1,
+      "amendmentYear": "2007",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/418A2.pdf",
+      "amendmentLabel": "Second Amendment"
+    },
+    {
+      "standardId": 10820,
+      "standardNumber": "IS 418:2004",
+      "noOfAmendment": 3,
+      "amendmentYear": "2012",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/418A4.pdf",
+      "amendmentLabel": "Third Amendment"
+    },
+    {
+      "standardId": 10820,
+      "standardNumber": "IS 418:2004",
+      "noOfAmendment": 2,
+      "amendmentYear": "2012",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/418A3.pdf",
+      "amendmentLabel": "Fourth Amendment"
+    },
+    {
+      "standardId": 10820,
+      "standardNumber": "IS 418:2004",
+      "noOfAmendment": 4,
+      "amendmentYear": "2014",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/418A5.pdf",
+      "amendmentLabel": "Fifth Amendment"
+    }
+  ]
+}

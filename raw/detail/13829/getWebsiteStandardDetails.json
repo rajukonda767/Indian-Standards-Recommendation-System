@@ -1,0 +1,77 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Commerce and Industry - Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Power",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6IlJnNG1QMUxvdWpXdEJ1b01Na0k3c3c9PSIsInZhbHVlIjoibW1VRzV6T0Q2Wjcrd3hZS0VNenlVQT09IiwibWFjIjoiZDdmMGFhNzJkN2ZkMmI5ZjZhOWUxNjYyNDFmN2M2YmE1NTU3OGZiNDdmYzdlMTA0ZmNjYWVlNDM2ZWU2NjQ2MCIsInRhZyI6IiJ9",
+    "rowStandardId": 13826,
+    "pk_is_id": 13829,
+    "standardName": "Polyvinyl chloride insulated unsheathed and sheathed cables/cords with rigid and flexible conductor for rated voltages up to and including 1 100 V (Fourth Revision)",
+    "standardNumber": "IS 694:2010",
+    "publishedOn": "2011-05-31",
+    "committeeId": 243,
+    "departmentId": 65,
+    "groupName": "Electrical  Switchgear and Other Electrical Products/Accessories",
+    "subGroupName": "Cables, Conductors, Wires and Accessories",
+    "subSubGroupName": "Power cables",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "04",
+    "noOfAmendment": "04",
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "Polyvinyl Chloride Insulated Unsheathed--And Sheathed Cables/cords With Rigid And--Flexible Conducto",
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Modified/Technically Equivalent",
+    "supersheed": "",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "2020-01-01",
+    "commentCount": 5,
+    "equivalenceId": 3,
+    "is_documents": "BisProd/bisProd/oldStandards/S05/S05V01/694.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2026-05-29",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Emmanuel Abhishek Murmu (SCIENTIST-D)",
+    "committeeName": "Power Cables",
+    "departmentName": "ELECTROTECHNICAL DEPARTMENT",
+    "deptAliasName": "ETD",
+    "committeePreparedName": "ETD 09 - Power Cables",
+    "deptPreparedName": "Electrotechnical Department(ETD)",
+    "reviewList": [
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 694:2010"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 694:2010"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 694:2010"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 694:2010"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 694:2010"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 9958,
+      "So_No": "pub-013-1-2020-pub-bis (552)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/CED/gf_205_9958_3367_3.pdf",
+      "pki_id": 8240,
+      "Amd_No": 0,
+      "standardNumber": "IS 3367:2023",
+      "standardId": 28368
+    }
+  ]
+}

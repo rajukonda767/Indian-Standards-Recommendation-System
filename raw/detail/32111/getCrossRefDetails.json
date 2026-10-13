@@ -1,0 +1,112 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 6638,
+        "standardNumber": "IS 14700 (Part 4/Sec 1):2019",
+        "standardName": "Electromagnetic compatibility (EMC): Part 4 testing and measurement techniques: Sec 1 overview of the IEC 61000 - 4 series (Second Revision)",
+        "equivalent_is": " ",
+        "identical_is": "IEC 61000-4-1 : 2016 ",
+        "reviewOn": "2026-02-23",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImJLRHk3WHV1UVcyaFpHZmNYZ2wveXc9PSIsInZhbHVlIjoicVUvMnFBRE52dCsxN09SYnVzRFdmQT09IiwibWFjIjoiODUxMzYxMTJiMjM2OGI4YzQ3MTg3MmY3YTQ5ZmI5ZWVlNzM4ZDQ3YzNkMjAwMzRjMzM3NGIyYjNkYTkzMDk4YSIsInRhZyI6IiJ9",
+        "identical": "IEC 61000-4-1 : 2016 "
+      },
+      {
+        "standardId": 8612,
+        "standardNumber": "IS 2071 (Part 1):2016",
+        "standardName": "High - Voltage test techniques: Part 1 general definitions and test requirements (Third Revision)",
+        "equivalent_is": " ",
+        "identical_is": "IEC 60060-1 : 2010 ",
+        "reviewOn": "2024-09-01",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Imt2Z1pRaGxOTHhGaG9COHRSblE1M3c9PSIsInZhbHVlIjoiZkhJNFpWNmNiM3I0YUtjaDJSWGJNdz09IiwibWFjIjoiYzMzYzlhNGFkMGY4NjI5ZTYyNTNmNzkxZDNkYjI2NDU4NzM3NTBmZDI4OGE3YjE1ZmQ5ODNjYTdiZDMwODAwNiIsInRhZyI6IiJ9",
+        "identical": "IEC 60060-1 : 2010 "
+      },
+      {
+        "standardId": 23615,
+        "standardNumber": "IS/IEC 60269 (Part 1):2014",
+        "standardName": "Low-Voltage Fuses Part 1 General Requirements",
+        "equivalent_is": " ",
+        "identical_is": "IEC 60269-1 : 2014 ",
+        "reviewOn": "2025-12-08",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlE3ak16Y3B6Tm1MMGlhK2RCVFROZ1E9PSIsInZhbHVlIjoibVpZTncxU3o0WUZ0RlU4d214dkQ4Zz09IiwibWFjIjoiM2NhZWM4OTljNTUyNTg1MjQzY2UzZGJiZGM3ZTAzZWY5MWZjY2VjYTIxNWU2ODNmZGI2ZWIxZjdmNGQyNTNjZCIsInRhZyI6IiJ9",
+        "identical": "IEC 60269-1 : 2014 "
+      },
+      {
+        "standardId": 24341,
+        "standardNumber": "IS/ISO 30408:2016",
+        "standardName": "Human Resource Management — Guidelines on Human Governance",
+        "equivalent_is": " ",
+        "identical_is": "ISO 30408 : 2016 ",
+        "reviewOn": "2024-09-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InU5czl1ZVJYVlhrRU1TNzNocnpwZnc9PSIsInZhbHVlIjoiN3I0cVgrTGdaL1pFVnVBL3JOY3p1UT09IiwibWFjIjoiMzAyMTI5NDE1ZTBlOWQ0NmU3NzQyNGYzMmViYTY3ZTA2N2YzY2VmY2ZmZTNlYjc4YmFkM2M4ZjQ1YjVlOTI4YyIsInRhZyI6IiJ9",
+        "identical": "ISO 30408 : 2016 "
+      },
+      {
+        "standardId": 32896,
+        "standardNumber": "IS 19136:2025",
+        "standardName": "NATUROPATHY - GLOSSARY OF TERMS",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImZCOGtCNGg3SE5uQldlVDF6TnMzWGc9PSIsInZhbHVlIjoiUk13MVcxQzlKMVBWYUt6ZDZpZzNUUT09IiwibWFjIjoiZmY4MWQyY2I5MTRiZGVmYmJiNWViMzg5MWUwNWQ5ZGVjN2U2NDUxZDBmZDZkYjMwNmRkNjc4NDNlYWI3NWFlNCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 61000 (Part 2/Sec 2):2002",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Ii9KVGFqUEFNeVpxTVJKcUlaWWx1Rmc9PSIsInZhbHVlIjoiajRrRVhNZlFwU3NtRzFZTDNRc1BqQT09IiwibWFjIjoiMmFmNGE5ZjE3MjRhN2U1NjU1OTgxZDU4MmI2ZGI2NDU3ZjFlYzVmYzk1MzI0N2E5YTdmZmFjMjA5ZWYxMGM3NSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 6638,
+        "standardName": "Electromagnetic compatibility (EMC): Part 4 testing and measurement techniques: Sec 1 overview of the IEC 61000 - 4 series (Second Revision)",
+        "standardNumber": "IS 14700 (Part 4/Sec 1):2019",
+        "equivalent_is": " ",
+        "identical_is": "IEC 61000-4-1 : 2016 ",
+        "reviewOn": "2026-02-23",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlEzRGRPTTRzWTVOdHJ3SEZuenRTK0E9PSIsInZhbHVlIjoiYXU4QzE4R25CVmtENXNtNDJjWm1WUT09IiwibWFjIjoiN2ZhNDdmNzEwNDljMzUzZjA2MzUwNjc1ZTg3NmI1MzRkYzZjYTVjYmQ4OTA2MzYxMjI3MmQzMjFmNTY4NzQ2NiIsInRhZyI6IiJ9",
+        "identical": "IEC 61000-4-1 : 2016 "
+      },
+      {
+        "standardId": 26497,
+        "standardName": "Power Capacitors for Induction Heating Installations Part 1 General (First Revision)",
+        "standardNumber": "IS/IEC 60110 (Part 1):1998",
+        "equivalent_is": "",
+        "identical_is": "IEC 60110-1 : 1998",
+        "reviewOn": "2021-11-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Im1UK0tnaDFOcWs0K0F2M3pnQmJaVFE9PSIsInZhbHVlIjoiT0VJYWZCa21uOW5GZ2w4dFJIa2Z5UT09IiwibWFjIjoiYTc4MGFlYTIyMzNlZDAzYzU3ZWY2MmJkYWQ5ZDhlODk1MzE5MTEwYmFkNDc2ZDkyMGZmMTVmMjQyZjY0NDM1YyIsInRhZyI6IiJ9",
+        "identical": "IEC 60110-1 : 1998"
+      }
+    ]
+  }
+}

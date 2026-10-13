@@ -1,0 +1,154 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 72,
+        "standardNumber": "IS 13778 (Part 2):2013",
+        "standardName": "Winding wires - Test methods: Part 2 determination of dimensions (First Revision)",
+        "equivalent_is": "NULL",
+        "identical_is": "IEC 60851-2 : 2009",
+        "reviewOn": "2024-09-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Iit3VnBnRndHck5PSFNWQ2JUY0UrOFE9PSIsInZhbHVlIjoiclVCWHA2cGFjelRFL3lsbWV5ZEdJUT09IiwibWFjIjoiNjAzN2JmZWZkOGZhZDM2OWUwZTJhMTkwODI3Njk2ZjU5NGJhZWExMGRhMjI3MGIzOWEyYjgwNWQ5MzllMmJiZCIsInRhZyI6IiJ9",
+        "identical": "IEC 60851-2 : 2009"
+      },
+      {
+        "standardId": 1650,
+        "standardNumber": "IS 1076 (Part 1):1985",
+        "standardName": "Preferred numbers: Part 1 series of preferred numbers (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": "ISO 3",
+        "reviewOn": "2026-07-29",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InJRYXdTQk1aS1EzaDV6SnAzeC9Yc1E9PSIsInZhbHVlIjoiSzloNHFTclJwdnZsa2VNUWN6WCtOZz09IiwibWFjIjoiNjY5Yjc3M2M5YTQ0OGQ5NmFmNzNjODg1YTRmOTg2Y2I4MTE1MDNmZDQ2ZTI2NTIyZWUxN2JiMDkxMTJiMThhZiIsInRhZyI6IiJ9",
+        "identical": "ISO 3"
+      },
+      {
+        "standardId": 32525,
+        "standardNumber": "IS 13778 (Part 1):2024",
+        "standardName": "Winding wires - Methods of Test  Part 1 General (Second Revision)",
+        "equivalent_is": "",
+        "identical_is": "IEC 60851-1:2021",
+        "reviewOn": null,
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjNsbjl3OHI2RVlwaWlrLzZDZGpFZ3c9PSIsInZhbHVlIjoiTENTam5KTGtmWmdUcUtBVUYzYUU2QT09IiwibWFjIjoiM2ZjYjU5YzRjYTJlMmY5MTU0OWZkMWY3YTg2M2QzYzE2OTdjYmU5MjYwZDE2MmNhZGJhYWE4NGJhODIzMDdkNiIsInRhZyI6IiJ9",
+        "identical": "IEC 60851-1:2021"
+      },
+      {
+        "standardId": 31621,
+        "standardNumber": "IS 5825:2024",
+        "standardName": "Test Procedure for the Determination of the Temperature Index of Enamelled and Tape Wrapped Winding Wires (Third Revision)",
+        "equivalent_is": "",
+        "identical_is": "IEC 60172:2020 ",
+        "reviewOn": "2024-08-27",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlBKU0lIc210Y0E3dDFpYVVaOEtMMFE9PSIsInZhbHVlIjoic1VNRXdFU1hiMTZNTlR6OWk1VXpvdz09IiwibWFjIjoiOGNkZTZhOTE3MzY0Y2E3NjljZmNiYTM1YTVkMzhlOGJjMzBjYjgwZjA1M2E2ODdiZGRiNjlmN2U0YmI4NTY2MSIsInRhZyI6IiJ9",
+        "identical": "IEC 60172:2020 "
+      },
+      {
+        "standardId": 26864,
+        "standardNumber": "IS 1608 (Part 1):2022",
+        "standardName": "Metallic materials - Tensile testing - Part 1 : Method of test at room temperature ( Fifth Revision)",
+        "equivalent_is": "",
+        "identical_is": "ISO 6892-1 : 2019",
+        "reviewOn": "2022-02-16",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ii9EMXBsSWtCQStNVTM2alFsM3FwcFE9PSIsInZhbHVlIjoiMFFZZjFXYkVMUjQvM0xIM2tuYjZ3Zz09IiwibWFjIjoiMTljNTY0NDQyYzg5OTc0Nzg4YjUxMWZhYWZlZDYzMDdkMzlhODg3OGJjNzNhNzZmZjdhYjU2MDZmYzIwZmY0YyIsInRhZyI6IiJ9",
+        "identical": "ISO 6892-1 : 2019"
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 26,
+        "standardName": "Electrical insulating materials - Thermal endurance properties: Part 2 determination of thermal endurance properties of electrical insulating materials - Choice of test criteria (First Revision)",
+        "standardNumber": "IS 8504 (Part 2):2013",
+        "equivalent_is": null,
+        "identical_is": "IEC 60216 - 2 : 2005",
+        "reviewOn": "2023-01-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlRjTHd1aFhjS3p3NFUvODF1SGwyRUE9PSIsInZhbHVlIjoiSzgyLzNvUDlDYlRKdDRsNUZsUHZpZz09IiwibWFjIjoiNDkyMTViNDBkYzI4MDZhMjYwM2MzYjY2YTQ5MDE0NDdjYjNkNzBjYzYxNTU5NTFjMDYxYTNiMmU0NTZmZjRkZiIsInRhZyI6IiJ9",
+        "identical": "IEC 60216 - 2 : 2005"
+      },
+      {
+        "standardId": 21351,
+        "standardName": "Safety of power transformers, power supplies reactors and similar products: Part 2 - 7 particular requirements and tests for transformers and power supplies for toys",
+        "standardNumber": "IS/IEC 61558 (Part 2/Sec 7):2007",
+        "equivalent_is": null,
+        "identical_is": "IEC 61558_2_7",
+        "reviewOn": "2021-08-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlhqVVY5WERENk9rTGhyUTJlNmVHZ3c9PSIsInZhbHVlIjoid3JKcHVENEFsYzhqNEVKbDVMdXNLZz09IiwibWFjIjoiZWIyYTU4OTdjMmVmZjM0MDE5MDhlMDJjMzliNjhkMzU3ZTAzZGVjYTAzZTFiYWVjYjg5ZjExYjYxMTc5OTY3YyIsInRhZyI6IiJ9",
+        "identical": "IEC 61558_2_7"
+      },
+      {
+        "standardId": 436,
+        "standardName": "Specification for particular types of winding wires: Part 44 aromatic polyimide tape wrapped rectangular copper wire, class 240 (First Revision)",
+        "standardNumber": "IS 13730 (Part 44):2013",
+        "equivalent_is": "NULL",
+        "identical_is": "IEC 60317-44:2010",
+        "reviewOn": "2024-09-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IloyM0Rnc29KbTk4NkdZcXNOdkdML0E9PSIsInZhbHVlIjoiTFVNck00WGtCV2lkWjltOVA1TlVkdz09IiwibWFjIjoiMmNlMjZlY2MzOTI4YTIyZjkwMWRjMzc2NDMyNzcxOWI4ZDFhYzgwYjdlMTIzMzcyZjBiZGI4YzgyNWRlZTE4ZiIsInRhZyI6IiJ9",
+        "identical": "IEC 60317-44:2010"
+      },
+      {
+        "standardId": 25521,
+        "standardName": "Outdoor/Indoor Type Liquid Immersed Distribution Transformers Up to and Including 2 500 kVA, 33 kV — Specification  Part 3 Natural/Synthetic Organic Ester Liquid Immersed",
+        "standardNumber": "IS 1180 (Part 3):2021",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkF6UElhYlM5Q1JFdVk4aFBjMU1BdEE9PSIsInZhbHVlIjoiZS9DSUpPTkpuNHNHTjR0cmdqeVliUT09IiwibWFjIjoiYWI5ZjFjYWM3Zjg3ZTVlNzY2OGQ4Y2UwYjliYTVjNDI0MGUwZWI0MWMyNmVmNGVhMDNkYzFmNTUzY2U5Y2ZlYSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 33441,
+        "standardName": "Specifications for particular types of winding wires  Part 27 Paper tape covered Section 3 Rectangular copper wire",
+        "standardNumber": "IS 13730 (Part 27/Sec 3):2025",
+        "equivalent_is": "",
+        "identical_is": "IEC 60317-27-3:2019+AMD1:2024 CSV",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlZRSTBOdGM1dVZXV0xJNE1wOTNjV0E9PSIsInZhbHVlIjoiSnJ0Q2RBcFNaaEQ1YWdmang3dHdSUT09IiwibWFjIjoiZDg0NGM3OWUxN2M0MDY4Yjc5NmEyODdkNWVjODZkMjVjZDMzZmE3NjY4ZGIwYmRjZjZhNGZmMjNmYzE0MDk5MyIsInRhZyI6IiJ9",
+        "identical": "IEC 60317-27-3:2019+AMD1:2024 CSV"
+      },
+      {
+        "standardId": 32525,
+        "standardName": "Winding wires - Methods of Test  Part 1 General (Second Revision)",
+        "standardNumber": "IS 13778 (Part 1):2024",
+        "equivalent_is": "",
+        "identical_is": "IEC 60851-1:2021",
+        "reviewOn": null,
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlJ4U3lpaDMwSHNBR1ovcllFejV1Tnc9PSIsInZhbHVlIjoiTDNTNEZSY3BvRWgzRkRrTE5sZFJCQT09IiwibWFjIjoiOWY3OGFjODNiMGI3Njc4YWFjYzMyNDQzOGMyODQ0YThjZDc0OTRlOGQ4NDcyNzdlZTI0NGFkZDE4YzkxNWU5NyIsInRhZyI6IiJ9",
+        "identical": "IEC 60851-1:2021"
+      }
+    ]
+  }
+}

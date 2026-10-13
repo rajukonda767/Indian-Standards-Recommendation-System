@@ -1,0 +1,204 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 111,
+        "isType": 1,
+        "standardNumber": "IS 269:2015",
+        "standardName": "Ordinary portland cement - Specification (Sixth Revision)",
+        "noOfReview": "06",
+        "identical_is": "  ",
+        "reviewOn": "2025-12-01",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlZjTXFMbU9oV2M3R055SDlVSkZoMHc9PSIsInZhbHVlIjoiYXAreDhzU2tHbDlheG9ROFpmWlVYZz09IiwibWFjIjoiYTljYmViZTA5ZmUyZWIxYWIzOTcwNDY3YWFjODQ0NTZkZjEwZDY3ZGZiOGQ5MjAxN2NhODcyMDE1MWM5OGY1OSIsInRhZyI6IiJ9",
+        "identical": "  "
+      },
+      {
+        "standardId": 265,
+        "isType": 1,
+        "standardNumber": "IS 4031 (Part 8):1988",
+        "standardName": "Methods of Physical Tests for Hydraulic Cement: Part 8 Determination of Transverse and Compressive Strength of Plastic Mortar using Prism (First Revision)",
+        "noOfReview": "01",
+        "identical_is": null,
+        "reviewOn": "2024-03-01",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InJvQmZidUlZZ1JFMmxJT3lieG5qRUE9PSIsInZhbHVlIjoidWpVWVNJVTB2VkdEMjVBK0Q3T01VZz09IiwibWFjIjoiODZiZTJmNzczYWVkZDA1OTdkYjM2OTJiZTEwY2Q2ZWUxOGU3NTljMDdhZDNmZWViMjRhNTYxMmY0ZWQyYjRlZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 360,
+        "isType": 1,
+        "standardNumber": "IS 4031 (Part 14):1989",
+        "standardName": "Hydraulic Cement - Methods of Physical Test: Part 14 Determination of False Set (First Revision)",
+        "noOfReview": "00",
+        "identical_is": null,
+        "reviewOn": "2024-03-01",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjRzdC96RHhqRnJYdTV1d00yRGNlRFE9PSIsInZhbHVlIjoieDUwOG9pVVczdldjMkdPbUV1ZnBMZz09IiwibWFjIjoiODU1OTE0NDZkYTFhNDZjNWEyMGRhNTM0MGE3ZWQzODUyMmE2NTlkYTE5ZjlmNzBiMDI2ZTdiMjI0OTY1Y2U5NCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 2794,
+        "isType": 1,
+        "standardNumber": "IS 11652:2017",
+        "standardName": "Amendment no. 4 to IS 11652 : 2017 Textiles - High density polyethylene (HDPE)/ polypropylene (PP) woven sacks for packaging of 50 kg cement - Specification (third revision)",
+        "noOfReview": "03",
+        "identical_is": null,
+        "reviewOn": "2026-01-20",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkhmQlk2NXJWY01aekpwQTUrNWJMNGc9PSIsInZhbHVlIjoiNkFxbFVhUVlyTXB1dzBZSDdGUGRZUT09IiwibWFjIjoiMjhiMTYwNDdlZTEwZGE3ZjA1OGYyYjAyMzBlM2I1MjU2YTA5NmFmMjI3ODNiYzFkYTMwMDkxNmFkMTUwNDk2ZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 3760,
+        "isType": 1,
+        "standardNumber": "IS 12423:1988",
+        "standardName": "Method for Colorimetric analysis of Hydraulic Cement",
+        "noOfReview": "00",
+        "identical_is": null,
+        "reviewOn": "2026-03-27",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjZvU2dJOXg4dzFkY3c5N2VjNXhZRlE9PSIsInZhbHVlIjoiZnhET0d2cHJwblJ5dUR6WlZIRmwwZz09IiwibWFjIjoiYmIwMTdjZTRhYmJkOTdhOWUxOGJkZTQ0YTI2MjExOWJiYWM3OWM5NDI1NDFhZWExOGE0MmU0MjRhOWU0NWRiOCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 10112,
+        "isType": 1,
+        "standardNumber": "IS 3535:1986",
+        "standardName": "Methods of Sampling Hydraulic Cement (First revision)",
+        "noOfReview": "01",
+        "identical_is": null,
+        "reviewOn": "2023-06-01",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Im5scC9Cc2FZSE5mRnhmZDNOVFlRMUE9PSIsInZhbHVlIjoiYXV5VndoNkp4TnRRWktjcEx2b25QUT09IiwibWFjIjoiNTNhMjBjZGUxZTVmNmUzY2RkMmNkNWIxMTU1YmUwOGRjYzg2N2RkODdmMzA1ZGEwNWUzOGM4YTU3ZjdiNmJmZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 10665,
+        "isType": 1,
+        "standardNumber": "IS 4031 (Part 2):1999",
+        "standardName": "Methods of Physical Tests for Hydraulic Cement: Part 2 Determination of fineness by Blaine air permeability method (Second Revision)",
+        "noOfReview": "02",
+        "identical_is": null,
+        "reviewOn": "2023-06-01",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlhyOHNiQkF6RVM3RmVMaXVDQ1BwVFE9PSIsInZhbHVlIjoiMjZPNk5CTFdESzIrQUhRR2Y5T0N2dz09IiwibWFjIjoiYzkyY2JjNjYzM2JmNTc3NmE3NDU2MWNjNGQ5MzJhYjM2OThlNWEzNjI2NzgwM2VlY2RkMzIzM2RmM2FhNTc3NyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 10666,
+        "isType": 1,
+        "standardNumber": "IS 4031 (Part 3):1988",
+        "standardName": "Methods of Physical Tests for Hydraulic Cement: Part 3 Determination of Soundness (First Revision)",
+        "noOfReview": "01",
+        "identical_is": null,
+        "reviewOn": "2024-03-01",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjYxTmtkWGZnSmhyOVlscHMzZjRsWmc9PSIsInZhbHVlIjoiL3FiRm5KM2srU0syOXJCUklEV0todz09IiwibWFjIjoiNTI2ODFiZTFmYTVhNDYxMzIzNmU3ZDgzZGY4ZjY1N2NiNmM3ZTIyNTBhZjM0Y2MxYmFhNTE5ZDljOWFmOGZmYyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 10668,
+        "isType": 1,
+        "standardNumber": "IS 4031 (Part 5):1988",
+        "standardName": "Methods of Physical Tests for Hydraulic Cement: Part 5 Determination of Initial and Final Setting Times (First Revision)",
+        "noOfReview": "01",
+        "identical_is": null,
+        "reviewOn": "2024-03-01",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlJzVmcrU1g4Z1o0MTJ1R3FLaWhuMmc9PSIsInZhbHVlIjoiOVIxTmVURWZtWHdiTmhMN2t2UFZoUT09IiwibWFjIjoiNDNiODI1ZTYzMGIwYmE4NTliZGQwYmJjNmUxYWZkMDg4N2U0N2QwZGZjOTU3ZGRmMDM2NWIzYjFhYjJkNjNkNSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 10669,
+        "isType": 1,
+        "standardNumber": "IS 4031 (Part 6):1988",
+        "standardName": "Methods of Physical Tests for Hydraulic Cement: Part 6 Determination of Compressive Strength of Hydraulic Cement other than Masonry Cement (First Revision)",
+        "noOfReview": "01",
+        "identical_is": null,
+        "reviewOn": "2024-03-01",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ikxhektvcjk2RGxXeWFpc2IxdTkxemc9PSIsInZhbHVlIjoiR2dsbkl5UTFFR3JaSkhxTFp1L2pHQT09IiwibWFjIjoiY2RlMTRkNjhlNmE4NTU2OTI1OGMzZTQ3NjIwMTBjMzYyNDYwMGQ0N2VlNWJjM2FhOTQxOTEyNjA4MmVkMDdjYSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 10671,
+        "isType": 1,
+        "standardNumber": "IS 4032:1985",
+        "standardName": "Method of Chemical Analysis of Hydraulic Cement (First Revision)",
+        "noOfReview": "01",
+        "identical_is": null,
+        "reviewOn": "2024-03-01",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlVYblNoKzVrQXBEd3pndkpHRFE2Q2c9PSIsInZhbHVlIjoiWlhGaHNpNGYzUHRVNHc5eFpIVHVZdz09IiwibWFjIjoiNjhkMDRjYTYxMGM3ZGFiYzg5ZDkxYzkwNmU1MDk5NmU2MDYzOWI1OTY5YjFlNTVlYjMyNzdiY2E4MjA2MmRkMyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 11626,
+        "isType": 1,
+        "standardNumber": "IS 4905:2015",
+        "standardName": "Random sampling and randomization procedures (First Revision)",
+        "noOfReview": "01",
+        "identical_is": "ISO 24153 : 2009  ",
+        "reviewOn": "2025-03-01",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IloxRzBqdXJ5K0svSWIyd2xYSnJ3Z3c9PSIsInZhbHVlIjoiS2xCdjhKNlI0VFQ3MWJMY0lrSDlOQT09IiwibWFjIjoiN2UwZjU1Y2M5ZGU1NTAxYWE1NTY1ZjZiYzNmZWY4NjRiZTMzMDQ3NTJmMmNmYjliZTM2NGRmZDA3YWQ1YzA4OSIsInRhZyI6IiJ9",
+        "identical": "ISO 24153 : 2009  "
+      },
+      {
+        "standardId": 13358,
+        "isType": 1,
+        "standardNumber": "IS 650:1991",
+        "standardName": "Standard sand for testing cement - Specification (Second Revision)",
+        "noOfReview": "02",
+        "identical_is": null,
+        "reviewOn": "2023-06-01",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjJiMjVNQnhpeDAvMFFaVS95MTU5bFE9PSIsInZhbHVlIjoiRFJTQzdMc0tLUlJhZ3VkZmx5aTBOdz09IiwibWFjIjoiNWI5NGZmNTFmNTE2NDViMjUwYjk3ZTBhZWI0YTAzNDc5ZGRjYTUyZmFiNDI5MDNmMmE4MDVhZjFlMTViMTZjYiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 31382,
+        "isType": 1,
+        "standardNumber": "IS 11761:2024",
+        "standardName": "MULTI-WALL PAPER SACKS FOR CEMENT- SPECIFICATION ( Second Revision )",
+        "noOfReview": "02",
+        "identical_is": "",
+        "reviewOn": "2024-08-08",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkRSbDFKMERRWUdGaGV4MXd0NDRON1E9PSIsInZhbHVlIjoiNVNkN0dRcTFxUjBSNHZMTW1GZmlmUT09IiwibWFjIjoiNTdhMGU2YzM2Y2I4Yzk5YTZlY2JlZTQ0MWNlNWY0NjU4OGY3ZTBjMTMxMGFmZDM0MWEwZGQxMTc3ZTE2ZjRhNiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 66544,
+        "isType": 1,
+        "standardNumber": "IS 4845:2026",
+        "standardName": "Definitions and terminology relating to hydraulic cement First Revision of IS 4845",
+        "noOfReview": "01",
+        "identical_is": null,
+        "reviewOn": null,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InZvZngrQ283ajVESkozZDloMUhxelE9PSIsInZhbHVlIjoib29SSStlbXcrOGhZMExsZW8zQmovUT09IiwibWFjIjoiNGM5NjQwZmE1YTQxZWYyZjllZmYyYjMzNjNjMGE3YTRhZDAwYjJhYWVjNzBkMThjYzIzODkxZTgwYzU2ZDlkMCIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 66544,
+        "standardName": "Definitions and terminology relating to hydraulic cement First Revision of IS 4845",
+        "standardNumber": "IS 4845:2026",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlZhVzgzVkE0ZkE5Q1VyWVVVL3JFdUE9PSIsInZhbHVlIjoiT2UzT0dyd2Z3TlJlNldxb0M3ZmZrQT09IiwibWFjIjoiMmI2ZTBlZDAxYzg4NTljYWIwYjc4MTI2MDg2MjgxMDAyNzRkYTVkZDYyY2NkNGQwYzk1OTA1ZDA4ZjYzNjVlOSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

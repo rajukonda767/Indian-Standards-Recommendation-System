@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 5460,
+      "So_No": "2981(E) ",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_266_5460_2981(E).pdf",
+      "pki_id": 703,
+      "Amd_No": 0,
+      "standardNumber": "IS 13730 (Part 48):2018",
+      "standardId": 5460
+    }
+  ]
+}

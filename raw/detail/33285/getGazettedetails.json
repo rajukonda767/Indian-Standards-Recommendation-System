@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 2723,
+      "So_No": "PUB-013-1-2020-PUB-BIS (1193",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/CED/gf_212_2723_11594_1.pdf",
+      "pki_id": 16762,
+      "Amd_No": 0,
+      "standardNumber": "IS 11594:2025",
+      "standardId": 33096
+    }
+  ]
+}

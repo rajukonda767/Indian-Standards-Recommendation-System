@@ -1,0 +1,118 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 1707,
+        "isType": 1,
+        "standardNumber": "IS 10810 (Part 11):1984",
+        "standardName": "Methods of test for cables: Part 11 thermal ageing in air",
+        "noOfReview": "00",
+        "identical_is": "NULL",
+        "reviewOn": "2026-05-29",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkpGS2JUQXpOTXpkZHA1ejRodzBpdkE9PSIsInZhbHVlIjoia3JaODNyVVBDTUQ3bERzUTdYUDlJZz09IiwibWFjIjoiMTJhZDRiZDc0NmNjMzIzOWQxNzQ2N2ZhYjU4Y2Y2NWFkZWRmMGExNDIwMjkwODM3N2UwMTI4OWM3ZTNkNjc1ZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 1708,
+        "isType": 1,
+        "standardNumber": "IS 10810 (Part 12):1984",
+        "standardName": "Methods of test for cables: Part 12 shrinkage test",
+        "noOfReview": "00",
+        "identical_is": "NULL",
+        "reviewOn": "2026-05-29",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkZjZWtJdXBHNVFhbkZwaWlTT3R0Ymc9PSIsInZhbHVlIjoiaFpJNHhNWUpycmxMWGYwK1M4MDlKUT09IiwibWFjIjoiNDFkZGU5OGI3NjIxZjgwZmJlYzA5NDI3MjJmNjY1ZWY2MDE4OWE4NTZkYmYzNjgwOGYxZWNhNDMzMWVlMjc4NCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 1710,
+        "isType": 1,
+        "standardNumber": "IS 10810 (Part 14):1984",
+        "standardName": "Methods of test for cables: Part 14 heat shock test",
+        "noOfReview": "00",
+        "identical_is": "NULL",
+        "reviewOn": "2026-05-29",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlNRN0ptL1RVNEo2R1B2N0x0elZ1NFE9PSIsInZhbHVlIjoid2ZYN2lqNTFIbU9hL3k5a3FZbk85Zz09IiwibWFjIjoiNmQwMGYwYjllZWRlMzBhYTg4ODA1YTNlNDMxNWVlY2IyNDdmZmY2ZTYxMDE5YWRlMjUyOTBmNWQ2YTRiMjBjNiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 1711,
+        "isType": 1,
+        "standardNumber": "IS 10810 (Part 15):1984",
+        "standardName": "Methods of test for cables: Part 15 hot deformation test",
+        "noOfReview": "00",
+        "identical_is": "NULL",
+        "reviewOn": "2026-05-29",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlFuaGZpeEllMGlPc01zWWJNY0ZYL3c9PSIsInZhbHVlIjoiYkpLVHhGR2tVU2RveENOVzkxU1NSZz09IiwibWFjIjoiZjE0NGVlOWJhZTdjOTUxOWVmYjViM2E1OWFlNzM0OTZjZjc2NTBjMmE2MTg2ODdkMWMwMDRmMzM4N2E0ZGFjNyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 1727,
+        "isType": 1,
+        "standardNumber": "IS 10810 (Part 30):1984",
+        "standardName": "Methods of test for cables: Part 30 hot set test",
+        "noOfReview": "00",
+        "identical_is": "NULL",
+        "reviewOn": "2026-05-29",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkFqbHdTckhJUFdKeTcxTDZWT21XQ2c9PSIsInZhbHVlIjoiTXY2aE14Q0hiQzljSlFaMlpRaGdZUT09IiwibWFjIjoiNmFjOGNiNzQ2NDg5MGQwYjZiZTQyNmY3YzA4NTkxZWYwZTNiZjYyYjEwM2Q1MzIzOTk2MjZkOTYwZWIwZjRiMSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 1730,
+        "isType": 1,
+        "standardNumber": "IS 10810 (Part 33):1984",
+        "standardName": "Methods of test for cables: Part 33 water absorption test (Gravimetric)",
+        "noOfReview": "00",
+        "identical_is": "NULL",
+        "reviewOn": "2026-05-29",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImwzRWZ5MXBmVmY0MHVTNVg2a0k4eWc9PSIsInZhbHVlIjoiclVwRy9sdVJGbER1eXlHd21RR2ordz09IiwibWFjIjoiYTM3ZTUyMzMxZjNlMDA5NWMyZmY2ODcxYzQyNjI3MGNiMDliNjI0NzFjNmNmZjhjZDM3Yjk1YjgwNzI4NTkxYSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 1741,
+        "isType": 1,
+        "standardNumber": "IS 10810 (Part 43):1984",
+        "standardName": "Methods of test for cables: Part 43 insulation resistance",
+        "noOfReview": "00",
+        "identical_is": "NULL",
+        "reviewOn": "2026-05-29",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkdmU3hXUmxsSmhadkRHbVlIUHk0VGc9PSIsInZhbHVlIjoic2UyVjVHakdGeThvV3FVVWQzZEZ0UT09IiwibWFjIjoiN2QxM2RmOWI0YjE1MGQyYmFmMTY2MmVlZTRmNGU4ZDYzZWE3YjdlYzhhODhmZDc3YTMzZTBiYTUzNTE1ZmY5YiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 1765,
+        "isType": 1,
+        "standardNumber": "IS 10810 (Part 7):1984",
+        "standardName": "Methods of test for cables: Part 7 tensile strength and elongation at break of thermoplastic and elastomeric iNsulation and sheath",
+        "noOfReview": "00",
+        "identical_is": "NULL",
+        "reviewOn": "2026-05-29",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjRuY2RNRk9CRGRDSzFieHBoMzhtYVE9PSIsInZhbHVlIjoiZDd1RGF3d0o0cGFPeFlVQkI3R1FWZz09IiwibWFjIjoiMDVkMTg4MDE2NDM1Yjc2MTFjOGRlM2NmNWQ2OWI0ZTZhNzQxOWMwYmEwOTRhZTMwYTk2YTFhNWM0ZmY1MmQ3ZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 8311,
+        "isType": 1,
+        "standardNumber": "IS 1885 (Part 32):2019",
+        "standardName": "Electrotechnical Vocabulary Part 32 Electric Cables ( Second Revision )",
+        "noOfReview": "02",
+        "identical_is": "IEC 60050-461 : 2008 ",
+        "reviewOn": "2025-06-25",
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkRtSEU5dUZ0bS9UMWkwTlBJVk1Venc9PSIsInZhbHVlIjoiSFRSb01OemdXY1FhV1hhWVMwT1lzUT09IiwibWFjIjoiMmIzYTcyN2UxMTJlZDUwOTVjOWU3MjA4NWE1ZmFiZTY0MmY4MDc2MTFiMTAzMDM0MmI1MmNkNDc4NTE2MTVhNCIsInRhZyI6IiJ9",
+        "identical": "IEC 60050-461 : 2008 "
+      }
+    ],
+    "crossFollowRefData": []
+  }
+}

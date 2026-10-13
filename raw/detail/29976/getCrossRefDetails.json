@@ -1,0 +1,50 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 33271,
+        "standardNumber": "IS 2248:2025",
+        "standardName": "Clay Products for Buildings - Glossary of Terms",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2025-05-13",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Im9HK1dLU0Rxd0RFcWUva2hMWjVQRUE9PSIsInZhbHVlIjoiQ0tZK1BYb0JoL3hQdUVHUzlNOU8zdz09IiwibWFjIjoiYjZlZmU3MTc2YzVmNmVhNDgwN2RmNzhiNGJiNjgxNDU4OWViZDIzYzg5MmVlYzRlZTIwNjZmMWQ3ZDNmOTllZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 31094,
+        "standardNumber": "IS 6873 (Part 2/Sec 1):2024",
+        "standardName": "Limits and Methods of Measurement of Radio Disturbance Characteristics PART 2 Electromagnetic Compatibility (EMC) - Requirements for Household Appliances, Electric Tools and Similar Apparatus Section 1 Emission ( Fourth Revision)",
+        "equivalent_is": "",
+        "identical_is": "CISPR 14-1:  2020",
+        "reviewOn": "2024-07-20",
+        "noOfReview": "04",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjYvL2UwemRFNHFyRjQ5dnVCUjAvUkE9PSIsInZhbHVlIjoiNzZNQ2xEemtkcy9YVUNteUdiMjJUdz09IiwibWFjIjoiZTRjOTEwMzI3MzBmODMyNzg4OGM2ODBjZGVkNTdiMjU2MTgwMjVmY2FjMDdjZjk3YTQyZTlkYTc3ZTliNWMyMCIsInRhZyI6IiJ9",
+        "identical": "CISPR 14-1:  2020"
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 14523,
+        "standardName": "Specification for burnt clay jallies (First Revision)",
+        "standardNumber": "IS 7556:1988",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-02-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InB0QUx6WURDaFkrTkIxSHo2WHIva1E9PSIsInZhbHVlIjoiZk54SVRMKy9LRGRFMnVQM3VFTmdTQT09IiwibWFjIjoiNTBmOWQxMTY2NDlkOGNmZjUyZGJkNWNhNjA1MmUxMDYyMDhiOTExNmRlMDdhMzJlYTVmNmNhZGU2MDNmOTJjNSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

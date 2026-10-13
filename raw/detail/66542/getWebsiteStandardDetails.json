@@ -1,0 +1,85 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Consumer Affairs, Food and Public Distribution - Department of Food and Public Distribution",
+    "riskNameName": "Medium",
+    "standardId": "eyJpdiI6IlBxL01hYkRmc1p3N0JUQzNtNzU5blE9PSIsInZhbHVlIjoiOUM1ajQxV1ZobUJwa2NiWktHcWVVdz09IiwibWFjIjoiNjlhZTdmZWViZTk0ODZlZTQ3MmQzMDAwYTUwMzhjNWI5YzUwMjBhMmFhYmRjM2EwOGQ3NTBmNWY5YmU5YTQwNyIsInRhZyI6IiJ9",
+    "rowStandardId": 66542,
+    "pk_is_id": 66542,
+    "standardName": "Masonry cement - Specification",
+    "standardNumber": "IS 3466:2026",
+    "publishedOn": "2026-03-20",
+    "committeeId": 190,
+    "departmentId": 63,
+    "groupName": "Civil Engineering Design and Construction",
+    "subGroupName": "Concrete structures",
+    "subSubGroupName": "Special Structures",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "03",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 5,
+    "languageId": "English",
+    "icsCode": "91.100.30",
+    "shortTitle": null,
+    "certificationName": "",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "IS 3466:1988",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 1,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/projects/proof/2026/04/49_1775019526.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": null,
+    "source": 1,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Jitendra Kumar Chaudhary (SCIENTIST-C)",
+    "committeeName": "Cement And Concrete",
+    "departmentName": "CIVIL ENGINEERING DEPARTMENT",
+    "deptAliasName": "CED",
+    "committeePreparedName": "CED 02 - Cement And Concrete",
+    "deptPreparedName": "Civil Engineering Department(CED)",
+    "reviewList": [
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 3466:1988"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 3466:1988"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 3466:1988"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 3466:1988"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 3466:1988"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 3466:1988"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 3466:1988"
+      }
+    ]
+  }
+}

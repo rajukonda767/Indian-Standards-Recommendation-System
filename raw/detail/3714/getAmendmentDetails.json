@@ -1,0 +1,48 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "totalAmendments": 5,
+  "data": [
+    {
+      "standardId": 3714,
+      "standardNumber": "IS 1239 (Part 2):2011",
+      "noOfAmendment": 5,
+      "amendmentYear": "2008",
+      "is_documents": null,
+      "amendmentLabel": "First Amendment"
+    },
+    {
+      "standardId": 3714,
+      "standardNumber": "IS 1239 (Part 2):2011",
+      "noOfAmendment": 6,
+      "amendmentYear": "2010",
+      "is_documents": null,
+      "amendmentLabel": "Second Amendment"
+    },
+    {
+      "standardId": 3714,
+      "standardNumber": "IS 1239 (Part 2):2011",
+      "noOfAmendment": 1,
+      "amendmentYear": "2012",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/1239_2A1.pdf",
+      "amendmentLabel": "Third Amendment"
+    },
+    {
+      "standardId": 3714,
+      "standardNumber": "IS 1239 (Part 2):2011",
+      "noOfAmendment": 1,
+      "amendmentYear": "2013",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/1239_2A2.pdf",
+      "amendmentLabel": "Fourth Amendment"
+    },
+    {
+      "standardId": 3714,
+      "standardNumber": "IS 1239 (Part 2):2011",
+      "noOfAmendment": 1,
+      "amendmentYear": "2016",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/1239_2A3.pdf",
+      "amendmentLabel": "Fifth Amendment"
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 5850,
+        "standardNumber": "IS 14126:2019",
+        "standardName": "Metallic coatings - Measurement of coating thickness - Coulometric method by anodic dissolution (First Revision)",
+        "equivalent_is": " ",
+        "identical_is": "ISO 2177: 2003 ",
+        "reviewOn": "2024-02-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjlETFA5ZjJHaGhyWm55amlNOVFKa2c9PSIsInZhbHVlIjoiU0RhTE1UajMyTTRxMlFCenQ2YlJYZz09IiwibWFjIjoiOTUzNDk3OGU0Yzk3ZDVjNmRmODhkNmMzYjA2YTZmM2IzYzNjZjIyMDFjNmJkMDc3ZDZjMmUwODM4NGQ2Zjc1ZSIsInRhZyI6IiJ9",
+        "identical": "ISO 2177: 2003 "
+      },
+      {
+        "standardId": 5876,
+        "standardNumber": "IS 14149:2008",
+        "standardName": "Metallic and non - Metallic coating - Measurement of thickness - Beta backscatter method (First Revision)",
+        "equivalent_is": null,
+        "identical_is": "ISO 3543:1981",
+        "reviewOn": "2026-03-27",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IldOZ1JtZGNSR3VwT3FaYWd0NnhqT0E9PSIsInZhbHVlIjoiUFhyM3lqUFQ2WG05UHNSZlJ6elJoQT09IiwibWFjIjoiM2Y3YzFlN2M3MzNlMWRmZTAzMGU5ODI5OGUxNmVhNGQ5Mzk1MTM4MDc1NmZhZTkxZGM4MTRiOWMwYzJlNjdkNyIsInRhZyI6IiJ9",
+        "identical": "ISO 3543:1981"
+      },
+      {
+        "standardId": 66028,
+        "standardNumber": "IS/ISO/TS 55010:2024",
+        "standardName": "Asset management - Guidance on the alignment of financial and non-financial functions in asset management (First Revision)",
+        "equivalent_is": null,
+        "identical_is": "ISO/TS 55010:2024",
+        "reviewOn": null,
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImNTcm1YVmcramZ2Q3ljSjFtekRFOEE9PSIsInZhbHVlIjoiRWxYMEs2RUJnZmZ4QkpuOElseXc5QT09IiwibWFjIjoiYzgwMjQ4ZDY0YzZjZDdkZGEwYmI4ZWJhOTFhMWM5Mjk5ZTkwZjdiODBhZWM3MGE1YjA1YTUzYjY0MDE2NWRmMSIsInRhZyI6IiJ9",
+        "identical": "ISO/TS 55010:2024"
+      },
+      {
+        "standardId": 26512,
+        "standardNumber": "IS 6994 (Part 10):2021",
+        "standardName": "Protection of Arms and Hands Part 10 Protective clothing- Gloves and arm guards protecting against cuts and stabs by hand knives - Gloves and arm guards made of material other than chain mail",
+        "equivalent_is": "",
+        "identical_is": "ISO 13999-2 : 2003",
+        "reviewOn": "2026-02-25",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InhkRFg0Mmgwa3NZdGozZWdXVHZSWXc9PSIsInZhbHVlIjoia0NQYXFwVEdoTTc2Vy9DdzlqNG92UT09IiwibWFjIjoiMWI2ZjAwOGZlMGZjOTJlY2E5YWJmMjg5MWE0MzMyZmNmZThlMTE1YTZkMjk3MWJmNWM2Mjg5Mjc5MGY4MDRmMSIsInRhZyI6IiJ9",
+        "identical": "ISO 13999-2 : 2003"
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 2177:2003",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlNQRzdGUldQTTBiTHFxaDhqbWdFQ2c9PSIsInZhbHVlIjoiWXF6T1ltVVVQclJNSlRWcmR3RWgzUT09IiwibWFjIjoiMjRiMzkzOTFhNWQxMDQzMTI3ZjJmNGM2NTc2MTIxMGNjODBlZDk4ZDAwODA2ZjkxNzA2MDIyNmNiMzc1Y2VlOSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 9587:2007",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Inc4YW5UT3k3MFpnWTNvREU5R0FuYlE9PSIsInZhbHVlIjoiRjUrcDA4MGNMQjdYK01uekkwNWh5UT09IiwibWFjIjoiMzk5MTMwMDVjODI1NjhjZTc1NTNhZTg4ZjI2ZWQyYjllNjY1MDE5MDc0Yjc2YzZhOWJlMzk2MGJlOTc2ZWE0MyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 9588:2007",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Ii9GbThXNWdBTkhXYUtzaVJrU2tGMVE9PSIsInZhbHVlIjoiVGdWTVFtWXQzYkdyQ3ZCTytFMnh0UT09IiwibWFjIjoiM2U3NmJjMGRlMThmNmM5YTc2ZDdhMDlhZTIzMTdkNzhiODc3ZmYxZTA1NmNlMzIwNjY1ZGE5MmViYmViMGIxYSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 3543:2000",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IktxbTRGY1VKYzlFVEk0ZnlhUm5lOGc9PSIsInZhbHVlIjoicFNjMjF5am9VRXp5WGRkM05OSk81dz09IiwibWFjIjoiNmU0OThjNzJmMDA3ZDA2NGY5Nzc5NjhmMmZhMmYxYzNhZWNlMzc5NzA0Zjg3OTgyOTY2Yzc2Y2M2MGY1NTU4OCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 4545 (Part 1):2023",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlBlMDd1djdWRDYwa3ZDSU5LeFFocXc9PSIsInZhbHVlIjoiL2dNOFFTMnFnbitsdWdlL3RqRjQ4QT09IiwibWFjIjoiMTNmZDU4MTIzZjNkZmYzM2NhY2U5MjgwZjYyZjFlMTY4NzRiNjdmNWUzMWYxZWMxODAwNzBiODYwYmM0NDFlYSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 6507 (Part 1):2023",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Imp6Wlpmd2FCcUtmS3VlbWR1Q1dOM1E9PSIsInZhbHVlIjoic2RuQjJBRTVqU2Vod1ZYbHJLeHJldz09IiwibWFjIjoiMDE5NjQ3NjZmZWJiNjRkZjFiNDg4ZjMxODFlMmRjNmUxNjRlYTVjMjk4OTk2NjYxMmI3ZTdhMzU0ODRkNDVlMSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 1463:2021",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlAwejlwbXRvZjVXZTNlVm5VRzlTNWc9PSIsInZhbHVlIjoiUXFqL2g3L05yV3RtOHB3K09zUXo4QT09IiwibWFjIjoiYTAzZWRlMTAwYWQyMWQ3MjFjZmIyYzZjMjNlYmIzYjY4ZTk1ZmY1MjY1NmJlYjcxNmUxOGMzZmEwOTQwMjc0ZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 2064:1996",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6ImFmZVNhUHpEUWJTTDczV0tXa2xkbFE9PSIsInZhbHVlIjoib1h2eFAyaHZJZVVvSHlRdDNHTjI2QT09IiwibWFjIjoiYWU1YTZmNDI4NTk2MmMzYWMyZTFiZDk5MDgyZWE5ZDU0NmZmZjJmMTVkMDFmNDFmYzI0MDhiNWY0NDQ3OTExOSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 2819:2017",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Imh3MjRtOVNLdFdpeUFOSVlWUFNrSUE9PSIsInZhbHVlIjoiNHorMlhUcEM3RDJwKzRPd1BUL3k0dz09IiwibWFjIjoiZTA1OWMzNDZhNzY5OWNjYmUzMzg0YjMyOGJjOTgyNjQzMzMyODAxM2I5ZDhmOGEyOTJiMDRjMzVhMjhkODVlOCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 3497:2000",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Imk4M3cvTjRQcWF1WTVCbWhqZkx4bHc9PSIsInZhbHVlIjoiMUZJMzd3ZjVubFV4ZytBK2kxMUZOQT09IiwibWFjIjoiYTVlMjYwZWNmNmQ4ODliYTI2Y2I2OWE4NWMzNjc2MjhjNzEyMWUzNWMzMjk0ZTJjOTA1MmZkN2ZiYWNmOTE0MCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 3868:2000",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IkJJNXJWbUVkcFhJUWNabXlreTJuRFE9PSIsInZhbHVlIjoibU14U3ZNQ3ArOFU4dGdhKzU2dkZjUT09IiwibWFjIjoiYjg2ZTJhMDMyZDUzZTZiYjhlOWQwOTNmNjliYmUzZDA0MmY5NTA5NzBmYmY5YTE4OTNkOWVkMmFjZTZkNzEzMyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 3882:2024",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Ii9ZZWlvNWE3Um04bUhNRndleXpzbHc9PSIsInZhbHVlIjoiUnlhUG1HWFlhajBnN2tiTzBZaWxqQT09IiwibWFjIjoiNjliMTBlOTk4NmQ0MjYzODk2Yjg4YmQ0OTBlYjM5MmJlNWJiNzI2Zjk4MzQ3Y2JkZTdmY2M1NmMzODJlNDY4MSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 4518:1980",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6InB2N1ppUURHWG9nSzlTS1ZQTkVwVWc9PSIsInZhbHVlIjoiS21KZzJIZkl1VmFSWVAxcHNoS2pMZz09IiwibWFjIjoiMWZlNzIyOWVmMDFmMTg5ZWI2MWNiYjIzMjJmMDI4YzQxOWZmODI3ZmVhY2I1MjlkNDhjZTAwYWJlZGM1MzdjZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 4524 (Part 2):2000",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlE0b2M3eFJGNXdZbW9kT0o0eEozNHc9PSIsInZhbHVlIjoiN291MWdqenArVmhOWkpUZExGcDVMQT09IiwibWFjIjoiMjYzMjcxMzBlMTU3MmZmMTg2NWY5MDRhMGU2MTgzMjYyMWJmYjUzMTYwZjAwN2ExNDYzNDhiY2I5YzlmN2ZjNiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 4524 (Part 3):1985",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlpIMHBtNDh2bk9ZNU1FRzZMRzVvSUE9PSIsInZhbHVlIjoibnNRQjRpd2dObmZKd3lOaGZMaWdEQT09IiwibWFjIjoiYzA5ZjIxOTc2ZjY3MDBiZjZkOTI3ZGYzOTM5NDcxYTJjMjczZjM0NDcxMWJhMjYxOWI1OWQ4OTRjZGZlNmEyNyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 4524 (Part 6):1988",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IkNBY2lWclJYUHdlb3hPYzB4bnR5bnc9PSIsInZhbHVlIjoiZ0ozSTNZL3lEcXR1NldsN1RIYmJhQT09IiwibWFjIjoiNmZhMTQzNjY0YWMzMTQxYWZmOTJlMThhZmZjODc4NTlkYTI5MWNjYmZiMjU1OTgxZjE1YzZhNTBmODQ5NjkxMSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 10289:1999",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Ik9SR3Qybm5wdFZuYWVhd2ErcXVySHc9PSIsInZhbHVlIjoiaW0xamxKN1FEbXZqS01LY3FRWGY5dz09IiwibWFjIjoiZjI1NmFhZDExNzViNWU1ZjMyYTlkMTU4NjA2YmJlODQ4YTU1MTlhYzdlMjllYjZlZGFkZTQ3N2JjMWM2MzRiMSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 12687:1996",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6InRuT2lLVEVCOVcrZEZ4WEZuY3Q3Z0E9PSIsInZhbHVlIjoiYURqV25yMFdhdzlsRkJFZWdRUktndz09IiwibWFjIjoiNGFiMzg3MGZiYTQ1OGVhMmIwNzk0NTM3NzNmMmEzNjYyNWVlOGJjYmEzNmU4ZWE3MTMwNWE0MjYxZjQwNmFhOSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 14674:2000",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6ImpaYVd1bVdpeHpDRmRWR1JRN3V4bkE9PSIsInZhbHVlIjoiUjJvV3VCZkVPMGJrdnNQR20xOGhFQT09IiwibWFjIjoiOTBkZmQ5OTEwYjE1MTFhNmIxYzg3OWY2MWM1OTdhNTgxNDNhNDQ3Y2FmMzczOTMwZjRhNGJiNjc3MzRlYjI1MCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 600068 (Part 2/Sec 20):2021",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IkFRN1BIWG5rcVJYRllCeXQ4dzdNMXc9PSIsInZhbHVlIjoieDZSQVA4UTFydG9aZUpFUXNTajkwdz09IiwibWFjIjoiNjhlNTkxNTc4MDJmYmFhMzFiYTQzMzc1MGE3NDIzNmQ0NWQzZWFkMDc3MWFhOGQwN2NlMTM2OTYwZTVhNjZkZSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 15604,
+        "standardName": "Methods for measurement of thickness of metallic coatings on plastics",
+        "standardNumber": "IS 8435:1977",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-06-25",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjBZMnpCV3Z6NksvbEZ6YXYyRzAzdGc9PSIsInZhbHVlIjoidk1TZThZYUc1NHVjdFhEdHc1V2pSZz09IiwibWFjIjoiZjliNTc4MGIyYTAzMDA3ODMxYWRlMDBjZDBiZDJmNmE4MTYyNGVkODk0ODQ2MTc4YzU4YzdjN2Q1NDJhYjQ1ZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 15536,
+        "standardName": "Method for checking continuity of anodized coatings",
+        "standardNumber": "IS 8375:1977",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-03-27",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkQwR0xLenJrbEszMnY1SDRDMjlYVXc9PSIsInZhbHVlIjoiQmYvazdHbVBZNTJJWG5pZFRFS20xQT09IiwibWFjIjoiZTJlNWIwNGY3YmY1NmQ4NjA0MjM4ZmUxMjJmYmE0MmYxY2JjNjJiNmY0MmUyMzNjNTBkNTJkZWJjMzg0NWJjMiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 3306,
+        "standardName": "Specification for electrical connectors for aircraft: Part 1 general requirements",
+        "standardNumber": "IS 12043 (Part 1):1987",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-02-25",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InA3bGp5WXpsUkdJSkNQZTFaUWs2aUE9PSIsInZhbHVlIjoiNTBaUzdhemN3TUFKYW9YVnBLQmF5UT09IiwibWFjIjoiYjhiZTAxZGNhYmI1ZjI5MTBkNTExYjM5NzE3MzJjMmZkNTQ4NjE4M2E5YTkwNWFlZThkY2Q4OWI5M2NjODIyZCIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

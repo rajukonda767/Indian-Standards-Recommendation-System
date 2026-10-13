@@ -1,0 +1,96 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 10000,
+        "standardNumber": "IS 3400 (Part 6):2018",
+        "standardName": "Methods of Test for Vulcanized Rubbers Part 6 Determination of the Effect of Liquids (Fourth Revision)",
+        "equivalent_is": " ",
+        "identical_is": "ISO 1817 : 2015 ",
+        "reviewOn": "2024-07-01",
+        "noOfReview": "04",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InJ1MHpxbExZeU9pMmRRcVA3WndyU2c9PSIsInZhbHVlIjoidzdwV2JVa1k2UitZUmkxYm9OY0ZrZz09IiwibWFjIjoiN2NhMzFiMTFiYzE1M2MwOTI4YjllNzJlODRmZWRjYzNhZmVhMjIxMDM1Zjk1OTliNjAzM2U0MmM1NjRhYzc3MiIsInRhZyI6IiJ9",
+        "identical": "ISO 1817 : 2015 "
+      },
+      {
+        "standardId": 23973,
+        "standardNumber": "IS 16923 (Part 1):2018",
+        "standardName": "Thermocouples Part 1 EMF Specifications and Tolerances ( First Revision )",
+        "equivalent_is": " ",
+        "identical_is": "IEC 60584-1 : 2013 ",
+        "reviewOn": "2023-05-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlBFOGNYNmZMaUdiUWNPYkJJYzZZckE9PSIsInZhbHVlIjoiUFl3V0c0R2Jyd2NWV3hEREJBNS9qZz09IiwibWFjIjoiMzU2MzM4ZDgxNDJhYjgxOTlmNDFjOWUwMmQ5OTE2NzAzYWQ3NTRjYjY1ZWRlYmE5YmY5YzVmZDNlODNiMTllYSIsInRhZyI6IiJ9",
+        "identical": "IEC 60584-1 : 2013 "
+      },
+      {
+        "standardId": 26362,
+        "standardNumber": "IS 17510:2021",
+        "standardName": "GENERAL STANDARDS FOR READY-TO-EAT SAVOURIES",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2025-06-13",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjF4clZLdE9KQTN5VzBPQXZlMnR4ZWc9PSIsInZhbHVlIjoiMWZhZE1FckdaZU1CdGtlNkZDQzluQT09IiwibWFjIjoiMWM2YzliYzk2OGM2NDdiZDIzZjIwYjc4ZjM5Yjc0MjMxZDdjNGE3M2QzMjczMWE0NzQwMjU2Mjc2NDZjYjllMCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60730 (Part 2/Sec 12):2015",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IjhMUEVyMUNQdFFDOUdNY1VEcDNGWFE9PSIsInZhbHVlIjoiTDFaanFtUGVRRnRzelplVUdRNHJQZz09IiwibWFjIjoiZGY4YTEzN2UxYTUwNDc4NTgxN2ZiN2FlZDJiODA5ZTVmMmM5OWJjYjBmNjg1YTg0MTI3MzE3YWM1NTBhZDgxZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60068 (Part 2/Sec 52)",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Im5vMHN4VUZJcEFsZW45QlVHVDRwSXc9PSIsInZhbHVlIjoiVDdITzdISmpYM1htSjZCOVBOZ0ptUT09IiwibWFjIjoiNWQ1ZjFmODg2NDdiNmE1OTg4MTM3YWYyZmUyMmI4ODc4YzVkYjcyZDdjNzI5NjdkNjUyNWQwZTM4MGU4NzYzYiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 2912,
+        "standardName": "Specification for electrical impedance plethysmograph",
+        "standardNumber": "IS 11753:1986",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2021-12-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImU2R1IranVUNXJwa0NsM3Q2NmVRVFE9PSIsInZhbHVlIjoiOGt5emlqYjVqOW9IMXh0RGtad1AwUT09IiwibWFjIjoiZmZlZDJmY2Q4NTU4OTQyOTYzYTYzZjE1YjhiNTExMWFjOTI2ODliMTRiNWE5YzI5Y2RiZDI4Y2RmODYyM2ZmMCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 32556,
+        "standardName": "DOMESTIC ELECTRIC CLOTHES WASHING MACHINES FOR HOUSEHOLD USE  SPECIFICATION  (first revision)",
+        "standardNumber": "IS 14155:2025",
+        "equivalent_is": "IEC 60456: 2010",
+        "identical_is": "",
+        "reviewOn": "2025-01-29",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImlnN3dJL2ExM1BLVnkwa0hvdjJ4c2c9PSIsInZhbHVlIjoiVDFPS0JTRFlOZDZvNWRRYUtVeXBRZz09IiwibWFjIjoiMWIyZDI2ZDhhNWNkMjlmMWY3NTI1ZjY0Y2ExNjIyMWU0ODk1MmUyZWNlYjdhNDQ1NjYxNDJlYjg5MDE2YzU3OSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

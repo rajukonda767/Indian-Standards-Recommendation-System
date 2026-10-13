@@ -1,0 +1,75 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "No record found.",
+  "data": {
+    "crossRefData": [],
+    "crossFollowRefData": [
+      {
+        "standardId": 26,
+        "standardName": "Electrical insulating materials - Thermal endurance properties: Part 2 determination of thermal endurance properties of electrical insulating materials - Choice of test criteria (First Revision)",
+        "standardNumber": "IS 8504 (Part 2):2013",
+        "equivalent_is": null,
+        "identical_is": "IEC 60216 - 2 : 2005",
+        "reviewOn": "2023-01-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InBOV3lnQm5PYnNVK0twd0JlRlErYUE9PSIsInZhbHVlIjoiQU05VjNyT1dtbkFlNnBVU01URElwZz09IiwibWFjIjoiMGZjNWQzMjVkNDNhMmUyMWNjZWE1MDgwMWUwMmNmZmNmN2FhYmVkOTQ5YzgwODIyOGYyYWJlMjM3MWRmNjU0ZiIsInRhZyI6IiJ9",
+        "identical": "IEC 60216 - 2 : 2005"
+      },
+      {
+        "standardId": 21351,
+        "standardName": "Safety of power transformers, power supplies reactors and similar products: Part 2 - 7 particular requirements and tests for transformers and power supplies for toys",
+        "standardNumber": "IS/IEC 61558 (Part 2/Sec 7):2007",
+        "equivalent_is": null,
+        "identical_is": "IEC 61558_2_7",
+        "reviewOn": "2021-08-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkNtaXVrL0RUYU9NVjJqd1ZKRmRmNmc9PSIsInZhbHVlIjoiNFNVU3gxM2RoNWQrajBQUGFLejlZdz09IiwibWFjIjoiYjQyNmJjMTMyYTY3NTJmNGNlNWZkMmM3YWIxMjA5NThiNzkzZGJkNzUzYjljM2MxYWQzZmQyY2ViOTlhNWIxNyIsInRhZyI6IiJ9",
+        "identical": "IEC 61558_2_7"
+      },
+      {
+        "standardId": 24366,
+        "standardName": "Switches for Household and Similar Fixed Electrical Installations Part 2 Particular Requirements Section 2 Electromagnetic remote-control switches ( RCS )",
+        "standardNumber": "IS/IEC 60669 (Part 2/Sec 2):2006",
+        "equivalent_is": " ",
+        "identical_is": "IEC 60669-2-2 : 2006 ",
+        "reviewOn": "2024-08-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjZCTzg2STFQSnVlZGJQSjN6RWt2L1E9PSIsInZhbHVlIjoicFliNEZwbml1cGoyNmtmM2UxZTZsQT09IiwibWFjIjoiMzUwYTI3YjQzY2Y4OGJjYmM1NjMwODMxNTNmNTI2Yjk3MGM1M2Q0MWFlY2I5OTYzNzRmMWJmNzc5NWEyMzMzZSIsInRhZyI6IiJ9",
+        "identical": "IEC 60669-2-2 : 2006 "
+      },
+      {
+        "standardId": 66764,
+        "standardName": "Switches for Household and Similar Fixed Electrical Installations Part 2 Particular Requirements Section 2 Electromagnetic remote-control switches RCS (First Revision)",
+        "standardNumber": "IS/IEC 60669 (Part 2/Sec 2):2024",
+        "equivalent_is": null,
+        "identical_is": "IEC 60669 (Part 2/Sec 2):2024",
+        "reviewOn": null,
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ild6V1B3VE1WTVFNNTFHVmlUVjlneGc9PSIsInZhbHVlIjoiMXhaSGE5TGhOS29mNFhEbjc2ZkhyUT09IiwibWFjIjoiOWUzOWI3NGUzMGU1NGJmZTVjNTY2N2Y1NzI4ZWE5YjU2YTMzYTI5M2NjNjJkYjkxMjMzZmUyYWMzNGIzNzNjZSIsInRhZyI6IiJ9",
+        "identical": "IEC 60669 (Part 2/Sec 2):2024"
+      },
+      {
+        "standardId": 5447,
+        "standardName": "Specifications for particular types of winding wires: Part 0 general requirements: Sec 5 glass - Fibre braided, resin or varnish impregnated, bare or enamelled rectangular copper wire (First Revision)",
+        "standardNumber": "IS 13730 (Part 0/Sec 5):2012",
+        "equivalent_is": "NULL",
+        "identical_is": "IEC 60317-0-5:2006",
+        "reviewOn": "2024-09-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ii9XNlZGYjFTaldodlhyUGdiZnpmL0E9PSIsInZhbHVlIjoiZERXdDg5Z1pZUUF0eHljSWhNSDYzUT09IiwibWFjIjoiNzdlYmI0OThmOTBmOTBmNDc3ZTY2NDE4MGE1OTQ1Zjc4ZDlhYWRhMDM4OTdmNTI5NjhhNmQ3MjA3ZTYwZjQyYiIsInRhZyI6IiJ9",
+        "identical": "IEC 60317-0-5:2006"
+      }
+    ]
+  }
+}

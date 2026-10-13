@@ -1,0 +1,140 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "No record found.",
+  "data": {
+    "crossRefData": [],
+    "crossFollowRefData": [
+      {
+        "standardId": 26437,
+        "standardName": "Information Technology - Biometric performance testing and reporting - part 4: Interoperability performance testing",
+        "standardNumber": "IS/ISO/IEC 19795 (Part 4):2008",
+        "equivalent_is": "",
+        "identical_is": "ISO/IEC 19795-4:2008",
+        "reviewOn": "2024-06-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImZUcFdYdDM2T1FuVERRMjE4UEx5R3c9PSIsInZhbHVlIjoiOVdSUGZQam13SXNTWFhOMjFJMXJpdz09IiwibWFjIjoiZmQ5ZTZjZTVmNTY2NzgwZjliNjYxYTQxODNkNjAwZDNkNjg5OWNlYzM3OTJmY2RmNDc2ZGJkNDExNzBlYWY2NCIsInRhZyI6IiJ9",
+        "identical": "ISO/IEC 19795-4:2008"
+      },
+      {
+        "standardId": 26623,
+        "standardName": "Information Technology - Biometric performance testing and reporting - part 7: Testing of on-card biometric comparison algorithms",
+        "standardNumber": "IS/ISO/IEC 19795 (Part 7):2011",
+        "equivalent_is": "",
+        "identical_is": "ISO/IEC 19795-7:2011",
+        "reviewOn": "2024-06-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlFhKzV3aFM4SXkrMHBhakgxZHlMa0E9PSIsInZhbHVlIjoic1hvNXdCNkVEOUJrY2VaQkk0TFJwUT09IiwibWFjIjoiMGZhYmEzOTFiZGVmZTdkMzZlZjczMGU3MDQ1YzVjY2RjOWRmMmZkZjA1Y2E2OTkwMWE1Mzk3N2ZhNjZiOGMxNCIsInRhZyI6IiJ9",
+        "identical": "ISO/IEC 19795-7:2011"
+      },
+      {
+        "standardId": 26625,
+        "standardName": "Information technology  Evaluation methodology for environmental influence in biometric system performance",
+        "standardNumber": "IS/ISO/IEC 29197:2015",
+        "equivalent_is": "",
+        "identical_is": "ISO/IEC 29197:2015",
+        "reviewOn": "2024-06-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlViaEc4dkdGWDhrU1N4TDBVVDRmOXc9PSIsInZhbHVlIjoiN0F1SWdtMG9lV3BJSXozYkRFTlNkdz09IiwibWFjIjoiY2FhZDFiYTZmYjIwNzhjMDdlM2YxNjUwN2RlODVlNjk5MzAyOTA2YzUzM2FiOGM1ZGVmNDgxOGRmNmZhODgyOCIsInRhZyI6IiJ9",
+        "identical": "ISO/IEC 29197:2015"
+      },
+      {
+        "standardId": 26742,
+        "standardName": "Information Technology - Biometric performance testing and reporting - part 5: Access control scenario and grading scheme",
+        "standardNumber": "IS/ISO/IEC 19795 (Part 5):2011",
+        "equivalent_is": "",
+        "identical_is": "ISO/IEC 19795-5:2011",
+        "reviewOn": "2024-06-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlpBeTNWNm45Slc1R0tMSnpmaklLQlE9PSIsInZhbHVlIjoiSGtSZVorZEo2aFR0MXJZQXlXQ2Nqdz09IiwibWFjIjoiZTU2ZTk3MDA1OThmNjY5NmRmZGVkM2M3M2Y1NDdjMjFlNzM1NGQ3ZWMzYWQ4ZjE3ZTM3NWFhZTEwMTI0NjdmNSIsInRhZyI6IiJ9",
+        "identical": "ISO/IEC 19795-5:2011"
+      },
+      {
+        "standardId": 29323,
+        "standardName": "High-voltage switchgear and controlgear : Part 105 Alternating current switch-fuse combinations for rated voltages above 1 kV up to and including 52 kV",
+        "standardNumber": "IS/IEC 62271 (Part 105):2021",
+        "equivalent_is": "",
+        "identical_is": "IEC 62271-105: 2021",
+        "reviewOn": null,
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImVvdERJUmsyTlhiUFdkcWt5dUhlRkE9PSIsInZhbHVlIjoiUDVUM3YwbnFKOFVNRnp6YnV6RHl2dz09IiwibWFjIjoiZjdjMjVjM2UzMTRmN2Y4Y2E0MTRlMTA4ZjIzM2EyMWM3NWU0YjhhZGEyYzQ1MDNkNjU5MWM0NDg4NjYyYTQ3YiIsInRhZyI6IiJ9",
+        "identical": "IEC 62271-105: 2021"
+      },
+      {
+        "standardId": 29445,
+        "standardName": "High-voltage switchgear and controlgear  Part 106: Alternating current contactors contactor-based controllers and motorstarters",
+        "standardNumber": "IS/IEC 62271 (Part 106):2021",
+        "equivalent_is": "",
+        "identical_is": "IEC 62271-106: 2021",
+        "reviewOn": null,
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InBTcTVmdk9HcDFDNy9KMTQ5K3lsZ1E9PSIsInZhbHVlIjoidU02WmpGSCtOb2oyZXVLSzZZd255dz09IiwibWFjIjoiYjZjNGE4ZDAxNTZmMTE2OTlhYjhkOTg2NTdmYWE0YmFiNTkzNTRiMTBhOWViYmY4YTZiMjJjYzRkN2YwOWY1NyIsInRhZyI6IiJ9",
+        "identical": "IEC 62271-106: 2021"
+      },
+      {
+        "standardId": 31801,
+        "standardName": "High-Voltage Fuses for the External Protection of Shunt Capacitors  (First Revision)",
+        "standardNumber": "IS 9402:2024",
+        "equivalent_is": "",
+        "identical_is": "IEC 60549:2013",
+        "reviewOn": "2024-09-24",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ikd5OUF1SlNyY25CUEJsbmNHb00xVFE9PSIsInZhbHVlIjoiVTJwUFJiQzBncVJqRElBNGtTWUhtZz09IiwibWFjIjoiMDVmZWI4NWZmM2NmZDMyOWMzOTk3YzVlYjQ4MmU0NTYxNDJiYTE1NGZlYzBjMDcxOGY0YjdkMTUxZjk1ZDNmNiIsInRhZyI6IiJ9",
+        "identical": "IEC 60549:2013"
+      },
+      {
+        "standardId": 31803,
+        "standardName": "High-Voltage Fuse-Links for Motor Circuit Applications — Specification  (First Revision)",
+        "standardNumber": "IS 10624:2024",
+        "equivalent_is": "",
+        "identical_is": "IEC 60644:2009+AMD1:2019 (CSV )",
+        "reviewOn": "2024-09-24",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjY5YWpsYVgwODFDKytvZEhZZEFZL2c9PSIsInZhbHVlIjoiL1FqZHBHN29pK3BDMWJuMTM3bWlSUT09IiwibWFjIjoiYTc1YzhjZjE0NTY0ZDE4MTYyMjQyMjE2Y2ZiNmQwMTg3NDdjN2M3NTEyNzhkMmQxY2FiZjliMWEzZDE0OTRmMSIsInRhZyI6IiJ9",
+        "identical": "IEC 60644:2009+AMD1:2019 (CSV )"
+      },
+      {
+        "standardId": 16725,
+        "standardName": "Specification for high voltage fuses: Part 4 determination of short - Circuit power factor for testing high voltage fuses",
+        "standardNumber": "IS 9385 (Part 4):1983",
+        "equivalent_is": "IEC Pub 282-3 ( 1976) ",
+        "identical_is": "NULL",
+        "reviewOn": "2024-05-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjBpL2pCTGpTR1NjTWpaSjhBOHBpR1E9PSIsInZhbHVlIjoiNVpQMWNjWUV0dUtGRVhGQXFMQUVFZz09IiwibWFjIjoiMDQzNDU5ODQzODM5ZWUzZTRlMDEzYjZmNDk3YWMwNzMyN2QzOGZhYTAwODRkMmNiNTAzZmY0NDc2MjEwNDIyNyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 30795,
+        "standardName": "Tutorial and application guide for high-voltage fuses",
+        "standardNumber": "IS/IEC/TR 62655:2013",
+        "equivalent_is": "",
+        "identical_is": "IS/IEC 62655:2013 ",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjF5L3QvTlg4L3NTY2x1Tk16VFdEeFE9PSIsInZhbHVlIjoieDFSRVpHSjNkL2FzNVNwdGRkUVliUT09IiwibWFjIjoiMGQwYmJkYzBkMjU5YjM4Y2E4ZWZjMGE3NWRlM2MxZmJlYjkzNzc5ZjkwNTEwOGU4YWEyMjk4NDY3NTgwOWZhOSIsInRhZyI6IiJ9",
+        "identical": "IS/IEC 62655:2013 "
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6IlIxWSt1SzUxUXhTOGF4YUFuaWFCSUE9PSIsInZhbHVlIjoiczcrR2lKcThQOEc3QlE2THlzWGxjdz09IiwibWFjIjoiNTM1YzdhZjU2ODE2ODdlMDA2ZmE1ZmM2NWJhZTEyNzU1YmVjMjBlN2YzNTA2MzQ3NmJmZmFjNjM5YWMwYTdiZCIsInRhZyI6IiJ9",
+    "rowStandardId": 18586,
+    "pk_is_id": 18590,
+    "standardName": "Specification for Plain Hard - Drawn Steel Wire for Prestressed Concrete: Part 1 Cold Drawn Stress - Relieved Wire (Second Revision)",
+    "standardNumber": "IS 1785 (Part 1):1983",
+    "publishedOn": "1983-06-30",
+    "committeeId": 220,
+    "departmentId": 63,
+    "groupName": "Metals, Alloys and Metal Products (including Steel Products)",
+    "subGroupName": "Steel Products for Concrete Reinforcement",
+    "subSubGroupName": "Steel Reinforcement for Reinforced and  Prestressed Concrete Constructions",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "02",
+    "noOfAmendment": "04",
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "Cold drawn stress-relieved wire for presetressed concrete",
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Not Equivalent",
+    "supersheed": "",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "2023-01-01",
+    "commentCount": 1,
+    "equivalenceId": 4,
+    "is_documents": "BisProd/bisProd/oldStandards/S03/S03V01/1785_1.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2023-01-01",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Nishikant  Singh (SCIENTIST-D)",
+    "committeeName": "Concrete Reinforcement",
+    "departmentName": "CIVIL ENGINEERING DEPARTMENT",
+    "deptAliasName": "CED",
+    "committeePreparedName": "CED 54 - Concrete Reinforcement",
+    "deptPreparedName": "Civil Engineering Department(CED)",
+    "reviewList": [
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 1785 (Part 1):1983"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1785 (Part 1):1983"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1785 (Part 1):1983"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1785 (Part 1):1983"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1785 (Part 1):1983"
+      }
+    ]
+  }
+}

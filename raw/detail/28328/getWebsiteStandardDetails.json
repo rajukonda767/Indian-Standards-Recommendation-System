@@ -1,0 +1,85 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6InZJd1VTTXdGekpKaTU4WjZ4Vm5IdGc9PSIsInZhbHVlIjoiaThuOFM5NE9XaUJaQ2tHbTR5dVB0QT09IiwibWFjIjoiMjBjNmE4ZGJkNmEyNDIyNmI2NTU3YzMwMzA3NmFkZjFmOGFmMTExMTQ5OThjNzNiNGNhZWI3MjgzYWQyZDRiZiIsInRhZyI6IiJ9",
+    "rowStandardId": 28193,
+    "pk_is_id": 28328,
+    "standardName": "Wooden Flush Door Shutters (Solid Core Type) — Specification Part 1 Plywood Face Panels ( Seventh Revision )",
+    "standardNumber": "IS 2202 (Part 1):2023",
+    "publishedOn": "2023-02-09",
+    "committeeId": 197,
+    "departmentId": 63,
+    "groupName": "Building Materials including Paints",
+    "subGroupName": "Door and Window and its  Fittings",
+    "subSubGroupName": "Doors and Windows",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "07",
+    "noOfAmendment": "01",
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "WOODEN FLUSH DOOR SHUTTERS",
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "IS 2202 : Part 1 : 1999",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 2,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S03/S03V01/2202_1.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2023-02-14",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Shubham Chaudhary (SCIENTIST-C)",
+    "committeeName": "Doors, Windows And Shutter",
+    "departmentName": "CIVIL ENGINEERING DEPARTMENT",
+    "deptAliasName": "CED",
+    "committeePreparedName": "CED 11 - Doors, Windows And Shutter",
+    "deptPreparedName": "Civil Engineering Department(CED)",
+    "reviewList": [
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 2202 (Part 1):1999"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 2202 (Part 1):1999"
+      },
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 2202 (Part 1):1999"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 2202 (Part 1):2023"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 2202 (Part 1):2023"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 2202 (Part 1):1999"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 2202 (Part 1):1999"
+      }
+    ]
+  }
+}

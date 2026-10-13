@@ -1,0 +1,77 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Power",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6IlBseUJ4Z0RwMDJPeHYyeXNEZk0zYkE9PSIsInZhbHVlIjoiQkdabWdQcWJoSUR1aGdxVnZXZDl2QT09IiwibWFjIjoiNWZhNTYyNWIxZmU0ODY2ZTBiYWU1OTU1YjNlYWJjY2RhODkzNGYwYzcxZDc4YWY4OTUyYmEyYTQ4Njk1MGZhMCIsInRhZyI6IiJ9",
+    "rowStandardId": 25402,
+    "pk_is_id": 25470,
+    "standardName": "Plugs and Socket-Outlets for Household and Similar Purposes of Rated Voltage up to and Including 250 V and Rated Current up to and Including 16 A - Specification ( Fourth Revision )",
+    "standardNumber": "IS 1293:2019",
+    "publishedOn": "2019-02-28",
+    "committeeId": 248,
+    "departmentId": 65,
+    "groupName": "Electrical Appliances and Accessories",
+    "subGroupName": "Plugs, Sockets, Switches and accessories",
+    "subSubGroupName": "Switch  plugs, sockets and accessories",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "03",
+    "noOfAmendment": "02",
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "PLUGS AND SOCKET-OUTLETS FOR HOUSEHOLD AND SIMILAR PURPOSES",
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Modified/Technically Equivalent",
+    "supersheed": "",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "2026-01-12",
+    "commentCount": 0,
+    "equivalenceId": 3,
+    "is_documents": "BisProd/bisProd/oldStandards/S05/S05V01/1293.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": "IEC  60884-1",
+    "identical_is": "IEC  60884-1",
+    "reviewOn": "2026-01-12",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Nitish Kumar Jain (SCIENTIST-C)",
+    "committeeName": "Electrical Wiring Accessories",
+    "departmentName": "ELECTROTECHNICAL DEPARTMENT",
+    "deptAliasName": "ETD",
+    "committeePreparedName": "ETD 14 - Electrical Wiring Accessories",
+    "deptPreparedName": "Electrotechnical Department(ETD)",
+    "reviewList": [
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 1293:2005"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 1293:2019"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1293:2019"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 1293:2019"
+      },
+      {
+        "isStatus": 6,
+        "standardNumber": "IS 1293:2019"
+      }
+    ]
+  }
+}

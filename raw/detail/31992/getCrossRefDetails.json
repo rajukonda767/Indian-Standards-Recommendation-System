@@ -1,0 +1,47 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 31902,
+        "standardNumber": "IS 9385 (Part 1):2024",
+        "standardName": "High-Voltage Fuses  Part 1 Current-Limiting Fuses (Second Revision)",
+        "equivalent_is": "",
+        "identical_is": "IS/IEC 60282 (Part 1)",
+        "reviewOn": "2024-10-09",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImdyK2FTY0NpcjBFbFpuZDBuRzAxQUE9PSIsInZhbHVlIjoiR0NaSWEyQ0wvaWRoSVd0MUZ4b0hMUT09IiwibWFjIjoiZTdhZThjNTZhMGNmNjJhZWE3NGI4OTcwNTQ3NzUxNjQyOTIxZTE5NDZkMzQ1MjE2OWIyM2RlYmZiZmY4ODk4YyIsInRhZyI6IiJ9",
+        "identical": "IS/IEC 60282 (Part 1)"
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 62655:2013",
+        "standardName": "Tutorial and application guide for high-voltage fuses",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6InNuMkFEcWEvRERQSkMrS2pQYUU2Tnc9PSIsInZhbHVlIjoiaEhBOU5sb0JUSkhIZUlBMUphNFpHZz09IiwibWFjIjoiZTkyZWNkMTI1ZDhmM2ViMzA3YWQ3YjZiOGQzMmQxZGYyNjM2NzA3NTEyYjVlOGVhNDhmNGZjNjFlYzg4YTYyNSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 30795,
+        "standardName": "Tutorial and application guide for high-voltage fuses",
+        "standardNumber": "IS/IEC/TR 62655:2013",
+        "equivalent_is": "",
+        "identical_is": "IS/IEC 62655:2013 ",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ind2UVlobjloZGpVOVhDYmx4M1B2cEE9PSIsInZhbHVlIjoieVd0K1UxTlVBaUJjWGdnRHJ1dHE2UT09IiwibWFjIjoiMDEwMzY4MDQ2ZDM1ODk3MWU0ZDdjNWNlYTI0ODMyYzk3NmUyODEyZDRkZTRhYmE5MDdmMWU1NDM5ZjZkOTU5YSIsInRhZyI6IiJ9",
+        "identical": "IS/IEC 62655:2013 "
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "endpoint": "getWebsiteStandardDetails",
+  "url": "https://standardsadmin.bis.gov.in/review-service//getWebsiteStandardDetails",
+  "method": "POST",
+  "request_headers": {
+    "referer": "https://standards.bis.gov.in/",
+    "accept": "application/json, text/plain, */*",
+    "content-type": "application/json"
+  },
+  "request_body": {
+    "encId": "eyJpdiI6IlBuVlErMjdsellIc0w3WmxVeW9raFE9PSIsInZhbHVlIjoiWWZqeTlzSS9abytkd3hJVUR2QW1BUT09IiwibWFjIjoiODk1YzdlNDQxMDc0NzJjOTM3ZjQ5YWZkZTEzNjMxZTM5ODI5Yjc0Y2YwZGYwMmI2OGZlODZhY2FlNTQ0ZWMzNyIsInRhZyI6IiJ9",
+    "fromPage": "guestUserPage",
+    "token": null,
+    "refreshToken": null,
+    "clientId": null,
+    "clientSecret": null,
+    "sub": null
+  },
+  "response_status": 200,
+  "response_json": {
+    "status": "SUCCESS",
+    "statusCode": 200,
+    "msg": "Record fetched successfully.",
+    "data": {
+      "ministryName": "Ministry of Power",
+      "riskNameName": "",
+      "standardId": "eyJpdiI6ImJHa3FROTdqd0NXa0VFVHlqRlJyV1E9PSIsInZhbHVlIjoiclRuVTM3RFp5NGxhSnBnMmJncmlJUT09IiwibWFjIjoiZGVmNTNmOGNlMGFlYTQ5NzgzMDAwNGU2ZTc2ZmE3NTBiMzMzYWYxOWZmYzU3MjVlMzgzOTI1MWVjODQ1ZGQ5MyIsInRhZyI6IiJ9",
+      "rowStandardId": 67227,
+      "pk_is_id": 67227,
+      "standardName": "Surge arresters - Part 10: Rationale for tests specified by IEC 60099 Part 4 : 2014",
+      "standardNumber": "IS 15086 (Part 10):2026",
+      "publishedOn": "2026-08-28",
+      "committeeId": 263,
+      "departmentId": 65,
+      "groupName": "Electrical  Switchgear and Other Electrical Products/Accessories",
+      "subGroupName": "Electrical installations and general electricals",
+      "subSubGroupName": "Surge arrestors",
+      "sectorName": "Surge Arresters",
+      "subSectorName": "",
+      "subSubSectorName": "",
+      "noOfRevision": 0,
+      "noOfAmendment": 0,
+      "typeOfStandardId": "Code of Practice",
+      "degreeOfEquivalenceId": 1,
+      "languageId": "English",
+      "icsCode": "ICS 29.120.50; 29.240.10",
+      "shortTitle": null,
+      "certificationName": "Voluntary",
+      "equivalenceTypeName": "Identical under dual numbering",
+      "supersheed": "",
+      "orgTypeName": "Others",
+      "goalNames": "INDURSTRY ,INNOVATION AND INFRASTUCTURE",
+      "reAffirmationYear": "",
+      "commentCount": 0,
+      "equivalenceId": 1,
+      "is_documents": "BisProd/bisProd/projects/proof/2026/09/314_1790059534.pdf",
+      "is_hindi_document": null,
+      "equivalentIs": "IEC 60099 (Part 10):2024",
+      "identical_is": "IEC 60099 (Part 10):2024",
+      "reviewOn": null,
+      "source": 1,
+      "withdrawStatus": 0,
+      "withdrawOn": null,
+      "isStatus": 1,
+      "superseded_byis": null,
+      "projectStageName": null,
+      "memberDisplayName": "Mr. Suresh Kumar Gopalan (SCIENTIST-C)",
+      "committeeName": "Surge Arresters",
+      "departmentName": "ELECTROTECHNICAL DEPARTMENT",
+      "deptAliasName": "ETD",
+      "committeePreparedName": "ETD 30 - Surge Arresters",
+      "deptPreparedName": "Electrotechnical Department(ETD)",
+      "reviewList": [
+        {
+          "isStatus": 1,
+          "standardNumber": "IS 15086 (Part 10):2026"
+        }
+      ]
+    }
+  }
+}

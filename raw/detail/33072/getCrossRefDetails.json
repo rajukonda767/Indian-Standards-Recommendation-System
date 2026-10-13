@@ -1,0 +1,115 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 9164,
+        "standardNumber": "IS 264:2005",
+        "standardName": "Nitric acid - Specification (Third Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-09-17",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InFVSWNIcnMrUzdnTGlpa0lYeWFjbUE9PSIsInZhbHVlIjoicjFrSHhLcG9oWHYwaEZiaXJES25mUT09IiwibWFjIjoiMmNkNTZjMmU1NDg2MmI2MDJkZjhlNTA2MThlOTRhNzUxNDQ4NTk5ODBiMjIxMzczZGNkMmE5YmYxYWIwYmM2NiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 26175,
+        "standardNumber": "IS/IEC 60603 (Part 4):1987",
+        "standardName": "Connectors for frequencies below 3 MHz for use with printed boards Part 4: Two-part connectors for printed boards having contacts spaced at 1.91 mm ( 0.075 in )centres and staggered terminations at that same spacing",
+        "equivalent_is": "",
+        "identical_is": "60603-4 : 1987",
+        "reviewOn": "2024-09-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlV5ZEVPQ3lUM2pkU09yaHJ5enNYVWc9PSIsInZhbHVlIjoiL2t4L3hnMTVkdEJZbkllVFZZcHVHQT09IiwibWFjIjoiZmVjYjQxNGI3OWE2ODM2ZTE4MDEwOGNkMDZkN2EwNmFkOTliM2QzZWI1NDIxM2U2OTQ0NGVlZTQwNDJmOTZlNSIsInRhZyI6IiJ9",
+        "identical": "60603-4 : 1987"
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 12291,
+        "standardName": "Steels for die blocks for drop forging - Specification (Second Revision)",
+        "standardNumber": "IS 5518:1996",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-04-01",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImxVeHB1emZtL0lWMHhxbnRGR052a0E9PSIsInZhbHVlIjoiOVhwdXBORCs4Yy94bkJtWmxRZmVodz09IiwibWFjIjoiZjBkMDc3OGI4NWM2YTYwNTQ2NWRmYWY1ZjM4ZWQwNWQyZjBjMDQ3OTFlMWY5OGI5MGYxODkyMzcyMWJhOWExNSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 11096,
+        "standardName": "Specification for case hardening steels (First Revision)",
+        "standardNumber": "IS 4432:1988",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-04-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkVSQjFkWklnNnE0N0FQZFlicVVtd2c9PSIsInZhbHVlIjoiTnZIa3pyMUZOamVqT3FFTlZZeU1mUT09IiwibWFjIjoiNjY1ZTc5MTlhNjhlNTRjZjQyYWI4MWJjYmYyZjhmYjEwOTRlOWI5ZDUwNTUyZTRkMDUzZWEyNzA4NDU5NmEyYSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 12296,
+        "standardName": "Stainless steel sheets and strips for utensils - Specification (Third Revision)",
+        "standardNumber": "IS 5522:2014",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-04-01",
+        "noOfReview": "03",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImN4c0J3amdzWnN6cTVOOG9DNVpZZGc9PSIsInZhbHVlIjoiamZ4S1F0aXJsUk5IM2hoMEQ5TURpdz09IiwibWFjIjoiNTkwMjJmNDMzMTMxNmIxYjhkMmM1ZGYwMWQ0YWI0NjFlMDEzYjc5YzJlMWExNDlhMzM3YmM2Zjg0YjhhMDBjNyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 12835,
+        "standardName": "Indented Wire For Prestressed Concrete - Specification (Second Revision)",
+        "standardNumber": "IS 6003:2010",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-03-01",
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkFubHlWdnRySENpRmdBTWlQUzI2K0E9PSIsInZhbHVlIjoiKy9WQStTTGlBeTQ5Y1A3Q3c0MCszdz09IiwibWFjIjoiODgwZDNiOGU3ODNmMjE1NjM0NjZkMTk4MGI1ZWJmYTRiYjQzM2ExZTJjZTBkNjVmMGI4NDNlMWMzZTA5OWEwMyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 17086,
+        "standardName": "Specification for carbon and low alloy steel forgings for fired and unfired pressure vessels",
+        "standardNumber": "IS 9683:1980",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2023-03-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlNmYVcvUzdYVit2MDBtaWtzb2FhMFE9PSIsInZhbHVlIjoiZVAxRmxldVlaMWI1Z1RvcVdDcG5Fdz09IiwibWFjIjoiNTI0YjlkYTA4NWFhYzRiNTMwMzU0MzNjYjkzNTRiODU0ZGFkYTJkZGQ4ZDNmNjQzNzQ5M2Y5ZGI1NDJiMjAzNSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 30700,
+        "standardName": "Cold formed welded carbon steel square and rectangular hollow sections for mechanical, general engineering and decorative purposes - Specification",
+        "standardNumber": "IS 18573:2024",
+        "equivalent_is": "",
+        "identical_is": null,
+        "reviewOn": "2026-02-18",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjZ2NUVQUGMwMWMrZ2lvTWlWcmdUeHc9PSIsInZhbHVlIjoiL0VJSDVGMk10NUlnVDlNMFBVdXNCUT09IiwibWFjIjoiNDJlODIxZmI1NThiMTU2YzE4MjU3MDFjN2NlMmFiMGFkNjg3YTMxZjI4ZTQyMTdlNzBlZjhlMTAzNDdmOWQ5NiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

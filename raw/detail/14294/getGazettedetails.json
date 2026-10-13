@@ -1,0 +1,25 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 14294,
+      "So_No": "pub-015-1-2020",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/MTD/gf_30_14294_736_A1.pdf",
+      "pki_id": 6367,
+      "Amd_No": 1,
+      "standardNumber": " Amendment 1 to IS 736:1986",
+      "standardId": 14291
+    },
+    {
+      "IS_NO": 14294,
+      "So_No": "pub015/1/2020-pub-bis (1323)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/MTD/gf_30_14294_736_A2.pdf",
+      "pki_id": 18577,
+      "Amd_No": 2,
+      "standardNumber": " Amendment 2 to IS 736:1986",
+      "standardId": 14291
+    }
+  ]
+}

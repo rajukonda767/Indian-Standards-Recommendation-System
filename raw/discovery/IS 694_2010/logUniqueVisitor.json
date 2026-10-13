@@ -1,0 +1,26 @@
+{
+  "endpoint": "logUniqueVisitor",
+  "url": "https://standardsadmin.bis.gov.in/auth//logUniqueVisitor",
+  "method": "POST",
+  "request_headers": {
+    "referer": "https://standards.bis.gov.in/",
+    "accept": "application/json, text/plain, */*",
+    "content-type": "application/json"
+  },
+  "request_body": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "deviceId": "device-muflmubcxnuv3v",
+    "token": null,
+    "refreshToken": null,
+    "clientId": null,
+    "clientSecret": null,
+    "sub": null
+  },
+  "response_status": 200,
+  "response_json": {
+    "status": "SUCCESS",
+    "statusCode": 200,
+    "msg": "Unique visitor logged successfully.",
+    "finalVCountId": "83,83,697"
+  }
+}

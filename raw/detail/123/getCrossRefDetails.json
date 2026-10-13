@@ -1,0 +1,128 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 767,
+        "standardNumber": "IS 10 (Part 1):1990",
+        "standardName": "Plywood Tea-Chests - Specification: Part 1 General (Fifth Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-04-01",
+        "noOfReview": "05",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InFSRFdhSHc2WEExWFcxRmVidkNteVE9PSIsInZhbHVlIjoiclZJWFEra0lIR01Pd3RVOXVEbDJHQT09IiwibWFjIjoiOTdkMWQ2MDBkMzI4OGEwYjc1MDdmZDllNDQ3MzNlOTUzNjU2ZDM1OWY1YWI2ZjNjYmU1ZjBmMjc3MTY5Y2QxMSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 9290,
+        "standardNumber": "IS 2753 (Part 1):1991",
+        "standardName": "Methods for estimation of preservatives in treated timber and in treating solutions: Part 1 Deterrmination of copper, arsenic, chromium, zinc, boron, creosote and fuel oil",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-04-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlM4UmpQVVdMZ3B4NVo5N3NxRnl2WVE9PSIsInZhbHVlIjoiVnlmN0pHZWhJV2Y5NFFEdWszeGpsdz09IiwibWFjIjoiNjVhZGFlZTkwZTBiMTRiZTJmNTA1NmMyZWY2ZTAzMDJiMmQ5Mzk5ODUzMTEzNjk4MWQ0OGE1NmFiZDhiZjUwNCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 11626,
+        "standardNumber": "IS 4905:2015",
+        "standardName": "Random sampling and randomization procedures (First Revision)",
+        "equivalent_is": null,
+        "identical_is": "ISO 24153 : 2009  ",
+        "reviewOn": "2025-03-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InJSdzdkV3EwRjZWWnFXZklFRDdqZ3c9PSIsInZhbHVlIjoiNkhJTkJjRWlyUERTSGgzWVZqNFhldz09IiwibWFjIjoiMDdkMjRkOTdmNzVjODM2MTNkNTM2YzIxMDRhZmMyNDU3MGEyODRiYTQ3ZmVlNGQzODRkN2VlNzI4YjEwN2UwMiIsInRhZyI6IiJ9",
+        "identical": "ISO 24153 : 2009  "
+      },
+      {
+        "standardId": 13978,
+        "standardNumber": "IS 707:2011",
+        "standardName": "Timber Technology and Utilization of Wood, Bamboo and Cane - Glossary of Terms (Third Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2021-10-01",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InVMZmJ6bHJ5N1hkUEtzRmpHc29oK0E9PSIsInZhbHVlIjoiV21ZNzNFbit0TlhIMHFZaktNZW8vZz09IiwibWFjIjoiYzhkZDNmNzFlMWEwYTA4NTMwZWNlMzEzMjhjOTY2YTU5ZWM4ODU0MDg1OTA4ZTYwZWU3OGNlYTViMTgyNmJmMSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 21063,
+        "standardNumber": "IS 1734 (Part 1):1983",
+        "standardName": "Methods of test for plywood (Parts 1 to 20 in one volume) PART I DETERMINATION OF DENSITY AND--MOISTURE CONTENT",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-05-28",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlFGSFFEOEdVVG8vZGpnVDltRVlHOUE9PSIsInZhbHVlIjoiN0J5bjBwSEpXYWRiWVVIdnV4MDlpUT09IiwibWFjIjoiZTZmY2VhM2QwOGI3NDM3YmE4YjAxOTJiZjc5MDMyM2NhYmNiZTMzNmM4ZTk1ZGQ1OTMzMTdlODlkNTExYjg4YSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 21067,
+        "standardNumber": "IS 1734 (Part 5):1983",
+        "standardName": "Methods of test for plywood (Parts 1 to 20 in one volume) PART 5 TEST FOR ADHESION OF PLIES",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2018-01-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjdmNldkN2trT2dpYjFMRmRmd3A1ZHc9PSIsInZhbHVlIjoic2g3WVVCb3NRNk5CSmc1dVNZWUwyUT09IiwibWFjIjoiMTQ2MDc0YmMwNzgyZTIxZmI1Y2U5ZTQwNzAzNGQyMmMzZTFmNDI3YzRkY2QwNTdjNzg5NjE2MzU1MmEyZmJkMCIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 685,
+        "standardName": "Specification for Plywood Tea-Chests: Part 5 Assembly and Packing (Fourth Revision)",
+        "standardNumber": "IS 10 (Part 5):1976",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-04-01",
+        "noOfReview": "04",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Im9kS2daWHIyZnR6dlp0ZEJ5TTBjYUE9PSIsInZhbHVlIjoidlJPNys5c1EyWTlvaUZUQm1CbXBmQT09IiwibWFjIjoiYWUxMzk3ZWFlMTliNDM3NGQxZTUwY2Y4NWE3MjgzMWY5MDQ3MTNhNGRjZmNlNGM1MjQ2ODA1N2FmOGYyZjk1MSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 844,
+        "standardName": "Packaging code: Part 1 product packaging . section 1 foodstuffs and perishables",
+        "standardNumber": "IS 10106 (Part 1/Sec 1):1990",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-02-09",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkdEeVJEZmlCWmVrclN0N3YwTllYa2c9PSIsInZhbHVlIjoiNDVrdjk5a3FKRkU3T25BYUc2N2tJUT09IiwibWFjIjoiN2VmNmZlMTZiNmVmNjAyOTFjOWJlMzdiOTNhYzJmNTY2Mzc3OWU2M2U0Y2UwZjQ1MTBhMmRlN2U5ZTIxNDk0OSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 30102,
+        "standardName": "Logs for Plywood - Specification (Fourth Revision)",
+        "standardNumber": "IS 656:2023",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "04",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IklhTzZjUTRmb2sxUzlxQllDQkx1OGc9PSIsInZhbHVlIjoiOUhqWmt0QVNUOUJjVjB3Yll0RlNadz09IiwibWFjIjoiYzg4Y2FjMDRjMWVhMjU5ODZlY2M1ZjZlMGM1NGZjYTA4YmUzOGMwZWVhNmY1YzMwZDIxMGEwZmQ5ZTk5ZWEwZCIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

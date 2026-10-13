@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Steel",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6IjZaTDE2dlBSMTdoZkVES0k1aDVnZkE9PSIsInZhbHVlIjoiSzJmeGJJRk1JeC8zdlRrWW1TcEhkdz09IiwibWFjIjoiYjQwYjI4YTQ1OTZhZGIzZmNlYzQwOTZhN2JjODJmOWJhZTA3MDU4NWJjOTI2ODE4M2E4Y2UyNDQ0YTljZWQ0NiIsInRhZyI6IiJ9",
+    "rowStandardId": 27526,
+    "pk_is_id": 27661,
+    "standardName": "Specification for steels for cold headingcold extrusion applications: Part 1 wrought carbon and low alloy steels",
+    "standardNumber": "IS 11169 (Part 1):2022",
+    "publishedOn": "2022-09-30",
+    "committeeId": 39,
+    "departmentId": 70,
+    "groupName": "Metals, Alloys and Metal Products (including Steel Products)",
+    "subGroupName": "Alloy steels and forgings",
+    "subSubGroupName": "Alloy steel",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "02",
+    "noOfAmendment": "01",
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "CHQ STEELS",
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Not Equivalent",
+    "supersheed": "IS 11169 : Part 1 : 1984",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 4,
+    "is_documents": "BisProd/bisProd/oldStandards/S10/S10V01/11169_1.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": "4954:2018",
+    "identical_is": null,
+    "reviewOn": "2026-03-23",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Ram Sai Kumar Gedela (SCIENTIST-C)",
+    "committeeName": "Alloy Steels and Forging Sectional Committee",
+    "departmentName": "METALLURGICAL ENGINEERING DEPARTMENT",
+    "deptAliasName": "MTD",
+    "committeePreparedName": "MTD 16 - Alloy Steels And Forging Sectional Committee",
+    "deptPreparedName": "Metallurgical Engineering Department(MTD)",
+    "reviewList": [
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 11169 (Part 1):1984"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 11169 (Part 1):2022"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 11169 (Part 1):2022"
+      }
+    ]
+  }
+}

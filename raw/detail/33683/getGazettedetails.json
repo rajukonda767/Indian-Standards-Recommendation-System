@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 10588,
+      "So_No": "pub013/1/2020-pub-bis (1258)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_270_10588_398_2_4.pdf",
+      "pki_id": 17830,
+      "Amd_No": 0,
+      "standardNumber": "IS 398 (Part 2):2025",
+      "standardId": 33494
+    }
+  ]
+}

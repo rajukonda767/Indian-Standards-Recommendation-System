@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 8421,
+      "So_No": "4239(E) ",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/CED/gf_219_8421_4239(E)+4240(E)+4241(E).pdf",
+      "pki_id": 1231,
+      "Amd_No": 0,
+      "standardNumber": "IS 1916:2018",
+      "standardId": 8421
+    }
+  ]
+}

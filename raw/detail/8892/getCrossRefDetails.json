@@ -1,0 +1,34 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": "0",
+        "standardNumber": "0 0",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6ImNveXIxVCtnSCttZ3htK2Z1SEdyUmc9PSIsInZhbHVlIjoiK0prL2Mwd2V0SWlBdXI0WllxU1c3dz09IiwibWFjIjoiYzNhOTdiNDg4ZGEyY2NlNDNkZmVjZjI1MDNhYTUyOWFlNTdlZDNhZTUxYTgyNDhhZmRjNTg5YmIzYTQxZjQ5MiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 13355,
+        "standardName": "Method of test for the efficacy of preservatives and evaluating the natural durability of timbers usedin cooling towers (First Revision)",
+        "standardNumber": "IS 6497:1990",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-10-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlJnNzFFRXJEVVlxZ21xbjNJR1lTZGc9PSIsInZhbHVlIjoiMnNvNHZ0L1lOa3ZQdzVSUFlTMjY0Zz09IiwibWFjIjoiZjczMjY1MTY1MTZmNDQ3MTRlZGZjMjhiMzE5YjVmOTQ1Mjk0Mzk4YWQyNmVhYzJhNzEzNDdiYjIzNGMzYmU0MiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

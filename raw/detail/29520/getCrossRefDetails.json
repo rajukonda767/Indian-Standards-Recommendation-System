@@ -1,0 +1,184 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 4144,
+        "standardNumber": "IS 1271:2012",
+        "standardName": "Electrical insulation - Thermal evaluation and designation (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": "IEC 60085",
+        "reviewOn": "2024-09-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkpKOFg4QVF1QXFFNGNvZlBnMVhuREE9PSIsInZhbHVlIjoiRGdMQkdMQ0pkT1g1ZzJvTTRjVWpxdz09IiwibWFjIjoiYTM5YzA3OTEwZTE2ZTlkMzc1YTk0MjkyYmViZTJhNGI4NWYwYWRlMTE2MWI5ZTA0NjcwZjJiMGRkMTNlZDEwOSIsInRhZyI6IiJ9",
+        "identical": "IEC 60085"
+      },
+      {
+        "standardId": 17560,
+        "standardNumber": "IS/IEC 60715:2017",
+        "standardName": "Dimensions of low - Voltage switchgear and controlgear - Standardized mounting on rails for mechanical support of switchgear, controlgear and accessories (First Revision)",
+        "equivalent_is": "NULL ",
+        "identical_is": "NULL ",
+        "reviewOn": "2024-03-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjlGTkJ3TldnWnhwcG93ZEdINW45RHc9PSIsInZhbHVlIjoiTFVDeVNWQ1plVUdwQkxXSzdjQWh5QT09IiwibWFjIjoiY2Q3ZDRhMmU1NzQ5NGFhN2YxZDZkMjliM2ExYWU5NGEyNzJkYjFlNDRkOWYyNmNhNDdmYTljZGFkMGY1MjE5OSIsInRhZyI6IiJ9",
+        "identical": "NULL "
+      },
+      {
+        "standardId": 17823,
+        "standardNumber": "IS/IEC 60947 (Part 2):2016",
+        "standardName": "Low - Voltage switchgear and controlgear: Part 2 circuit - Breakers (First Revision)",
+        "equivalent_is": " ",
+        "identical_is": "IEC 60947-2 : 2016 ",
+        "reviewOn": "2022-12-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjVrREQwVDRRTGhqdkN3TjhSbzY5bXc9PSIsInZhbHVlIjoiQ2RJRGRxWG1TNnRqbXRtaVBmaUtCZz09IiwibWFjIjoiMmRiYzA0NmQyZmY0NTdiNDYxMjU4YTI2NDNjZjA5ZDdiY2I5MDhkYTIzYWRmNWM5MTA4M2Y3ZDI0ZDhjY2YyZiIsInRhZyI6IiJ9",
+        "identical": "IEC 60947-2 : 2016 "
+      },
+      {
+        "standardId": 18410,
+        "standardNumber": "IS 14700 (Part 6/Sec 2):2019",
+        "standardName": "Electromagnetic Compatibility ( EMC ) Part 6 Generic Standards Section 2 Immunity standard for industrial environments ( First Revision )",
+        "equivalent_is": "NULL ",
+        "identical_is": "IEC 61000-6-2 : 2016 ",
+        "reviewOn": "2025-07-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InpEYmRDVnBIRXg2VmhmOTVPRFdaYnc9PSIsInZhbHVlIjoic0tQdkVHaFJHUUxqQlh6VitWN0tTUT09IiwibWFjIjoiNGIwNmIyYTU0YzljNWNkZTk0YjRkZjVkODIwYTg3ZTU2YTUyMjVjNmQxY2JlYzQxMTc4NDBkNzcxZWU5MmFjOCIsInRhZyI6IiJ9",
+        "identical": "IEC 61000-6-2 : 2016 "
+      },
+      {
+        "standardId": 20829,
+        "standardNumber": "IS/IEC 60730 (Part 1):1999",
+        "standardName": "Automatic electrical controls for household and similar use : part 1 General Requirements",
+        "equivalent_is": "NULL",
+        "identical_is": "NULL",
+        "reviewOn": "2026-01-16",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjlVd3VRY0VKVUhEY2UvV0NZY2prOUE9PSIsInZhbHVlIjoiY010cEQyWkZOQkVlNDBHK3lSU3U5UT09IiwibWFjIjoiOTcyNjU5YTIxMjRkZmM1ZmE0NmVmODc4MzBkMTBjNzQ2NWVjMmY4NWQwODNkOGQ4NTQzNWRkYzExOThjZjhjNiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 26882,
+        "standardNumber": "IS 17778:2022",
+        "standardName": "Bidis — Determination of Total and Nicotine-Free Dry Particulate Matter Using a Linear Routine Analytical Smoking Machine",
+        "equivalent_is": "",
+        "identical_is": "ISO 17175:2017",
+        "reviewOn": "2026-06-25",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjhCQ2UxcUtuTW1jVmFCdUJRWmkrN3c9PSIsInZhbHVlIjoiaTBSWGo0U1h2dndkbXRsLys2YzNQZz09IiwibWFjIjoiMTU2ZWIzZmE5MzQ0MzMzMjEzMTFjNWNkMjgxNTBkYTIwZmIwYWJmMDZlMWY3NjI0ODAwOWRhNjRjMmU2YmE1YiIsInRhZyI6IiJ9",
+        "identical": "ISO 17175:2017"
+      },
+      {
+        "standardId": 27119,
+        "standardNumber": "IS/ISO 26262 (Part 10):2018",
+        "standardName": "Road vehicles Functional safety  Part 10:  Guidelines on ISO 26262",
+        "equivalent_is": "",
+        "identical_is": "ISO 26262-10:2018",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImtxaG5uN3lMdjVwc29xWWxuT0p3NkE9PSIsInZhbHVlIjoiZUtBdTc0VHZaeVZvdkF3c2dCRmVRQT09IiwibWFjIjoiMDBkMDI2ZDQ5MzEyYzk0NTI5ZDA0YzM5MmEyZTk3ODQ0ZDdiYTI0YjRjODlmZWIyMTRlMzBiY2FlYzBjZTZlOSIsInRhZyI6IiJ9",
+        "identical": "ISO 26262-10:2018"
+      },
+      {
+        "standardId": 33043,
+        "standardNumber": "IS 18995 (Part 4):2025",
+        "standardName": "Dental Rotary Instruments - Cutters Part 4 Miniature Carbide Laboratory Cutters",
+        "equivalent_is": "",
+        "identical_is": "ISO 7787-4:2002",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IklKQUdZTExuaXpLQWNnTUxjZFo3cEE9PSIsInZhbHVlIjoiOHVSWFdOOVlCM0ZLSmFROFFaaWRDUT09IiwibWFjIjoiNjA0MzIxMzkyZTY3Y2RlMWE3MzIxMmRmZDUwODExY2UwMzNkNjZmYWZlZjg0MDBhYzQzZTdlMGVkZGUwODYwMiIsInRhZyI6IiJ9",
+        "identical": "ISO 7787-4:2002"
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60417",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IjJsVE5jQ3A1a1ZmRjJQdlFkNVFDMEE9PSIsInZhbHVlIjoiV2Z4aE5BenJCWDl6MXdhenhWMUZzUT09IiwibWFjIjoiNzU5MTYyNzcwNjg3NTkxNGIxNzM1MDNkYzUzZjY4YmMwMGMzNTY1MjRiODgzZDg4OTIyOTQ1NmM3OTlhZGQ4NyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60617",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlYxN1FTQ0lSK1NBQmdsSlAyWWR0TXc9PSIsInZhbHVlIjoiK2s4TVhTbU81RFpZOFBJcGRDVnE1UT09IiwibWFjIjoiZjk5ZjNiZTEyYzQwMDY0ZDM0NzliNmVmZTY3ZWRlZDhiOWEyZDVlNzJjYWRiMzQzNjQ4N2JiOTFkNGEzYzcyNCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 61051 (Part 2)",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IjlOZUxrbE9JNnVJWFZ1VWVwRFlOZnc9PSIsInZhbHVlIjoic3hQbzI2V3hCczladjhjS1hMT1dRdz09IiwibWFjIjoiZmFjZTdiZjNjZDJiNzI3ZDAyZjY3ZmM0MjgwMDhhZTQwMmM0MzAxZTBkYjNkMTA5OTcwODU3MDdkZDkyZmRlMCIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 25976,
+        "standardName": "Electric Vehicle Conductive Charging Systems Part 22  AC Charging Configurations Section 1 - AC Charge Point for Light Electric Vehicle",
+        "standardNumber": "IS 17017 (Part 22/Sec 1):2021",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlJLYzlXTXJXbWJxbWo2R29oQWp1eUE9PSIsInZhbHVlIjoieVVVenRuK0dpUlV5bzdsMm4yengvZz09IiwibWFjIjoiNmVjM2IyNGVkNDZkYTlhZjJhNzEyNGQzNDU4MzY4ZWY2OTQwZTg2MDMzZDMwMDczYmEwZjFhNWU2Yjk2NDE0YSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 30396,
+        "standardName": "ELECTRIC VEHICLE CONDUCTIVE CHARGING SYSTEM   Part 31: ac  or dc EV supply equipment for where protection relies on electrical separation",
+        "standardNumber": "IS 17017 (Part 31):2024",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImhONGZmY2h0K1BXenRjZGFpYWpaZ1E9PSIsInZhbHVlIjoiaVBGZ3NCKy9IQkV6OUlCMWNUeUlWZz09IiwibWFjIjoiOTViY2I4Y2ZkN2UzZjdlZmUxMGM1YzljNTdlMWQwY2E5MzA5YWVlMTgyODFjZjRhNmZkMTY3OTlhMDYwOWVhZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 23611,
+        "standardName": "Low-Voltage Fuses Part 5 Guidance for the Application of  Low-Voltage Fuses",
+        "standardNumber": "IS/IEC/TR 60269 (Part 5):2014",
+        "equivalent_is": " ",
+        "identical_is": "IEC/TR 60269-5 : 2014 ",
+        "reviewOn": "2024-05-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik1WdUxMMnVNYm9kbWdBcEtWN3JCQVE9PSIsInZhbHVlIjoidnpYN0RUaElXRlpOK1pVUWlacHpadz09IiwibWFjIjoiZTViNmQ4NjAzZDYwYTFjNjUxMWIzNGEzYjFhNmFmNTg1ZGZmZGUxMDBkOGIyNjliZDlhNTkyOTU3OTMzYTgyYiIsInRhZyI6IiJ9",
+        "identical": "IEC/TR 60269-5 : 2014 "
+      }
+    ]
+  }
+}

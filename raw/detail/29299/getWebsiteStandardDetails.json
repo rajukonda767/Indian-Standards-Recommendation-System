@@ -1,0 +1,77 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Housing and Urban Affairs, Ministry of Housing and Urban Poverty Alleviation",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6IlRZajFIRURFOVRKdEUzdzRuTllTTWc9PSIsInZhbHVlIjoiMDFtN0R6NXhHUzcvOGxWT1pHZWlJZz09IiwibWFjIjoiMmUxODM3ZmIxNzgzNjVlYzcyMTIxYjRkZjc1MzRmNzE2OGE3MDZhZDY1YmZmM2QxZmU4NDQ5OGNmN2U3YjRjYSIsInRhZyI6IiJ9",
+    "rowStandardId": 29150,
+    "pk_is_id": 29299,
+    "standardName": "Gypsum Plaster Boards - Specification: Part 1 Plain Gypsum Plaster Boards (Fourth Revision)",
+    "standardNumber": "IS 2095 (Part 1):2023",
+    "publishedOn": "2023-08-10",
+    "committeeId": 192,
+    "departmentId": 63,
+    "groupName": "Building Materials including Paints",
+    "subGroupName": "Gypsum and lime based products",
+    "subSubGroupName": "Gypsum & Gypsum based products",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "04",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "Gypsum Plaster Boards",
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "IS 2095 : Part 1 : 2011",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S03/S03V01/2095_1.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2023-08-10",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Nakkala Praveen Sai (SCIENTIST-B)",
+    "committeeName": "Building Limes And Gypsum Products",
+    "departmentName": "CIVIL ENGINEERING DEPARTMENT",
+    "deptAliasName": "CED",
+    "committeePreparedName": "CED 04 - Building Limes And Gypsum Products",
+    "deptPreparedName": "Civil Engineering Department(CED)",
+    "reviewList": [
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 2095 (Part 1):2011"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 2095 (Part 1):2023"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 2095 (Part 1):2011"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 2095 (Part 1):2011"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 2095 (Part 1):2011"
+      }
+    ]
+  }
+}

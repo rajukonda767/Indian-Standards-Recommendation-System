@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6IklZTlpndzJoeFJ4SUoxUVNPRzcrM0E9PSIsInZhbHVlIjoiZVZWSENGRW5LRXNGak94U245c1hiUT09IiwibWFjIjoiZjU4ZmUxZGVjNGY0NzhjZTgzMWMwODc5ODE3OTk0YmU3MjJmYjc3ZTA0ZTM2Mjc3MzBhM2JjNDE0ZmU0YTFlYSIsInRhZyI6IiJ9",
+    "rowStandardId": 4001,
+    "pk_is_id": 4001,
+    "standardName": "Precast concrete manhole cover and frame - Specification (First Revision)",
+    "standardNumber": "IS 12592:2002",
+    "publishedOn": "2014-03-31",
+    "committeeId": 219,
+    "departmentId": 63,
+    "groupName": "Civil Engineering Design and Construction",
+    "subGroupName": "Concrete structures",
+    "subSubGroupName": "Prefabricated Construction",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "01",
+    "noOfAmendment": "02",
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "Precast Concrete Manhole Cover and Frame -",
+    "certificationName": "Voluntary",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "2023-01-01",
+    "commentCount": 1,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S03/S03V01/12592.pdf",
+    "is_hindi_document": "BisProd/bisProd/projects/standardDocuments/2026/07/500_1784695385.pdf",
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2023-01-01",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Nishikant  Singh (SCIENTIST-D)",
+    "committeeName": "Cement Matrix Products",
+    "departmentName": "CIVIL ENGINEERING DEPARTMENT",
+    "deptAliasName": "CED",
+    "committeePreparedName": "CED 53 - Cement Matrix Products",
+    "deptPreparedName": "Civil Engineering Department(CED)",
+    "reviewList": [
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 12592:2002"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 12592:2002"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 12592:2002"
+      }
+    ]
+  }
+}

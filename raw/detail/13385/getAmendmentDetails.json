@@ -1,0 +1,24 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "totalAmendments": 2,
+  "data": [
+    {
+      "standardId": 13382,
+      "standardNumber": "IS 6523:1983",
+      "noOfAmendment": 1,
+      "amendmentYear": "2005",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/6523A1.pdf",
+      "amendmentLabel": "First Amendment"
+    },
+    {
+      "standardId": 13382,
+      "standardNumber": "IS 6523:1983",
+      "noOfAmendment": 1,
+      "amendmentYear": "2007",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/6523A2.pdf",
+      "amendmentLabel": "Second Amendment"
+    }
+  ]
+}

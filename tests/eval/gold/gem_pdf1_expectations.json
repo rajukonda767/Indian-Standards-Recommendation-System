@@ -1,0 +1,93 @@
+{
+  "pdf_label": "Technical Specifications 1",
+  "pages": 1,
+  "doc_type": "technical_spec_annexure",
+  "note": "Table containing 3 cable BoQ rows (Sl.no 10, 20, 30). Handled by table-row segmentation (Step 4).",
+  "expected_items": [
+    {
+      "item_seq": 10,
+      "material_code": "M8110264037",
+      "short_description": "CBLE:PVC FRLS 1.1KV:CU-STR:1CX1.5SQMM",
+      "technical_specification": "POWER CABLE :SPECIFICATION/VOLTAGE GRADE-IS : 7098 XLPE CU STRANDED:CABLE SECTION-1 C X 1.5 SQ.MM ALL THREE COLOURS RED,YELLOW,BLUE",
+      "quantity": 2000,
+      "unit": "M",
+      "cited_standard_raw": "IS : 7098",
+      "expected_base_key": "IS7098",
+      "tier": "AUTHORITATIVE",
+      "internal_conflict": {
+        "short_desc_span": "CBLE:PVC FRLS 1.1KV",
+        "spec_span": "IS : 7098 XLPE CU STRANDED",
+        "finding": "SPEC_INTERNAL_CONFLICT",
+        "reason": "Short description specifies PVC insulation, but technical specification cites IS 7098 (XLPE insulation)."
+      },
+      "expected_findings": [
+        "SPEC_INTERNAL_CONFLICT",
+        "CITATION_NO_PART",
+        "CITATION_NO_YEAR",
+        "CERT_NOT_MENTIONED"
+      ],
+      "independent_recommendation": {
+        "top_1_standard": "IS 1554 (Part 1):1988",
+        "title": "Specification for PVC insulated (Heavy Duty) electric cables: Part 1 for working voltages up to and including 1100 V",
+        "confidence": 75.9
+      }
+    },
+    {
+      "item_seq": 20,
+      "material_code": "M8110224040",
+      "short_description": "CBLE:PVC 1.1KV:CU-STR:1CX2.5SQMM",
+      "technical_specification": "POWER CABLE (PART-1):SPECIFICATION/VOLTAGE GRADE-IS : 7098 XLPE INSULATED UNARMOURED, 1.1 KV GRADE:CONDUCTOR-COPPER - STRANDED:CABLE SECTION-1C X 2.5 SQ.MM",
+      "quantity": 2500,
+      "unit": "M",
+      "cited_standard_raw": "IS : 7098",
+      "part_prefix_in_text": "(PART-1)",
+      "expected_base_key": "IS7098(PART1)",
+      "tier": "AUTHORITATIVE",
+      "internal_conflict": {
+        "short_desc_span": "CBLE:PVC 1.1KV",
+        "spec_span": "IS : 7098 XLPE INSULATED UNARMOURED",
+        "finding": "SPEC_INTERNAL_CONFLICT",
+        "reason": "Short description specifies PVC insulation, but technical specification cites IS 7098 (XLPE insulation)."
+      },
+      "expected_findings": [
+        "SPEC_INTERNAL_CONFLICT",
+        "CITATION_NO_YEAR",
+        "CERT_NOT_MENTIONED"
+      ],
+      "independent_recommendation": {
+        "top_1_standard": "IS 1554 (Part 1):1988",
+        "title": "Specification for PVC insulated (Heavy Duty) electric cables: Part 1 for working voltages up to and including 1100 V",
+        "confidence": 86.7
+      }
+    },
+    {
+      "item_seq": 30,
+      "material_code": "M8112355140",
+      "short_description": "CBLE:PVC 1.1KV AR FRLS:CU-STR:3CX2.5SQMM",
+      "technical_specification": "CONTROL CABLE -CONDUCTOR SIZE UP TO 2.5 SQ MM):SPECIFICATION/VOLTAGE GRADE-IS : 7098 XLPE INSULATED FRLS, 1100 V GRADE:CONDUCTOR-COPPER - STRANDED:CABLE SECTION-3 C X 2.5 SQ.MM",
+      "quantity": 2000,
+      "unit": "M",
+      "cited_standard_raw": "IS : 7098",
+      "expected_base_key": "IS7098",
+      "tier": "AUTHORITATIVE",
+      "internal_conflict": {
+        "short_desc_span": "CBLE:PVC 1.1KV AR FRLS",
+        "spec_span": "IS : 7098 XLPE INSULATED FRLS",
+        "finding": "SPEC_INTERNAL_CONFLICT",
+        "reason": "Short description specifies PVC insulation, but technical specification cites IS 7098 (XLPE insulation)."
+      },
+      "expected_findings": [
+        "SPEC_INTERNAL_CONFLICT",
+        "CITATION_NO_PART",
+        "CITATION_NO_YEAR",
+        "CERT_NOT_MENTIONED"
+      ],
+      "independent_recommendation": {
+        "top_1_standard": "IS 1554 (Part 1):1988",
+        "title": "Specification for PVC insulated (Heavy Duty) electric cables: Part 1 for working voltages up to and including 1100 V",
+        "confidence": 83.7
+      }
+    }
+  ],
+  "sha256": "07b77135e685198eb2b8d9ea790cb6480abeba3ab8d4f097829758fad6abae2c"
+}

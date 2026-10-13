@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6Ii9TU3VuSUlZOG1OenM0NHl5RUxxK2c9PSIsInZhbHVlIjoiRzF4WmxJUGFtQ25wbktJdE9ROVRiZz09IiwibWFjIjoiNTBiMTQxN2NhMjJjMjY5OWU0MTU3YzBlMzRiOTFlNTZlOTM2MWFjNDFhNWM1MDYyY2I3YWQwZjZmMGFkMGFlNCIsInRhZyI6IiJ9",
+    "rowStandardId": 13039,
+    "pk_is_id": 13041,
+    "standardName": "Ledged, braced and battened timber door shutters - specification",
+    "standardNumber": "IS 6198:1992",
+    "publishedOn": "1992-01-31",
+    "committeeId": 197,
+    "departmentId": 63,
+    "groupName": "Building Materials including Paints",
+    "subGroupName": "Door and Window and its  Fittings",
+    "subSubGroupName": "Doors and Windows",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "02",
+    "noOfAmendment": "02",
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "ledged, braced and battened timber door shutters",
+    "certificationName": "",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "2022-01-01",
+    "commentCount": 0,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S03/S03V01/6198.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": "2022-01-01",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Shubham Chaudhary (SCIENTIST-C)",
+    "committeeName": "Doors, Windows And Shutter",
+    "departmentName": "CIVIL ENGINEERING DEPARTMENT",
+    "deptAliasName": "CED",
+    "committeePreparedName": "CED 11 - Doors, Windows And Shutter",
+    "deptPreparedName": "Civil Engineering Department(CED)",
+    "reviewList": [
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 6198:1992"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 6198:1992"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 6198:1992"
+      }
+    ]
+  }
+}

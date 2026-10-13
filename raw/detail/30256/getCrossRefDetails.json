@@ -1,0 +1,50 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 8311,
+        "standardNumber": "IS 1885 (Part 32):2019",
+        "standardName": "Electrotechnical Vocabulary Part 32 Electric Cables ( Second Revision )",
+        "equivalent_is": " ",
+        "identical_is": "IEC 60050-461 : 2008 ",
+        "reviewOn": "2025-06-25",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImxoMVMvOWx1RWM2eU1rdlBjZ3FiT3c9PSIsInZhbHVlIjoiWHRNTzdRL2FRRmZieGFFV0RPRmx6QT09IiwibWFjIjoiMGY0Y2RjYjU0MTZhYmMyYmI0NjRhZGFkOTc1NjM0Njg5NWM0ZTc1N2NhYjQ0YzcyZThiZGIyM2UwYTQ2YWRjYyIsInRhZyI6IiJ9",
+        "identical": "IEC 60050-461 : 2008 "
+      },
+      {
+        "standardId": 31701,
+        "standardNumber": "IS 6380:2024",
+        "standardName": "Elastomeric Insulation and Sheath of Electric Cables - Specification  (Second Revision)",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2024-09-02",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Im5GdHZJbU9jNkxwU0VOeXB5bDJKUGc9PSIsInZhbHVlIjoiVXZUYTdCZC9QTjAvUTF1dzEzMGZCUT09IiwibWFjIjoiNjlkMTMyNjA4OTI4NjBmOTM3ZGZhZmNkZmVlMmRiNDg1YmQzY2NhNjVmMjAxNTI4ZjE3ZjRiNGQ3ZThhYTlkMiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 9020,
+        "standardName": "Specification for miners cap - Lamp batteries (Lead - Acid Type) (First Revision)",
+        "standardNumber": "IS 2512:1978",
+        "equivalent_is": "BS 4945 : 1973 ",
+        "identical_is": "NULL",
+        "reviewOn": "2026-07-06",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlVoNFRXRmRyMEMwNGdYUFBqMVNVdVE9PSIsInZhbHVlIjoiNi9WM1BlRTI5cVVuaWlBK1Q4ZGhPQT09IiwibWFjIjoiMDEwOWI0YTQ5MDg1YTVkZjUzMjFiNGU5ZGU3MTA1ZTJhOGJkZWI2ZDM0MjRkYjM0Y2VlYmU5ZDVlYTlhZTJlNCIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

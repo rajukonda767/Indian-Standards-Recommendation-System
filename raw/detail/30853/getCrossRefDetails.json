@@ -1,0 +1,76 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 1299,
+        "standardNumber": "IS 1047:1965",
+        "standardName": "Methods of chemical analysis of antimony (Revised)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-01-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlNtSE1URVY0ZURIcHExYlBFMlhVVXc9PSIsInZhbHVlIjoiT0xUdFBscnA2cHgxazRFaXFpMVM3QT09IiwibWFjIjoiYTJhNTQ4NjEyMDZhN2M4MGJkNjc0YjlkM2EyZGU3NDIwNTBhYmI2OTQ4YjcwZDA3NmFiMWU1NmUxODJjYThjYyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 5659,
+        "standardNumber": "IS 1387:1993",
+        "standardName": "General requirements for the supply of metallurgical materials (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2024-03-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlRhSU03eUZkUzlCKzNxU1lLMHJDVmc9PSIsInZhbHVlIjoiTU04N2Vjb0p5c05YSTc5SHNIc09xUT09IiwibWFjIjoiZjMxMGQ3ZDcwYzQ4NTljMGMwNTljZTVlNjE5ZTFjOTEwZGVkZmEyMWYxOWZkMzg1ZWM1MWM3NDQ3YTM3ODIxZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 8222,
+        "standardNumber": "IS 1817:1961",
+        "standardName": "Methods of sampling non - Ferrous metals for chemical analysis",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-03-30",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkZzS01UTkVqUVJKbzhuWVlDVC96anc9PSIsInZhbHVlIjoiYzh0U2txekdxb01zNVduTEM0bUdkdz09IiwibWFjIjoiZWFmZmY2Yjc0Zjk2NzIxOThlYjFlNjczOGJiNGUxNDQyNDE5YjEwZTg4MGVhMjI3YThkYWMxYjg1MTE3MzBiNSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 1990,
+        "standardName": "Specification for cartridges for shot guns: Part 9 lead shots",
+        "standardNumber": "IS 10994 (Part 9):1984",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-01-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IitSem95NHlDeWNuMThSYnUyUGEreEE9PSIsInZhbHVlIjoieWE5VEtGRzlJMGdQY3E1YjR3TGZJZz09IiwibWFjIjoiN2UwMDRmYmE5NjFmNDEyOWRiZTU3MWQzNTg3ZGY2NDhmZDRlZDdiZmY3NGE1MTI5NzBhMDg1MDhlZjEyYTBjNCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 6621,
+        "standardName": "Lead - Antimony alloy bricks for radiation shielding - Specification",
+        "standardNumber": "IS 14688:1999",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-03-30",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik53d2pSTnJGYlFDQ1o3QnlFcHdvTmc9PSIsInZhbHVlIjoidUJIOWJQMHRyS2ZITzBtS0NidkZVUT09IiwibWFjIjoiYzQ0Y2NjMTg5Y2FmNGUwOTEwMTMyN2RiZDlkZmE3MDE1ODY4Njc1ZmYwYjEzZGUyNzFlMWJiOWEzNjMxMGU3MyIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

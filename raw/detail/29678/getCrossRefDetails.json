@@ -1,0 +1,280 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 4144,
+        "standardNumber": "IS 1271:2012",
+        "standardName": "Electrical insulation - Thermal evaluation and designation (Second Revision)",
+        "equivalent_is": null,
+        "identical_is": "IEC 60085",
+        "reviewOn": "2024-09-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InoyZlpSZG9xTE8rZ0tMOSsxbkpxYWc9PSIsInZhbHVlIjoiOFJpTmFlUkNrdU56c2d4MWhXbmMxQT09IiwibWFjIjoiYzE4Y2VjY2NmNTM1YTUwODRmNzM5M2UzZjFlZDQ4ODcyOTNjYjU0NzljNDFmZmUxNmVlNTA3N2ZjZjFmZWY0MSIsInRhZyI6IiJ9",
+        "identical": "IEC 60085"
+      },
+      {
+        "standardId": 33487,
+        "standardNumber": "IS/IEC 61730 (Part 1):2023",
+        "standardName": "Photovoltaic (PV) Module Safety Qualification  Part 1 Requirements for Construction  (Second Revision)",
+        "equivalent_is": "",
+        "identical_is": "IEC 61730-1:2023",
+        "reviewOn": null,
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Imo2eUhBN3p3SVphNGQwTEcvakpFeVE9PSIsInZhbHVlIjoiYXMyMFhVV0pINTFGZUdmVlcxR252UT09IiwibWFjIjoiNjhmMDRlZjNkZmE3NzI4NzAwMTFhMjY4YjZhNTNlMjdiMjIwNDExMmUxMjYxY2I2ODM0NWIwYzUyZmZlMjE1NyIsInRhZyI6IiJ9",
+        "identical": "IEC 61730-1:2023"
+      },
+      {
+        "standardId": 65893,
+        "standardNumber": "IS 16102 (Part 1):2026",
+        "standardName": "Self-Ballasted LED Lamps for General Lighting Services Part 1 Safety Requirements (First Revision)",
+        "equivalent_is": null,
+        "identical_is": "IEC 62560:2015",
+        "reviewOn": null,
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ilh6b0lla1BwWmVIdXdRdHdDejRRc1E9PSIsInZhbHVlIjoiOEwzKzZzU0ZOUDVNQ2E0TnYrNjRFZz09IiwibWFjIjoiMzFkOWI4OTIwM2NmMzlkMTExZjQwZWQzN2JkMDExMzhmZGU0OGYwMDVhYzJiY2VhZDUzMDJkYTU3YzRiOTg1OSIsInRhZyI6IiJ9",
+        "identical": "IEC 62560:2015"
+      },
+      {
+        "standardId": 21462,
+        "standardNumber": "IS/IEC 60270:2000",
+        "standardName": "High - Voltage test techniques - Partial discharge measurements",
+        "equivalent_is": "NULL",
+        "identical_is": "NULL",
+        "reviewOn": "2026-02-24",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkRCcno3NVMvUUo5d1FWclJXV0wzTlE9PSIsInZhbHVlIjoiSHZNbndjTzg2MnVVTlpqOFdDbHhnQT09IiwibWFjIjoiYWM5NmFkMDdiNWMwZGEwNWQ1NTY2Y2Q5NTBkZmViZDg5NDljNjhhYzJiZDlhZDZiZTJjMWZjNjgxMGYxZDU4ZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 22057,
+        "standardNumber": "IS 16227 (Part 3):2015",
+        "standardName": "Instrument transformers: Part 3 additional requirements for inductive voltage transformers",
+        "equivalent_is": "NULL",
+        "identical_is": "iec61869-3",
+        "reviewOn": "2025-02-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImV1TnBjZnJJWTFudmQ1VzYvOHRQbGc9PSIsInZhbHVlIjoiV2gwb0RZejJ3SDNhSmRReWhtM2JvQT09IiwibWFjIjoiMzEzN2ViZDgxYTZjMTBmNmU2MmUyMDdiNmE3OGM2NzNmZWU0Y2Q2YzBiNDRmMTUzYjMyYTUwODJmNzllY2NmMyIsInRhZyI6IiJ9",
+        "identical": "iec61869-3"
+      },
+      {
+        "standardId": 22224,
+        "standardNumber": "IS 16227 (Part 2):2016",
+        "standardName": "Instrument transformers: Part 2 additional requirements for current transformers",
+        "equivalent_is": " ",
+        "identical_is": "IEC 61869-2 : 2012 ",
+        "reviewOn": "2025-02-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Im9KYUEvWkRRY29HaVhpZzVuWEJYelE9PSIsInZhbHVlIjoiSm1QSThDQ3lJRTNYUVdNaDErbnI1UT09IiwibWFjIjoiZTdhZTFiOGFkNTI1Y2Y1OGI2OTk0ZDBkMDU0MTEzZDc4MDk0MTljZWQ3MGEyZGFkMmJjMzU5YzI3N2I1M2EzNCIsInRhZyI6IiJ9",
+        "identical": "IEC 61869-2 : 2012 "
+      },
+      {
+        "standardId": 22427,
+        "standardNumber": "IS 16227 (Part 1):2016",
+        "standardName": "Instrument transformers: Part 1 general requirements",
+        "equivalent_is": " ",
+        "identical_is": "IEC 61869-1 : 2007 ",
+        "reviewOn": "2025-12-15",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Imo3UjNicXlQeldwMlpEQUFtU29wb0E9PSIsInZhbHVlIjoiR0VTMEJVK3JBVUsxMnpBTE4ybVZQdz09IiwibWFjIjoiMjgwYzRkOWI1MjZlYjljZmY3NjllZTZjMjkxNTUyMzVlZjAxZDkxYWMxOGI4YzcxNzNiM2RiOWFmNTY1OGNiZSIsInRhZyI6IiJ9",
+        "identical": "IEC 61869-1 : 2007 "
+      },
+      {
+        "standardId": 28389,
+        "standardNumber": "IS 17053:2023",
+        "standardName": "Guidelines for the Checking and Treatment of Sulfur Hexafluoride (SF6) Taken from Electrical Equipment and Specification for its Re-Use ( First Revision )",
+        "equivalent_is": "",
+        "identical_is": "IEC 60480:2019",
+        "reviewOn": "2023-04-05",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImhRamxJRGEzei82YjIzVnlPS1U5OEE9PSIsInZhbHVlIjoiNUxpcEtia0w5UmtTbWk5VGhPM1lnZz09IiwibWFjIjoiMWQyM2E3YzgyOTQxMzBiYTRhMjZjMTc5YzJiZTMwMjk4NTcyODExYjI0YmU5Y2I0MmU1OGUzNDg2NGIzYjE2MiIsInRhZyI6IiJ9",
+        "identical": "IEC 60480:2019"
+      },
+      {
+        "standardId": 23820,
+        "standardNumber": "IS/IEC 60137:2017",
+        "standardName": "Insulated Bushings for Alternating Voltages above 1 000 V",
+        "equivalent_is": " ",
+        "identical_is": null,
+        "reviewOn": "2024-08-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InV3SFdXQ2M5MHBIR2JJL2p0bmVjZFE9PSIsInZhbHVlIjoiaW1GVkJ5VjQyaGxRNkRsUTNYMjhUdz09IiwibWFjIjoiMWQ2NGQwODMwMDJkNTM1MGEyMjJmMWFkZTI5OTU3ZGUyMWU5YTA1NGJkMmIwZWIxOWMwYzg5MGU5NTQ2ZjBiZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 27177,
+        "standardNumber": "IS 3025 (Part 74):2022",
+        "standardName": "Methods of Sampling and Test (Physical and Chemical) for Water and Waste Water Part 74 Vanadium",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2026-09-23",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkJOcWxoazdTeFRXV3U1WDFib1hBRmc9PSIsInZhbHVlIjoiM1ZlRkVKZEhGeDNhamIyRHlyMm1mUT09IiwibWFjIjoiM2I3Y2ZiZmRiYmY3YjRiMWM5OGUzNzY1YThkMzBkMzRhNTBmNTliNTBmOTY5NDRjYzQ0ZWQwNmE2OTZkYmFjOSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60068 (Part 2/Sec 11)",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6InFaOXczVFczNTAxMm9IQWdxRUQybkE9PSIsInZhbHVlIjoiMlZDR01mRDMvU3pPUzAwc2VyWjkvQT09IiwibWFjIjoiYTQ2NmQxNDUzMjYxODI4Njg5ZmNhMGI5ODFmMDNmODQxMmU4NTVlNDZmNDhjYWFmZGNmNjQyNmMxYzljOWE5ZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60068 (Part 2/Sec 17)",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6InhRbCtSTzlpTGFzQVJ5aUNRUjRPbEE9PSIsInZhbHVlIjoiNmNESHNXNmZHazlndmM4Q2VUNUtLUT09IiwibWFjIjoiNjBiYjVkNGRhMTVkOTI3ZDI2NzgzYWY1ZDhhNDA4NGM2MmFkNTMxNDE4YWM5MGI3NGE2ZjE2YTM0ODY0MWRiZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60141 (Part 1)",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IjFCRHhNWDkrRGJFUzIwWHZ1VzVrcGc9PSIsInZhbHVlIjoidTJvMlJHWWRQenk4cUhGZ1huT3h0Zz09IiwibWFjIjoiNGU2NWI5NzA5Zjk1NjVkMDBhZTgxNjk0Y2EwYTFhMWZjY2I5YTM1YTEyYTNlM2MyZjk1NWJiMzhlZGY4ZWI0ZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60376",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IjMyUm9ZQzJLM1lKK3U1YS9PQlQ0R1E9PSIsInZhbHVlIjoiVjBGbGJvZVppNEUrMXZ4T1FDNGlLdz09IiwibWFjIjoiOWQ5OGQxOGZlZmM4ZTUwY2RhNzZiYTU1MzkxYzExMDAwN2Q2NDg2MjgxYmU2OTM5N2E1OTZhYWZjNWE3Y2U4ZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60840",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlpMR0RkOVZxY0ZTM2I2UmRmMlN2ZlE9PSIsInZhbHVlIjoiTmNmV1BKT1ZlRXJiTFRRRUxxVkdEZz09IiwibWFjIjoiZjIzNzcyMDY2MWMzMzMxZDgxMDhjZTQ5ZWVmOTM5NzIzZmJmMjBiODRiZDBlNzhmN2I5YmJhYTZhYjdjMTE5NiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 62067",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Im9KWjliaWc3dGEvbU9NelkyNFY0Smc9PSIsInZhbHVlIjoiRlFUYjFrY1A2YTFvMURsaGhHbUJmdz09IiwibWFjIjoiNmVhYzU2NDhjOTNmOTQzMTBkYjRhMmYyZjllMGMyNjkxZTA4YzNlZjk4MjAwMDg2NzFlZTQyNWI2ZWZiNWNkNCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 62271 (Part 4)",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6InNxK0c2M1UwT0FaNUFBdUc5ay83U3c9PSIsInZhbHVlIjoiRmMyVStSdFlkd1hCRUg1amw3UlFsUT09IiwibWFjIjoiZjc3OTg2MTg4YzhhNmQ5ZDIyMTc1ZGQ3ZWEzZTUzMjMwY2Q3MDc0MTc1MmQ2MDExNzUwOGZmMTA5NmMzODI3ZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 62271 (Part 209):2019",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlRHUk9kNkszV1Nscm1hdVpiK2FJYUE9PSIsInZhbHVlIjoieUNldHhBSXBjTlJXQ1VIQlBpUmFuUT09IiwibWFjIjoiMDExMzI0NjEwZDU0Y2Q0MWNkNWRhMmE4NGJiZjA4NDliNDg5MDk0M2Q4MGMxMmJjYjVlYjYyYzM3YzAzMDBlMSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 62271 (Part 211):2014",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IklBR1JVUG5KeDBVUUZpZEV6NjkvSVE9PSIsInZhbHVlIjoiYS9sK28rVkE4KzVQelFKMDRuYnVqdz09IiwibWFjIjoiMzUwM2I0MzVmNjEzNGViN2RhMmI4NTZhNzFiZWM4Y2RiYWMyM2Y0NzhlZmFkNTM4Yjc2NTI4ZDJkNjY4OWM0MyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 22479",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6ImtocHBNM1BWRktrWFhMdThNUlg5WUE9PSIsInZhbHVlIjoiTTZqRFRpR2hsVFdEWW5nQ0IzelkrZz09IiwibWFjIjoiZDQ3NjFlM2MyMDQyYjNkZWU0YWI0ZWIxYTkwYWE1OGM4YjMyYmFlZDJiNTBlNDZkMzlmOWI0ZjAyNmVmYTkyYiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 24153,
+        "standardName": "Surge arresters: Part 9 metal - Oxide surge arresters without gaps for HDVC converter stations",
+        "standardNumber": "IS 15086 (Part 9):2019",
+        "equivalent_is": " ",
+        "identical_is": "IEC 60099-9 : 2014 ",
+        "reviewOn": "2024-09-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjVmVWRxYm1Bclk1clp3TFRzZ1Jpa3c9PSIsInZhbHVlIjoiVEYxR3ZnOHFsc2JHdzRMOFNvYXN2Zz09IiwibWFjIjoiMmNlODRjZDQzMWYzMWYzMmZmNjU3MDY4MGQxMzVjZmY2ZThjZjcyYjBiZGIyZmEzODgzN2Y1ODExOTE5NGJlNiIsInRhZyI6IiJ9",
+        "identical": "IEC 60099-9 : 2014 "
+      },
+      {
+        "standardId": 7105,
+        "standardName": "Surge Arresters Part 5 Selection and Application Recommendations ( First Revision )",
+        "standardNumber": "IS 15086 (Part 5):2020",
+        "equivalent_is": " ",
+        "identical_is": "IEC 60099-5 : 2018 ",
+        "reviewOn": "2024-09-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InJ3K1NLb0UxUkltQnI1T0VQM1JGdkE9PSIsInZhbHVlIjoiSm1RcFdQTkdhWXhtRnlZK1lvU2RzUT09IiwibWFjIjoiOGZjNzVmMzk0MDQ5NDQ2YmRiYWZjNjAyOWRiNTQ5NzRiMWIzMjFjYWMwMjNjOTZmNzNkYmQwMzdhZDY1ODk3ZiIsInRhZyI6IiJ9",
+        "identical": "IEC 60099-5 : 2018 "
+      },
+      {
+        "standardId": 22452,
+        "standardName": "Surge arresters: Part 4 metal - Oxide surge arresters without gaps for A.C. systems",
+        "standardNumber": "IS 15086 (Part 4):2017",
+        "equivalent_is": " ",
+        "identical_is": "IEC 60099-4 : 2014 ",
+        "reviewOn": "2024-03-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Im1Sd0wxb2JtWG9EZDdiRmZ0TGw3alE9PSIsInZhbHVlIjoiVDd4aFZKOVlhSXRadkhrK1lKbVBWUT09IiwibWFjIjoiNjVkMTgyMGQ3NDU4ZTI1MzJmYTA2ODZjMTBkMzdmMzRkNmM4N2RjY2I2OGM0NWY3ZTNlZTQ3ZmM5YjczMWNhMCIsInRhZyI6IiJ9",
+        "identical": "IEC 60099-4 : 2014 "
+      }
+    ]
+  }
+}

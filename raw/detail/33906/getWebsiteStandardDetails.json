@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Electronics and Information Technology",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6InhBeTJRTnN3NHcrd0NoRk9ET0ZYVlE9PSIsInZhbHVlIjoiNmsrSE9zckVHSVNmK3pLSE1jZEVxQT09IiwibWFjIjoiYjI3MjY3MDA2MGRmZmJhMTZlNTQwNDU5MTNjY2FjNTc4NzVkZDExMzNkM2FkNDg2YzVhYjQwMTkwZDYyM2Q4NiIsInRhZyI6IiJ9",
+    "rowStandardId": 33717,
+    "pk_is_id": 33906,
+    "standardName": "LED Modules for General Lighting Part 1 Safety Specifications (First Revision)",
+    "standardNumber": "IS 16103 (Part 1):2025",
+    "publishedOn": "2025-07-30",
+    "committeeId": 257,
+    "departmentId": 65,
+    "groupName": "Electrical Appliances and Accessories",
+    "subGroupName": "Electrical Lamps and Wiring Accessories",
+    "subSubGroupName": "Lamps & accessories",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "01",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": null,
+    "certificationName": "",
+    "equivalenceTypeName": "Identical under dual numbering",
+    "supersheed": "IS 16103 : Part 1 : 2012",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 1,
+    "is_documents": "BisProd/bisProd/oldStandards/S05/S05V01/16103_1.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": "IEC 62031: 2018",
+    "identical_is": "IEC 62031: 2018",
+    "reviewOn": "2025-08-01",
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Jainendra Kumar (SCIENTIST-D)",
+    "committeeName": "Lamps and Related Equipments",
+    "departmentName": "ELECTROTECHNICAL DEPARTMENT",
+    "deptAliasName": "ETD",
+    "committeePreparedName": "ETD 23 - Lamps And Related Equipments",
+    "deptPreparedName": "Electrotechnical Department(ETD)",
+    "reviewList": [
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 16103 (Part 1):2012"
+      },
+      {
+        "isStatus": 1,
+        "standardNumber": "IS 16103 (Part 1):2012"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 16103 (Part 1):2025"
+      }
+    ]
+  }
+}

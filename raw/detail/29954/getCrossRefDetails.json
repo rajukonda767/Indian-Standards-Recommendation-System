@@ -1,0 +1,99 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 29703,
+        "standardNumber": "IS 14927 (Part 1):2023",
+        "standardName": "Cable Trunking Systems and Cable Ducting Systems for Electrical Installations  Part 1: General Requirements  first revision",
+        "equivalent_is": "",
+        "identical_is": "61084-1",
+        "reviewOn": "2023-11-03",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImNJb1B4KysyS0VleE1iaDVHSjhxQVE9PSIsInZhbHVlIjoiNWtOclQvSm1qQkp2V2YrUWpod0xZUT09IiwibWFjIjoiYmFlN2I3MGExNzZmNDcyNTQwNzU3MGIyMzE0MjcxMDNkN2VjMzMyNDllZTBiNDY3YzI2MmM0Njk0OTAyZTlkMCIsInRhZyI6IiJ9",
+        "identical": "61084-1"
+      },
+      {
+        "standardId": 15200,
+        "standardNumber": "IS 8130:2013",
+        "standardName": "Conductors for insulated electric cables and flexible cords - Specification (Second Revision)",
+        "equivalent_is": "NULL",
+        "identical_is": "NULL",
+        "reviewOn": "2025-11-24",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ijh1Y2RLOGxNbHhWWmdSeXlXT2JTbHc9PSIsInZhbHVlIjoiVFRMRmxVUGN4K3NGcHlWMk5ZbHo5QT09IiwibWFjIjoiYzViYzIxOTU1Y2IxOThiMzQzNTIyZDMwNzQxMWEzNWZlNzIzZTVhZmMxZTk0NTM1ZTliOTJhNjBlNzcyNjVjYyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 16232,
+        "standardNumber": "IS 9000 (Part 7/Sec 7):2020",
+        "standardName": "Environmental Testing Part 7 Tests Section 7 Test Eh: Hammer tests ( First Revision )",
+        "equivalent_is": "NULL ",
+        "identical_is": "IEC 60068-2-75 : 2014 ",
+        "reviewOn": "2023-12-01",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjJDcldyaGNJY21wWXlON0dRR3NORGc9PSIsInZhbHVlIjoiOVE5RmZGbUhrUVNubjNQb3JXMHpXUT09IiwibWFjIjoiNzZlZGRlZTBmODg1NjZhNGVkYTBhYWVkYTQ2YmE0MmZjNjhkMWVjZGYwNmMxNDNmOTk4MTM5NDNlNDFlNmIyNyIsInRhZyI6IiJ9",
+        "identical": "IEC 60068-2-75 : 2014 "
+      },
+      {
+        "standardId": 31874,
+        "standardNumber": "IS 1060 (Part 5/Sec 4):2024",
+        "standardName": "Methods of Sampling and Test for Paper and Allied Products  Part 5 Methods of Test for Paper and Board  Section 4 Determination of Water Absorptiveness — Cobb Method  (First Revision)",
+        "equivalent_is": "",
+        "identical_is": "535: 2023",
+        "reviewOn": "2024-10-04",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Iis0TkNTVytzblI5QysyMllzbWlxVkE9PSIsInZhbHVlIjoiRnQwVENNNExXUEszVkNWZFhPT2VEQT09IiwibWFjIjoiMzI2MWY4MjkyODJkNmRmNDg5ZTVmNTlhOTE4NGNkOWNlMDg2OWRmZWQxYWVlNTRjOWFjMmJiMzU2OGExNTY1MSIsInRhZyI6IiJ9",
+        "identical": "535: 2023"
+      },
+      {
+        "standardId": 27935,
+        "standardNumber": "IS/ISO 22915 (Part 15):2020",
+        "standardName": "INDUSTRIAL TRUCKS  VERIFICATION OF STABILITY   PART 15: COUNTERBALANCED TRUCKS WITH ARTICULATED STEERING",
+        "equivalent_is": "",
+        "identical_is": "ISO 22915ï¿½ 15 :2020",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjYySkE1bS9KMGoxQ2J2bnF4RnNXRVE9PSIsInZhbHVlIjoieTFJZFhpVUkwZGpvTko0ZEtKN05CQT09IiwibWFjIjoiYjlhYmUxZDY2MDkwOTQwNmE1MDk2NTMzMmU0OTA2YzMxZjJmNzJkMzMyOGZlZWNmNjhiMDkyMTU1YmEwYWRjNCIsInRhZyI6IiJ9",
+        "identical": "ISO 22915ï¿½ 15 :2020"
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 61084 (Part 1):2017",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IjZsSzNNc2JrbHRnUEkxeDNKcGR6aVE9PSIsInZhbHVlIjoiZzROalRRZ0tGMTRMRVhmSzF1YXhEZz09IiwibWFjIjoiMzgxZTQ5NDk4MjVhN2Q3MGViZTJmZWQzZjE1MmI5NjAwMDZiYTc3NTVlZDlhOGE5ZGUwYmYyODgzMGY1NzkwMSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 14236,
+        "standardName": "Code of practice for electrical wiring installations (Fourth Revision)",
+        "standardNumber": "IS 732:2019",
+        "equivalent_is": " ",
+        "identical_is": " ",
+        "reviewOn": "2024-12-01",
+        "noOfReview": "04",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImJTMnlUS2NNMDVQR2c3YTlaRXJnVlE9PSIsInZhbHVlIjoidUhGekRpanR0MDNzbnJxNWFHY3I2QT09IiwibWFjIjoiMzNlM2ZlZmM0YjMxOWQxZDY3MmUwNTEyNWIyZGZlNDM4OGZlYTY3M2IyOTc3YmE1ZTUwNTA5MmVmYTIyMjIzMSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

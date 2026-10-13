@@ -1,0 +1,171 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 16230,
+        "standardNumber": "IS 9000 (Part 7/Sec 1):2018",
+        "standardName": "Basic environmental testing procedures for electronic and electrical items: Part 7 impact test: Sec 1 shock (Test Ea) (Second Revision)",
+        "equivalent_is": "NULL ",
+        "identical_is": "IEC 60068-2-27 : 2008 ",
+        "reviewOn": "2024-11-01",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InVrZ1dLZWFQL2xNZm1SSG1WVnJMZmc9PSIsInZhbHVlIjoic2RxWXlFalZnYThvLzFyV1ZWTFN6Zz09IiwibWFjIjoiZDU0ODdkNzk1MzAzZGIwNzNhYmY2ODI5YWMxMzM5ZTNhOWZkZmRiNDBkMjdjNGZhMzNhNjhlNjMxMTlhNTg4MiIsInRhZyI6IiJ9",
+        "identical": "IEC 60068-2-27 : 2008 "
+      },
+      {
+        "standardId": 31119,
+        "standardNumber": "IS/IEC 61558 (Part 1):2017",
+        "standardName": "Safety of Transformers, Reactors, Power Supply Units and Combinations Thereof Part 1 General Requirements and Tests ( First Revision )",
+        "equivalent_is": "",
+        "identical_is": "61558-1",
+        "reviewOn": null,
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IldXNDJzc1pnL0ViMkd5ckp6TXNrQkE9PSIsInZhbHVlIjoiZDFqaEw3dER0ZkFOTnpTTktoYWtqQT09IiwibWFjIjoiZWFkMWM5ODFlOWQ4ZTM3YzRhNGI2ZDVlOTI5MzM0MzA1Njg5YTVkZGY5YWY0ZjYzYWVmMmRhNjZiNzJlMzMwZSIsInRhZyI6IiJ9",
+        "identical": "61558-1"
+      },
+      {
+        "standardId": 22395,
+        "standardNumber": "IS/IEC 60255 (Part 151):2009",
+        "standardName": "Measuring relays and protection equipment: Part 151 functional requirements for over/under current protection",
+        "equivalent_is": " ",
+        "identical_is": "IEC 60255-151 : 2007 ",
+        "reviewOn": "2025-01-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjZrWWlwWmlROUIyMG9DSGdCaERuMmc9PSIsInZhbHVlIjoiY2FjVk1VR2o1SEo2OGUzSHhJTkN5QT09IiwibWFjIjoiODlhNDVlMzk0MmJiNTM4N2RmZDRjZTNkNmJhN2U0YzEyOTY3YWZlMWUwOTIxYmJmYzg0NTMxYTg2YTIxYTc0OCIsInRhZyI6IiJ9",
+        "identical": "IEC 60255-151 : 2007 "
+      },
+      {
+        "standardId": 22477,
+        "standardNumber": "IS/IEC 61010 (Part 2-081):2009",
+        "standardName": "Safety Requirements for Electrical Equipment for Measurement, Control and Laboratory Use Part 2-081 Particular Requirements for Automatic and Semi-automatic Laboratory Equipment for Analysis and Other Purposes",
+        "equivalent_is": "  ",
+        "identical_is": "IEC 61010-2-081 : 2009  ",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjYzRDdoQy9IT0lRSEF4TVJJbWIrZWc9PSIsInZhbHVlIjoiOHdOclRCUXNyNXNwWW9DV0w3cHR5UT09IiwibWFjIjoiODM5MTRjMzQ2MWRmMzc4YTllMmJlNDg0ZjdkYWQ4ZjZhOTQ4YjJlOTNiOTYzOGRmN2QwZWE0MjY4ZDgzYjJmYSIsInRhZyI6IiJ9",
+        "identical": "IEC 61010-2-081 : 2009  "
+      },
+      {
+        "standardId": 24160,
+        "standardNumber": "IS/IEC 61010 (Part 2/Sec 020):2016",
+        "standardName": "Safety requirements for electrical equipment for measurement, control, and laboratory use: Part 2 - 020 particular requirements for laboratory centrifuges",
+        "equivalent_is": " ",
+        "identical_is": "IEC 61010-2-020 : 2016 ",
+        "reviewOn": "2024-08-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IktKTDdNWFhQakJyNzIzcENoZjBwWVE9PSIsInZhbHVlIjoidDExaXpWQk5uck1INk5UNCtidms1dz09IiwibWFjIjoiYjU1MzJmY2RmOWRiNGE4ZGI3ZTEyMjFiNWVhOWIwY2VmMTY4MjU4NjU1MjRjZTMyZjU0YTdmZGRiZTliODRiNyIsInRhZyI6IiJ9",
+        "identical": "IEC 61010-2-020 : 2016 "
+      },
+      {
+        "standardId": 27319,
+        "standardNumber": "IS/IEC 60068 (Part 2/Sec 6):2007",
+        "standardName": "Environmental Testing Part 2 Tests Section 6 Test Fc: Vibration sinusoidal",
+        "equivalent_is": "",
+        "identical_is": "IEC 60068-2-6:2007",
+        "reviewOn": "2025-04-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlFONFV4TVgzK29uSzBod0xwVEhxSlE9PSIsInZhbHVlIjoiWk5TekRLaytzeTdPbU43L2RtdEtEUT09IiwibWFjIjoiZGM4ZDU5Mzg2YmI3NmI1NWM4ZmMyMGIxMzhlYmM0N2MzMjgxYzZjMWZmYzIwOGYwNjFlZDEyMmIwNDgwMGIyYSIsInRhZyI6IiJ9",
+        "identical": "IEC 60068-2-6:2007"
+      },
+      {
+        "standardId": 29911,
+        "standardNumber": "IS 17724 (Part 1):2023",
+        "standardName": "Safety Requirements for Electrical Equipment for Measurement, Control, and Laboratory Use  Part 1 General Requirements  (IEC 61010-1: 2010 + AMD1:2016 + COR1:2019, MOD)",
+        "equivalent_is": "IEC 61010-1: 2010 + AMD1:2016 + COR1:2019",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlpLUnZheXhyNWhqOUx4VURWNXBZRWc9PSIsInZhbHVlIjoiWmpTVmF3TjRwOS85OEZSQVVNb0FDQT09IiwibWFjIjoiODc3NjUwMjExZWY0MzJiZGRmMWFjOTk0MGM4YjVjYmVkZTAzYWJhNzRiNGUzNTg0ZmYyMzk4MTk0YWI1N2RiMiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 61010 (Part-2) (Sec-30):2017",
+        "standardName": "Safety requirements for electrical equipment for measurement, control, and laboratory use — Part 2-030: Particular requirements for equipment having testing or measuring circuits",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Ijgwa2NLbHd6dHp1cUtLTmdkZXZtY3c9PSIsInZhbHVlIjoiME1La2tNUFZaWjd6bE9jb203L2d0UT09IiwibWFjIjoiNDY5NTM1YmM0NmUwOTNhYWZjYjM2NmU3ZmU3NmY2M2YwOGM0YjA5Yjk5Zjk1NGUyOGRmYWFlNDhmYWFlZWFiYyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 61326:2020",
+        "standardName": "Electrical equipment for measurement, control and laboratory use — EMC requirements — Part 1: General requirements",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlhRSHl3akdtUll6dTlFaERRTS9WSUE9PSIsInZhbHVlIjoibVBvOEIxT0o5S3BZdFNwbnJMdEU3QT09IiwibWFjIjoiOGRjZmMzZDJhNzRiZGY5Y2I4ZTBiNTJlZWUzZTM5NzM3ZjE1Mjc4MjMwMjc1ZGJmYTRlNDYzMGFlNjM5OTVjOSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 61557 (Part-12):2018",
+        "standardName": "Electrical safety in low voltage distribution systems up to 1 000 V AC and 1 500 V DC — Equipment for testing, measuring or monitoring of protective measures — Part 12: Power metering and monitoring d",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlFYQVJDRmRBK29yVGw4Zmg2R2dkUWc9PSIsInZhbHVlIjoia254d1dCMmNsT3d2SGZVVW9EOXR4Zz09IiwibWFjIjoiZjY2NjVkMTRlMzg3YjE5Y2Y4MTg5ZGM5NmEzNjYyNDg3ZDRmOGE1Y2RlY2M4YjJmOGEzYjQ1YjNiOTZjODhlMiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 33977,
+        "standardName": "Wind Energy Generation Systems  Part 12 Electricity Producing Wind Turbines Section 1 Power Performance Measurements (First Revision)",
+        "standardNumber": "IS/IEC 61400 (Part 12/Sec 1):2022",
+        "equivalent_is": "",
+        "identical_is": "IEC 61400-12-1-2022 ",
+        "reviewOn": null,
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkVzVDZYekgxV25NMlJoaXdCZ3E3cmc9PSIsInZhbHVlIjoiNnFvU3AwT3hGaHFyM0RXZUEvbjlVdz09IiwibWFjIjoiODZlNjgxY2M5MDgxMzcwMzU0NWU0M2FmMGQ1N2JhOThiOWZjMjhkODZkMzA4ODY1MTE0ZDNlODk3ZjdiOTRmYiIsInRhZyI6IiJ9",
+        "identical": "IEC 61400-12-1-2022 "
+      },
+      {
+        "standardId": 33978,
+        "standardName": "Wind Energy Generation Systems  Part 12 Power Performance Sec 2 Electricity producing wind turbines based on nacelle anemometry",
+        "standardNumber": "IS/IEC 61400 (Part 12/Sec 2):2022",
+        "equivalent_is": "",
+        "identical_is": "IS/IEC 61400-12-2-2022 ",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IklVTUFlYy9XVDR2OFM5c3RvaExPOXc9PSIsInZhbHVlIjoiL2NVcWpub3F5WjdONklDSzl4c08xUT09IiwibWFjIjoiMzhmYjI2MThkMGZkZWEwYjViMzczY2I2ZTljYzNiYzNmMWM0YTExZDhhMmVhYTZmYTVhMjljYWY3ZmQxZGMwZSIsInRhZyI6IiJ9",
+        "identical": "IS/IEC 61400-12-2-2022 "
+      },
+      {
+        "standardId": 29436,
+        "standardName": "Wind energy generation systems - Part 12-6: Measurement based nacelle transfer function of electricity producing wind turbines",
+        "standardNumber": "IS/IEC 61400 (Part 12/Sec 6):2022",
+        "equivalent_is": "",
+        "identical_is": "IEC 61400-12-6:2022",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6InNFcWZYN3dqMExsZXB2UVY1TDRKK3c9PSIsInZhbHVlIjoicEozbGM4NC82YXhZY1ptVSt0R0dCdz09IiwibWFjIjoiZTMwMTk0M2ZiYTdlNTUxMzYxMjVlNWI2ZjUwZDYzYTBhNjM3ZDE4ZmNkOTBlNGE4ZDNiNGUzNmVmNzk4MGRjYiIsInRhZyI6IiJ9",
+        "identical": "IEC 61400-12-6:2022"
+      }
+    ]
+  }
+}

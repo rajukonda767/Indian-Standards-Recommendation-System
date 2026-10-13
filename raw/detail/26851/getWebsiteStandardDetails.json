@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6Ik1BOE05UllRWlRxVEtINUdTayswdXc9PSIsInZhbHVlIjoidGgydDl4TThLL2dtWVlyK29wTGRUdz09IiwibWFjIjoiMzZlZDljYjkyZjM0MDNhNGY4MmE4ZDU0YWUyMDgwMWZmM2Q4MzdmM2M5ZjMxZWQyODRhNmY2NTY3YjlmZjliYyIsInRhZyI6IiJ9",
+    "rowStandardId": 26717,
+    "pk_is_id": 26851,
+    "standardName": "Vitreous China sanitary appliances - Specification: Part 6 Specific requirements of urinal and partition plates (fifth revision)",
+    "standardNumber": "IS 2556 (Part 6):2021",
+    "publishedOn": "2021-12-31",
+    "committeeId": 191,
+    "departmentId": 63,
+    "groupName": "Building Materials including Paints",
+    "subGroupName": "Sanitary Appliances, Tanks and  Water Fittings",
+    "subSubGroupName": "Sanitary Appliances and Accessories",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "05",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": "Sanitaryware",
+    "certificationName": "Voluntary",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 1,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/oldStandards/S03/S03V01/2556_6.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": null,
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Rajesh Choudhary (SCIENTIST-C)",
+    "committeeName": "Sanitary Appliances And Water Fittings",
+    "departmentName": "CIVIL ENGINEERING DEPARTMENT",
+    "deptAliasName": "CED",
+    "committeePreparedName": "CED 03 - Sanitary Appliances And Water Fittings",
+    "deptPreparedName": "Civil Engineering Department(CED)",
+    "reviewList": [
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 2556 (Part 6):1995"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 2556 (Part 6):2021"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 2556 (Part 6):1995"
+      }
+    ]
+  }
+}

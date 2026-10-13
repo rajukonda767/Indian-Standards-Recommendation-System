@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 21496,
+      "So_No": "pub013/1/2020-pub-bis (1294)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/ETD/gf_257_21496_16103_2_1.pdf",
+      "pki_id": 18145,
+      "Amd_No": 0,
+      "standardNumber": "IS 16103 (Part 2):2025",
+      "standardId": 33718
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of New and Renewable Energy",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6Im80ZGQ2dGZxN1E3WjRFOVN0bzlUdFE9PSIsInZhbHVlIjoiYUs5SEZoMlVHZE4xOU03M1kwUyt4Zz09IiwibWFjIjoiYzAxMzE5NTgzODA0YTEwOWJiZmZhOTAzMzRjMTE0ZTE2NGUxMmRiNjQ5MGRhYzE4ODdjYzFjZjMxYTBkMDFlZSIsInRhZyI6IiJ9",
+    "rowStandardId": 33487,
+    "pk_is_id": 33676,
+    "standardName": "Photovoltaic (PV) Module Safety Qualification  Part 1 Requirements for Construction  (Second Revision)",
+    "standardNumber": "IS/IEC 61730 (Part 1):2023",
+    "publishedOn": "2025-06-20",
+    "committeeId": 261,
+    "departmentId": 65,
+    "groupName": "Electrical  Switchgear and Other Electrical Products/Accessories",
+    "subGroupName": "Renewable energy devices",
+    "subSubGroupName": "PV modules",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "02",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 0,
+    "languageId": "English",
+    "icsCode": null,
+    "shortTitle": null,
+    "certificationName": "",
+    "equivalenceTypeName": "Identical under single numbering",
+    "supersheed": "IS/IEC 61730 : PART 1 : 2016",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 2,
+    "is_documents": "BisProd/bisProd/oldStandards/S05/S05V01/IE61730_1.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": "IEC 61730-1:2023",
+    "identical_is": "IEC 61730-1:2023",
+    "reviewOn": null,
+    "source": 2,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Surabhiraja Ramarya (SCIENTIST-D)",
+    "committeeName": "Solar Photovoltaic Energy Systems",
+    "departmentName": "ELECTROTECHNICAL DEPARTMENT",
+    "deptAliasName": "ETD",
+    "committeePreparedName": "ETD 28 - Solar Photovoltaic Energy Systems",
+    "deptPreparedName": "Electrotechnical Department(ETD)",
+    "reviewList": [
+      {
+        "isStatus": 2,
+        "standardNumber": "IS/IEC 61730 (Part 1):2016"
+      },
+      {
+        "isStatus": 1,
+        "standardNumber": "IS/IEC 61730 (Part 1):2004"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS/IEC 61730 (Part 1):2023"
+      },
+      {
+        "isStatus": 6,
+        "standardNumber": "IS/IEC 61730 (Part 1):2016"
+      }
+    ]
+  }
+}

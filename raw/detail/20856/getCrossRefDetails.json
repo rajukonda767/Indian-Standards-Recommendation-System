@@ -1,0 +1,176 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60061 (Part 1):1989",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Ik1DQndObTNyNDVtZWlPL2dWU0NIR1E9PSIsInZhbHVlIjoiRGZJcit2b293OFJ6M2VRTC9NWWZyQT09IiwibWFjIjoiNTM3MmZhYzI5ZGFhMjJkOGFjNGI2OWUxNTczZWUyNGZjNjU1NWRmODUzM2YwZTliYzY2NWViNmNlMGQ1YTQ3YSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60270:2000",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IkV1YWd5L0E0YU96RGtrVXR5TDl1OXc9PSIsInZhbHVlIjoiM3VYSWNNNXFhUnpxZjRBOUFDTFp3QT09IiwibWFjIjoiNzI0NWRmZTY2NzkzMjQxMTYyMDAzYTllNmQ5ZGQyZjM1MGZhNjg2NDg0YTVlMTBlZDA4N2Q4ODljY2U1ZTI2MCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60529:2001",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlZjSjd4bDdhZzl1YnRkRjM1YkNHVWc9PSIsInZhbHVlIjoieEdORGE1OWVnVkxWYnRnQVRMZ1ZnZz09IiwibWFjIjoiMTZhNGUxYWRhZDYzYTE5Nzk4MjljYjZjNWUwYzVhY2ZkNWEzZmFlZGM1NTBiNWMwMjMzYzZkZmE1MmYyZTJkMSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 62271 (Part 1):2007",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IjlqS2t1bnZjTDQ5eU0xaVZFMXhKNGc9PSIsInZhbHVlIjoiR2tOaElobUN6TG8wVFoyQ3RUbk81dz09IiwibWFjIjoiYWRkMWM1OWEwODIyNzY2NTAzOTA0ZjhhYzQyMTE0MTg2MGI2NTU0OTQyODA0Mzg0NzEyNTI2ZmVhYjdhNGI1MSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 62271 (Part 100):2008",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IkZqOVJrcTI0Z1JGbTdObkFaM0QvRXc9PSIsInZhbHVlIjoiMk9XU2dJdHRtWkE2cGxnRS9NSFA0dz09IiwibWFjIjoiNzAxODVlOGJiMGJjOWIzYzY3ZWRhOTUwYzQ2ZGFlNDM1ZjE1ZWQ1M2I5MTJlNzc4NWNjNWVlN2RkYWUzMTQxZSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 62271 (Part 102):2003",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IkRHWVdrN2hmTjZBRm1UQVNuWS9NWUE9PSIsInZhbHVlIjoidVIzODRNRnBqdExxK1Jjc3prWk4rQT09IiwibWFjIjoiNTU5MGQwODY5MTc0OTM3ZmE3NjIzNWFkNTRlOWYzOGY3MTEzYTc1NDFkNWMzZDc3NzdkZjlkMzRmNThiYmY4YiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 62271 (Part 103):2011",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlF4OHFvTXk0ajBNdGRuQzM4VVRuK1E9PSIsInZhbHVlIjoiQ2RVQ2l1bFVvOENORk53cW8vS3pWUT09IiwibWFjIjoiOWY2YTk3YThkMDM1NDE1NTQyODhlMWU5YzgxNTRmMjE3NDc1MWViMWVmMDhlM2RkMDAzYWRiYzRlYjhiMTQ1YyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 62271 (Part 105):2002",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlZlaUVhcXhPY2toaThFOTBPbnc4Q3c9PSIsInZhbHVlIjoiR3NFVEpmNndsQ2xnNDFBMm1oaStaQT09IiwibWFjIjoiYmUxOTgwODczYzA1NzkzNmQ0YzQ1NmZhMjkzNGRiZjE1M2NmZjMzZDMxYmJkYjk4OTAyNmYxYWM1MjhmNTIxZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 62271 (Part 109):2011",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlBpeEIvaDZQdmRZRTZERTVaUlhybVE9PSIsInZhbHVlIjoieHN1Ui9Pelg2Q3BMcnhQNWZsdmdUQT09IiwibWFjIjoiZTk2ODJmYjI3YzEyZTJiZTljMmE3M2U1M2IzMzAwMWU3MDEwZWMxOTRmMmQzMTVjNTdhNWRjZjExNTg2MzM5NyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO/IEC 51:2005",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IndSYytTRDJDWWNmTGhxMHdNZWQ3RkE9PSIsInZhbHVlIjoiSWE2U2Z1UURKMjY1MUpyOFhRYkd3dz09IiwibWFjIjoiMWU0NTVmMTU5MjQ4MzgxOTY4ZDJiODAwODAzNmY0NTJiNWQ1M2ZhMGI3NmZlN2I0NDRiNWViMmE5MjMyYzNhNyIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 27065,
+        "standardName": "UHV AC TRANSMISSION SYSTEMS   Part 301: On-site acceptance tests",
+        "standardNumber": "IS/IEC/TS 63042 (Part 301):2018",
+        "equivalent_is": "",
+        "identical_is": "63042-301",
+        "reviewOn": "2026-07-15",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Illub2JPVHdNUFljT2lqTGZyWGRCL3c9PSIsInZhbHVlIjoidFNINUY1UTBkc1JsT2liQ0NxQUo5dz09IiwibWFjIjoiMjNlZGQyMjdjZGI5OWYxZGQ0OGNjNmEyNTViYTVkOWI5NWE0YzMwMzgzZTcxZTk1NDY2YmNlODFiODg5MjEwNyIsInRhZyI6IiJ9",
+        "identical": "63042-301"
+      },
+      {
+        "standardId": 29635,
+        "standardName": "High-voltage switchgear and Controlgear  Part 200 AC metal-enclosed switchgear and Controlgear for rated voltages above 1 kV and up to and Including 52 kV",
+        "standardNumber": "IS/IEC 62271 (Part 200):2021",
+        "equivalent_is": "",
+        "identical_is": "IEC 62271-200:2021",
+        "reviewOn": null,
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlBvaW11L1dlY3JSRGpmcURHajZraFE9PSIsInZhbHVlIjoicWZpcEFLOWp3emJpVnF1TStjN0tlQT09IiwibWFjIjoiNDA1OGIzZjIyY2RmMGE5MjM3ZmMyMTJkMTBiZDljNTEyYWM1ODMwYjE0ZWUzYjQ2MDg5NzAyYmYzNDM3ODkzMyIsInRhZyI6IiJ9",
+        "identical": "IEC 62271-200:2021"
+      },
+      {
+        "standardId": 33690,
+        "standardName": "High-voltage switchgear and controlgear   Part 202: AC prefabricated substations for rated voltages above 1 kV and up to and including 52 kV  (First Revision)",
+        "standardNumber": "IS/IEC 62271 (Part 202):2022",
+        "equivalent_is": "",
+        "identical_is": "IEC  62271-202:2022",
+        "reviewOn": null,
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjM1dDZTRVNiV08zL0g2ZHo0dEh4Rnc9PSIsInZhbHVlIjoidzhlNVMrdWRyelNzYko1V1BGWXJwdz09IiwibWFjIjoiNWJkMjhkYzI0ODRkYTE0MjhjMGJiZDUwN2E3OTJlMmMwYjQzYzZmM2IwMjRkMGRkYjI3ODE2ZjU0YWMyZjk2NiIsInRhZyI6IiJ9",
+        "identical": "IEC  62271-202:2022"
+      },
+      {
+        "standardId": 33691,
+        "standardName": "High-voltage switchgear and controlgear  Part 207: Seismic qualification for gas-insulated switchgear assemblies metal enclosed and solid-insulation enclosed switchgear for rated voltages above 1 kV Second Revision",
+        "standardNumber": "IS/IEC 62271 (Part 207):2023",
+        "equivalent_is": "",
+        "identical_is": "IEC 62271-207:  2023",
+        "reviewOn": null,
+        "noOfReview": "02",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlBFazVPYXlFeWswVkJKZlczalF6NkE9PSIsInZhbHVlIjoiYkJlMnB5Q05tMDR3SDZnOWZXeVlnZz09IiwibWFjIjoiNDUzNGE4NmE1NzM1MzRjNGUyNDZlYWQ2MGRjNmI3OTJjYTBhZmU1NzcwZTJkMTEzMDM2ZjZkNTljZjdmOGNlMyIsInRhZyI6IiJ9",
+        "identical": "IEC 62271-207:  2023"
+      },
+      {
+        "standardId": 25135,
+        "standardName": "Safety of Machinery - Electrical Equipment of Machines Part 11 Requirements for Equipment for Voltages above 1 000 V AC or 1 500 V DC and not Exceeding 36 kV",
+        "standardNumber": "IS 16504 (Part 11):2020",
+        "equivalent_is": " ",
+        "identical_is": "IEC 60204-11 : 2018 ",
+        "reviewOn": "2026-01-02",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImZRMzRjMGx1TkhLVUpLaGQ4aEFPYkE9PSIsInZhbHVlIjoiSTFqWXNjK21IZjUzZ3VMYkNvYnBXQT09IiwibWFjIjoiODcwNmY4MWNhODBjY2MwZmJkMjdiZDU2YjBkNWU2ZGI1MTU4MjYzOWFhZWM4N2E5MWI1YWExMGEzYTQ4ODg2ZCIsInRhZyI6IiJ9",
+        "identical": "IEC 60204-11 : 2018 "
+      }
+    ]
+  }
+}

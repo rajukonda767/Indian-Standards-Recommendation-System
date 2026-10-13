@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Mines",
+    "riskNameName": "",
+    "standardId": "eyJpdiI6IjBOLzY4MzdQZ08wbUNGbE5CeW5pdUE9PSIsInZhbHVlIjoidSs5d2J5Nms3KzBNWURWRGsxNkJIZz09IiwibWFjIjoiM2E5ZmY3ZmMyZDVhNDI3MWJkMzE0MDczYTEzZGZlYjUwYzA1ODg2NDc4Y2U4NDE5YTRmNjAwYWE2MDViYjljMiIsInRhZyI6IiJ9",
+    "rowStandardId": 65816,
+    "pk_is_id": 65816,
+    "standardName": "Zinc-Aluminium Alloy Ingots intended for Foundry and Die Castings ―  Specification",
+    "standardNumber": "IS 713:2026",
+    "publishedOn": "2026-01-05",
+    "committeeId": 32,
+    "departmentId": 70,
+    "groupName": "Metals, Alloys and Metal Products (including Steel Products)",
+    "subGroupName": "Non ferrous metals and their alloys",
+    "subSubGroupName": "Zinc  & its alloys",
+    "sectorName": "",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "03",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 4,
+    "languageId": "English",
+    "icsCode": "77.120.60",
+    "shortTitle": null,
+    "certificationName": "Voluntary",
+    "equivalenceTypeName": "Not Equivalent",
+    "supersheed": "IS 713:1981",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 0,
+    "equivalenceId": 4,
+    "is_documents": "BisProd/bisProd/projects/proof/2026/01/911_1768815400.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": null,
+    "source": 1,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Varsha Karnani (SCIENTIST-C)",
+    "committeeName": "Ores and Feed Stock for Non-Ferrous (Excluding Aluminium and Copper) Industry, their Metals/ Alloys and Products Sectional Committee",
+    "departmentName": "METALLURGICAL ENGINEERING DEPARTMENT",
+    "deptAliasName": "MTD",
+    "committeePreparedName": "MTD 09 - Ores And Feed Stock For Non-ferrous (excluding Aluminium And Copper) Industry, Their Metals/ Alloys And Products Sectional Committee",
+    "deptPreparedName": "Metallurgical Engineering Department(MTD)",
+    "reviewList": [
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 713:1981"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 713:1981"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 713:1981"
+      }
+    ]
+  }
+}

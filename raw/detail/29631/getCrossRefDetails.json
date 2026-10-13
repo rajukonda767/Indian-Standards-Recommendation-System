@@ -1,0 +1,231 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 8612,
+        "standardNumber": "IS 2071 (Part 1):2016",
+        "standardName": "High - Voltage test techniques: Part 1 general definitions and test requirements (Third Revision)",
+        "equivalent_is": " ",
+        "identical_is": "IEC 60060-1 : 2010 ",
+        "reviewOn": "2024-09-01",
+        "noOfReview": "03",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InBuY0hOR3lLTms1czBEUllyOFJGN1E9PSIsInZhbHVlIjoibGJZNXpJSS9mdXliaHY0QU5mNDRGdz09IiwibWFjIjoiMDU5MDkwMTgwMjEwZDhlZjk5ODg0NDk0YTQ0ZjJjZTA4OWM1ZTliYzhhNTBmNWQ5ZTMxNTNkNmUyOWEwMWYyNSIsInRhZyI6IiJ9",
+        "identical": "IEC 60060-1 : 2010 "
+      },
+      {
+        "standardId": 31902,
+        "standardNumber": "IS 9385 (Part 1):2024",
+        "standardName": "High-Voltage Fuses  Part 1 Current-Limiting Fuses (Second Revision)",
+        "equivalent_is": "",
+        "identical_is": "IS/IEC 60282 (Part 1)",
+        "reviewOn": "2024-10-09",
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Ik90STAzc0R1NVBYdG1zRnVLcXVwYXc9PSIsInZhbHVlIjoiUTlGN0NPbk5VaWZhWlFEcHE0dzBJZz09IiwibWFjIjoiMGZlZTAxOTY4ZDI4ZWMzNWM4ODAwMDg0ZDM5MDFjY2U5ZTMzNDBhYmQwMDNlMDg4YjVlNmVkZWZmNmJmNGQxMCIsInRhZyI6IiJ9",
+        "identical": "IS/IEC 60282 (Part 1)"
+      },
+      {
+        "standardId": 33487,
+        "standardNumber": "IS/IEC 61730 (Part 1):2023",
+        "standardName": "Photovoltaic (PV) Module Safety Qualification  Part 1 Requirements for Construction  (Second Revision)",
+        "equivalent_is": "",
+        "identical_is": "IEC 61730-1:2023",
+        "reviewOn": null,
+        "noOfReview": "02",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkhvQ3U3OGRrdUNoQStMRURreGpLOFE9PSIsInZhbHVlIjoiczdZVVJuTDJrdGxac1ZzWEtqQ2ZtQT09IiwibWFjIjoiOWNmNGU5MjAzNzY3ZjRiOWI0OThiYWZiYzYyNjVkOGYyMjM5ZDlkOTE2ZGUyZTU3MDcwYTlmYzg2MmNlOWE1ZiIsInRhZyI6IiJ9",
+        "identical": "IEC 61730-1:2023"
+      },
+      {
+        "standardId": 65893,
+        "standardNumber": "IS 16102 (Part 1):2026",
+        "standardName": "Self-Ballasted LED Lamps for General Lighting Services Part 1 Safety Requirements (First Revision)",
+        "equivalent_is": null,
+        "identical_is": "IEC 62560:2015",
+        "reviewOn": null,
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IitPWVEyckZnM0FoSDJBb1ZmdWZkTWc9PSIsInZhbHVlIjoiK2J1RzVlajRYS2JMN0o4SFFsTXoxdz09IiwibWFjIjoiZDM0YmY4Y2U5OGViYzFlZmQ0Yzg1YWVjMTA2NjcxYmE2ZGI1N2FiNTUxYThhNGRhNzFkMjMxMGI4YzhhZDZmMiIsInRhZyI6IiJ9",
+        "identical": "IEC 62560:2015"
+      },
+      {
+        "standardId": 32714,
+        "standardNumber": "IS/IEC 61196 (Part 1/Sec 108):2011",
+        "standardName": "Coaxial communication cables   Part 1-108: Electrical test methods  Test for characteristic impedance phase and group delay electrical length and propagation velocity First Revision",
+        "equivalent_is": "",
+        "identical_is": "IS/IEC 61196-1-108: 2011",
+        "reviewOn": "2025-02-17",
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IkI2NlBqc1VJZzhqdGhna0ZHR1Rsc1E9PSIsInZhbHVlIjoiY3lYNDBlc2svYXdPYTNndFpsTGtHdz09IiwibWFjIjoiODQ5YjAwNzJjMWY2NzAyMTJiYTgyYTU1N2IwM2FhZjJhMDE0Y2YxOTczZWIwMzI4Nzk0NWQwZDgxYzdkOWY2ZSIsInRhZyI6IiJ9",
+        "identical": "IS/IEC 61196-1-108: 2011"
+      },
+      {
+        "standardId": 22149,
+        "standardNumber": "IS/IEC 60255 (Part 21/Sec 1):1988",
+        "standardName": "Electrical relays: Part 21 vibration, shock, bump and seismic tests on measuring relays and protection equipment: Sec 1 vibration tests (Sinusoidal)",
+        "equivalent_is": " ",
+        "identical_is": "IEC 60255-21-1 : 1988 ",
+        "reviewOn": "2025-01-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InhsUThia2hzbkpWMk9qeGo0RHAwOXc9PSIsInZhbHVlIjoiQUYyK1BtYStNN0c1SitXb0s1c2M0dz09IiwibWFjIjoiZjZkYjBjNzI1MWQ3M2ExZDkzNTQzMzc2MTE4Nzg1YTI0OTMzMzc1YTg3Nzk2ZjQ0NjE3MWQ1ZWNjMDFkZWMxYiIsInRhZyI6IiJ9",
+        "identical": "IEC 60255-21-1 : 1988 "
+      },
+      {
+        "standardId": 22768,
+        "standardNumber": "IS 16624:2017",
+        "standardName": "Live working - Portable equipment for earthing or earthing and short - Circuiting",
+        "equivalent_is": " ",
+        "identical_is": "IEC 61230 : 2008 ",
+        "reviewOn": "2024-04-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IjJvcUt0dzhZdmJqamp5dEVybi9KVXc9PSIsInZhbHVlIjoiUFFVazdxd2szVEh0ZlU0d1AvM0Fldz09IiwibWFjIjoiZWIyZGEzNGQzYThjOTI3NjAyZDIzNmY1NjEzOGNhOThkNzQ4ZDIwNDcxYTY5NzViNzhlY2Q1ZGQ0YzNiMmRjNCIsInRhZyI6IiJ9",
+        "identical": "IEC 61230 : 2008 "
+      },
+      {
+        "standardId": 66677,
+        "standardNumber": "IS/IEC 61812 (Part 1):2023",
+        "standardName": "Time Relays and Coupling Relays for Industrial and Residential Use Part 1 Requirements and Tests  (First Revision)",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "01",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IncvUEMyVVZvcU8rNXlVUEZMNlkrblE9PSIsInZhbHVlIjoiWExwSFBkVDZzTFBabGRZcldUVjhVUT09IiwibWFjIjoiM2U3NDE4ODZkMTBjOWEwYmI1NTRkMTE3NDljN2QwMDhkYjRkMzQzZjgzN2RjYTAzM2I0MGNhZWU1NWVlNzk1ZCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 27177,
+        "standardNumber": "IS 3025 (Part 74):2022",
+        "standardName": "Methods of Sampling and Test (Physical and Chemical) for Water and Waste Water Part 74 Vanadium",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2026-09-23",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6InRRSWU3bE1lM1Z5dGo1MzZvZk1UMEE9PSIsInZhbHVlIjoiK3RZTGNWQ3R1MWhIeG90bWhKb3FrZz09IiwibWFjIjoiMzk3NjMxOWQxNTIzNzY2MDA0MTIxODdhMzc2ZTkzY2I1NzZhNjExNjBiMTBmYjczZWUwYjY5ODA5MjU2ZGI4OCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60068 (Part 2/Sec 1):2007",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6InowQmhmQmtnUVQ1N3ZyTHVUSzhWWGc9PSIsInZhbHVlIjoiVm9XS2lMTU9sSUhtd3JmUzV0MTJ2Zz09IiwibWFjIjoiZWE1MTYyYzY5NDdmOWI2Yjc0ZDk3OThiODIxMGYxZGYxMGMzYjdmODUyOGQ1ODVlN2Y1ZDQ4YTVhMzUzZTIyYyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60068 (Part 2/Sec 2):2007",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IkpoSGlzandUQjhmSG5wMFJBV0hRMWc9PSIsInZhbHVlIjoiYWQrWGJmTGhjOVpIYUFKaFd2ejNHdz09IiwibWFjIjoiNGNiMjc3YmVmMjk1YTQ5ZDZkZGU3ZTdkMWNhMGU3ZjMwOTcyNDI5NmUzZjVkNTU0YmViM2UzMGU5NGNmZTg2NyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60068 (Part 2/Sec 30):2005",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Ims2b3k2YXl0UG03cXdCVWpkREZGTFE9PSIsInZhbHVlIjoiZEQ0cHo0MVlhNnhWYkJxTjJCS3JLdz09IiwibWFjIjoiNjUyNTBkMjI1ZjdiYzQ2NjIzYjcyMTNiMTBiNThhNThjZWJlMDZjMDdiNzA2OTQ0MTk4OTI2ZDgyNzNmNmE4MSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60076 (Part 2)",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IjllM0FaZ2haT1AxMitvYXBSWjB6WkE9PSIsInZhbHVlIjoidDhESWtuQnZ5US9SRFdyRG5Ba2dqUT09IiwibWFjIjoiOWQ1YWY3NmE2MDkzMWVjZGU5OGQwMDUwMGE1MzQ3NWYyODcwODY5MDMwMzcxMzc3ZjgyN2VlNzQwNDE3NTA2ZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60076 (Part 11):2018",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6InRUMHo5UVVRSFJOQWhBcHcrM0hiSUE9PSIsInZhbHVlIjoiMWorb0Fwd0dZMkJ6SDJhTmlYWEVTZz09IiwibWFjIjoiYjZlMGMyNmY2NGIwM2Y2YzgwMjFhNDIxMGE3YmI3MTRlZDBlY2UyMGE1NmNlZmMzNDI3NTc0MzUzZTZjNTg5YSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60417",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Iko0aHQwREpvUlQrdGNyZmQ3SktCa1E9PSIsInZhbHVlIjoiRW9JcVY4eTJLNmhuY0h5Ty84QkdZUT09IiwibWFjIjoiYWUwMzY5Mjg5OTM5MDBmZGM1ZTcyZGNkNjZhMmZmOTUzYmI5NWFlMTQxM2FkM2Y3NjhiNWM5ZDZlZWQwZDcxMCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 60644",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IlVoSEZBU09kYmxrTFVCS21yamROQ3c9PSIsInZhbHVlIjoiWFUzVmFEajNjWkF4anJScFJVWUwvZz09IiwibWFjIjoiMDI1NjVkZWZhNjFhMTJlZWM4NWExOWJjNzE1MDk2ZjNkZTA3MmY2Yzg5Yjc2MWJmZDY5ZDNhYmFkYzc0OWUzMiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 61000 (Part 4/Sec 18):2019",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6Ik1DaWMyam05ajh3dzBEWmtNODVJMGc9PSIsInZhbHVlIjoicjlFK1I0YmdqZi96RGFkQWw0OFhjQT09IiwibWFjIjoiMzZkZjM2ZjU2ODE2ZGFmYmNlYzQwYzUzMWI0ZTk0YTMyYTc4ZjM2Y2Y0ZGY2Y2M3NjQzOTQ5NmI0ODU4YTBkZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "IEC 62271 (Part 110):2017",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IjdFbllWbitnenZnOVpTYURlb2FHb2c9PSIsInZhbHVlIjoicWhBTitWamhoeUVKS1Vla2FhS2ttQT09IiwibWFjIjoiMDhkZGYwNWM1NjMzM2QwNWQ5OWYzNDg3MjJjNTk3Mjc0YzhhMTBjOWMwMGVhOTExNDM2ZTA1NTNlMmU0ZWQ2ZCIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 30795,
+        "standardName": "Tutorial and application guide for high-voltage fuses",
+        "standardNumber": "IS/IEC/TR 62655:2013",
+        "equivalent_is": "",
+        "identical_is": "IS/IEC 62655:2013 ",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IlFwcUlXMEdzeWp5YmV2WnZLS1YxTlE9PSIsInZhbHVlIjoiTi9NMzY1M0YyZGZDMmszODI1dEgvZz09IiwibWFjIjoiMDIyMjdhNGI0NzhlNzAzZjJiYzJjM2Y5MGE2ZTVkMWM2YTRmMWU5YmE5ZDYyZmFkNTQwZDZkODdiNzI1ZWJkOSIsInRhZyI6IiJ9",
+        "identical": "IS/IEC 62655:2013 "
+      }
+    ]
+  }
+}

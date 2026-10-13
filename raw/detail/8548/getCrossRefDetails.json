@@ -1,0 +1,127 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "No record found.",
+  "data": {
+    "crossRefData": [],
+    "crossFollowRefData": [
+      {
+        "standardId": 16146,
+        "standardName": "Specification for aluminium - Alloy wire for cold forged rivets for aircraft purposes (Alloy 22500)",
+        "standardNumber": "IS 8937:1978",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-01-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImJZZENtN0hoRUU3ZFBFdTlsREdFT3c9PSIsInZhbHVlIjoiZFhGankvUnBIZ05GT0F4WnJwVFFQQT09IiwibWFjIjoiM2M4NDU2ZGRlZjNkZjAxMjQyYmE2MGNmMDE0ZmIyZGJkMWFmZTI3ODU3OTdiYjY3NTJjNjhlOGRjNmQzNjI5YyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 16145,
+        "standardName": "Specification for aluminium - Alloy wire for cold forged rivets for aircraft purposes (Alloy 24350)",
+        "standardNumber": "IS 8936:1978",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik52VjZLYXptVnlUWHB3R2laUGphS0E9PSIsInZhbHVlIjoiT1lEVXYrNnJXaEwrbkU2NFhMYm5VUT09IiwibWFjIjoiYzlkMjE1M2QzZGMyNjIxMTg0YWVkZDk2Y2M3NjQ2NWRmZTBjODhlMWE1M2E0ZWMzMTVkNjFmZWQzYWYzZTQ3MyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 14923,
+        "standardName": "Specification for aluminium - Manganese alloy sheet and strip for aircraft purposes (Alloy No. 31000)",
+        "standardNumber": "IS 7883:1975",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-01-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Iml2djVXbTF1RlZ4NktPbzlIajZEekE9PSIsInZhbHVlIjoia25rUWx3ZEkyem83Q2N0dHZXNXhaZz09IiwibWFjIjoiYTQ2M2FlYTU4NWZlMGM1YmNmNDcwOTIxOTUwZTI0NmExZmM4N2E2ZGEwMjE4NGNlY2RlOWFmNDEzY2FmYTk0NCIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 12876,
+        "standardName": "Code for designation of aluminium and its alloys",
+        "standardNumber": "IS 6051:1970",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-01-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImdWd0psdWpLcXh1QXRnWlo1SFEvK0E9PSIsInZhbHVlIjoiSEYzVlFhbjhkZEpUbnlWRkRsS2ptZz09IiwibWFjIjoiMjk3YjBmYzBjMzc5YzU1NzA4MTMyOWYwMGQzMzBhOWZjMTI0YjU3MDQ5MTY5ZWNmNTFjZmJkYjJjNjA2NDQzZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 14662,
+        "standardName": "Procedure for inspection and testing of aluminium alloy forging stock and forgings for aircraft purposes",
+        "standardNumber": "IS 7674:1975",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkVZNDRZTzU3ajBzRVB1WU1XVHR6QXc9PSIsInZhbHVlIjoiblVXUU5JZXRxLzU2REJ6R1gvOWFRQT09IiwibWFjIjoiMDg4ZDcyMTRiOTU3Zjc2NjVlNGUzMTZjODc1YmY1ZGJhNTkzMjAyYjg1YTllOGM5OWExYWU4MDRiNjA1ZjcxYyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 2358,
+        "standardName": "Specification for side scuttles for inland vessels: Part 1 general requirements",
+        "standardNumber": "IS 11294 (Part 1):1985",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2026-03-23",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjFPTVlEa1JRZkVOeGk2MExraVdpU0E9PSIsInZhbHVlIjoib0dkbURXUytNaUpvUWh0ZFlDbllUUT09IiwibWFjIjoiYTZiYjZhMThiZjZjOGRjZTk4MDkzNzgxM2M3MDdlMmIyNDdmOTE4YjU2MGQ3ZWExZWQ2MWRiNTBjZjJmMWYzYyIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 10031,
+        "standardName": "Specification for aluminium - Clad aluminium alloy sheet and strip for aircraft purposes (Alloy 24345) (First Revision)",
+        "standardNumber": "IS 3436:1978",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2022-01-01",
+        "noOfReview": "01",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IjkvMTdFbWRhR1RiYUJKU3JKWFAwYkE9PSIsInZhbHVlIjoiMkZCb09ESTczZHl5Y2VuZ3lZNEFzQT09IiwibWFjIjoiNjZkNDZmY2ZjNGJiZmEwODJmZDQ5ODEzYTI4MDVlMDBlN2VkNmRmZjlmNjc4MjFhY2YyZGFmMTY0MzYwNTY4NiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 14922,
+        "standardName": "Specification for aluminium sheet and strip for aircraft purposes (Alloy 19000)",
+        "standardNumber": "IS 7882:1975",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-01-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Ik4wRWtsck1sd0dSR3R3V3kycXdmcmc9PSIsInZhbHVlIjoiZmd1bjFEL2dwREhkazhsL0ZUaStWUT09IiwibWFjIjoiNzU5ZjBhOTYyNzFjMTJmYTNhMmMwY2I2Y2UyYmM3MmU5NzQ3MmRkZjM2MGEzYzliNTdkZTFhMWQ2YWRkMWJlZiIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": 16147,
+        "standardName": "Specification for aluminium - Alloy wire for cold forged rivets for aircraft purposes (Alloy 24345)",
+        "standardNumber": "IS 8938:1978",
+        "equivalent_is": null,
+        "identical_is": null,
+        "reviewOn": "2025-03-01",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6ImJNUGR1NzdzVkxXbkdGVmZVemtFS2c9PSIsInZhbHVlIjoiMFRXak9qVDVXeFRQMXBEazlhc0ZvZz09IiwibWFjIjoiYmU1YmRmZDk4YTdhZDRmMjM2M2NhYmY0NmYyN2Q0YzY1OTc1MGIzNDU0NTYzNjM0YzBlZTBkNmVlODNkNmQ0OSIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

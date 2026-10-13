@@ -1,0 +1,73 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 24961,
+        "standardNumber": "IS 1608 (Part 2):2020",
+        "standardName": "Metallic Materials - Tensile Testing Part 2 Method of Test at Elevated Temperature ( Fourth Revision )",
+        "equivalent_is": " ",
+        "identical_is": "ISO 6892-2 : 2018 ",
+        "reviewOn": "2024-12-01",
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6IlBtS09IbnN2ditySEJ1WGtaZTBjU0E9PSIsInZhbHVlIjoiWEwwQW1ZWi9XeHZmVGhzUkFnckp2QT09IiwibWFjIjoiY2NhOTVmMGVlYzE0OGU1ODM0ZjcyYmYwNGFjZjVjMzg5M2Q5NzI2YWEzNmEwNDI0OWIyODk5NDQwN2Y2ODhiMCIsInRhZyI6IiJ9",
+        "identical": "ISO 6892-2 : 2018 "
+      },
+      {
+        "standardId": 28783,
+        "standardNumber": "IS 18215:2023",
+        "standardName": "Stainless Steel Neti Pot Specification",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6Im1XYXYveGNPM3FqQXJPV1BXcjFDTWc9PSIsInZhbHVlIjoiYytGNmp0aFJIS2M5a09RTGt2TUx0dz09IiwibWFjIjoiMTRjNGNkNWJlOTU2MmY2NTUyODQ5ZGE2NmVhNmRjNmRiOGViNTU4MGU1NzEyM2IyMzg2ZTQ4NGUzN2M2ZWZkOSIsInRhZyI6IiJ9",
+        "identical": null
+      },
+      {
+        "standardId": "0",
+        "standardNumber": "ISO 4063",
+        "standardName": "",
+        "noOfReview": "00",
+        "isType": 2,
+        "typeLabel": "International",
+        "standardEncId": "eyJpdiI6IkpaUFVnWkZoYkNrSWRQUFcxdnFabFE9PSIsInZhbHVlIjoiOE96L3ptQkxQSnduQjEwWld6bnY0dz09IiwibWFjIjoiNDExNmEyMDk5YWExNjMxMzAxZDYzZjhkNjgyNjBiNjZkMDkwYmYwZGFmMTI2YjFlNWNiNjRlM2ZiNTY5YzYxZCIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": [
+      {
+        "standardId": 30806,
+        "standardName": "Cryogenic Vessels - Transportable  Vacuum Insulated Vessels of not  More than 1 000 Litres Volume Part 1 Design, Fabrication, Inspection  and Tests",
+        "standardNumber": "IS 18719 (Part 1):2024",
+        "equivalent_is": "",
+        "identical_is": "IS 18719 (Part 1): 2024/ ISO 21029-1: 2018",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6Img0enFBWGI5SkpBWTJMREl4aEJpWFE9PSIsInZhbHVlIjoiTVU0WVhwT200dTRUSFY5b0EzWklvQT09IiwibWFjIjoiNjM0YjRlMjI5ZDg0YjhhOGZmZjBmYjZlNjY1ZTkwZjc0MmMyMWQ3OWQyNjM3Y2UwYzM0ZmY2YjFjNDRkNjliNiIsInRhZyI6IiJ9",
+        "identical": "IS 18719 (Part 1): 2024/ ISO 21029-1: 2018"
+      },
+      {
+        "standardId": 33113,
+        "standardName": "Welded Low Carbon Steel Containers above 250 Litre and not Exceeding 1 000 Litre Water Capacity for the Transport of LPG - Specification",
+        "standardNumber": "IS 19138:2025",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": "2026-08-06",
+        "noOfReview": "00",
+        "isType": 5,
+        "typeLabel": "Referred in following",
+        "standardEncId": "eyJpdiI6IkprNmFyUVN5K1MrUUZibGlHRUFaT3c9PSIsInZhbHVlIjoiVjJPN0lnZkljN0VLMUc3bFdEMFZUdz09IiwibWFjIjoiNWNlM2Q4OTkxNDBmNGQ3MzcwMGMzODk4ZGJlMGQ0NjZjNTliMWQwZDlhODE4ZDk2MTNhNmNmN2Y4OWMzYzExNyIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ]
+  }
+}

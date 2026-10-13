@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "ministryName": "Ministry of Steel",
+    "riskNameName": "Low",
+    "standardId": "eyJpdiI6InI3NElTQ3A3S1dQRkVUb0UvWnJ5Unc9PSIsInZhbHVlIjoiVGFIa3NWQUZQN2lLb2JLM3I0Tks4UT09IiwibWFjIjoiYmU3MWEyNGQ0MjViMmVlZjI0NGVmOWZkMzczY2Y0ZmFmNDhlZTE2Zjk4NWU1YzMyZTk1ZWY1NDcxZGU1YWFjNyIsInRhZyI6IiJ9",
+    "rowStandardId": 65763,
+    "pk_is_id": 65763,
+    "standardName": "Structural Steel - Part 1 - Hot Rolled Medium and High tensile  Steel",
+    "standardNumber": "IS 2062 (Part 1):2025",
+    "publishedOn": "2025-12-29",
+    "committeeId": 27,
+    "departmentId": 70,
+    "groupName": "Metals, Alloys and Metal Products (including Steel Products)",
+    "subGroupName": "Steel and Steel Castings, Wires, Ropes, Pipes , Tubes and other products",
+    "subSubGroupName": "Wrought steel Products",
+    "sectorName": "Wrought Steel Products",
+    "subSectorName": "",
+    "subSubSectorName": "",
+    "noOfRevision": "08",
+    "noOfAmendment": 0,
+    "typeOfStandardId": "Product Specification",
+    "degreeOfEquivalenceId": 5,
+    "languageId": "English",
+    "icsCode": "77.140.01",
+    "shortTitle": null,
+    "certificationName": "Mandatory",
+    "equivalenceTypeName": "Indigenous",
+    "supersheed": "IS 2062:2011",
+    "orgTypeName": "",
+    "goalNames": "",
+    "reAffirmationYear": "",
+    "commentCount": 1,
+    "equivalenceId": 5,
+    "is_documents": "BisProd/bisProd/projects/proof/2026/01/632_1768197978.pdf",
+    "is_hindi_document": null,
+    "equivalentIs": null,
+    "identical_is": null,
+    "reviewOn": null,
+    "source": 1,
+    "withdrawStatus": 0,
+    "withdrawOn": null,
+    "isStatus": 2,
+    "superseded_byis": null,
+    "projectStageName": null,
+    "memberDisplayName": "Mr. Ram Sai Kumar Gedela (SCIENTIST-C)",
+    "committeeName": "Wrought Steel Products Sectional Committee",
+    "departmentName": "METALLURGICAL ENGINEERING DEPARTMENT",
+    "deptAliasName": "MTD",
+    "committeePreparedName": "MTD 04 - Wrought Steel Products Sectional Committee",
+    "deptPreparedName": "Metallurgical Engineering Department(MTD)",
+    "reviewList": [
+      {
+        "isStatus": 5,
+        "standardNumber": "IS 2062:2011"
+      },
+      {
+        "isStatus": 3,
+        "standardNumber": "IS 2062:2011"
+      },
+      {
+        "isStatus": 2,
+        "standardNumber": "IS 2062:2011"
+      }
+    ]
+  }
+}

@@ -1,0 +1,408 @@
+[
+  {
+    "id": "G-01",
+    "category": "glued_prefix_no_sep",
+    "input_text": "Supply cable conformingtoIS694 for house wiring",
+    "source_tier": "AUTHORITATIVE",
+    "expected_mentions": [
+      {"raw_text": "IS694", "normalized_base_key": "IS694", "role": "required_spec"}
+    ],
+    "expected_resolution": {
+      "base_key": "IS694",
+      "db_query": "SELECT standard_number FROM standards WHERE base_number='IS694' ORDER BY year DESC LIMIT 1",
+      "finding_codes": []
+    }
+  },
+  {
+    "id": "G-02",
+    "category": "colon_separator",
+    "input_text": "IS : 7098 (Part 1) for XLPE cable",
+    "source_tier": "AUTHORITATIVE",
+    "expected_mentions": [
+      {"raw_text": "IS : 7098 (Part 1)", "normalized_base_key": "IS7098(PART1)", "role": "required_spec"}
+    ],
+    "expected_resolution": {
+      "base_key": "IS7098(PART1)",
+      "db_query": "SELECT standard_number FROM standards WHERE base_number='IS7098(PART1)' ORDER BY year DESC LIMIT 1",
+      "finding_codes": ["CITATION_NO_YEAR"]
+    }
+  },
+  {
+    "id": "G-03",
+    "category": "glued_uppercase_prefix_colon",
+    "input_text": "Conductor: GRADEIS : 7098 (Part 1) XLPE insulated",
+    "source_tier": "AUTHORITATIVE",
+    "expected_mentions": [
+      {"raw_text": "IS : 7098 (Part 1)", "normalized_base_key": "IS7098(PART1)", "role": "required_spec"}
+    ],
+    "notes": "GRADE is a word boundary break; IS follows after it. Alternatively GRADEIS glued — both should yield IS7098(PART1) after normalization."
+  },
+  {
+    "id": "G-04",
+    "category": "dash_year",
+    "input_text": "IS 7098-2025 (Part 1) XLPE cable specification",
+    "source_tier": "AUTHORITATIVE",
+    "expected_mentions": [
+      {"raw_text": "IS 7098-2025 (Part 1)", "normalized_base_key": "IS7098(PART1)", "role": "required_spec"}
+    ],
+    "notes": "Dash year: IS 7098-2025 means IS 7098 year 2025. Parser must distinguish from IS 7098-1 (Part 1 hyphen notation)."
+  },
+  {
+    "id": "G-05",
+    "category": "part_colons",
+    "input_text": "IS 2202 : Part 1 : 1999 for wood screw",
+    "source_tier": "AUTHORITATIVE",
+    "input_text_verbatim": "IS 2202 : Part 1 : 1999",
+    "expected_mentions": [
+      {"raw_text": "IS 2202 : Part 1 : 1999", "normalized_base_key": "IS2202(PART1)", "role": "required_spec"}
+    ],
+    "expected_resolution": {
+      "base_key": "IS2202(PART1)",
+      "db_query": "SELECT standard_number FROM standards WHERE base_number='IS2202(PART1)' ORDER BY year DESC LIMIT 1",
+      "finding_codes": ["OUTDATED_EDITION"],
+      "note": "DB has IS 2202 (Part 1):2023 (Current). Cited year 1999 is outdated."
+    }
+  },
+  {
+    "id": "G-06",
+    "category": "part_slash_sec",
+    "input_text": "IS 302 (Part 2/Sec 16):2026 for kitchen equipment",
+    "source_tier": "AUTHORITATIVE",
+    "input_text_verbatim": "IS 302 (Part 2/Sec 16):2026",
+    "expected_mentions": [
+      {"raw_text": "IS 302 (Part 2/Sec 16):2026", "normalized_base_key": "IS302(PART2/SEC16)", "role": "required_spec"}
+    ],
+    "expected_resolution": {
+      "base_key": "IS302(PART2/SEC16)",
+      "db_query": "SELECT standard_number FROM standards WHERE base_number='IS302(PART2/SEC16)' ORDER BY year DESC LIMIT 1",
+      "finding_codes": []
+    }
+  },
+  {
+    "id": "G-07",
+    "category": "quantity_after_number",
+    "input_text": "IS 694 1 core 1.5 sq mm PVC cable as per IS 694",
+    "source_tier": "AUTHORITATIVE",
+    "input_text_verbatim": "IS 694 1 core 1.5 sq mm",
+    "expected_mentions": [
+      {"raw_text": "IS 694", "normalized_base_key": "IS694", "role": "required_spec"},
+      {"raw_text": "IS 694", "normalized_base_key": "IS694", "role": "required_spec"}
+    ],
+    "notes": "The '1' after 'IS 694' is '1 core' (quantity+descriptor). Must NOT be absorbed into IS number. IS694 appears twice in the full string."
+  },
+  {
+    "id": "G-08",
+    "category": "all_caps_verb",
+    "input_text": "THE RATE IS 1100 PER METER FOR SUPPLY",
+    "source_tier": "AUTHORITATIVE",
+    "input_text_verbatim": "THE RATE IS 1100 PER METER",
+    "expected_mentions": [],
+    "notes": "IS here is an English verb in ALL CAPS context. IS1100 is NOT in the standards DB. DB-presence filter must catch this. Also: 'RATE' precedes 'IS' — the word before IS is uppercase, not a word boundary."
+  },
+  {
+    "id": "G-09",
+    "category": "english_word_lowercase",
+    "input_text": "this 2000 specification is applicable for general use",
+    "source_tier": "AUTHORITATIVE",
+    "input_text_verbatim": "this 2000",
+    "expected_mentions": [],
+    "notes": "Lowercase 'this' precedes 'is' — but 'this' ends in lowercase 's' not 'IS'. Actually 'this' contains 'is' as a substring but 'IS' (uppercase) does not appear. No match expected."
+  },
+  {
+    "id": "G-10",
+    "category": "quantity_distance_not_year",
+    "input_text": "IS 694 - 2000 m length of PVC cable required",
+    "source_tier": "AUTHORITATIVE",
+    "input_text_verbatim": "IS 694 - 2000 m",
+    "expected_mentions": [
+      {"raw_text": "IS 694", "normalized_base_key": "IS694", "role": "required_spec"}
+    ],
+    "notes": "'- 2000 m' looks like a year candidate but 'm' (metre) after it marks it as a distance. Year parser must check: if 4-digit sequence is followed by a unit (m, mm, km, kg, nos, etc.) treat as quantity, not year."
+  },
+  {
+    "id": "G-11",
+    "category": "iec_family",
+    "input_text": "IEC 60227 for PVC insulated cables",
+    "source_tier": "AUTHORITATIVE",
+    "expected_mentions": [
+      {"raw_text": "IEC 60227", "normalized_base_key": "IEC60227", "role": "required_spec", "finding_codes": ["NON_BIS_STANDARD"]}
+    ],
+    "notes": "IEC 60227 — not in DB as Indian standard. NON_BIS_STANDARD finding. Check IEC->IS equivalence map for suggestion."
+  },
+  {
+    "id": "G-12",
+    "category": "iso_family",
+    "input_text": "conforming to ISO 9001:2015 for quality management",
+    "source_tier": "AUTHORITATIVE",
+    "expected_mentions": [
+      {"raw_text": "ISO 9001:2015", "normalized_base_key": "ISO9001", "role": "required_spec", "finding_codes": ["NON_BIS_STANDARD"]}
+    ]
+  },
+  {
+    "id": "G-13",
+    "category": "bs_family",
+    "input_text": "BS 6004 compliant cable insulation",
+    "source_tier": "AUTHORITATIVE",
+    "expected_mentions": [
+      {"raw_text": "BS 6004", "normalized_base_key": "BS6004", "role": "required_spec", "finding_codes": ["NON_BIS_STANDARD"]}
+    ]
+  },
+  {
+    "id": "G-14",
+    "category": "astm_family",
+    "input_text": "ASTM A615 Grade 60 deformed bars",
+    "source_tier": "AUTHORITATIVE",
+    "expected_mentions": [
+      {"raw_text": "ASTM A615", "normalized_base_key": "ASTMA615", "role": "required_spec", "finding_codes": ["NON_BIS_STANDARD"]}
+    ]
+  },
+  {
+    "id": "G-15",
+    "category": "din_family",
+    "input_text": "DIN 17100 structural steel",
+    "source_tier": "AUTHORITATIVE",
+    "expected_mentions": [
+      {"raw_text": "DIN 17100", "normalized_base_key": "DIN17100", "role": "required_spec", "finding_codes": ["NON_BIS_STANDARD"]}
+    ]
+  },
+  {
+    "id": "G-16",
+    "category": "ieee_family",
+    "input_text": "IEEE 80 for substation grounding",
+    "source_tier": "AUTHORITATIVE",
+    "expected_mentions": [
+      {"raw_text": "IEEE 80", "normalized_base_key": "IEEE80", "role": "required_spec", "finding_codes": ["NON_BIS_STANDARD"]}
+    ]
+  },
+  {
+    "id": "G-17",
+    "category": "ul_family",
+    "input_text": "UL 83 thermoplastic insulated wire",
+    "source_tier": "AUTHORITATIVE",
+    "expected_mentions": [
+      {"raw_text": "UL 83", "normalized_base_key": "UL83", "role": "required_spec", "finding_codes": ["NON_BIS_STANDARD"]}
+    ]
+  },
+  {
+    "id": "G-18",
+    "category": "is_iec_dual_hyphen_part",
+    "input_text": "IS/IEC 60947-2 low voltage switchgear",
+    "source_tier": "AUTHORITATIVE",
+    "input_text_verbatim": "IS/IEC 60947-2",
+    "expected_mentions": [
+      {"raw_text": "IS/IEC 60947-2", "normalized_base_key": "IS/IEC60947(PART2)", "role": "required_spec"}
+    ],
+    "expected_resolution": {
+      "base_key": "IS/IEC60947(PART2)",
+      "db_query": "SELECT standard_number FROM standards WHERE base_number='IS/IEC60947(PART2)' ORDER BY year DESC LIMIT 1",
+      "finding_codes": ["CITATION_NO_YEAR"],
+      "note": "DB has IS/IEC 60947 (Part 2):2016 (Current). Hyphen-2 must be parsed as Part 2."
+    }
+  },
+  {
+    "id": "G-19",
+    "category": "is_iec_ieee_triple",
+    "input_text": "IS/IEC/IEEE 60079 (Part 30/Sec 1) for explosive atmospheres",
+    "source_tier": "AUTHORITATIVE",
+    "input_text_verbatim": "IS/IEC/IEEE 60079 (Part 30/Sec 1)",
+    "expected_mentions": [
+      {"raw_text": "IS/IEC/IEEE 60079 (Part 30/Sec 1)", "normalized_base_key": "IS/IEC/IEEE60079(PART30/SEC1)", "role": "required_spec"}
+    ],
+    "expected_resolution": {
+      "base_key": "IS/IEC/IEEE60079(PART30/SEC1)",
+      "db_query": "SELECT standard_number FROM standards WHERE base_number='IS/IEC/IEEE60079(PART30/SEC1)' ORDER BY year DESC LIMIT 1",
+      "finding_codes": ["CITATION_NO_YEAR"],
+      "note": "DB has IS/IEC/IEEE 60079 (Part 30/Sec 1):2015 (Current). /IEEE prefix must be recognized."
+    }
+  },
+  {
+    "id": "G-20",
+    "category": "parenthesized_year_not_part",
+    "input_text": "IS 456 (2000) plain and reinforced concrete",
+    "source_tier": "AUTHORITATIVE",
+    "input_text_verbatim": "IS 456 (2000)",
+    "expected_mentions": [
+      {"raw_text": "IS 456 (2000)", "normalized_base_key": "IS456", "role": "required_spec"}
+    ],
+    "expected_resolution": {
+      "base_key": "IS456",
+      "db_query": "SELECT standard_number FROM standards WHERE base_number='IS456' ORDER BY year DESC LIMIT 1",
+      "finding_codes": [],
+      "note": "DB has IS 456:2000 (Current). (2000) is a year in parentheses, NOT a part number. Parser: if 4-digit value in parens is 1900-2099, treat as year."
+    }
+  },
+  {
+    "id": "G-21",
+    "category": "isi_mark_cert_mark",
+    "input_text": "ISI marked to IS 694 for PVC cable supply",
+    "source_tier": "AUTHORITATIVE",
+    "expected_mentions": [
+      {
+        "raw_text": "IS 694",
+        "normalized_base_key": "IS694",
+        "role": "required_spec",
+        "cert_mark_present": true,
+        "notes": "ISI mark phrase sets cert_mark_present=True on the item. IS 694 remains required_spec (the standard the product must conform to for certification). Do NOT reclassify to certification_mark."
+      }
+    ]
+  },
+  {
+    "id": "G-22",
+    "category": "conforming_to",
+    "input_text": "OPC 43 grade cement conforming to IS 269:2015",
+    "source_tier": "AUTHORITATIVE",
+    "expected_mentions": [
+      {"raw_text": "IS 269:2015", "normalized_base_key": "IS269", "role": "required_spec"}
+    ],
+    "expected_resolution": {
+      "base_key": "IS269",
+      "db_query": "SELECT standard_number FROM standards WHERE base_number='IS269' ORDER BY year DESC LIMIT 1",
+      "finding_codes": []
+    }
+  },
+  {
+    "id": "G-23",
+    "category": "vague_reference",
+    "input_text": "supply as per relevant BIS standard for the product",
+    "source_tier": "AUTHORITATIVE",
+    "expected_mentions": [
+      {"raw_text": "relevant BIS standard", "normalized_base_key": null, "role": "vague_reference"}
+    ]
+  },
+  {
+    "id": "G-24",
+    "category": "vague_latest_edition",
+    "input_text": "latest edition of applicable IS as notified by BIS",
+    "source_tier": "AUTHORITATIVE",
+    "expected_mentions": [
+      {"raw_text": "applicable IS", "normalized_base_key": null, "role": "vague_reference"}
+    ]
+  },
+  {
+    "id": "G-25",
+    "category": "brand_restrictive",
+    "input_text": "Havells make PVC cable conforming to IS 694",
+    "source_tier": "AUTHORITATIVE",
+    "expected_mentions": [
+      {"raw_text": "IS 694", "normalized_base_key": "IS694", "role": "required_spec"}
+    ],
+    "expected_item_findings": ["BRAND_RESTRICTIVE"],
+    "notes": "Brand detected separately; IS 694 citation is still required_spec."
+  },
+  {
+    "id": "G-26",
+    "category": "context_only_noise",
+    "input_text": "All materials shall conform to IS 1646 or equivalent.",
+    "source_tier": "CONTEXT_ONLY",
+    "expected_mentions": [
+      {"raw_text": "IS 1646", "normalized_base_key": "IS1646", "role": "noise"}
+    ],
+    "notes": "CONTEXT_ONLY block (GTC section). IS 1646 found but role=noise, never promoted to required_spec."
+  },
+  {
+    "id": "G-27",
+    "category": "outdated_edition",
+    "input_text": "PVC cable conforming to IS 694:1990",
+    "source_tier": "AUTHORITATIVE",
+    "expected_mentions": [
+      {"raw_text": "IS 694:1990", "normalized_base_key": "IS694", "role": "required_spec"}
+    ],
+    "expected_resolution": {
+      "base_key": "IS694",
+      "cited_year": 1990,
+      "db_query_cited": "SELECT standard_number FROM standards WHERE base_number='IS694' AND year=1990 LIMIT 1",
+      "db_query_latest": "SELECT standard_number FROM standards WHERE base_number='IS694' ORDER BY year DESC LIMIT 1",
+      "finding_codes": ["OUTDATED_EDITION"],
+      "note": "1990 row NOT in DB. Latest is IS 694:2010. Case: year in mention, year not in DB -> OUTDATED_EDITION (not CITATION_NO_YEAR)."
+    }
+  },
+  {
+    "id": "G-28",
+    "category": "current_edition",
+    "input_text": "XLPE cable conforming to IS 7098 (Part 1)",
+    "source_tier": "AUTHORITATIVE",
+    "expected_mentions": [
+      {"raw_text": "IS 7098 (Part 1)", "normalized_base_key": "IS7098(PART1)", "role": "required_spec"}
+    ],
+    "expected_resolution": {
+      "base_key": "IS7098(PART1)",
+      "db_query": "SELECT standard_number FROM standards WHERE base_number='IS7098(PART1)' ORDER BY year DESC LIMIT 1",
+      "finding_codes": ["CITATION_NO_YEAR"],
+      "note": "No year cited -> CITATION_NO_YEAR (warning). Resolves to IS 7098 (Part 1):2025 (Current). Counts as current for currency metric."
+    }
+  },
+  {
+    "id": "G-29",
+    "category": "outdated_edition_newer_in_db",
+    "input_text": "mild steel wire conforming to IS 432 (Part 1):1982",
+    "source_tier": "AUTHORITATIVE",
+    "expected_mentions": [
+      {"raw_text": "IS 432 (Part 1):1982", "normalized_base_key": "IS432(PART1)", "role": "required_spec"}
+    ],
+    "expected_resolution": {
+      "base_key": "IS432(PART1)",
+      "cited_year": 1982,
+      "db_query_cited": "SELECT standard_number FROM standards WHERE base_number='IS432(PART1)' AND year=1982 LIMIT 1",
+      "db_query_latest": "SELECT standard_number FROM standards WHERE base_number='IS432(PART1)' ORDER BY year DESC LIMIT 1",
+      "finding_codes": ["OUTDATED_EDITION"],
+      "note": "1982 row EXISTS in DB (Superseded). Newer: IS 432 (Part 1):2026 (Current). -> OUTDATED_EDITION. NOT SUPERSEDED (because a current newer row exists with same base_key)."
+    }
+  },
+  {
+    "id": "G-30",
+    "category": "non_bis_standard",
+    "input_text": "ASTM A615 Grade 60 reinforcement bars instead of IS standard",
+    "source_tier": "AUTHORITATIVE",
+    "expected_mentions": [
+      {"raw_text": "ASTM A615", "normalized_base_key": "ASTMA615", "role": "required_spec", "finding_codes": ["NON_BIS_STANDARD"]}
+    ]
+  },
+  {
+    "id": "G-31",
+    "category": "gem_arpts_context",
+    "input_text": "IS 4989, IS 694 and IS 1554 are related products from GeMARPTS search",
+    "source_tier": "CONTEXT_ONLY",
+    "expected_mentions": [
+      {"raw_text": "IS 4989", "normalized_base_key": "IS4989", "role": "noise"},
+      {"raw_text": "IS 694",  "normalized_base_key": "IS694",  "role": "noise"},
+      {"raw_text": "IS 1554", "normalized_base_key": "IS1554", "role": "noise"}
+    ],
+    "notes": "From GeMARPTS CONTEXT_ONLY block. All three must be noise; none can become required_spec."
+  },
+  {
+    "id": "G-32",
+    "category": "no_match_analysis",
+    "input_text": "ANALYSIS 2 of the sample shows compliance",
+    "source_tier": "AUTHORITATIVE",
+    "input_text_verbatim": "ANALYSIS 2",
+    "expected_mentions": [],
+    "notes": "No IS pattern anywhere. Zero matches expected."
+  },
+  {
+    "id": "G-33",
+    "category": "no_match_this",
+    "input_text": "THIS 2000 M cable run from panel to distribution",
+    "source_tier": "AUTHORITATIVE",
+    "input_text_verbatim": "THIS 2000 M",
+    "expected_mentions": [],
+    "notes": "THIS has no uppercase IS prefix followed by a digit pattern. 'THIS' ends in 'S'; IS is a substring but 'THIS' preceded by 'TH' (not a word boundary for our rule). Zero matches expected."
+  },
+  {
+    "id": "G-34",
+    "category": "no_match_rate_false_pos",
+    "input_text": "THE RATE IS 1100 PER METER as quoted",
+    "source_tier": "AUTHORITATIVE",
+    "input_text_verbatim": "THE RATE IS 1100 PER METER",
+    "expected_mentions": [],
+    "notes": "IS1100 NOT in standards DB. DB-presence filter drops this match. Additionally 'RATE' before IS suggests verb context."
+  },
+  {
+    "id": "G-35",
+    "category": "when_10_nos",
+    "input_text": "Supply 10 Nos pipes when 10 nos are required",
+    "source_tier": "AUTHORITATIVE",
+    "input_text_verbatim": "when 10 nos",
+    "expected_mentions": [],
+    "notes": "No IS pattern. Zero matches."
+  }
+]

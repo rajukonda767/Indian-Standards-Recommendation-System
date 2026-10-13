@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 15618,
+      "So_No": "pub013/1/2020-pub-bis (1055)",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/CED/gf_202_15618_8442_2.pdf",
+      "pki_id": 15121,
+      "Amd_No": 0,
+      "standardNumber": "IS 8442:2024",
+      "standardId": 31988
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Gazette details fetched successfully.",
+  "data": [
+    {
+      "IS_NO": 8512,
+      "So_No": "3533(E) ",
+      "migratedFiles": "BisProd/bisProd/oldStandardsFormulation/GazatteFiles/MTD/gf_27_8512_3533(E)+3534(E).pdf",
+      "pki_id": 1024,
+      "Amd_No": 0,
+      "standardNumber": "IS 1993:2018",
+      "standardId": 8512
+    }
+  ]
+}

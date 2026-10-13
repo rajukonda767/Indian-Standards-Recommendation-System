@@ -1,0 +1,23 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "data": {
+    "crossRefData": [
+      {
+        "standardId": 28783,
+        "standardNumber": "IS 18215:2023",
+        "standardName": "Stainless Steel Neti Pot Specification",
+        "equivalent_is": "",
+        "identical_is": "",
+        "reviewOn": null,
+        "noOfReview": "00",
+        "isType": 1,
+        "typeLabel": "Indian",
+        "standardEncId": "eyJpdiI6ImFlaDRjcWNwQUVmMWY0MEE3K2JNNUE9PSIsInZhbHVlIjoiWENBcmJiU1B5YzY4V016WFZtM1Jadz09IiwibWFjIjoiZWM0M2VjYjYwZjc1MWE4NjkwMWE2N2ZmNDRmYTRiNzBkNmU0MTkyOGY0Y2RjOGJlMmRlM2MyYzllNzE5MjI1NiIsInRhZyI6IiJ9",
+        "identical": null
+      }
+    ],
+    "crossFollowRefData": []
+  }
+}

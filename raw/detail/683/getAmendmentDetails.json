@@ -1,0 +1,32 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "msg": "Record fetched successfully.",
+  "totalAmendments": 3,
+  "data": [
+    {
+      "standardId": 683,
+      "standardNumber": "IS 10 (Part 3):1974",
+      "noOfAmendment": 1,
+      "amendmentYear": "1978",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/10_3A1.pdf",
+      "amendmentLabel": "First Amendment"
+    },
+    {
+      "standardId": 683,
+      "standardNumber": "IS 10 (Part 3):1974",
+      "noOfAmendment": 1,
+      "amendmentYear": "1983",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/10_3A2.pdf",
+      "amendmentLabel": "Second Amendment"
+    },
+    {
+      "standardId": 683,
+      "standardNumber": "IS 10 (Part 3):1974",
+      "noOfAmendment": 2,
+      "amendmentYear": "1983",
+      "is_documents": "BisProd/bisProd/oldStandards/S16/S16V01/10_3A3.pdf",
+      "amendmentLabel": "Third Amendment"
+    }
+  ]
+}
