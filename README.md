@@ -9,7 +9,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-6-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat&logo=supabase&logoColor=white)](https://supabase.com/)
 [![Groq](https://img.shields.io/badge/Groq-LLM-F55036?style=flat)](https://groq.com/)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat)](LICENSE)
 
 </div>
 
@@ -207,11 +206,6 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 👥 Authors
 
