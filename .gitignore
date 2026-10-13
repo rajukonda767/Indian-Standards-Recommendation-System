@@ -1,31 +1,78 @@
-# Environment variables & secrets
+# ── Secrets & API keys ──────────────────────────────────────
 .env
 .env.*
 !.env.example
 .groq_budget.json
 
-# Dependencies
-node_modules/
-venv/
-.venv/
-env/
-
-# Python cache & testing
+# ── Python ──────────────────────────────────────────────────
 __pycache__/
 *.py[cod]
 *$py.class
 .pytest_cache/
+venv/
+.venv/
+env/
 
-# Build artifacts
+# ── Node / Frontend ─────────────────────────────────────────
+node_modules/
 dist/
-build/
 dist-ssr/
+build/
+*.local
 
-# Logs
+# ── Raw scraped API dumps ────────────────────────────────────
+raw/
+
+# ── Large data / dataset files ───────────────────────────────
+*.csv
+*.jsonl
+*.xlsx
+*.json
+!package.json
+!package-lock.json
+!tsconfig*.json
+!.oxlintrc.json
+!tests/eval/gold/*.json
+!tests/eval/groq_limits.json
+
+# ── Crawler state & progress files ──────────────────────────
+crawl_400_state.json
+task1_v2_progress.json
+crawl_400.log
+
+# ── Generated reports & binaries ─────────────────────────────
+discovery_report.md
+hardening_report.md
+hardening_v2_report.md
+verification_report.md
+verification_results.json
+*.docx
+
+# ── Scratch / diagnostic / one-off scripts ───────────────────
+diag_*.py
+inspect_v2.py
+find_step4.py
+scratch_*.py
+verify_*.py
+test_browser_recommend.py
+test_parallel_run.py
+# Frontend debug scripts
+frontend/capture*.cjs
+frontend/capture*.mjs
+frontend/diag*.cjs
+frontend/verify_*.cjs
+frontend/verify_*.mjs
+# Backend debug scripts
+backend/check_*.py
+backend/inspect_*.py
+backend/find_*.py
+backend/measure_*.py
+
+# ── Logs ─────────────────────────────────────────────────────
 *.log
 logs/
 
-# IDE & OS files
+# ── IDE & OS ─────────────────────────────────────────────────
 .vscode/
 .idea/
 .DS_Store
